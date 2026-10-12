@@ -82,3 +82,4 @@ Shot 1: morning street ambience and the motorcycle engine, which stops when he s
 - เทค b ยิง 2026-10-12 — run `9e7c7905-7aee-4cae-87fe-d57c7a3c2ce8` · Seedance 2.5 · references · 16:9 · 720p · 14 วิ · เรฟ 8 + @Audio1 · user ยืนยันเรฟห้องเป็นแดดเช้า
 - เทค b เสร็จ — 14.08 วิ · 123.1 พอยต์ · asset `0a363229-9fd7-4698-a759-2fb8eff85ceb` · รอ user ดู
 - เทค c (เตรียม) — เพิ่ม @Image9 = Mix Stage `Aliz NEW C2 1 FS` เป็นตัวกำหนดชุดอลิซ · CU/3Q เหลือแค่หน้า (user สั่ง 2026-10-12 *"เพิ่ม ref อลิสเต็มตัวนะ"*)
+- เทค c ยิง 2026-10-12 — run `89b5ac87-a40a-4f67-8787-ca69c3c49886` · Seedance 2.5 · references · 16:9 · 720p · 14 วิ · เรฟ 9 + @Audio1
