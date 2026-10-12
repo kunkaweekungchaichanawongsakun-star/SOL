@@ -27,6 +27,7 @@ ALIZ: 26, pretty, long straight jet-black hair. 100% matches the reference, and 
 ```
 SING: 45, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @ImageN is the authority for what he is wearing today.
 ```
+**SING = วิน** (ชื่อเดิมของวินคือ SING) — user ยืนยัน 2026-10-12 *"วิน ชื่อเดิม คือ SING"* · ในพรอมป์เรียกเขาว่า Sing ทุกบรรทัด
 
 ### JACK
 ```

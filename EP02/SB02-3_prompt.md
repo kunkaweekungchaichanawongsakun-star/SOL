@@ -74,5 +74,5 @@ Shot 1: morning street ambience and the motorcycle engine, which stops when he s
 
 ## CHANGE LOG
 - เทค a — ก๊อปจาก `SB02-2_prompt.md` (ยังไม่ผ่าน user) · เขียนใหม่ตามบท 2-1 บ็อกแรก 3 คัท จบที่วินพูด "ได้ครับ" (user สั่ง 2026-10-12)
-- เรฟวินใช้บรรทัด SING ตามทะเบียน เพราะไฟล์ที่ user อัปชื่อ `sing_FS_master 2.jpg` — รอ user ยืนยันว่าวิน = SING
+- เรฟวินใช้บรรทัด SING ตามทะเบียน — user ยืนยัน 2026-10-12 *"วิน ชื่อเดิม คือ SING"*
 - ผูกเสียง @Audio1 = Mix Stage `01 02` (อลิซ + วิน ต่อกัน) ตามที่ user อัปเข้า Mix Stage 2026-10-12 · ไทม์โค้ดใน DIALOGUE คงเดิม
