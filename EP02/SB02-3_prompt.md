@@ -31,7 +31,7 @@ SHOT-BY-SHOT
 Shot 1 — WIDE, 0.0–5.0 s
 From 0.0 to 3.0 s: Sing rides in and stops close to the kerb in front of the dormitory door, right on time to pick Aliz up, 从容.
 From 3.0 to 5.0 s: he stays sitting on his motorcycle, takes out his phone and calls Aliz, holding the phone to his ear.
-Shot 2 — MCU, 5.0–11.5 s
+Shot 2 — MS, 5.0–11.5 s
 From 5.0 to 6.5 s: Aliz is dozing, dressed for her interview, her head resting against the headboard, worn out by the fever, 疲惫. From 6.0 s the phone on the right of frame vibrates.
 From 6.5 to 7.5 s: she wakes with a small, natural start, the way someone coming down with a fever wakes, 惊醒.
 From 7.5 to 9.0 s: her left hand picks up the phone from the right of frame, answers it and brings it to her ear, while she presses her right hand to her forehead and feels the fever.
@@ -43,7 +43,7 @@ OPTICS
 In each shot the person is sharp and the background is soft.
 
 CAMERA
-Shot 1 WIDE. Shot 2 MCU. Shot 3 MCU. In each shot the camera holds its one position for the whole shot.
+Shot 1 WIDE. Shot 2 MS, wide enough to show that she is in her own bedroom. Shot 3 MCU. In each shot the camera holds its one position for the whole shot.
 
 PERFORMANCE
 Understated and real. Reactions arrive a half-beat late. Aliz moves like someone coming down with a fever: small, slow and heavy.
@@ -77,3 +77,4 @@ Shot 1: morning street ambience and the motorcycle engine, which stops when he s
 - เรฟวินใช้บรรทัด SING ตามทะเบียน — user ยืนยัน 2026-10-12 *"วิน ชื่อเดิม คือ SING"*
 - ผูกเสียง @Audio1 = Mix Stage `01 02` (อลิซ + วิน ต่อกัน) ตามที่ user อัปเข้า Mix Stage 2026-10-12 · ไทม์โค้ดใน DIALOGUE คงเดิม
 - เทค b — แก้ตามคำสั่ง user 2026-10-12 (คัท 1 5 วิ เข้าเฟรมล่าง จอดชิดฟุตบาทหน้าประตู · คัท 2 หลับเพราะเพลีย หัวพิงหัวเตียงทางซ้าย มือถือขวา มือซ้ายรับ มือขวาอังหน้าผาก สะดุ้งแบบธรรมชาติ ไม่มีริงโทน · คัท 3 MCU) · คลิป 12 → 14 วิ · `from the bottom of frame` เก็บไว้เพราะเป็นทิศเข้าเฟรมที่ user สั่ง
+- เทค b — คัท 2 MCU → MS ให้เห็นว่าเป็นห้องอลิซ (user สั่ง 2026-10-12 *"คัท 2 ขอเป็น MS ให้เห็นว่าเป็นห้องของอลิซ"*)
