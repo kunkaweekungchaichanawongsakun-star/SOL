@@ -11,7 +11,7 @@ SCENE
 Sing rides up to Aliz's dormitory right on time, relaxed, and calls her to say he is here. The phone vibrating wakes Aliz with a small start, 惊醒. She realises she has a fever, but she answers and asks him to wait five minutes. Her face is pale, and only the camera sees it; Sing is out on the street. He agrees.
 
 ACTIVE REFERENCES
-@Image1 — ALIZ: 26, pretty, long straight jet-black hair. 100% matches the reference, and @Image1 is the authority for what she is wearing today.
+@Image1 — ALIZ: 26, pretty, long straight jet-black hair. 100% matches the reference, and @Image9 is the authority for what she is wearing today.
 @Image2 — HER FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for her face.
 @Image3 — ALIZ'S BEDROOM. THIS REFERENCE IS THE AUTHORITY FOR THE ROOM ITSELF.
 @Image4 — SING: 45, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @Image4 is the authority for what he is wearing today.
@@ -19,8 +19,9 @@ ACTIVE REFERENCES
 @Image6 — HIS FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for his face.
 @Image7 — THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF.
 @Image8 — THE STREET IN FRONT OF ALIZ'S DORMITORY. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
+@Image9 — HER FULL BODY. 100% matches the reference for her clothes.
 @Audio1 — THE VOICES. Its first line is ALIZ's voice and its second line is SING's voice. Each person speaks with the voice in @Audio1, at the times written in DIALOGUE.
-@Image1 and @Image2 carry her face and her clothes only. @Image5 and @Image6 carry his face only, and his clothes come from @Image4. Shot 2 takes place in @Image3. Shot 1 and Shot 3 take place in @Image8.
+@Image1 and @Image2 carry her face only, and her clothes come from @Image9. @Image5 and @Image6 carry his face only, and his clothes come from @Image4. Shot 2 takes place in @Image3. Shot 1 and Shot 3 take place in @Image8.
 
 WHERE EVERYONE IS
 Shot 1: Sing rides his motorcycle into the shot from the bottom of frame, along the street in @Image8, and stops close to the kerb in front of the dormitory door. The camera stands on the street behind where he comes from, facing the dormitory door, and stays in that one place for the whole shot.
@@ -80,3 +81,4 @@ Shot 1: morning street ambience and the motorcycle engine, which stops when he s
 - เทค b — คัท 2 MCU → MS ให้เห็นว่าเป็นห้องอลิซ (user สั่ง 2026-10-12 *"คัท 2 ขอเป็น MS ให้เห็นว่าเป็นห้องของอลิซ"*)
 - เทค b ยิง 2026-10-12 — run `9e7c7905-7aee-4cae-87fe-d57c7a3c2ce8` · Seedance 2.5 · references · 16:9 · 720p · 14 วิ · เรฟ 8 + @Audio1 · user ยืนยันเรฟห้องเป็นแดดเช้า
 - เทค b เสร็จ — 14.08 วิ · 123.1 พอยต์ · asset `0a363229-9fd7-4698-a759-2fb8eff85ceb` · รอ user ดู
+- เทค c (เตรียม) — เพิ่ม @Image9 = Mix Stage `Aliz NEW C2 1 FS` เป็นตัวกำหนดชุดอลิซ · CU/3Q เหลือแค่หน้า (user สั่ง 2026-10-12 *"เพิ่ม ref อลิสเต็มตัวนะ"*)
