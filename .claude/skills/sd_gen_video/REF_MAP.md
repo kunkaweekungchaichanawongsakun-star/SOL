@@ -9,7 +9,7 @@
 
 - **เจ้าของขึ้นต้นด้วยชื่อตัวละครเลย** ไม่มี prefix ประเภท — *"ไม่ต้อง ch_ ใช้ ALIZ_ เลย … ทุกพร้อพของ อลิซก็ขึ้น ALIZ หมด"*
   - ตัวละคร: `ALIZ_pinkknit_CU` · ฉาก/ของของอลิซ: `ALIZ_room_morning` `ALIZ_dormfront_morning`
-  - วิน = SING: `SING_greenjkt_FS` `SING_bike`
+  - วิน = WIN: `WIN_greenjkt_FS` `WIN_bike`
 - **ตั้งตามชุด ไม่ใช่ตามซีน** — ซีนไหนใส่ชุดเดิมก็ใช้ไฟล์เดิม
 - ไดรเวอร์เสียง: `DRV_<ซีน>_b<บ็อก>` เช่น `DRV_C2-1_b1`
 - แท็กทุกใบ: `char:` `outfit:` `angle:` `type:` `time:` `scene:` `box:` (เท่าที่มี)
@@ -30,10 +30,10 @@
 | `ALIZ_pajamas_CU` | `4cab6042-b081-44da-b761-e4eb4e51ae88` | อลิซหน้าตรง ครึ่งตัว ชุดนอนเชิ้ตสีฟ้าขอบขาว | C2-3 (จากชื่อไฟล์) |
 | `ALIZ_room_morning` | `9f02cd77-cd37-47e7-acb9-1d2b3e9ec7ce` | ห้องนอนอลิซ แดดเช้า (user ยืนยัน) | C2-1 |
 | `ALIZ_dormfront_morning` | `22239eeb-3717-42e1-a787-21e9e8b563e6` | ถนนหน้าหอ เช้า | C2-1 |
-| `SING_greenjkt_CU` | `2aec936c-0a36-458f-8746-ce72a6e3d5c2` | วินหน้าตรง (ในรูปใส่เชิ้ตขาว — ใช้แค่หน้า) | C2-1 |
-| `SING_greenjkt_3Q` | `30d143af-76cf-4ac1-a935-51b383f6f6ae` | วินหน้าเฉียง 3/4 (ใช้แค่หน้า) | C2-1 |
-| `SING_greenjkt_FS` | `b0b68bd1-9b4a-4d3b-ac81-3cc75477a819` | วินเต็มตัว แจ็กเก็ตเขียว ยีนส์ดำ | C2-1 |
-| `SING_bike` | `a2f70d6c-2fac-455f-b53a-7e323be1a10c` | มอไซค์คาเฟ่เรเซอร์ดำ-เงิน | C2-1 |
+| `WIN_greenjkt_CU` | `2aec936c-0a36-458f-8746-ce72a6e3d5c2` | วินหน้าตรง (ในรูปใส่เชิ้ตขาว — ใช้แค่หน้า) | C2-1 |
+| `WIN_greenjkt_3Q` | `30d143af-76cf-4ac1-a935-51b383f6f6ae` | วินหน้าเฉียง 3/4 (ใช้แค่หน้า) | C2-1 |
+| `WIN_greenjkt_FS` | `b0b68bd1-9b4a-4d3b-ac81-3cc75477a819` | วินเต็มตัว แจ็กเก็ตเขียว ยีนส์ดำ | C2-1 |
+| `WIN_bike` | `a2f70d6c-2fac-455f-b53a-7e323be1a10c` | มอไซค์คาเฟ่เรเซอร์ดำ-เงิน | C2-1 |
 | `ALIZ_phone` | `f90ef20a-a679-4d20-8060-c48f066cc849` | มือถือสีเทา กล้อง 3 ตัว หน้า-หลัง | — (ยังไม่ผูกช็อต) |
 | `DRV_C2-1_b1` | `0caf3b4c-dda2-427e-b379-711189ca63b1` | เสียงอลิซ + วิน ต่อกัน 2.94 วิ | SB02-3 |
 
@@ -45,6 +45,6 @@
 | Aliz NEW C2 1 CU 3Q (Cast) | `a6a1a571-fe75-49f2-825b-0418e07a74bc` | 2026-10-13 · user สั่งลบ |
 | Aliz NEW C2 1 FS (Cast) | `ec2ec6a4-efd8-4eee-a3c9-17cb53021b2d` | 2026-10-13 · user สั่งลบ (ตัวใน Mix Stage ยังใช้) |
 | ALIZ_phone (Prop) | `63e5a4ac-b0c3-4ec6-9960-68dc9407eb69` | 2026-10-13 · user สั่งลบ Prop ทั้งหมด · ก๊อปเข้า Mix Stage แล้ว |
-| Win bike (Prop) | `1711b1e7-2eea-4bf6-9ffb-dc3c217bb755` | 2026-10-13 · user สั่งลบ Prop ทั้งหมด · Mix Stage `SING_bike` ยังใช้ |
+| Win bike (Prop) | `1711b1e7-2eea-4bf6-9ffb-dc3c217bb755` | 2026-10-13 · user สั่งลบ Prop ทั้งหมด · Mix Stage `WIN_bike` ยังใช้ |
 | Aliz room (Set) | `019c8fe7-cc65-4928-b396-4e52eeebdb6d` | 2026-10-13 · เคลียร์หมวด Set · Mix Stage `ALIZ_room_morning` ยังใช้ |
 | หน้าหอพัก (Set) | `0fc6b08e-7539-45cc-990f-29423c76e72e` | 2026-10-13 · เคลียร์หมวด Set · Mix Stage `ALIZ_dormfront_morning` ยังใช้ |

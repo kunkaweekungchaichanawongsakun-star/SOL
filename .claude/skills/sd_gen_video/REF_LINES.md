@@ -23,11 +23,11 @@ ALIZ: 26, pretty, long straight jet-black hair. 100% matches the reference, and 
 ```
 รูปแบบของ EP04-06 · user สั่งให้กลับมาใช้แบบนี้ 2026-09-09 หลังจากผมเปลี่ยนเองตอนขึ้น EP07 โดยไม่มีเหตุผลและไม่ได้บอก
 
-### SING
+### WIN
 ```
-SING: 45, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @ImageN is the authority for what he is wearing today.
+WIN: 45, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @ImageN is the authority for what he is wearing today.
 ```
-**SING = วิน** (ชื่อเดิมของวินคือ SING) — user ยืนยัน 2026-10-12 *"วิน ชื่อเดิม คือ SING"* · ในพรอมป์เรียกเขาว่า Sing ทุกบรรทัด
+**WIN = วิน** — เดิมบรรทัดนี้ชื่อ SING (user ยืนยัน 2026-10-12 *"วิน ชื่อเดิม คือ SING"*) · user สั่ง 2026-10-13 *"เปลี่ยน SING เป็น WIN ให้หมด"* · ในพรอมป์เรียกเขาว่า Win ทุกบรรทัด
 
 ### JACK
 ```
