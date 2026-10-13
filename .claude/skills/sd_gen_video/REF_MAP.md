@@ -14,6 +14,8 @@
 - ไดรเวอร์เสียง: `DRV_<ซีน>_b<บ็อก>` เช่น `DRV_C2-1_b1`
 - แท็กทุกใบ: `char:` `outfit:` `angle:` `type:` `time:` `scene:` `box:` (เท่าที่มี)
 
+**อัปเข้า Mix Stage เท่านั้น ไม่ใช้หมวด Cast / Set / Prop** (user 2026-10-13 *"ลบในหมวดพร็อพให้หมด จะได้ไม่งง"*)
+
 **user อัปด้วยชื่ออะไรก็ได้** → `list_mix_stage_refs` หาใบใหม่ → `view_asset` → `update_entity` เปลี่ยนชื่อ + แท็ก → เติมแถวข้างล่าง · เปลี่ยนชื่อไม่กระทบช็อต (ช็อตจำ id · พรอมป์อ้างลำดับ @Image)
 
 **ซีนผ่านแล้ว** → เรฟที่ไม่ใช้ต่อ `remove_entity` (archived · กู้คืนได้ด้วย `update_entity status: draft`) · ไดรเวอร์ archive ได้ทันทีที่บ็อกผ่าน
@@ -32,7 +34,7 @@
 | `SING_greenjkt_3Q` | `30d143af-76cf-4ac1-a935-51b383f6f6ae` | วินหน้าเฉียง 3/4 (ใช้แค่หน้า) | C2-1 |
 | `SING_greenjkt_FS` | `b0b68bd1-9b4a-4d3b-ac81-3cc75477a819` | วินเต็มตัว แจ็กเก็ตเขียว ยีนส์ดำ | C2-1 |
 | `SING_bike` | `a2f70d6c-2fac-455f-b53a-7e323be1a10c` | มอไซค์คาเฟ่เรเซอร์ดำ-เงิน | C2-1 |
-| `ALIZ_phone` (Prop ไม่ใช่ Mix Stage) | `63e5a4ac-b0c3-4ec6-9960-68dc9407eb69` | มือถือสีเทา กล้อง 3 ตัว หน้า-หลัง · ถ้าจะใช้ในช็อตต้องเอาเข้า Mix Stage ก่อน | — |
+| `ALIZ_phone` | `f90ef20a-a679-4d20-8060-c48f066cc849` | มือถือสีเทา กล้อง 3 ตัว หน้า-หลัง | — (ยังไม่ผูกช็อต) |
 | `DRV_C2-1_b1` | `0caf3b4c-dda2-427e-b379-711189ca63b1` | เสียงอลิซ + วิน ต่อกัน 2.94 วิ | SB02-3 |
 
 ## archived แล้ว
@@ -42,3 +44,5 @@
 | Aliz 02-1 3Q (Mix Stage) | `fe77735e-c622-4762-a230-e0ed56d3d538` | 2026-10-13 · user สั่งลบ รออัปใหม่ |
 | Aliz NEW C2 1 CU 3Q (Cast) | `a6a1a571-fe75-49f2-825b-0418e07a74bc` | 2026-10-13 · user สั่งลบ |
 | Aliz NEW C2 1 FS (Cast) | `ec2ec6a4-efd8-4eee-a3c9-17cb53021b2d` | 2026-10-13 · user สั่งลบ (ตัวใน Mix Stage ยังใช้) |
+| ALIZ_phone (Prop) | `63e5a4ac-b0c3-4ec6-9960-68dc9407eb69` | 2026-10-13 · user สั่งลบ Prop ทั้งหมด · ก๊อปเข้า Mix Stage แล้ว |
+| Win bike (Prop) | `1711b1e7-2eea-4bf6-9ffb-dc3c217bb755` | 2026-10-13 · user สั่งลบ Prop ทั้งหมด · Mix Stage `SING_bike` ยังใช้ |
