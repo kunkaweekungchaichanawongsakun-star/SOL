@@ -87,3 +87,4 @@ Shot 1: morning street ambience and the motorcycle engine, which stops when he s
 - 2026-10-13 — ลบ Mix Stage `Aliz 02-1 3Q` (archived) ตามที่ user สั่ง *"ลบก่อน เรฟค่อยลิงค์ใหม่"* · ช็อตเหลือเรฟ 9 ไฟล์ ลำดับ @Image เลื่อน — ห้ามยิงจนกว่าจะลิงก์ 3Q ใหม่กลับเป็น @Image2
 - 2026-10-13 — ลิงก์ `ALIZ_pinkknit_3Q` (ไฟล์ใหม่ `f8631c00`) กลับเป็น @Image2 · ลำดับ @Image ตรงกับพรอมป์อีกครั้ง · valid: true
 - 2026-10-13 — เปลี่ยน SING → WIN ทั้งพรอมป์ (user สั่ง *"เปลี่ยน SING เป็น WIN ให้หมด"*) · ทะเบียน REF_LINES เปลี่ยนตาม
+- 2026-10-13 — ลบ `ALIZ_pinkknit_FS` (@Image9) ตามที่ user สั่ง *"ลบ ALIZ_pinkknit_FS จะลงตัวใหม่"* · ช็อตเหลือเรฟ 9 ไฟล์ @Audio1 เลื่อนมาตำแหน่ง 9 — ห้ามยิงจนกว่าจะลิงก์ FS ใหม่กลับเป็น @Image9

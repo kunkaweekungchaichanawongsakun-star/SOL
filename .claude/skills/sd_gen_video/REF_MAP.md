@@ -25,7 +25,7 @@
 | ชื่อ | Mix Stage id | อะไร | ซีนที่ใช้ |
 |---|---|---|---|
 | `ALIZ_pinkknit_CU` | `575cd37d-f011-419c-86eb-fa43cc40354a` | อลิซหน้าตรง ครึ่งตัว สเวตเตอร์ชมพู | C2-1 |
-| `ALIZ_pinkknit_FS` | `b635ea68-dfee-464b-8797-95b6362c6f01` | อลิซเต็มตัว สเวตเตอร์ชมพู เข็มขัดน้ำตาล ยีนส์ขาว ผ้าใบขาว · หน้านิ่ง | C2-1 |
+| `ALIZ_pinkknit_FS` | — (รอ user อัปใหม่) | อลิซเต็มตัว | C2-1 |
 | `ALIZ_pinkknit_3Q` | `f8631c00-a9d8-4ed9-82bf-577ba02715c6` | อลิซหน้าเฉียง 3/4 หันไปทางซ้ายเฟรม สเวตเตอร์ชมพู · หน้านิ่ง (ไฟล์ใหม่ 2026-10-13) | C2-1 |
 | `ALIZ_pajamas_CU` | `4cab6042-b081-44da-b761-e4eb4e51ae88` | อลิซหน้าตรง ครึ่งตัว ชุดนอนเชิ้ตสีฟ้าขอบขาว | C2-3 (จากชื่อไฟล์) |
 | `ALIZ_room_morning` | `9f02cd77-cd37-47e7-acb9-1d2b3e9ec7ce` | ห้องนอนอลิซ แดดเช้า (user ยืนยัน) | C2-1 |
@@ -48,3 +48,4 @@
 | Win bike (Prop) | `1711b1e7-2eea-4bf6-9ffb-dc3c217bb755` | 2026-10-13 · user สั่งลบ Prop ทั้งหมด · Mix Stage `WIN_bike` ยังใช้ |
 | Aliz room (Set) | `019c8fe7-cc65-4928-b396-4e52eeebdb6d` | 2026-10-13 · เคลียร์หมวด Set · Mix Stage `ALIZ_room_morning` ยังใช้ |
 | หน้าหอพัก (Set) | `0fc6b08e-7539-45cc-990f-29423c76e72e` | 2026-10-13 · เคลียร์หมวด Set · Mix Stage `ALIZ_dormfront_morning` ยังใช้ |
+| ALIZ_pinkknit_FS (Mix Stage เดิม) | `b635ea68-dfee-464b-8797-95b6362c6f01` | 2026-10-13 · user สั่งลบ จะลงตัวใหม่ |
