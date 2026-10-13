@@ -85,3 +85,4 @@ Shot 1: morning street ambience and the motorcycle engine, which stops when he s
 - เทค 3 ยิง 2026-10-12 — run `89b5ac87-a40a-4f67-8787-ca69c3c49886` · Seedance 2.5 · references · 16:9 · 720p · 14 วิ · เรฟ 9 + @Audio1
 - เทค 3 เสร็จ — 14.08 วิ · 123.1 พอยต์ · asset `3ce25fad-e066-4993-8f6b-60face1e9615` · รอ user ดู
 - 2026-10-13 — ลบ Mix Stage `Aliz 02-1 3Q` (archived) ตามที่ user สั่ง *"ลบก่อน เรฟค่อยลิงค์ใหม่"* · ช็อตเหลือเรฟ 9 ไฟล์ ลำดับ @Image เลื่อน — ห้ามยิงจนกว่าจะลิงก์ 3Q ใหม่กลับเป็น @Image2
+- 2026-10-13 — ลิงก์ `ALIZ_pinkknit_3Q` (ไฟล์ใหม่ `f8631c00`) กลับเป็น @Image2 · ลำดับ @Image ตรงกับพรอมป์อีกครั้ง · valid: true
