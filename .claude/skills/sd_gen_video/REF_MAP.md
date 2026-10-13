@@ -46,3 +46,5 @@
 | Aliz NEW C2 1 FS (Cast) | `ec2ec6a4-efd8-4eee-a3c9-17cb53021b2d` | 2026-10-13 · user สั่งลบ (ตัวใน Mix Stage ยังใช้) |
 | ALIZ_phone (Prop) | `63e5a4ac-b0c3-4ec6-9960-68dc9407eb69` | 2026-10-13 · user สั่งลบ Prop ทั้งหมด · ก๊อปเข้า Mix Stage แล้ว |
 | Win bike (Prop) | `1711b1e7-2eea-4bf6-9ffb-dc3c217bb755` | 2026-10-13 · user สั่งลบ Prop ทั้งหมด · Mix Stage `SING_bike` ยังใช้ |
+| Aliz room (Set) | `019c8fe7-cc65-4928-b396-4e52eeebdb6d` | 2026-10-13 · เคลียร์หมวด Set · Mix Stage `ALIZ_room_morning` ยังใช้ |
+| หน้าหอพัก (Set) | `0fc6b08e-7539-45cc-990f-29423c76e72e` | 2026-10-13 · เคลียร์หมวด Set · Mix Stage `ALIZ_dormfront_morning` ยังใช้ |
