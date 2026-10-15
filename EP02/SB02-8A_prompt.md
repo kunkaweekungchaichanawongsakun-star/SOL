@@ -22,12 +22,12 @@ ACTIVE REFERENCES
 @Image1 carries her face only, and her clothes come from @Image2. @Image4 and @Image5 carry his face only, and his clothes come from @Image3. The lobby is @Image6, and the street outside the glass door is @Image7.
 
 WHERE EVERYONE IS
-Shot 1: Aliz walks through the lobby toward the glass door, with her back to the camera. Win stands outside the glass door on the right of frame. The camera follows behind Aliz at her eye level until she stops at the doorway, then moves in until it is just behind her shoulder, looking past her at Win.
+Shot 1: Aliz walks through the lobby toward the glass door, with her back to the camera. Win is already standing right at the glass door, just outside it, on the right of frame, from the first frame, and he stays in that one spot for the whole video. The camera follows behind Aliz at her eye level until she stops at the doorway, then moves in until it is just behind her shoulder, looking past her at Win.
 Shot 2: Aliz stands just inside the doorway on the left of frame, facing Win. Win stands on the right of frame, holding the glass door open, with his back half to the camera. The camera stands just behind Win's shoulder at Aliz's eye level and stays in that one place for the whole shot.
 
 SHOT-BY-SHOT
 Shot 1 — MS, 0.0–6.2 s
-From 0.0 to 3.5 s: Aliz walks toward the glass door, a little weak from the fever, steady enough to pass as fine, 强撑. Win sees her coming, opens the glass door and holds it open for her.
+From 0.0 to 3.5 s: Aliz walks toward the glass door, a little weak from the fever, steady enough to pass as fine, 强撑. Win, standing where he is at the glass door, sees her coming, pushes the door open and holds it open for her.
 From 3.5 to 6.2 s: Aliz stops just inside the doorway. The camera moves in behind her shoulder onto Win. Up close he sees she looks unwell and says his line, worried for her.
 Shot 2 — MS, 6.2–14.0 s
 From 6.2 to 11.3 s: Aliz stands still and says her line with a small closed-lip smile that she puts on for him, telling him she is fine. The smile is forced, held up so that he will stop worrying, 强撑. Her hands stay quiet at her sides. Her face shows only a faint flush of fever.
@@ -80,4 +80,5 @@ Shot 1: her sneakers on the marble floor, the glass door opening and the sound o
 - เทค 2 เสร็จ — 14.08 วิ · 123.1 พอยต์ · asset `a7d68876-bad5-4921-a8cc-80f73b5292a0` · user *"หน้าเพี้ยน อะ เทียบกับ 3/4"* (ส่งเฟรมคัท 2 มา)
 - **เทค 3 (เตรียม) 2026-10-15** — user *"ส่งอลิซแค่ 3/4 กะ FS สิ"* → ถอด `ALIZ_pinkknit_CU` ออก · บรรทัด ALIZ ย้ายไปอยู่ที่ @Image1 = 3Q · เรฟเลื่อนขึ้นหนึ่งลำดับ (เรฟ 7 + @Audio1) · บรรทัดอื่นคงเดิม
 - เทค 3 — user *"เอาหน้าตรง CU ออกถูกแล้ว จะได้รู้ว่ามีผลมั้ย เพราะมันควรใช้ 3/4 เต็มๆ"* (ทดสอบ: เรฟ 3Q หันซ้ายเฟรม แต่คัท 2 อลิซหันขวาเฟรม) · user *"เพิ่มแอคชั่น ฝีนยิ้มให้อลิสตอนที่พูดด้วย ตอนนี้พอบอกว่าอย่าเล่นเยอะ มันเลยแข็งทื่อไปเลย"* → Shot 2 6.2–11.3: `says her line with a small closed-lip smile that she puts on for him … The smile is forced, held up so that he will stop worrying, 强撑.` · SCENE: `with a small forced smile` · ไม่ใช้แท็ก `强颜欢笑` ของบท [^8] เพราะเป็นแท็กเสียง
+- เทค 3 — user *"วินยืนอยู่หน้าประตูกระจกอยู่แล้วนะ คัทก่อนนี้ ไม่ต้องเดินมาเลย"* → WHERE EVERYONE IS Shot 1: `Win is already standing right at the glass door, just outside it, on the right of frame, from the first frame, and he stays in that one spot for the whole video.` · SHOT-BY-SHOT 0.0–3.5: `Win, standing where he is at the glass door, sees her coming, pushes the door open…`
 - 2026-10-15 user ดูเทค 2 (แนบเฟรมคัท 2 reverse MS) *"หน้าเพี้ยน อะ"* → รอ user เลือกทางแก้
