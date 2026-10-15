@@ -11,16 +11,15 @@ SCENE
 Aliz walks through the lobby toward the glass door, a little weak from the fever but holding herself together, 强撑. Win opens the glass door and holds it for her. She stops just inside the doorway. Up close, Win sees that she looks unwell and asks her if she is sick. She stands still and tells him she is fine, keeping how unwell she feels to herself so that he will stop worrying, 强撑.
 
 ACTIVE REFERENCES
-@Image1 — ALIZ: 26, pretty, long straight jet-black hair. 100% matches the reference, and @Image3 is the authority for what she is wearing today.
-@Image2 — HER FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for her face.
-@Image3 — HER FULL BODY. 100% matches the reference for her clothes.
-@Image4 — WIN: 45, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @Image4 is the authority for what he is wearing today.
-@Image5 — HIS FACE FROM THE FRONT. 100% matches the reference for his face.
-@Image6 — HIS FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for his face.
-@Image7 — THE LOBBY OF ALIZ'S DORMITORY. THIS REFERENCE IS THE AUTHORITY FOR THE LOBBY ITSELF AND FOR ITS LIGHT.
-@Image8 — THE STREET IN FRONT OF ALIZ'S DORMITORY. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
+@Image1 — ALIZ: 26, pretty, long straight jet-black hair. 100% matches the reference, and @Image2 is the authority for what she is wearing today.
+@Image2 — HER FULL BODY. 100% matches the reference for her clothes.
+@Image3 — WIN: 45, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @Image3 is the authority for what he is wearing today.
+@Image4 — HIS FACE FROM THE FRONT. 100% matches the reference for his face.
+@Image5 — HIS FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for his face.
+@Image6 — THE LOBBY OF ALIZ'S DORMITORY. THIS REFERENCE IS THE AUTHORITY FOR THE LOBBY ITSELF AND FOR ITS LIGHT.
+@Image7 — THE STREET IN FRONT OF ALIZ'S DORMITORY. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
 @Audio1 — THE VOICES. Its first line is WIN's voice and its second line is ALIZ's voice. Each person speaks with the voice in @Audio1, at the times written in DIALOGUE.
-@Image1 and @Image2 carry her face only, and her clothes come from @Image3. @Image5 and @Image6 carry his face only, and his clothes come from @Image4. The lobby is @Image7, and the street outside the glass door is @Image8.
+@Image1 carries her face only, and her clothes come from @Image2. @Image4 and @Image5 carry his face only, and his clothes come from @Image3. The lobby is @Image6, and the street outside the glass door is @Image7.
 
 WHERE EVERYONE IS
 Shot 1: Aliz walks through the lobby toward the glass door, with her back to the camera. Win stands outside the glass door on the right of frame. The camera follows behind Aliz at her eye level until she stops at the doorway, then moves in until it is just behind her shoulder, looking past her at Win.
@@ -47,7 +46,7 @@ PHYSICS
 From 3.5 s to the end of the video, Win holds the glass door open and Aliz stands just inside the doorway.
 
 LIGHTING
-The calmer lobby and the bright morning outside the glass, exactly as in @Image7.
+The calmer lobby and the bright morning outside the glass, exactly as in @Image6.
 
 DIALOGUE
 Shot 1, 5.0–5.9 s, WIN: "ไม่สบายหรือเปล่า"
@@ -78,5 +77,6 @@ Shot 1: her sneakers on the marble floor, the glass door opening and the sound o
 - (เดิม) เฟรมสุดท้ายคลิป 4: เครื่องนี้เปิดวิดีโอไม่ได้ (`view_asset` รับแต่รูป · network บล็อก supabase) และ `save_to_mix_stage` ของวิดีโอเทคขึ้น `source_not_in_project` → ต้องให้ user แคปเฟรมสุดท้ายแล้วอัปเข้า Mix Stage
 - 2026-10-15 user เลือกทาง 1 (เพลตเดิม) *"ทำ bg เบลอช่วยให้ไม่โดดได้ เบลอทั้ง 2 คัท"* → OPTICS: ชัดตื้นทั้งสองคัท ฉากหลังเบลอ
 - เทค 2 ยิง 2026-10-15 — run `94f884cd-af4e-43fa-acb1-adb794a42f6a` · Seedance 2.5 · references · 16:9 · 720p · 14 วิ · เรฟ 8 + @Audio1 · user สั่ง "ยิง"
-- เทค 2 เสร็จ — 14.08 วิ · 123.1 พอยต์ · asset `a7d68876-bad5-4921-a8cc-80f73b5292a0` · รอ user ดู
+- เทค 2 เสร็จ — 14.08 วิ · 123.1 พอยต์ · asset `a7d68876-bad5-4921-a8cc-80f73b5292a0` · user *"หน้าเพี้ยน อะ เทียบกับ 3/4"* (ส่งเฟรมคัท 2 มา)
+- **เทค 3 (เตรียม) 2026-10-15** — user *"ส่งอลิซแค่ 3/4 กะ FS สิ"* → ถอด `ALIZ_pinkknit_CU` ออก · บรรทัด ALIZ ย้ายไปอยู่ที่ @Image1 = 3Q · เรฟเลื่อนขึ้นหนึ่งลำดับ (เรฟ 7 + @Audio1) · บรรทัดอื่นคงเดิม
 - 2026-10-15 user ดูเทค 2 (แนบเฟรมคัท 2 reverse MS) *"หน้าเพี้ยน อะ"* → รอ user เลือกทางแก้
