@@ -5,23 +5,22 @@ LIP SYNC
 Win speaks only in Shot 1. Aliz speaks only in Shot 2. Each line is lip-synced to the person saying it.
 
 BEFORE THIS VIDEO
-All of this has already happened before the first frame. This is the fifth video of this scene, and it continues straight on from the last frame of the previous video, shown in @Image1. It is Monday morning. Last night Aliz kissed Win on the cheek. Today Win is taking her to her job interview at a big client company, and who he really is is still a secret from her: he is the chairman of that company. Aliz woke up with a fever and has come down to the lobby of her dormitory. Win has just ended a phone call outside the glass door and has seen her coming.
+All of this has already happened before the first frame. This is the fifth video of this scene. It is Monday morning. Last night Aliz kissed Win on the cheek. Today Win is taking her to her job interview at a big client company, and who he really is is still a secret from her: he is the chairman of that company. Aliz woke up with a fever and has come down to the lobby of her dormitory. Win has just ended a phone call at the glass door, and he has seen her walking out of the corridor between the wall and the mailboxes into the lobby, toward him.
 
 SCENE
 Aliz walks through the lobby toward the glass door, a little weak from the fever but holding herself together, 强撑. Win opens the glass door and holds it for her. She stops just inside the doorway. Up close, Win sees that she looks unwell and asks her if she is sick. She stands still and tells him she is fine, keeping how unwell she feels to herself so that he will stop worrying, 强撑.
 
 ACTIVE REFERENCES
-@Image1 — THE LAST FRAME OF THE PREVIOUS VIDEO. THIS REFERENCE IS THE AUTHORITY FOR WHERE WIN AND ALIZ ARE AND FOR THE LIGHT AT THE START OF THIS VIDEO.
-@Image2 — ALIZ: 26, pretty, long straight jet-black hair. 100% matches the reference, and @Image4 is the authority for what she is wearing today.
-@Image3 — HER FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for her face.
-@Image4 — HER FULL BODY. 100% matches the reference for her clothes.
-@Image5 — WIN: 45, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @Image5 is the authority for what he is wearing today.
-@Image6 — HIS FACE FROM THE FRONT. 100% matches the reference for his face.
-@Image7 — HIS FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for his face.
-@Image8 — THE LOBBY OF ALIZ'S DORMITORY. THIS REFERENCE IS THE AUTHORITY FOR THE LOBBY ITSELF AND FOR ITS LIGHT.
-@Image9 — THE STREET IN FRONT OF ALIZ'S DORMITORY. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
+@Image1 — ALIZ: 26, pretty, long straight jet-black hair. 100% matches the reference, and @Image3 is the authority for what she is wearing today.
+@Image2 — HER FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for her face.
+@Image3 — HER FULL BODY. 100% matches the reference for her clothes.
+@Image4 — WIN: 45, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @Image4 is the authority for what he is wearing today.
+@Image5 — HIS FACE FROM THE FRONT. 100% matches the reference for his face.
+@Image6 — HIS FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for his face.
+@Image7 — THE LOBBY OF ALIZ'S DORMITORY. THIS REFERENCE IS THE AUTHORITY FOR THE LOBBY ITSELF AND FOR ITS LIGHT.
+@Image8 — THE STREET IN FRONT OF ALIZ'S DORMITORY. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
 @Audio1 — THE VOICES. Its first line is WIN's voice and its second line is ALIZ's voice. Each person speaks with the voice in @Audio1, at the times written in DIALOGUE.
-@Image2 and @Image3 carry her face only, and her clothes come from @Image4. @Image6 and @Image7 carry his face only, and his clothes come from @Image5. The lobby is @Image8, and the street outside the glass door is @Image9.
+@Image1 and @Image2 carry her face only, and her clothes come from @Image3. @Image5 and @Image6 carry his face only, and his clothes come from @Image4. The lobby is @Image7, and the street outside the glass door is @Image8.
 
 WHERE EVERYONE IS
 Shot 1: Aliz walks through the lobby toward the glass door, with her back to the camera. Win stands outside the glass door on the right of frame. The camera follows behind Aliz at her eye level until she stops at the doorway, then moves in until it is just behind her shoulder, looking past her at Win.
@@ -48,7 +47,7 @@ PHYSICS
 From 3.5 s to the end of the video, Win holds the glass door open and Aliz stands just inside the doorway.
 
 LIGHTING
-The calmer lobby and the bright morning outside the glass, exactly as in @Image1 and @Image8.
+The calmer lobby and the bright morning outside the glass, exactly as in @Image7.
 
 DIALOGUE
 Shot 1, 5.0–5.9 s, WIN: "ไม่สบายหรือเปล่า"
@@ -75,5 +74,6 @@ Shot 1: her sneakers on the marble floor, the glass door opening and the sound o
 - **เทค 2 (เตรียม) 2026-10-15** — ก๊อปจาก `SB02-8B_prompt.md` (หัวพรอมป์) · เขียนใหม่ทั้ง SHOT-BY-SHOT ตามคำสั่ง user: *"ไปดูเฟรมสุดท้ายของ C2_clip04_v1_SB02-7A.mp4"* → @Image1 = เฟรมสุดท้ายคลิป 4 v1 (รอ user อัป — ดูหมายเหตุ) · *"คัทแรก MS ด้านหลังของอลิซ เดินไปหาวินที่อยู่ทางขวาเฟรม เปิดประตูกระจกรอรับ กล้องตามไปจนอลิซหยุดที่หน้าประตูของหอพัก อลิซหยุดก่อน ยังไม่ออกพ้นประตู กล้องเข้าไปเป็นผ่านไหล่อลิซ MS ไปที่วิน"* · *"ท่าเดินอลิซอ่อนแรงนิดหน่อย อย่าเว่อแบบอันก่อน"* · *"คัท 2 reverse MS อลิซ อยู่ซ้าย ผ่านไหล่วิน ที่เปิดประตูคาไว้"* · *"อย่าขยับมือไม้เยอะแบบเทคก่อน ยืนนิ่งๆแบบฝีนว่าไม่เป็นไร"* · *"ไม่ต้องหน้าแดงเว่อ ขอนิดเดียว"* · *"อลิซอย่ายิ้มกว้างเห็นฟัน จำไว้เป็นคาแร็คเตอร์ประจำ"* → `Aliz's smiles stay small and closed-lip`
 - เทค 2 ตัดออก (user ไม่ได้สั่งให้คงไว้ และโครงใหม่ไม่มี): ตบแก้มเปิดรอยยิ้ม · วินแอบยิ้มหันไปที่รถ · ป้าแม่บ้าน · พนักงานนิติ · คัท CU วิน · ชี้ไปที่รถ/ทัดผม/ประสานมือ · ไบค์ออกจากเรฟ (ไม่อยู่ในเฟรม)
 - 2026-10-15 user ส่งเฟรมสุดท้ายคลิป 4 v1 มาในแชต (อลิซเดินออกจากทางเดินในล็อบบี้ วินหลังศีรษะ/ไหล่เบลออยู่ขวาเฟรม แดดเช้าเป็นดวงบนผนัง) — ภาพในแชตเข้า Fortal ไม่ได้ ต้องอัปเข้า Mix Stage แล้วลิงก์เป็น @Image1 · ไบค์ถอดออกจากช็อต
-- ⚠️ เฟรมสุดท้ายคลิป 4: เครื่องนี้เปิดวิดีโอไม่ได้ (`view_asset` รับแต่รูป · network บล็อก supabase) และ `save_to_mix_stage` ของวิดีโอเทคขึ้น `source_not_in_project` → ต้องให้ user แคปเฟรมสุดท้ายแล้วอัปเข้า Mix Stage
+- 2026-10-15 user *"ให้กูอัพรูปเรฟนั่นหรอ?"* → ไม่ใช้เฟรมเป็นเรฟ · ตัด @Image1 ออก เรฟเลื่อนขึ้นหนึ่งลำดับ · เขียนตำแหน่งจากเฟรมลงใน BEFORE THIS VIDEO แทน (อลิซเดินออกจากทางเดินระหว่างผนังกับตู้จดหมาย วินอยู่ที่ประตูกระจก)
+- (เดิม) เฟรมสุดท้ายคลิป 4: เครื่องนี้เปิดวิดีโอไม่ได้ (`view_asset` รับแต่รูป · network บล็อก supabase) และ `save_to_mix_stage` ของวิดีโอเทคขึ้น `source_not_in_project` → ต้องให้ user แคปเฟรมสุดท้ายแล้วอัปเข้า Mix Stage
 
