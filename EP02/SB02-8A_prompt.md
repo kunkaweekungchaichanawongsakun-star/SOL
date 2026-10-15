@@ -35,7 +35,7 @@ From 6.2 to 11.3 s: Aliz stands still and says her line, telling him she is fine
 From 11.3 to 14.0 s: she stays standing in the doorway, still holding herself together, while Win keeps holding the door, until the end of the video.
 
 OPTICS
-Shot 1: Aliz is sharp as she walks, then Win is sharp past her shoulder. Shot 2: Aliz is sharp, and Win's shoulder is soft.
+Shallow depth of field in both shots, with the background behind the people soft and blurred. Shot 1: Aliz is sharp as she walks, then Win is sharp past her shoulder, and the lobby and the street are soft. Shot 2: Aliz is sharp, Win's shoulder is soft, and the lobby behind her is a soft blur.
 
 CAMERA
 Shot 1 MS, following behind Aliz, then moving in over her shoulder onto Win. Shot 2 MS, reverse over Win's shoulder, locked off.
@@ -76,4 +76,4 @@ Shot 1: her sneakers on the marble floor, the glass door opening and the sound o
 - 2026-10-15 user ส่งเฟรมสุดท้ายคลิป 4 v1 มาในแชต (อลิซเดินออกจากทางเดินในล็อบบี้ วินหลังศีรษะ/ไหล่เบลออยู่ขวาเฟรม แดดเช้าเป็นดวงบนผนัง) — ภาพในแชตเข้า Fortal ไม่ได้ ต้องอัปเข้า Mix Stage แล้วลิงก์เป็น @Image1 · ไบค์ถอดออกจากช็อต
 - 2026-10-15 user *"ให้กูอัพรูปเรฟนั่นหรอ?"* → ไม่ใช้เฟรมเป็นเรฟ · ตัด @Image1 ออก เรฟเลื่อนขึ้นหนึ่งลำดับ · เขียนตำแหน่งจากเฟรมลงใน BEFORE THIS VIDEO แทน (อลิซเดินออกจากทางเดินระหว่างผนังกับตู้จดหมาย วินอยู่ที่ประตูกระจก)
 - (เดิม) เฟรมสุดท้ายคลิป 4: เครื่องนี้เปิดวิดีโอไม่ได้ (`view_asset` รับแต่รูป · network บล็อก supabase) และ `save_to_mix_stage` ของวิดีโอเทคขึ้น `source_not_in_project` → ต้องให้ user แคปเฟรมสุดท้ายแล้วอัปเข้า Mix Stage
-
+- 2026-10-15 user เลือกทาง 1 (เพลตเดิม) *"ทำ bg เบลอช่วยให้ไม่โดดได้ เบลอทั้ง 2 คัท"* → OPTICS: ชัดตื้นทั้งสองคัท ฉากหลังเบลอ
