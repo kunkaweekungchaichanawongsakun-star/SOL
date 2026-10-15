@@ -79,3 +79,4 @@ Shot 1: her sneakers on the marble floor, the glass door opening and the sound o
 - 2026-10-15 user เลือกทาง 1 (เพลตเดิม) *"ทำ bg เบลอช่วยให้ไม่โดดได้ เบลอทั้ง 2 คัท"* → OPTICS: ชัดตื้นทั้งสองคัท ฉากหลังเบลอ
 - เทค 2 ยิง 2026-10-15 — run `94f884cd-af4e-43fa-acb1-adb794a42f6a` · Seedance 2.5 · references · 16:9 · 720p · 14 วิ · เรฟ 8 + @Audio1 · user สั่ง "ยิง"
 - เทค 2 เสร็จ — 14.08 วิ · 123.1 พอยต์ · asset `a7d68876-bad5-4921-a8cc-80f73b5292a0` · รอ user ดู
+- 2026-10-15 user ดูเทค 2 (แนบเฟรมคัท 2 reverse MS) *"หน้าเพี้ยน อะ"* → รอ user เลือกทางแก้
