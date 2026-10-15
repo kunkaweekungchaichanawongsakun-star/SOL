@@ -83,3 +83,4 @@ Shot 1: her sneakers on the marble floor, the glass door opening and the sound o
 - เทค 3 — user *"วินยืนอยู่หน้าประตูกระจกอยู่แล้วนะ คัทก่อนนี้ ไม่ต้องเดินมาเลย"* → WHERE EVERYONE IS Shot 1: `Win is already standing right at the glass door, just outside it, on the right of frame, from the first frame, and he stays in that one spot for the whole video.` · SHOT-BY-SHOT 0.0–3.5: `Win, standing where he is at the glass door, sees her coming, pushes the door open…`
 - 2026-10-15 user ดูเทค 2 (แนบเฟรมคัท 2 reverse MS) *"หน้าเพี้ยน อะ"* → รอ user เลือกทางแก้
 - เทค 3 ยิง 2026-10-15 — run `45b773ee-05e5-4667-bb6f-00c215f88fd8` · Seedance 2.5 · references · 16:9 · 720p · 14 วิ · เรฟ 7 + @Audio1 · user สั่ง "ยิง"
+- เทค 3 เสร็จ — 14.08 วิ · 123.1 พอยต์ · asset `b2a1a54f-e4bf-4567-ae78-c4e4bac76e51` · รอ user ดู
