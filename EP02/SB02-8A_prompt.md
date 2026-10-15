@@ -8,7 +8,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. This is the fifth video of this scene. It is Monday morning. Last night Aliz kissed Win on the cheek. Today Win is taking her to her job interview at a big client company, and who he really is is still a secret from her: he is the chairman of that company. Aliz woke up with a fever and has come down to the lobby of her dormitory. Win has just ended a phone call at the glass door, and he has seen her walking out of the corridor between the wall and the mailboxes into the lobby, toward him.
 
 SCENE
-Aliz walks through the lobby toward the glass door, a little weak from the fever but holding herself together, 强撑. Win opens the glass door and holds it for her. She stops just inside the doorway. Up close, Win sees that she looks unwell and asks her if she is sick. She stands still and tells him she is fine, keeping how unwell she feels to herself so that he will stop worrying, 强撑.
+Aliz walks through the lobby toward the glass door, a little weak from the fever but holding herself together, 强撑. Win opens the glass door and holds it for her. She stops just inside the doorway. Up close, Win sees that she looks unwell and asks her if she is sick. She stands still and, with a small forced smile, tells him she is fine, keeping how unwell she feels to herself so that he will stop worrying, 强撑.
 
 ACTIVE REFERENCES
 @Image1 — ALIZ: 26, pretty, long straight jet-black hair. 100% matches the reference, and @Image2 is the authority for what she is wearing today.
@@ -30,7 +30,7 @@ Shot 1 — MS, 0.0–6.2 s
 From 0.0 to 3.5 s: Aliz walks toward the glass door, a little weak from the fever, steady enough to pass as fine, 强撑. Win sees her coming, opens the glass door and holds it open for her.
 From 3.5 to 6.2 s: Aliz stops just inside the doorway. The camera moves in behind her shoulder onto Win. Up close he sees she looks unwell and says his line, worried for her.
 Shot 2 — MS, 6.2–14.0 s
-From 6.2 to 11.3 s: Aliz stands still and says her line, telling him she is fine. Her hands stay quiet at her sides. Her face shows only a faint flush of fever. She is holding herself together so that he will stop worrying, 强撑.
+From 6.2 to 11.3 s: Aliz stands still and says her line with a small closed-lip smile that she puts on for him, telling him she is fine. The smile is forced, held up so that he will stop worrying, 强撑. Her hands stay quiet at her sides. Her face shows only a faint flush of fever.
 From 11.3 to 14.0 s: she stays standing in the doorway, still holding herself together, while Win keeps holding the door, until the end of the video.
 
 OPTICS
@@ -79,4 +79,5 @@ Shot 1: her sneakers on the marble floor, the glass door opening and the sound o
 - เทค 2 ยิง 2026-10-15 — run `94f884cd-af4e-43fa-acb1-adb794a42f6a` · Seedance 2.5 · references · 16:9 · 720p · 14 วิ · เรฟ 8 + @Audio1 · user สั่ง "ยิง"
 - เทค 2 เสร็จ — 14.08 วิ · 123.1 พอยต์ · asset `a7d68876-bad5-4921-a8cc-80f73b5292a0` · user *"หน้าเพี้ยน อะ เทียบกับ 3/4"* (ส่งเฟรมคัท 2 มา)
 - **เทค 3 (เตรียม) 2026-10-15** — user *"ส่งอลิซแค่ 3/4 กะ FS สิ"* → ถอด `ALIZ_pinkknit_CU` ออก · บรรทัด ALIZ ย้ายไปอยู่ที่ @Image1 = 3Q · เรฟเลื่อนขึ้นหนึ่งลำดับ (เรฟ 7 + @Audio1) · บรรทัดอื่นคงเดิม
+- เทค 3 — user *"เอาหน้าตรง CU ออกถูกแล้ว จะได้รู้ว่ามีผลมั้ย เพราะมันควรใช้ 3/4 เต็มๆ"* (ทดสอบ: เรฟ 3Q หันซ้ายเฟรม แต่คัท 2 อลิซหันขวาเฟรม) · user *"เพิ่มแอคชั่น ฝีนยิ้มให้อลิสตอนที่พูดด้วย ตอนนี้พอบอกว่าอย่าเล่นเยอะ มันเลยแข็งทื่อไปเลย"* → Shot 2 6.2–11.3: `says her line with a small closed-lip smile that she puts on for him … The smile is forced, held up so that he will stop worrying, 强撑.` · SCENE: `with a small forced smile` · ไม่ใช้แท็ก `强颜欢笑` ของบท [^8] เพราะเป็นแท็กเสียง
 - 2026-10-15 user ดูเทค 2 (แนบเฟรมคัท 2 reverse MS) *"หน้าเพี้ยน อะ"* → รอ user เลือกทางแก้
