@@ -1,65 +1,69 @@
 GLOBAL STYLE
-Live-action microdrama, 16:9. Real people, real places, natural skin. Four shots, 14 seconds.
+Live-action microdrama, 16:9. Real people, real places, natural skin. Two shots, 14 seconds.
 
 LIP SYNC
-Win speaks only in Shot 2. Aliz speaks only in Shot 3. Each line is lip-synced to the person saying it.
+Win speaks only in Shot 1. Aliz speaks only in Shot 2. Each line is lip-synced to the person saying it.
 
 BEFORE THIS VIDEO
-All of this has already happened before the first frame. This is the fifth video of this scene. It is Monday morning. Last night Aliz kissed Win on the cheek. Today Win is taking her to her job interview at a big client company, and who he really is is still a secret from her: he is the chairman of that company. Aliz woke up with a fever, told him to wait five minutes, and has come down to the lobby of her dormitory. Win is waiting for her outside the glass door, his motorcycle parked at the kerb.
+All of this has already happened before the first frame. This is the fifth video of this scene, and it continues straight on from the last frame of the previous video, shown in @Image1. It is Monday morning. Last night Aliz kissed Win on the cheek. Today Win is taking her to her job interview at a big client company, and who he really is is still a secret from her: he is the chairman of that company. Aliz woke up with a fever and has come down to the lobby of her dormitory. Win has just ended a phone call outside the glass door and has seen her coming.
 
 SCENE
-Aliz is coming down with a fever, but before she goes out to Win she puts a big smile on. Up close he sees through it and asks if she is unwell. She brushes it off, hurries him toward the motorcycle, and makes a show of being proper because this is a big client. Win turns away to the motorcycle and smiles to himself, because the big client is him.
+Aliz walks through the lobby toward the glass door, a little weak from the fever but holding herself together, 强撑. Win opens the glass door and holds it for her. She stops just inside the doorway. Up close, Win sees that she looks unwell and asks her if she is sick. She stands still and tells him she is fine, keeping how unwell she feels to herself so that he will stop worrying, 强撑.
 
 ACTIVE REFERENCES
-@Image1 — ALIZ: 26, pretty, long straight jet-black hair. 100% matches the reference, and @Image3 is the authority for what she is wearing today.
-@Image2 — HER FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for her face.
-@Image3 — HER FULL BODY. 100% matches the reference for her clothes.
-@Image4 — WIN: 45, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @Image4 is the authority for what he is wearing today.
-@Image5 — HIS FACE FROM THE FRONT. 100% matches the reference for his face.
-@Image6 — HIS FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for his face.
-@Image7 — THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF.
+@Image1 — THE LAST FRAME OF THE PREVIOUS VIDEO. THIS REFERENCE IS THE AUTHORITY FOR WHERE WIN AND ALIZ ARE AND FOR THE LIGHT AT THE START OF THIS VIDEO.
+@Image2 — ALIZ: 26, pretty, long straight jet-black hair. 100% matches the reference, and @Image4 is the authority for what she is wearing today.
+@Image3 — HER FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for her face.
+@Image4 — HER FULL BODY. 100% matches the reference for her clothes.
+@Image5 — WIN: 45, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @Image5 is the authority for what he is wearing today.
+@Image6 — HIS FACE FROM THE FRONT. 100% matches the reference for his face.
+@Image7 — HIS FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for his face.
 @Image8 — THE LOBBY OF ALIZ'S DORMITORY. THIS REFERENCE IS THE AUTHORITY FOR THE LOBBY ITSELF AND FOR ITS LIGHT.
 @Image9 — THE STREET IN FRONT OF ALIZ'S DORMITORY. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
 @Audio1 — THE VOICES. Its first line is WIN's voice and its second line is ALIZ's voice. Each person speaks with the voice in @Audio1, at the times written in DIALOGUE.
-@Image1 and @Image2 carry her face only, and her clothes come from @Image3. @Image5 and @Image6 carry his face only, and his clothes come from @Image4. Shot 1 takes place in @Image8. Shots 2, 3 and 4 take place outside the glass door of the dormitory, on the street in @Image9.
+@Image2 and @Image3 carry her face only, and her clothes come from @Image4. @Image6 and @Image7 carry his face only, and his clothes come from @Image5. The lobby is @Image8, and the street outside the glass door is @Image9.
+
+WHERE EVERYONE IS
+Shot 1: Aliz walks through the lobby toward the glass door, with her back to the camera. Win stands outside the glass door on the right of frame. The camera follows behind Aliz at her eye level until she stops at the doorway, then moves in until it is just behind her shoulder, looking past her at Win.
+Shot 2: Aliz stands just inside the doorway on the left of frame, facing Win. Win stands on the right of frame, holding the glass door open, with his back half to the camera. The camera stands just behind Win's shoulder at Aliz's eye level and stays in that one place for the whole shot.
 
 SHOT-BY-SHOT
-Shot 1 — 0.0–4.6 s — PUTTING ON THE SMILE
-Picture: in the lobby, Aliz walks toward the glass door, her steps not quite straight. Passing the sofa, she touches the back of it for a moment to steady herself. She stops at the door, takes a deep breath, pats her cheeks lightly twice with both palms, then smiles a full smile — and pushes the glass door open. The morning sun hits her face and she squints.
-Camera: MS ending FS, 130 cm high, eye level, 35mm lens, slow dolly following behind her to the door.
-Composition: Aliz starts on the left third and walks into the centre. The glass door and the bright light outside are the destination of the eye. Win waits outside the glass on the right as a backlit silhouette.
-Extra: a female building-office worker at the desk on the right works with her head down, blurred.
-Meaning: the audience sees her "put on" the smile, but Win does not.
-Light: the lobby is dim, outside is bright. When the door opens, warm light floods over her and the edge of her hair glows.
-Sound: sneakers on marble, the soft pat on her cheeks, the door opening and the sound of the street flowing in.
+Shot 1 — MS, 0.0–6.2 s
+From 0.0 to 3.5 s: Aliz walks toward the glass door, a little weak from the fever, steady enough to pass as fine, 强撑. Win sees her coming, opens the glass door and holds it open for her.
+From 3.5 to 6.2 s: Aliz stops just inside the doorway. The camera moves in behind her shoulder onto Win. Up close he sees she looks unwell and says his line, worried for her.
+Shot 2 — MS, 6.2–14.0 s
+From 6.2 to 11.3 s: Aliz stands still and says her line, telling him she is fine. Her hands stay quiet at her sides. Her face shows only a faint flush of fever. She is holding herself together so that he will stop worrying, 强撑.
+From 11.3 to 14.0 s: she stays standing in the doorway, still holding herself together, while Win keeps holding the door, until the end of the video.
 
-Shot 2 — 4.6–6.2 s — "ไม่สบายหรือเปล่า"
-Picture: Win sees her face up close. The welcoming smile on his face slowly fades, his eyes reading her face — drowsy eyes, cheeks unusually flushed. He tilts his face toward her a little.
-Line 5.0–5.9, Win: "ไม่สบายหรือเปล่า" — emotion from the script: 目光关切，轻声探问. Performance: soft voice, not alarmed, but his eyes are serious.
-Camera: CU, 170 cm high, eye level, 85mm lens, locked-off.
-Composition: Win on the right third, looking left. The background is a blurred green hedge.
+OPTICS
+Shot 1: Aliz is sharp as she walks, then Win is sharp past her shoulder. Shot 2: Aliz is sharp, and Win's shoulder is soft.
 
-Shot 3 — 6.2–11.3 s — "ไม่เป็นไร"
-Line 6.4–11.1, Aliz: "ไม่เป็นไร... รีบไปเลยดีกว่า ลูกค้ารายใหญ่ หนูต้องทำตัวดีๆ หน่อย" — emotion from the script: 强颜欢笑，语带虚弱. Performance: on "ไม่เป็นไร..." she waves it off quickly and avoids his eyes for half a beat, partly because she is lying and partly because of last night. On "รีบไปเลยดีกว่า" she points at the motorcycle. On "ลูกค้ารายใหญ่ หนูต้องทำตัวดีๆ หน่อย" she straightens up, pulls her top smooth, tucks her hair behind her ear, and clasps her hands in front of her in a slightly exaggerated proper pose, then her smile trembles a little at the end of the line.
-Camera: OTS over Win's right shoulder, 165 cm high, eye level, 50mm lens, locked-off.
-Composition: Win's shoulder and green jacket are the right foreground, about 30% of the frame. Aliz on the left third, sharp. The background is the dormitory's glass door.
-Extra: the housekeeper, holding a broom, walks past behind Aliz from right to left, blurred.
+CAMERA
+Shot 1 MS, following behind Aliz, then moving in over her shoulder onto Win. Shot 2 MS, reverse over Win's shoulder, locked off.
 
-Shot 4 — 11.3–14.0 s — A SECRET SMILE
-Picture: Win keeps looking at her for one more second; he knows she is forcing it. Then he turns and walks to the motorcycle — once his back is to her, the corner of his mouth lifts, and he lowers his face to hide the smile, because that "big client" is him.
-Camera: MCU, 165 cm high, eye level, 50mm lens, the camera moves backward ahead of him as he walks two steps toward the camera.
-Composition: Win in the foreground on the right third, sharp. Aliz in the background on the left, blurred, still standing and fixing her clothes, unable to see his smile. Two people in one frame, facing opposite ways.
-Cut: Win walks out to the right.
+PERFORMANCE
+Understated and real. Reactions arrive a half-beat late. Aliz moves like someone with a mild fever who is pushing through it. Aliz's smiles stay small and closed-lip.
+
+PHYSICS
+From 3.5 s to the end of the video, Win holds the glass door open and Aliz stands just inside the doorway.
+
+LIGHTING
+The calmer lobby and the bright morning outside the glass, exactly as in @Image1 and @Image8.
 
 DIALOGUE
-Shot 2, 5.0–5.9 s, WIN: "ไม่สบายหรือเปล่า"
-Shot 3, 6.4–11.1 s, ALIZ: "ไม่เป็นไร... รีบไปเลยดีกว่า ลูกค้ารายใหญ่ หนูต้องทำตัวดีๆ หน่อย"
+Shot 1, 5.0–5.9 s, WIN: "ไม่สบายหรือเปล่า"
+Shot 2, 6.4–11.1 s, ALIZ: "ไม่เป็นไร... รีบไปเลยดีกว่า ลูกค้ารายใหญ่ หนูต้องทำตัวดีๆ หน่อย"
+
+AUDIO
+Shot 1: her sneakers on the marble floor, the glass door opening and the sound of the street flowing in. Shot 2: the morning street through the open door.
 
 ---
 
-## ที่มา
+## แท็กจีน — แปลไทย — ที่มา
 
-สตอรี่บอร์ด "คลิป 5 · ฝืนยิ้ม · 14 วิ" ของจาวิส 2026-10-15 — แปลเป็นอังกฤษ**ตามต้นฉบับเป๊ะ** ทุกช็อต ทุกหัวข้อ · เสียง `C2-1_clip05_14s.wav` วิน 5.0–5.9 · อลิซ 6.4–11.1
+| แท็ก | แปลไทย | ที่มา |
+|---|---|---|
+| `强撑` | ฝืนประคองตัว ไม่ให้อีกฝ่ายรู้ | user 2026-10-15 *"ยืนนิ่งๆแบบฝีนว่าไม่เป็นไร"* + บท 2-1 *"ตาเยิ้มๆ มึนๆ แต่ยังฝืนยิ้มเก่ง"* |
 
 ## CHANGE LOG
 - เทค 1 — ก๊อปจาก `SB02-7A_prompt.md` (หัวพรอมป์ใช้ชุดเดียวกับ `SB02-8B`) · SHOT-BY-SHOT = สตอรี่บอร์ดจาวิสแปลตรงตัว
@@ -68,3 +72,8 @@ Shot 3, 6.4–11.1 s, ALIZ: "ไม่เป็นไร... รีบไปเ�
 - ตัดเฉพาะโน้ตถึงทีม: "→ คลิป 6 เปิดที่มือเขาปลดหมวกจากรถฝั่งขวา"
 - เทค 1 ยิง 2026-10-15 — run `6787d6b7-6116-4bc3-98aa-e53a7a85132f` · Seedance 2.5 · references · 16:9 · 720p · 14 วิ · เรฟ 9 + @Audio1 · จาวิสสั่ง "ยิง"
 - เทค 1 เสร็จ — 14.08 วิ · 123.1 พอยต์ · asset `1a4686f8-7ff7-49b8-959c-c0d027ded0fa` · รอ user ดู
+- **เทค 2 (เตรียม) 2026-10-15** — ก๊อปจาก `SB02-8B_prompt.md` (หัวพรอมป์) · เขียนใหม่ทั้ง SHOT-BY-SHOT ตามคำสั่ง user: *"ไปดูเฟรมสุดท้ายของ C2_clip04_v1_SB02-7A.mp4"* → @Image1 = เฟรมสุดท้ายคลิป 4 v1 (รอ user อัป — ดูหมายเหตุ) · *"คัทแรก MS ด้านหลังของอลิซ เดินไปหาวินที่อยู่ทางขวาเฟรม เปิดประตูกระจกรอรับ กล้องตามไปจนอลิซหยุดที่หน้าประตูของหอพัก อลิซหยุดก่อน ยังไม่ออกพ้นประตู กล้องเข้าไปเป็นผ่านไหล่อลิซ MS ไปที่วิน"* · *"ท่าเดินอลิซอ่อนแรงนิดหน่อย อย่าเว่อแบบอันก่อน"* · *"คัท 2 reverse MS อลิซ อยู่ซ้าย ผ่านไหล่วิน ที่เปิดประตูคาไว้"* · *"อย่าขยับมือไม้เยอะแบบเทคก่อน ยืนนิ่งๆแบบฝีนว่าไม่เป็นไร"* · *"ไม่ต้องหน้าแดงเว่อ ขอนิดเดียว"* · *"อลิซอย่ายิ้มกว้างเห็นฟัน จำไว้เป็นคาแร็คเตอร์ประจำ"* → `Aliz's smiles stay small and closed-lip`
+- เทค 2 ตัดออก (user ไม่ได้สั่งให้คงไว้ และโครงใหม่ไม่มี): ตบแก้มเปิดรอยยิ้ม · วินแอบยิ้มหันไปที่รถ · ป้าแม่บ้าน · พนักงานนิติ · คัท CU วิน · ชี้ไปที่รถ/ทัดผม/ประสานมือ · ไบค์ออกจากเรฟ (ไม่อยู่ในเฟรม)
+- 2026-10-15 user ส่งเฟรมสุดท้ายคลิป 4 v1 มาในแชต (อลิซเดินออกจากทางเดินในล็อบบี้ วินหลังศีรษะ/ไหล่เบลออยู่ขวาเฟรม แดดเช้าเป็นดวงบนผนัง) — ภาพในแชตเข้า Fortal ไม่ได้ ต้องอัปเข้า Mix Stage แล้วลิงก์เป็น @Image1 · ไบค์ถอดออกจากช็อต
+- ⚠️ เฟรมสุดท้ายคลิป 4: เครื่องนี้เปิดวิดีโอไม่ได้ (`view_asset` รับแต่รูป · network บล็อก supabase) และ `save_to_mix_stage` ของวิดีโอเทคขึ้น `source_not_in_project` → ต้องให้ user แคปเฟรมสุดท้ายแล้วอัปเข้า Mix Stage
+

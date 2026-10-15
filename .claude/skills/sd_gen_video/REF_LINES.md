@@ -22,6 +22,7 @@
 ALIZ: 26, pretty, long straight jet-black hair. 100% matches the reference, and @ImageN is the authority for what she is wearing today.
 ```
 รูปแบบของ EP04-06 · user สั่งให้กลับมาใช้แบบนี้ 2026-09-09 หลังจากผมเปลี่ยนเองตอนขึ้น EP07 โดยไม่มีเหตุผลและไม่ได้บอก
+**คาแร็กเตอร์ประจำ: ยิ้มไม่เห็นฟัน** (user 2026-10-15) — ไม่อยู่ในบรรทัดเรฟ ใส่ใน PERFORMANCE ทุกบ็อก: `Aliz's smiles stay small and closed-lip.` (ดู SKILL.md ขั้น 6 การแสดง)
 
 ### WIN
 ```
