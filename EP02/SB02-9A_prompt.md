@@ -60,3 +60,4 @@ Win and Aliz stay silent.
 - **แบบที่ 1 — จาวิส *"ทำ 2 แบบ เหมือนเดิม เพราะต้องเทสระบบก่อน"*** · ไม่ผ่าน `check_prompt.sh` โดยตั้งใจ
 - เพิ่มเรฟ `WIN_greenjkt_CU` + `WIN_greenjkt_3Q` เหมือน 9B
 - เทค 1 ยิง 2026-10-15 — run `f6a897dc-94af-485f-bd9b-7e32a20d0105` · Seedance 2.5 · references · 16:9 · 720p · 14 วิ · เรฟ 11 · จาวิสสั่ง "ยิง" · ครั้งแรกติด moderation gate รอ 35 วิ ยิงซ้ำ key เดิม
+- เทค 1 เสร็จ — 14.08 วิ · 123.1 พอยต์ · asset `8b7b76cf-ee6e-4121-b7e2-753c415eb2a8` · รอ user ดู
