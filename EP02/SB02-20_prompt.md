@@ -24,7 +24,7 @@ ACTIVE REFERENCES
 @Image5 — HIS FULL BODY. 100% matches the reference for his clothes.
 @Image6 — THE VIP RECOVERY ROOM WITH THE HEAVY CURTAINS OPEN AND ONLY THE SHEER WHITE CURTAINS DRAWN. THIS REFERENCE IS THE AUTHORITY FOR THE ROOM ITSELF AND FOR ITS LIGHT.
 @Audio1 — THE VOICE. It is ALIZ's voice. Aliz speaks with the voice in @Audio1, at the time written in DIALOGUE.
-@Image1 and @Image2 carry her face only, and her clothes come from @Image3. @Image4 carries his face, and his clothes come from @Image5. The whole video takes place in the room in @Image6.
+@Image1 and @Image2 carry her face only, and her clothes come from @Image3. @Image4 carries his face, and his clothes come from @Image5, and they show him only in Shot 4, when he comes out of the glare. The whole video takes place in the room in @Image6.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–3.0 s — THE CURTAINS OPEN
@@ -42,7 +42,7 @@ Picture:
 - Seen from the pillow, the whole frame out of focus and tilted a little, because she is lying with her head turned on its side.
 - The window with the sheer curtains glows bright white across the whole background.
 - A man is a dark silhouette against the light. He turns from the window and walks to the side of the bed, growing larger as he comes closer.
-- He is only a dark outline with a soft glowing edge of light; his face and his clothes are lost in the shadow, so there is no telling who he is.
+- He is only a dark, blurred shape with a soft glowing edge of light; his face, his hair and his clothes are lost in the shadow and the blur. The audience sees what Aliz sees: a tall man coming to her bed, who could be Win.
 - Aliz's line starts at 4.6 s as a voice over this shot; see Shot 3.
 Camera: POV, 60 cm high at pillow level, 50mm lens, deliberately out of focus, steady, moving slightly with her breathing.
 Composition: the man's silhouette in the centre of the frame against the bright window.
@@ -51,7 +51,7 @@ Light: exposed for the window, so the man standing in front of it falls into sil
 Shot 3 — 6.5–10.6 s — THROUGH THE GAP
 Picture:
 - The camera is behind the man, low, looking through the gap between his arm and his body.
-- The edges of the gap are soft, pale, blurred shapes, blown out by the window light, impossible to make out.
+- The edges of the gap are soft, pale, blurred shapes, blown out by the window light, impossible to make out. Only Aliz is sharp; the man stays an anonymous blur, and the audience still cannot tell who he is.
 - Inside the gap, Aliz's face is sharp, in soft light from the window.
 - 4.6–10.3 s · Aliz: "อุตส่าห์ได้งานใหม่ นัดแรกหนูก็เบี้ยวเขาแล้วอะลุง..."
   - Emotion from the script: 虚弱呢喃.
@@ -97,3 +97,4 @@ Shot 2 to Shot 3, 4.6–10.3 s, ALIZ: "อุตส่าห์ได้งา�
 - ช็อต 3 "ยิ้มอ่อน" → `closed-lip smile` ตามกฎอลิซไม่ยิ้มเห็นฟัน · "ลากเสียงอ้อนเบาๆ แล้วแผ่วหาย" → ตัดกำกับเสียง เหลือ "the line fades away" (ไดรเวอร์คุมเสียง)
 - NOTE ในบทเขียนแจ็คเสื้อในแดงไวน์ → สตอรี่บอร์ดสั่งเทาเข้ม ใช้เทาตามสตอรี่บอร์ด (คำสั่งล่าสุดชนะ)
 - ช็อต 3 ความหมาย "ไม่ใช่แจ็คเก็ตเขียว" → ตัดออก เหลือ "the edges of the gap are pale" (เอ่ยแจ็คเก็ตเขียว เสี่ยง SD ใส่ให้แจ็ค)
+- 2026-10-19 user *"เราขี้โกงได้เลยนะ ตอนมุมมอง อลิชที่มองอาจให้เข้าใจผิดได้เลยว่าเป็น ลุงวินแต่ยังไงก็ทำให้ ตัวละครที่มองมันมืดๆ ดูไม่ออกก็ได้ +เบลอ ขอให้คนดูห้ามดูออกเด็ดขาดว่า คือแจคอะ"* → ช็อต 2: มืด+เบลอ หน้า ผม ชุด หายในเงา "could be Win" · ช็อต 3: ผู้ชายเบลอนิรนาม คนดูยังดูไม่ออก · บรรทัดเรฟ: @Image4/@Image5 ใช้เฉพาะช็อต 4 · ไม่แนบเรฟวิน (กันได้วินชัด/แจ็คเก็ตเขียวโผล่)
