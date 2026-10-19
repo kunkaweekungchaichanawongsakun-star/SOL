@@ -82,3 +82,4 @@ Shot 2, 2.6–10.6 s, JACK (voice message through her phone): "บิลจา�
 - GLOBAL STYLE ไม่ใส่โทน "ฟิน น่ารัก" ของคลิป 13–17 เพราะคลิปนี้อารมณ์ตกลง (คงแค่บรรทัดการแสดงไม่เวอร์ของ user คลิป 10)
 - ช็อต 2 "ไม่ร้องไห้ ไม่อุทาน มีแค่น้ำหนักที่ตกลงมา" → `She takes it in silence; only the weight of it settles on her.` (ประโยคปฏิเสธ) · "dolly in ไม่ zoom" → `the camera physically moving closer` · "แสงไม่เปลี่ยน" → `stays exactly as before`
 - ช็อต 2 เสียง "แหลมนิดๆ แต่ชัดพอ" → ตัด (A13 กำกับเสียง) เหลือ `through the phone speaker`
+- เทค 1 ยิง 2026-10-19 — run `58d0e7f1-fdff-492a-ac4f-2b9d78bd2825` · Seedance 2.5 · references · 16:9 · 720p · 14 วิ · เรฟ 7 + @Audio1 · user สั่ง "ยิง"
