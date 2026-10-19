@@ -22,7 +22,9 @@ ACTIVE REFERENCES
 @Image6 — HIS FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for his face.
 @Image7 — THE HOSPITAL LOBBY FROM THE SIDE. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
 @Image8 — THE STRETCHER. THIS REFERENCE IS THE AUTHORITY FOR THE STRETCHER ITSELF.
-@Image1 and @Image2 carry her face, and her clothes come from @Image3. @Image5 and @Image6 carry his face, and his clothes come from @Image4. Every shot takes place in the lobby in @Image7, and the stretcher is the one in @Image8.
+@Image9 — DOCTOR 1: a doctor at this hospital. 100% matches the reference, and @Image9 is the authority for what he is wearing today.
+@Image10 — DOCTOR 2: a doctor at this hospital. 100% matches the reference, and @Image10 is the authority for what he is wearing today.
+@Image1 and @Image2 carry her face, and her clothes come from @Image3. @Image5 and @Image6 carry his face, and his clothes come from @Image4. Every shot takes place in the lobby in @Image7, and the stretcher is the one in @Image8. The two doctors in Shot 3 are @Image9 and @Image10.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–4.0 s — THE STRETCHER ARRIVES
@@ -42,7 +44,7 @@ Shot 3 — 6.5–10.0 s — THE EMERGENCY ROOM
 Picture:
 - The stretcher rolls off to the right into the corridor to the emergency room, Win walking fast beside it, one hand on the stretcher's rail.
 - They go through the pale swing doors at the end of the corridor. The doors swing back and forth twice, then come to rest.
-- The lobby is quiet again. Deep on the left, the two doctors walk on their own way.
+- The lobby is quiet again. Deep on the left, the two doctors, @Image9 and @Image10, walk on their own way.
 Camera: WS, 150 cm high, eye level, 35mm lens, locked-off.
 Composition: the swing doors on the right third are the destination. The doors swinging and then stopping are the end of the outside part of the scene.
 Sound: the stretcher's wheels. The swing doors thudding, then silence.
@@ -60,3 +62,5 @@ Everyone stays silent.
 ## CHANGE LOG
 - เทค 1 — ก๊อปจาก `SB02-16_prompt.md` (หัวพรอมป์) · SHOT-BY-SHOT = สตอรี่บอร์ดจาวิสแปลตรงตัว · แบบเดียว
 - เพิ่มเอง (สตอรี่บอร์ดไม่ได้แนบ): `WIN_greenjkt_CU` / `3Q` ตามคำ user คลิป 1 *"แนบภาพวินไม่ใส่หมวกมาด้วยเลย"* · `P 05 · เตียงเข็นผู้ป่วย` ให้เตียงตรงกับคลิป 1
+- 2026-10-19 user *"ยิง ถ้าเหตุการณ์มันต่อกัน ถ้ามันจะเห็นหมอ 2 คน ก็ต้องแนบนะ ถ้าไม่เห็นไม่เป็นไร"* → เพิ่ม @Image9 `หมอ1` · @Image10 `หมอ2` (ช็อต 3 เห็นหมอเดินลึกทางซ้าย) · เรฟ 10
+- เทค 1 ยิง 2026-10-19 — run `ffc2c763-7550-430f-ae74-1023eb5725f0` · Seedance 2.5 · references · 16:9 · 720p · 10 วิ · เรฟ 10 · user สั่ง "ยิง"
