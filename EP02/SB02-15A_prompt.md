@@ -21,7 +21,11 @@ ACTIVE REFERENCES
 @Image8 — WIN'S HELMET. THIS REFERENCE IS THE AUTHORITY FOR THIS HELMET ITSELF.
 @Image9 — THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF.
 @Image10 — THE EMERGENCY ENTRANCE OF THE HOSPITAL. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
-@Image1 and @Image2 carry her face, and her clothes come from @Image3. @Image5 carries his face and his clothes. Every shot takes place in @Image10, under the canopy of the emergency entrance.
+@Image11 — HIS FACE FROM THE FRONT. 100% matches the reference for his face.
+@Image12 — HIS FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for his face.
+@Image13 — THE HOSPITAL LOBBY SEEN FROM THE GLASS DOOR, LOOKING IN. THIS REFERENCE IS THE AUTHORITY FOR THE LOBBY ITSELF.
+@Image14 — THE WHEELED HOSPITAL BED. THIS REFERENCE IS THE AUTHORITY FOR THE BED ITSELF.
+@Image1 and @Image2 carry her face, and her clothes come from @Image3. @Image11 and @Image12 carry his face, and his clothes come from @Image5. Shots 1, 2 and 4 take place in @Image10, under the canopy of the emergency entrance. In Shot 3 the lobby seen through the glass door is @Image13, and the stretcher the male nurse pulls is the bed in @Image14.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–4.0 s — CLICK
@@ -50,7 +54,7 @@ Sound: her sneakers scraping the ground. His heavy breathing.
 Cut: he stops walking and looks up at the door → the next shot is what he sees.
 
 Shot 3 — 7.5–9.5 s — THE STRETCHER IS NOT HERE YET
-Picture: looking through the glass door into the lobby. At the far end, a male nurse has only just pulled a stretcher out of a side corridor and is turning its head around. It is still a long way off.
+Picture: looking through the glass door into the lobby of @Image13. At the far end, a male nurse has only just pulled a stretcher, the bed from @Image14, out of a side corridor and is turning its head around. It is still a long way off.
 Camera: OTS over Win's shoulder, 165 cm high, eye level, 35mm lens, locked-off, deep focus, the distance clearly visible.
 Composition: Win's shoulder and Aliz's head leaning on it are the foreground on the right. The glass door is a frame within the frame. The stretcher is small and far away on the left third of the lobby.
 Meaning: this is the reason he carries her. He cannot wait.
@@ -76,3 +80,4 @@ Win and Aliz stay silent.
 - เทค 1 — ก๊อปจาก `SB02-10A_prompt.md` (หัวพรอมป์ใช้ชุดเดียวกับ `SB02-15B`) · SHOT-BY-SHOT = สตอรี่บอร์ดจาวิสแปลตรงตัว
 - **แบบที่ 1 — จาวิส *"ทำ 2 แบบ เหมือนเดิม เพราะต้องเทสระบบก่อน"*** · ไม่ผ่าน `check_prompt.sh` โดยตั้งใจ
 - หมวกถอดในช็อต 1 → บรรทัดรวมเรฟ: หน้าวินมาจาก @Image5 (เต็มตัว) · @Image6 ใช้แค่ตอนยังใส่หมวก
+- 2026-10-19 user *"วินถอดหมวก ใช่ต้องแนบ ก็แนบภาพวินไม่ใส่หมวกมาด้วยเลย"* → @Image11 `WIN_greenjkt_CU` · @Image12 `WIN_greenjkt_3Q` · user *"ผมไม่ได้เจน เตียงเข็ญมา อาจให้อิงจาก ห้อง VIP ก็ได้"* → @Image14 `H 03 C1` (เตียงในห้อง VIP) · user อัปมุมวินมองเข้าล็อบบี้ → @Image13 `หน้าล็อบบี้ ร.พ มุมมองวินมองเข้าไป` (ช็อต 3) · เรฟ 14 ใบ

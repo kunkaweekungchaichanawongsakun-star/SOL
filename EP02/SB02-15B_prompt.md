@@ -21,13 +21,17 @@ ACTIVE REFERENCES
 @Image8 — WIN'S HELMET. THIS REFERENCE IS THE AUTHORITY FOR THIS HELMET ITSELF.
 @Image9 — THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF.
 @Image10 — THE EMERGENCY ENTRANCE OF THE HOSPITAL. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
-@Image1 and @Image2 carry her face, and her clothes come from @Image3. @Image5 carries his face and his clothes. Every shot takes place in @Image10, under the canopy of the emergency entrance.
+@Image11 — HIS FACE FROM THE FRONT. 100% matches the reference for his face.
+@Image12 — HIS FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for his face.
+@Image13 — THE HOSPITAL LOBBY SEEN FROM THE GLASS DOOR, LOOKING IN. THIS REFERENCE IS THE AUTHORITY FOR THE LOBBY ITSELF.
+@Image14 — THE WHEELED HOSPITAL BED. THIS REFERENCE IS THE AUTHORITY FOR THE BED ITSELF.
+@Image1 and @Image2 carry her face, and her clothes come from @Image3. @Image11 and @Image12 carry his face, and his clothes come from @Image5. Shots 1, 2 and 4 take place in @Image10, under the canopy of the emergency entrance. In Shot 3 the lobby seen through the glass door is @Image13, and the stretcher the male nurse pulls is the bed in @Image14.
 
 WHERE EVERYONE IS
 For the whole video the motorcycle stands on its kickstand under the canopy, engine off, with its front pointing to the right of frame.
 Shot 1: Aliz sits on the back seat on the left of frame. Win stands beside the motorcycle on the right of frame. The glass door of the emergency entrance is behind them. The camera is beside the motorcycle at their eye level, handheld, moving slightly.
 Shot 2: Win and Aliz walk away from the camera toward the glass door, Win on the right and Aliz on the left. The camera follows slowly behind them, a little lower than their eyes.
-Shot 3: Win and Aliz stand outside the glass door. The camera is just behind Win's shoulder at his eye level, looking through the glass door into the lobby, and stays in that one place for the whole shot.
+Shot 3: Win and Aliz stand outside the glass door. The camera is just behind Win's shoulder at his eye level, looking through the glass door into the lobby of @Image13, and stays in that one place for the whole shot.
 Shot 4: Win and Aliz stand outside the glass door, her head resting on his shoulder. The camera is in front of them at Win's eye level and stays in that one place for the whole shot.
 
 SHOT-BY-SHOT
@@ -40,7 +44,7 @@ Shot 2 — FS, 4.0–7.5 s
 From 4.0 to 5.5 s: Win puts her left arm over his shoulders and his right arm around her waist, and helps her down from the seat. She stands, swaying.
 From 5.5 to 7.5 s: they walk toward the glass door. She tries to walk on her own, pushing through. After a few steps her legs give way and her sneakers drag along the ground, and her whole weight falls against him. He stops.
 Shot 3 — OTS, 7.5–9.5 s
-From 7.5 to 9.5 s: through the glass door, far down the lobby, a male nurse has only just pulled a stretcher out of a side corridor and is turning it round. It is still a long way off, and Win sees that he cannot wait for it.
+From 7.5 to 9.5 s: through the glass door, far down the lobby, a male nurse has only just pulled a stretcher, the bed from @Image14, out of a side corridor and is turning it round. It is still a long way off, and Win sees that he cannot wait for it.
 Shot 4 — MCU, 9.5–11.0 s
 From 9.5 to 11.0 s: Win looks from the door to Aliz resting on his shoulder, lets out a short breath, crouches, and slides his left arm under the backs of her knees to lift her. His mind is made up; he simply does what has to be done.
 
@@ -78,3 +82,4 @@ Shot 1: the hot engine ticking as it cools, the click of the helmet strap, the a
 - เก็บไว้พร้อมเหตุผล: `forehead` · `shoulder` · `legs give way` · `left arm under the backs of her knees` = ตัวแอ็กชันเอง ตัดแล้วบล็อกกิ้งพัง
 - ทิศรถหัวไปขวา + อลิซซ้าย วินขวา ตามสตอรี่บอร์ด ต่อจากคลิป 11 (`SB02-14B`) · ⚠️ ขอผู้กำกับยืนยัน
 - บุรุษพยาบาล + เตียงเข็น ไม่ได้แนบ → ให้ SD เจน · ล็อบบี้ข้างใน (ช็อต 3) ไม่ได้แนบเรฟ → SD เจนผ่านกระจก
+- 2026-10-19 user *"วินถอดหมวก ใช่ต้องแนบ ก็แนบภาพวินไม่ใส่หมวกมาด้วยเลย"* → @Image11 `WIN_greenjkt_CU` · @Image12 `WIN_greenjkt_3Q` · user *"ผมไม่ได้เจน เตียงเข็ญมา อาจให้อิงจาก ห้อง VIP ก็ได้"* → @Image14 `H 03 C1` (เตียงในห้อง VIP) · user อัปมุมวินมองเข้าล็อบบี้ → @Image13 `หน้าล็อบบี้ ร.พ มุมมองวินมองเข้าไป` (ช็อต 3) · เรฟ 14 ใบ
