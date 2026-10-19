@@ -6,7 +6,7 @@ LIP SYNC
 This video is wordless. Everyone stays silent for the whole video.
 
 BEFORE THIS VIDEO
-All of this has already happened before the first frame. This is the third video of this scene. Aliz has just been discharged from hospital. Win, the man she calls "ลุง", carried her into that hospital, then had to leave for work; when he came back, he saw another man sitting beside her bed and stayed away. This evening Jack drove her home to her dorm in his white Mercedes. She went into the lobby alone and left him outside; he slammed the car door and drove off hard. All this time, Win has been waiting across the street in the shadow beside the closed kiosk, on his motorcycle with its lights off, still in his green jacket.
+All of this has already happened before the first frame. This is the third video of this scene. Aliz has just been discharged from hospital. Win, the man she calls "ลุง", carried her into that hospital, then had to leave for work; when he came back, he saw another man sitting beside her bed and stayed away. This evening Jack drove her home to her dorm in his white Mercedes. She went into the lobby alone and left him outside; he slammed the car door and drove off hard. All this time, Win has been waiting across the street, tucked in the shadow right beside the closed kiosk, his motorcycle parked up on the pavement against the side of the kiosk with its lights off, still in his green jacket. The kiosk hides him from the dorm entrance, so Aliz walked in without seeing him.
 
 SCENE
 The white Mercedes speeds past and reveals Win, who has been sitting in the dark across from the dorm the whole time. He watches the car until it is gone, wondering who that man is. Then his worry for her wins, and he looks up at the dorm, where a dark window on an upper floor lights up.
@@ -27,9 +27,9 @@ Shot 1 — 0.0–5.0 s — THE MERCEDES CUTS ACROSS
 Picture:
 - Looking from the pavement on the dorm side, across the street to the kiosk with its roller shutter down, under the trees and a street lamp. The long hedge and houses with warm lit windows behind it.
 - The white Mercedes passes very close to the lens from right to left, its white body filling the whole frame, with real motion blur from its speed.
-- As the car clears the left edge, it reveals: in the shadow beside the kiosk on the right, Win sitting astride his motorcycle with its lights off, his black helmet hanging on the mirror stalk, in his green jacket. His head turns slowly, following the car to the left.
+- As the car clears the left edge, it reveals: up on the far pavement, tucked tight against the side of the kiosk in its shadow, Win sitting astride his motorcycle with its lights off, his black helmet hanging on the mirror stalk, in his green jacket. The motorcycle stands on the pavement, close in against the kiosk wall, well back from the road; the kiosk half hides him. His head turns slowly, following the car to the left.
 Camera: WS, 110 cm high, eye level, 35mm lens, locked-off.
-Composition: the kiosk in the centre of the frame. Win on the right third, half of him in shadow. The pool of street-lamp light on the pavement is the brightest point; Win sits just outside it, in plain sight, in a place passers-by overlook.
+Composition: the kiosk in the centre of the frame. Win on the right third, on the pavement beside the kiosk, half of him in shadow and half hidden by the kiosk. The pool of street-lamp light on the pavement is the brightest point; Win sits just outside it, in plain sight, in a place passers-by overlook.
 Sound: the Mercedes engine passing from right to left, then fading away into the distance. The night insects come back.
 
 Shot 2 — 5.0–9.0 s — UNTIL IT IS GONE
@@ -65,3 +65,4 @@ Everyone stays silent.
 - BEFORE THIS VIDEO "เห็นมีผู้ชายนั่งเฝ้า เลยไม่กล้าเข้าไปยุ่ง" ยกจากบท 2-4 บรรทัดวิน [^14] เพื่อให้คำถามในตาเขามีที่มา
 - เทค 1 ยิง 2026-10-19 — run `b8279ccf-4f42-496a-b59a-ee93a2d5da9b` · Seedance 2.5 · references · 16:9 · 720p · 12 วิ · เรฟ 8 · user สั่ง "ยิง"
 - เทค 1 เสร็จ — 12.06 วิ · 105.5 พอยต์ · asset `00f800f9-abbd-4e9a-9dc2-319a5cf01c5b` · รอ user ดู
+- เทค 2 (เตรียม) 2026-10-19 user *"แก้ตำแหน่งวินหน่อย ตอนเจนมามัน อยู่กลางถนน มันแปลกเกินไป ต้องแอบ อยู่ข้างป้อมเลยด้านในฟุตบาทอะ ไม่ใช่ออกมาข้างนอกถนน ต้องเป็นมุมที่่ อลิชไม่เห็น"* → ช็อต 1 bullet เผยวิน + องค์ประกอบ + BEFORE: มอไซค์จอดบนฟุตบาทชิดผนังป้อม ห่างจากถนน ป้อมบังครึ่งตัว ป้อมบังจากทางเข้าหอ อลิซเลยไม่เห็น
