@@ -29,7 +29,7 @@ Picture:
 - The white Mercedes passes very close to the lens from right to left, its white body filling the whole frame, with real motion blur from its speed.
 - As the car clears the left edge, it reveals: up on the far pavement, tucked tight against the side of the kiosk in its shadow, Win sitting astride his motorcycle with its lights off, his black helmet hanging on the mirror stalk, in his green jacket. The motorcycle stands on the pavement, close in against the kiosk wall, well back from the road; the kiosk half hides him. His head turns slowly, following the car to the left.
 Camera: WS, 110 cm high, eye level, 35mm lens, locked-off.
-Composition: the kiosk in the centre of the frame. Win on the right third, on the pavement beside the kiosk, half of him in shadow and half hidden by the kiosk. The pool of street-lamp light on the pavement is the brightest point; Win sits just outside it, in plain sight, in a place passers-by overlook.
+Composition: the kiosk in the centre of the frame. Win on the right third, on the pavement beside the kiosk, half of him in shadow and half hidden by the kiosk. The pool of street-lamp light on the pavement is the brightest point; Win sits just outside it, in the dark, in a place passers-by overlook.
 Sound: the Mercedes engine passing from right to left, then fading away into the distance. The night insects come back.
 
 Shot 2 — 5.0–9.0 s — UNTIL IT IS GONE
@@ -66,3 +66,4 @@ Everyone stays silent.
 - เทค 1 ยิง 2026-10-19 — run `b8279ccf-4f42-496a-b59a-ee93a2d5da9b` · Seedance 2.5 · references · 16:9 · 720p · 12 วิ · เรฟ 8 · user สั่ง "ยิง"
 - เทค 1 เสร็จ — 12.06 วิ · 105.5 พอยต์ · asset `00f800f9-abbd-4e9a-9dc2-319a5cf01c5b` · รอ user ดู
 - เทค 2 (เตรียม) 2026-10-19 user *"แก้ตำแหน่งวินหน่อย ตอนเจนมามัน อยู่กลางถนน มันแปลกเกินไป ต้องแอบ อยู่ข้างป้อมเลยด้านในฟุตบาทอะ ไม่ใช่ออกมาข้างนอกถนน ต้องเป็นมุมที่่ อลิชไม่เห็น"* → ช็อต 1 bullet เผยวิน + องค์ประกอบ + BEFORE: มอไซค์จอดบนฟุตบาทชิดผนังป้อม ห่างจากถนน ป้อมบังครึ่งตัว ป้อมบังจากทางเข้าหอ อลิซเลยไม่เห็น
+- เทค 2 — องค์ประกอบ "in plain sight" → `in the dark` (ขัดกับคำ user ว่าต้องแอบ)
