@@ -21,7 +21,7 @@ ACTIVE REFERENCES
 @Image7 — THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF.
 @Image8 — WIN'S HELMET. THIS REFERENCE IS THE AUTHORITY FOR THIS HELMET ITSELF.
 @Image9 — WHERE WIN SITS AND HOW HE SITS. THIS REFERENCE IS THE AUTHORITY FOR WHICH SIDE OF THE KIOSK HE IS ON, HOW HIS MOTORCYCLE STANDS AND HOW HE SITS. THE CAMERA IN THIS VIDEO IS CLOSER THAN IN @Image9.
-@Image2 and @Image3 carry his face, and his clothes come from @Image1. @Image9 carries only where he and the motorcycle are and how he sits; its distance and framing are not used. Shots 1 and 2 are the far side of the street in @Image4. Shot 3 looks up at the dorm in @Image5. The car is @Image6, his motorcycle is @Image7, and his black helmet @Image8 hangs on its mirror stalk.
+@Image2 and @Image3 carry his face, and his clothes come from @Image1. @Image9 carries only where he and the motorcycle are and how he sits; the distance and framing come from this prompt. Shots 1 and 2 are the far side of the street in @Image4. Shot 3 looks up at the dorm in @Image5. The car is @Image6, his motorcycle is @Image7, and his black helmet @Image8 hangs on its mirror stalk.
 
 WHERE WIN IS, FOR THE WHOLE VIDEO, AS IN @Image9
 - His motorcycle is parked on the pavement across the street from the dorm, close against the hedge, to the left of the kiosk, under a tree and a street lamp. It stands parallel to the hedge, its front pointing toward the kiosk, its lights off.
