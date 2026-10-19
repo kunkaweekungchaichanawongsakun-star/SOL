@@ -55,7 +55,7 @@ CAMERA
 Shot 1 MS, light handheld. Shot 2 FS, following slowly behind, slightly low angle. Shot 3 OTS over Win's shoulder, locked off. Shot 4 MCU, locked off.
 
 PERFORMANCE
-Understated and real. Win is quick and steady, with all his attention on Aliz; he holds her only as much as she needs to stay on her feet. Aliz is barely conscious, worn out by the fever.
+Understated and real. Win is quick and steady, with all his attention on Aliz; he holds her only as much as she needs to stay on her feet. Aliz is barely conscious and worn out. Her skin tone stays exactly as in @Image1 and @Image2 for the whole video, and she plays her illness and tiredness through her breathing and the way she moves: heavy, slow and spent.
 
 PHYSICS
 The motorcycle stays on its kickstand under the canopy for the whole video. From 2.2 s Win's helmet hangs on the left mirror stalk. From 4.0 s Aliz's helmet lies on the seat. From 4.0 s Aliz's left arm is over Win's shoulders and his right arm is around her waist.
@@ -84,3 +84,4 @@ Shot 1: the hot engine ticking as it cools, the click of the helmet strap, the a
 - บุรุษพยาบาล + เตียงเข็น ไม่ได้แนบ → ให้ SD เจน · ล็อบบี้ข้างใน (ช็อต 3) ไม่ได้แนบเรฟ → SD เจนผ่านกระจก
 - 2026-10-19 user *"วินถอดหมวก ใช่ต้องแนบ ก็แนบภาพวินไม่ใส่หมวกมาด้วยเลย"* → @Image11 `WIN_greenjkt_CU` · @Image12 `WIN_greenjkt_3Q` · user *"ผมไม่ได้เจน เตียงเข็ญมา อาจให้อิงจาก ห้อง VIP ก็ได้"* → @Image14 `H 03 C1` (เตียงในห้อง VIP) · user อัปมุมวินมองเข้าล็อบบี้ → @Image13 `หน้าล็อบบี้ ร.พ มุมมองวินมองเข้าไป` (ช็อต 3) · เรฟ 14 ใบ
 - 2026-10-19 user *"งั้นไม่ต้องอิงห้อง vip ก็ได้ ผมเจนแล้วเข้าไปใส่ใน mix ละ P-05 · เตียงเข็นผู้ป่วย"* → @Image14 เปลี่ยนจาก `H 03 C1` เป็น `P 05 · เตียงเข็นผู้ป่วย` (`1f59d31f`)
+- 2026-10-19 จาวิสส่งสตอรี่บอร์ดซ้ำ *"เอาใหม่นะ"* เพิ่มบรรทัด *"หน้าอลิซ: สีผิวปกติตามภาพตัวละคร ไม่มีแก้มแดงไข้ ไม่ซีดเกินจริง · ความป่วยและความเหนื่อยเล่นด้วยสายตา ลมหายใจ และท่าทางเท่านั้น"* → PERFORMANCE: `Her skin tone stays exactly as in @Image1 and @Image2 for the whole video, and she plays her illness and tiredness through her breathing and the way she moves` · ตัดประโยคปฏิเสธ (ไม่มีแก้มแดง · ไม่ซีด — เอ่ยแล้วเรียกเข้าเฟรม เทค SB02-8A เขียน faint flush แล้วแดงเต็มหน้า) · ตัด "สายตา" (สั่งอวัยวะ) · ตัด `by the fever` ออกจาก PERFORMANCE · เรฟ 14 ใบคงเดิม

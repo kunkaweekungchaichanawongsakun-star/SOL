@@ -10,6 +10,9 @@ All of this has already happened before the first frame. This is the first video
 SCENE
 Win gets off the motorcycle under the emergency canopy, takes off his helmet and hers, and helps Aliz off the motorcycle. She tries to walk and cannot. The stretcher is still far away inside, so he decides to carry her.
 
+ALIZ'S FACE
+Normal skin tone, as in her character references, with no feverish red cheeks and not unrealistically pale. Her illness and tiredness are played only through her eyes, her breathing and her body.
+
 ACTIVE REFERENCES
 @Image1 — ALIZ: 26, pretty, long straight jet-black hair. 100% matches the reference, and @Image3 is the authority for what she is wearing today.
 @Image2 — HER FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for her face.
@@ -82,3 +85,4 @@ Win and Aliz stay silent.
 - หมวกถอดในช็อต 1 → บรรทัดรวมเรฟ: หน้าวินมาจาก @Image5 (เต็มตัว) · @Image6 ใช้แค่ตอนยังใส่หมวก
 - 2026-10-19 user *"วินถอดหมวก ใช่ต้องแนบ ก็แนบภาพวินไม่ใส่หมวกมาด้วยเลย"* → @Image11 `WIN_greenjkt_CU` · @Image12 `WIN_greenjkt_3Q` · user *"ผมไม่ได้เจน เตียงเข็ญมา อาจให้อิงจาก ห้อง VIP ก็ได้"* → @Image14 `H 03 C1` (เตียงในห้อง VIP) · user อัปมุมวินมองเข้าล็อบบี้ → @Image13 `หน้าล็อบบี้ ร.พ มุมมองวินมองเข้าไป` (ช็อต 3) · เรฟ 14 ใบ
 - 2026-10-19 user *"งั้นไม่ต้องอิงห้อง vip ก็ได้ ผมเจนแล้วเข้าไปใส่ใน mix ละ P-05 · เตียงเข็นผู้ป่วย"* → @Image14 เปลี่ยนจาก `H 03 C1` เป็น `P 05 · เตียงเข็นผู้ป่วย` (`1f59d31f`)
+- 2026-10-19 จาวิสส่งสตอรี่บอร์ดซ้ำ *"เอาใหม่นะ"* เพิ่มบรรทัด *"หน้าอลิซ: สีผิวปกติตามภาพตัวละคร ไม่มีแก้มแดงไข้ ไม่ซีดเกินจริง · ความป่วยและความเหนื่อยเล่นด้วยสายตา ลมหายใจ และท่าทางเท่านั้น"* → หมวด ALIZ'S FACE แปลตรงตัว · ส่วนอื่นเหมือนเดิมทุกตัวอักษร · เรฟ 14 ใบคงเดิม
