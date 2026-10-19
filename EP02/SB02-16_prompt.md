@@ -5,7 +5,7 @@ LIP SYNC
 Win and Aliz stay silent for the whole video. Doctor 1 and Doctor 2 speak only in Shot 2. Each line is lip-synced to the person saying it.
 
 BEFORE THIS VIDEO
-All of this has already happened before the first frame. This is the second video of this scene. It is Monday, late morning. Win was taking Aliz to her job interview on his motorcycle, but she has a fever and passed out against his back, so he rode straight to a luxury private hospital. Under the canopy of the emergency entrance he helped her off the motorcycle, but her legs gave way, and the stretcher inside was still far away, so he picked her up to carry her in himself. Win is the chairman of a big company; people who know him by name call him Khun Winyu. Today he is dressed like an ordinary man, in his green jacket.
+All of this has already happened before the first frame. This is the second video of this scene. It is Monday, late morning. Win was taking Aliz to her job interview on his motorcycle, but she has a fever and passed out against his back, so he rode straight to a luxury private hospital. Under the canopy of the emergency entrance he helped her off the motorcycle, but her legs gave way, and the stretcher inside was still far away, so he picked her up to carry her in himself. His motorcycle is still parked under the canopy outside, his black helmet hanging on its left mirror stalk and her white helmet on its seat. Win is the chairman of a big company; people who know him by name call him Khun Winyu. Today he is dressed like an ordinary man, in his green jacket.
 
 SCENE
 Win carries Aliz in his arms through the automatic glass doors into the hospital lobby and hurries across it toward the emergency room. Two doctors who have just walked past him stop and look after him. One wonders whether that was Khun Winyu; the other dismisses it, because the man is dressed like a motorcycle taxi rider.
@@ -25,20 +25,24 @@ ACTIVE REFERENCES
 @Image9 — THE HOSPITAL LOBBY, LOOKING OUT THROUGH THE GLASS DOORS. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
 @Image10 — THE HOSPITAL LOBBY FROM THE SIDE. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
 @Image11 — THE EMERGENCY ENTRANCE OF THE HOSPITAL, OUTSIDE. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
+@Image12 — THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF.
+@Image13 — WIN'S HELMET. THIS REFERENCE IS THE AUTHORITY FOR THIS HELMET ITSELF.
+@Image14 — ALIZ'S HELMET. THIS REFERENCE IS THE AUTHORITY FOR THIS HELMET ITSELF.
 @Audio1 — THE VOICES. Its first line is DOCTOR 1's voice and its second line is DOCTOR 2's voice. Each person speaks with the voice in @Audio1, at the times written in DIALOGUE.
-@Image1 and @Image2 carry her face, and her clothes come from @Image3. @Image5 and @Image6 carry his face, and his clothes come from @Image4. Shot 1 is the lobby in @Image9, with the outside of @Image11 beyond the glass doors. Shot 2 is the lobby in @Image10.
+@Image1 and @Image2 carry her face, and her clothes come from @Image3. @Image5 and @Image6 carry his face, and his clothes come from @Image4. Shot 1 is the lobby in @Image9, with the outside of @Image11 beyond the glass doors; parked outside on the left of frame is the motorcycle in @Image12, with @Image13 hanging on its left mirror stalk and @Image14 on its seat. Shot 2 is the lobby in @Image10.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–7.0 s — STEPPING IN ★ HERO SHOT · slow motion, about half real speed
 Picture:
-- It opens on full-frame white: two doctors in white coats walk past very close to the lens from left to right, the hems of their white coats sweeping across the whole frame.
-- When the doctors clear the right edge, they reveal the automatic glass doors sliding open. Win steps in from outside, carrying Aliz in a princess carry.
+- It opens on the two doctors in white coats walking across the frame from left to right, close to the camera, framed by the camera.
+- When the doctors clear the right edge, the camera sees Win still outside the glass doors, standing there carrying Aliz in a princess carry. Outside, on the left of frame, his motorcycle is parked, his black helmet hanging on the left mirror stalk and her white helmet on the seat.
+- He holds there for a moment, in slow motion, the hero pose. Then the automatic glass doors slide open and he steps in. He takes his time; it is slow motion.
 - The carry: his right arm supports her back and shoulders, his left arm scoops under her knees. Her head rests against the right side of his chest, eyes closed, her long hair hanging down over his arm, swaying slowly with the rhythm of his steps. Her white sneakers hang on the other side.
 - The light beat: while he is outside, he is a silhouette backlit against the bright sky. As he steps over the threshold, the warm light of the lobby begins to catch his face and hers; from silhouette to visible faces, in slow motion. This is the beauty of this shot.
 Camera: FS ending on a cowboy shot, 70 cm high, low angle, 85mm lens, dolly backward slightly slower than he walks, so he grows larger by himself, no zoom.
 Composition: centred and symmetrical. The golden door frame is a frame within the frame around him. Aliz's body is a horizontal line across his chest. His head on the upper third line. The polished marble floor reflects the two of them.
 Performance:
-- Win does not pose and does not look at the camera. His eyes look straight ahead into the building, searching for the way to the emergency room. Jaw clenched, breathing hard.
+- Win does not look at the camera. His eyes look straight ahead into the building, searching for the way to the emergency room. Jaw clenched, breathing hard.
 - His arms take her real weight; he leans back a little to balance it, his strides long and steady. In the middle of the shot he shifts her up a little in his arms to hold her more securely; the real weight makes the audience believe it.
 - Aliz is limp all over, her left hand resting on her own stomach.
 Light: the sky and sun outside, 5600K, behind him, catching the edge of his hair, the edge of his jacket shoulders and the ends of her hair. The hidden lights in the lobby ceiling, about 3500K, warm from the front. The marble floor bounces light up under the chin. No haze, no dust, no light beams.
@@ -82,3 +86,5 @@ Shot 2, 9.1–11.4 s, DOCTOR 2: "ไม่น่าใช่ แต่งตั�
 - 2026-10-19 user *"ยิงตามสตอรี่บอร์ดเลย"* → ไม่ปรับ 8 ข้อที่แย้ง · slow motion ตามสตอรี่บอร์ด · บรรทัดเรฟ DOCTOR 1/2 ใช้ตามที่เสนอ
 - เทค 1 ยิง 2026-10-19 — run `d9023f16-998e-432c-856b-d1f2a6805914` · Seedance 2.5 · references · 16:9 · 720p · 12 วิ · เรฟ 11 + @Audio1 · user สั่ง "ยิง"
 - เทค 1 เสร็จ — 12.06 วิ · 105.5 พอยต์ · asset `65184a04-f5b7-4554-85fb-fe1285a9477b` · รอ user ดู
+- **เทค 2 (เตรียม) 2026-10-19** — user *"คลิป 2 ต้องแก้นะ เพราะ วินต้องอยู่ข้างนอกประตูก่อน เพื่อให้ได้ มีโพส สโลวโมชั่น แล้วค่อยก้าวเข้ามา ไม่ต้องรีบ มันสโลโมชั่นอะ"* · *"ตอนเปิดฉาก ไม่ต้อง ขาววอกแบบนั้น ให้เปิดที่หมอเดินภาพเฟรมกล้องไปเลย ละกล้องค่อยเห็นวิน อยู่ข้างนอกก่อนเข้ามา"* · *"ข้างนอกต้องเห็น มอไซด์ ชิดซ้ายจอดไว้ด้วย เพราะฉากมันต่อกัน"* → ช็อต 1 bullet 1–2 เขียนใหม่ (เปิดที่หมอเดินผ่านเฟรม ไม่ใช่ขาวเต็มจอ · วินยืนโพสข้างนอกก่อน แล้วประตูเปิด ค่อยก้าวเข้า) · เพิ่ม @Image12 `ไบค์` · @Image13 `หมวกกันน็อควิน` · @Image14 `หมวกกันน็อคอลิช` (ต่อเนื่องจากคลิป 1: หมวกดำแขวนก้านกระจกซ้าย หมวกขาววางบนเบาะ) · เรฟ 14 + @Audio1
+- เทค 2 — ตัด `does not pose and` ออกจาก Performance ช็อต 1 เพราะขัดกับคำ user *"วินต้องอยู่ข้างนอกประตูก่อน เพื่อให้ได้ มีโพส สโลวโมชั่น"* (คำสั่งในแชตชนะสตอรี่บอร์ด) · คง `does not look at the camera`
