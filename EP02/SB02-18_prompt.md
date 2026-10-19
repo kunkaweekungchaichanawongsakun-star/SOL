@@ -14,7 +14,7 @@ ALIZ'S FACE
 Normal skin tone, as in her character references, with no feverish red cheeks and not unrealistically pale. Her illness and tiredness are played only through her eyes, her breathing and her body.
 
 THE SALINE DRIP
-Attached to the inside of Aliz's left forearm for the whole clip, under a clear patch of tape, the clear tube running up to the saline bag on the pole beside the bed on the window side. Visible in every shot where her left arm is in frame. The tube stays attached and never disappears.
+Attached to the inside of Aliz's left forearm for the whole clip, under a clear patch of tape, the clear tube running up to the saline bag on the pole at the head of the bed, where the pole stands in @Image5. Visible in every shot where her left arm is in frame. The tube stays attached and never disappears.
 
 ACTIVE REFERENCES
 @Image1 — ALIZ: 26, pretty, long straight jet-black hair. 100% matches the reference, and @Image3 is the authority for what she is wearing today.
@@ -30,7 +30,7 @@ Shot 1 — 0.0–13.0 s — STANDING BY THE BED · one continuous shot, no cuts
 Picture:
 - 0–4.5 s: it opens close on the tray of the white, gold-edged equipment cart at the right edge of the frame. A female nurse's hands quietly arrange things: she sets down a stainless kidney dish, folds a small towel, slots the thermometer and the pulse oximeter into place, and gently pushes the frosted-glass drawer shut. She takes the cart's handle and wheels it out to the right until it leaves the frame.
 - 4.5–8 s: once the cart has gone, the camera pans slowly to the left, the focus shifting from close up to the bed.
-  - It reveals Aliz asleep in the bed, in blue-grey hospital patient clothes, her hair spread on the pillow. Her left arm lies outside the blanket; we see the saline needle under clear tape on her forearm and the clear tube running up to the saline bag.
+  - It reveals Aliz asleep in the bed, in blue-grey hospital patient clothes, the blanket covering her up to her chest, her hair spread on the pillow. Her left arm lies outside the blanket; we see the saline needle under clear tape on her forearm and the clear tube running up to the saline bag.
   - Then it reveals Win at the left edge of the frame, seen almost full length from behind, standing beside the bed on her right-hand side, looking at her.
 - 8–12 s: hold.
   - Win's shoulders, tense ever since the road, slowly drop. He lets out a long breath, the first of the day.
@@ -63,3 +63,4 @@ Everyone stays silent.
 - เทค 1 — ก๊อปจาก `SB02-17_prompt.md` (หัวพรอมป์) · SHOT-BY-SHOT = สตอรี่บอร์ดจาวิสแปลตรงตัว · แบบเดียว
 - หน้าอลิซจาก `ALIZ_pinkknit_CU` / `3Q` (ใส่ชุดชมพูในรูป) → เขียนกำกับว่าถือแค่หน้า ชุดมาจาก @Image3
 - ไม่ได้เพิ่ม `WIN_greenjkt_CU` / `3Q` เพราะเห็นวินจากด้านหลังทั้งช็อต (ตามกฎ: เห็นค่อยแนบ)
+- 2026-10-19 user *"ชุดอลิช Aliz NEW-C2-3 CU ตามนี้เลย คนไข้อะ เห็นครึ่งตัวอาจจะให้ห่มผ้าไปเลย ส่วนเสาน้ำเกลือ อิงตำแหน่งจากสถานที่ ก็ได้หรือตาม บทก็ได้ เลือกสักอย่าง"* → ชุดใช้ @Image3 เดิม (`Aliz NEW C2 3 CU` = `ALIZ_pajamas_CU` ตัวเดียวกัน เปลี่ยนชื่อเมื่อ 2026-10-16) · เพิ่ม `the blanket covering her up to her chest` · เสาน้ำเกลือเลือกตามสถานที่ (@Image5 เสาอยู่หัวเตียง) แทน "ฝั่งหน้าต่าง" ในสตอรี่บอร์ด เพราะเรฟชนะตัวหนังสือ เขียนขัดกับเพลต SD จะวาดเสาเพิ่มหรือเล่นครึ่งๆ
