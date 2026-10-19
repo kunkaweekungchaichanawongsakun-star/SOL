@@ -68,3 +68,4 @@ Aliz stays silent.
 - ช็อต 2 "รอยยิ้มเล็กๆ" → `small closed-lip smile` (อลิซไม่ยิ้มเห็นฟัน) · "เหนื่อยแบบคนเพิ่งหายป่วย ไม่ใช่ป่วยหนัก" → `tired like someone who has only just recovered` (ประโยคปฏิเสธ)
 - ช็อต 3 "จอมือถือไม่ต้องมีตัวหนังสือ" → `The phone screen is a plain soft glow.` (ไม่เอ่ยตัวหนังสือ)
 - BEFORE THIS VIDEO ไม่เล่าเรื่องวินรออยู่ฝั่งถนน (คลิปนี้อยู่ในห้องทั้งคลิป เอ่ยวิน/มอไซค์ = เสี่ยง SD ลากเข้าเฟรม)
+- เทค 1 ยิง 2026-10-19 — run `7fab113b-fe6c-45a3-b5f8-2814b2dad8f9` · Seedance 2.5 · references · 16:9 · 720p · 11 วิ · เรฟ 6 · user สั่ง "ยิง"
