@@ -83,3 +83,4 @@ Shot 2, 2.6–10.6 s, JACK (voice message through her phone): "บิลจา�
 - ช็อต 2 "ไม่ร้องไห้ ไม่อุทาน มีแค่น้ำหนักที่ตกลงมา" → `She takes it in silence; only the weight of it settles on her.` (ประโยคปฏิเสธ) · "dolly in ไม่ zoom" → `the camera physically moving closer` · "แสงไม่เปลี่ยน" → `stays exactly as before`
 - ช็อต 2 เสียง "แหลมนิดๆ แต่ชัดพอ" → ตัด (A13 กำกับเสียง) เหลือ `through the phone speaker`
 - เทค 1 ยิง 2026-10-19 — run `58d0e7f1-fdff-492a-ac4f-2b9d78bd2825` · Seedance 2.5 · references · 16:9 · 720p · 14 วิ · เรฟ 7 + @Audio1 · user สั่ง "ยิง"
+- เทค 1 เสร็จ — 14.08 วิ · 123.1 พอยต์ · asset `f5517e03-42bc-429d-8403-c535ecb713b6` · รอ user ดู
