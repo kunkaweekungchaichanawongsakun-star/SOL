@@ -88,3 +88,4 @@ Shot 3, 10.7–12.3 s, ALIZ: "ไม่เป็นไรค่ะ หนูไ�
 - ช็อต 3 "มือลอยอยู่ใกล้หลังเธอแต่ไม่แตะ" → `a hand's width away from it` · "พูดตัดเขาทันที ไม่หันไปมอง" → `her eyes ahead` · "ไม่ยอมให้เขาพยุง" → `walks on her own, out of his reach` (ประโยคปฏิเสธ)
 - ช็อต 3 "เสียงประจบ" · "ค่ะ สุภาพแต่เย็น" → ตัด (กำกับเสียง)
 - 2026-10-19 user *"ยิง D N1 D N2 นั่นแหละที่ใช้  การแสดงก็อย่า ให้มันเกินจริงหรือเวอร์เกินไปหละ"* → ยืนยันเพลต D N1 / D N2 · เพิ่มใน GLOBAL STYLE `All the acting is understated and real, at the size of real life.` (บอกระดับ ไม่สั่งอวัยวะ ตามสกิลขั้น 6)
+- เทค 1 ยิง 2026-10-19 — run `474d1bec-5ccc-46a4-9786-128e9a90d73c` · Seedance 2.5 · references · 16:9 · 720p · 13 วิ · เรฟ 8 + @Audio1 · user สั่ง "ยิง" (ติด moderation gate รอบแรก ยิงซ้ำคีย์เดิม)
