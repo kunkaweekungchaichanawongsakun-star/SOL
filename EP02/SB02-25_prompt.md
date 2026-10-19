@@ -9,7 +9,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. This is the second video of this scene. Aliz has just been discharged from hospital, where Jack turned up by calling himself her darling and paid her hospital bill. This evening he drove her home to her dorm in his white Mercedes. She opened the car door and got out by herself before he could do it for her, leaving the door hanging open with the interior light on. She is walking to the glass doors of the lobby, and Jack has caught up behind her, offering to take her up to her room; she told him she can manage on her own.
 
 SCENE
-Jack insists and takes hold of her elbow, playing the devoted boyfriend. Aliz stops, frees her elbow while still facing forward and draws a line: she will pay him back for the hospital bill. Jack laughs it off as if it were nothing between them. Aliz goes into the lobby in silence, and the glass door closes him out. Left outside, his smile drops; he is annoyed and keeps it inside, then slams the car door she left open, gets in and drives off hard.
+Jack insists and takes hold of her elbow, playing the devoted boyfriend. Aliz stops, frees her elbow while still facing forward and draws a line: she will pay him back for the hospital bill. Jack laughs it off, acting as if money between them is a small thing. Aliz goes into the lobby in silence, and the glass door closes him out. Left outside, his smile drops; he is annoyed and keeps it inside, then slams the car door she left open, gets in and drives off hard.
 
 ALIZ'S FACE
 Normal skin tone, as in her character references, with no feverish red cheeks and not unrealistically pale. Her illness and tiredness are played only through her eyes, her breathing and her body.
