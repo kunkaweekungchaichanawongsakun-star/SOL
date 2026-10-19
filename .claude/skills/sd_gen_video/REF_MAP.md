@@ -53,4 +53,5 @@
 | ALIZ_pinkknit_3Q (Mix Stage) | `f8631c00-a9d8-4ed9-82bf-577ba02715c6` | 2026-10-16 · user สั่งลบ แทนด้วยชุดใหม่ · ถอดจาก 20 ช็อตบท 02 ก่อน archive |
 | ALIZ_pinkknit_FS (Mix Stage) | `80ae3279-85d2-46d1-b21b-1142e6ace0a4` | 2026-10-16 · user สั่งลบ แทนด้วยชุดใหม่ · ถอดจาก 20 ช็อตบท 02 ก่อน archive |
 | ALIZ_pajamas_CU (Mix Stage) | `4cab6042-b081-44da-b761-e4eb4e51ae88` | 2026-10-16 · user สั่งลบ แทนด้วยชุดใหม่ |
+| C2 3 clip07 11s (Mix Stage · ตัวซ้ำ) | `b5feee8f-c3d3-4aa2-bb5b-77d5dff99150` | 2026-10-19 · อัปซ้ำ user สั่งลบ 1 อัน · ตัวที่ใช้คือ `160434ea-14b1-42cc-9b65-5940ab96830d` |
 | ALIZ_room_asleep (Set · ทดลองเจนเรฟ) | `7e231a87-a7e9-43a4-a09a-6bcd3fb1169f` | 2026-10-16 · เจนแล้วได้ห้องเปล่า · user สั่งลบ |
