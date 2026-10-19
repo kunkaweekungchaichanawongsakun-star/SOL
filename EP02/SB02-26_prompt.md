@@ -6,10 +6,10 @@ LIP SYNC
 This video is wordless. Everyone stays silent for the whole video.
 
 BEFORE THIS VIDEO
-All of this has already happened before the first frame. This is the third video of this scene. Aliz has just been discharged from hospital. Win, the man she calls "ลุง", carried her into that hospital, then had to leave for work; when he came back, he saw another man sitting beside her bed and stayed away. This evening Jack drove her home to her dorm in his white Mercedes. She went into the lobby alone and left him outside; he slammed the car door and drove off hard. All this time, Win has been waiting across the street, tucked in the shadow right beside the closed kiosk, his motorcycle parked up on the pavement against the side of the kiosk with its lights off, still in his green jacket. The kiosk hides him from the dorm entrance, so Aliz walked in unaware of him.
+All of this has already happened before the first frame. This is the third video of this scene. Aliz has just been discharged from hospital. Win, the man she calls "ลุง", carried her into that hospital, then had to leave for work; when he came back, he saw another man sitting beside her bed and stayed away. This evening Jack drove her home to her dorm in his white Mercedes. She went into the lobby alone and left him outside; he slammed the car door and drove off hard. All this time, Win has been waiting across the street on the far pavement, to the left of the closed kiosk, on his motorcycle with its lights off, still in his green jacket, his helmet off.
 
 SCENE
-The white Mercedes speeds past and reveals Win, who has been sitting in the dark across from the dorm the whole time. He watches the car until it is gone, wondering who that man is. Then his worry for her wins, and he looks up at the dorm, where a dark window on an upper floor lights up.
+The camera follows the white Mercedes as it speeds away, and as the car passes out of frame it reveals Win, who has been sitting across from the dorm the whole time. He watches the car until it is gone, wondering who that man is. Then his worry for her wins, and he looks up at the dorm, where a dark window on an upper floor lights up.
 
 ACTIVE REFERENCES
 @Image1 — WIN: 45, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @Image1 is the authority for what he is wearing today.
@@ -20,16 +20,24 @@ ACTIVE REFERENCES
 @Image6 — JACK'S WHITE MERCEDES-BENZ S-CLASS. THIS REFERENCE IS THE AUTHORITY FOR THE CAR ITSELF.
 @Image7 — THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF.
 @Image8 — WIN'S HELMET. THIS REFERENCE IS THE AUTHORITY FOR THIS HELMET ITSELF.
-@Image2 and @Image3 carry his face, and his clothes come from @Image1. Shots 1 and 2 are the far side of the street in @Image4. Shot 3 looks up at the dorm in @Image5. The car is @Image6, his motorcycle is @Image7, and his black helmet @Image8 hangs on its mirror stalk.
+@Image9 — WHERE WIN SITS AND HOW HE SITS. THIS REFERENCE IS THE AUTHORITY FOR HIS POSITION, HIS POSE AND HIS MOTORCYCLE'S POSITION BESIDE THE KIOSK.
+@Image2 and @Image3 carry his face, and his clothes come from @Image1. @Image9 carries only where he and the motorcycle are and how he sits. Shots 1 and 2 are the far side of the street in @Image4. Shot 3 looks up at the dorm in @Image5. The car is @Image6, his motorcycle is @Image7, and his black helmet @Image8 hangs on its mirror stalk.
+
+WHERE WIN IS, FOR THE WHOLE VIDEO, AS IN @Image9
+- His motorcycle is parked on the pavement across the street from the dorm, close against the hedge, to the left of the kiosk, under a tree and a street lamp. It stands parallel to the hedge, its front pointing toward the kiosk, its lights off.
+- Win sits sideways on the seat, both feet on the pavement, his body turned out toward the street and the dorm, his hands resting on his lap. Green jacket, helmet off; the black helmet hangs on the mirror stalk.
+- The pavement to the right of the kiosk is empty.
 
 SHOT-BY-SHOT
-Shot 1 — 0.0–5.0 s — THE MERCEDES CUTS ACROSS
+Shot 1 — 0.0–5.0 s — FOLLOWING THE MERCEDES
 Picture:
-- Looking from the pavement on the dorm side, across the street to the kiosk with its roller shutter down, under the trees and a street lamp. The long hedge and houses with warm lit windows behind it.
-- The white Mercedes passes very close to the lens from right to left, its white body filling the whole frame, with real motion blur from its speed.
-- As the car clears the left edge, it reveals: up on the far pavement, tucked tight against the side of the kiosk in its shadow, Win sitting astride his motorcycle with its lights off, his black helmet hanging on the mirror stalk, in his green jacket. The motorcycle stands on the pavement, close in against the kiosk wall, well back from the road; the kiosk half hides him. His head turns slowly, following the car to the left.
-Camera: WS, 110 cm high, eye level, 35mm lens, locked-off.
-Composition: the kiosk in the centre of the frame. Win on the right third, on the pavement beside the kiosk, half of him in shadow and half hidden by the kiosk. The pool of street-lamp light on the pavement is the brightest point; Win sits just outside it, in the dark, in a place passers-by overlook.
+- Looking from the pavement on the dorm side, across the street. The white Mercedes passes very close to the lens from right to left, its white body filling the frame, with real motion blur from its speed.
+- The camera pans with the car from right to left, following it past the kiosk with its roller shutter down, under the trees and the street lamps, the long hedge and houses with warm lit windows behind.
+- The camera stops exactly on Win's spot to the left of the kiosk. The car carries on and passes out of the left of frame, and as its tail clears the frame, the last thing it reveals is Win, sitting on his motorcycle exactly where @Image9 shows him.
+- His head turns slowly, following the car to the left.
+Camera: WS, 110 cm high, eye level, 35mm lens, a pan from right to left following the car, coming to rest on Win, then locked-off.
+Composition when the camera comes to rest: as in @Image9, the kiosk in the centre of the frame. Win and his motorcycle at about the left third, between the left edge and the kiosk. The street is a wide dark band between the camera and him; the pavement on the dorm side is the lower foreground. The audience's eye follows the tail of the car to the left and stops exactly on Win.
+Light: the street lamp on the post beside him shines down; Win sits in its warm pool of light, with leaf shadows falling on his shoulders. The kiosk and its awning take the same light. A deep blue sky. Warm lit windows in the houses behind the hedge.
 Sound: the Mercedes engine passing from right to left, then fading away into the distance. The night insects come back.
 
 Shot 2 — 5.0–9.0 s — UNTIL IT IS GONE
@@ -37,8 +45,8 @@ Picture:
 - Win watches the car to the end of the street until its sound is gone. His face is calm, with a question in his eyes: who is that man.
 - Then his worry wins. He takes his eyes off the street and looks up at the dorm building.
 Camera: MCU, 120 cm high, eye level, 85mm lens, locked-off, on the same side as Shot 1.
-Composition: Win's face on the right third, looking left, with space left in the direction he is looking. The edge of the kiosk blurred in the left foreground.
-Light: the street lamp catches only the edge of his cheek and the edge of his hair; the rest of his face is in shadow.
+Composition: Win sitting sideways on the seat, his face on the right third, looking left after the car, with space left on the left. Behind him, the hedge, a tree trunk and the edge of the kiosk blurred on the right.
+Light: the street lamp on the post above his head is the key light, catching his hair and shoulders; his face takes soft warm light, with leaf shadows moving across him.
 
 Shot 3 — 9.0–12.0 s — THE LIGHT JUST WENT ON · Win's POV
 Picture:
@@ -69,3 +77,5 @@ Everyone stays silent.
 - เทค 2 — องค์ประกอบ "in plain sight" → `in the dark` (ขัดกับคำ user ว่าต้องแอบ)
 - เทค 2 ยิง 2026-10-19 — run `6bbf9fc1-0267-4325-9226-3897fd87107c` · Seedance 2.5 · references · 16:9 · 720p · 12 วิ · เรฟ 8 · user สั่ง "ยิง"
 - เทค 2 เสร็จ — 12.06 วิ · 105.5 พอยต์ · asset `c75d05da-52b5-431e-a83e-bbbdeaab6329` · รอ user ดู
+- **เทค 3 (เตรียม) 2026-10-19** — สตอรี่บอร์ดใหม่ของจาวิส + user *"แก้ คลิป 12 ผมได้แนบภาพ ตำแหน่งวินเข้าไปใหม่แล้ว อิงจากตรงนั้น ไฟล์ ชื่อ ตำแหน่งวินยูบนมอเตอร์ไซค์หันเข้าป้อมแอบ"* · *"ตอนเล่น อาจจะเปิดติดตามรถแจคละไปหยุดตรงตำแหน่งที่วินอยู่พอดี … ถ้าเปิดด้วย มุมกว้างจะทำให้ งงได้ แต่เปิดติดตามรถแจคละหยุดให้รถแจคผ่านเฟรมไปละเจอวินจะ ดีกว่า"* → เขียนตัวพรอมป์ใหม่ทั้งฉบับตามสตอรี่บอร์ดใหม่ · เพิ่ม @Image9 `ตำแหน่งวินยูบนมอเตอร์ไซค์หันเข้าป้อมแอบ` (ถือเฉพาะตำแหน่ง/ท่า) · หมวดใหม่ WHERE WIN IS · ช็อต 1 กล้องแพนตามเบนซ์ขวา→ซ้าย แล้วหยุดที่ตำแหน่งวิน (สตอรี่บอร์ดเขียน locked-off → คำ user ชนะ) · วินนั่งตะแคงในวงแสงไฟถนน ซ้ายป้อม ไม่สวมหมวก (แทนเทค 2 ที่ซ่อนในเงาหลังป้อม)
+- เทค 3 — ความหมาย "เหมือนเสื้อกาวน์หมอ" ยังตัดเหมือนเทค 1 · "หน้าเขาไม่โกรธ" → `calm` · "ทางขวาของป้อมไม่มีคน" → `The pavement to the right of the kiosk is empty.`
