@@ -1,6 +1,6 @@
 GLOBAL STYLE
 Live-action microdrama, 16:9. Real people, real places, natural skin. Six shots, 14 seconds.
-All the acting is understated and real, at the size of real life.
+All the acting is understated and real, at the size of real life. The one exception is Jack alone outside the glass in Shot 4, where his true face shows clearly.
 
 LIP SYNC
 Jack speaks in Shot 1 and Shot 3. Aliz speaks in Shot 2. Each line is lip-synced to the person saying it. Shots 4 to 6 are wordless.
@@ -9,7 +9,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. This is the second video of this scene. Aliz has just been discharged from hospital, where Jack turned up by calling himself her darling and paid her hospital bill. This evening he drove her home to her dorm in his white Mercedes. She opened the car door and got out by herself before he could do it for her, leaving the door hanging open with the interior light on. She is walking to the glass doors of the lobby, and Jack has caught up behind her, offering to take her up to her room; she told him she can manage on her own.
 
 SCENE
-Jack insists and takes hold of her elbow, playing the devoted boyfriend. Aliz stops, frees her elbow while still facing forward and draws a line: she will pay him back for the hospital bill. Jack laughs it off, acting as if money between them is a small thing. Aliz goes into the lobby in silence, and the glass door closes him out. Left outside, his smile drops; he is annoyed and keeps it inside, then slams the car door she left open, gets in and drives off hard.
+Jack insists and takes hold of her elbow, playing the devoted boyfriend. Aliz stops, frees her elbow while still facing forward and draws a line: she will pay him back for the hospital bill. Jack laughs it off, acting as if money between them is a small thing. Aliz goes into the lobby in silence, and the glass door closes him out. Left outside, out of Aliz's sight, his smile drops and his true face shows clearly to the audience, then he slams the car door she left open, gets in and drives off hard.
 
 ALIZ'S FACE
 Normal skin tone, as in her character references, with no feverish red cheeks and not unrealistically pale. Her illness and tiredness are played only through her eyes, her breathing and her body.
@@ -55,7 +55,7 @@ Shot 4 — 8.2–10.5 s — OUTSIDE THE GLASS
 Picture:
 - Looking from inside the lobby out through the glass doors. Aliz pushes the long-handled door and comes in in silence, walking past the camera and out of frame.
 - The glass door slowly closes between her and him. Jack is left standing outside alone, the reflection of the lobby lights lying over him on the glass.
-- His smile drops. He breathes out through his nose, pushes his tongue into his cheek and looks away. He is annoyed and keeps it inside.
+- His smile drops. He breathes out through his nose, pushes his tongue into his cheek and looks away. Aliz has her back to him, so only the audience sees it, clearly: the sweet boyfriend is gone, and what is left is a man who is irritated, contemptuous and used to getting his way. This is who he really is.
 Camera: MS, 150 cm high, eye level, 50mm lens, locked-off.
 Composition: the frame of the glass door is a frame within the frame, shutting Jack outside. Jack in the centre of the frame.
 Extras: the night-shift clerk at the counter glances up for a moment; a resident opens a mailbox. Both blurred.
@@ -97,4 +97,5 @@ Shot 3, 6.2–7.9 s, JACK: "คืนอะไรกัน นี่พี่แ
 - "ภาพล็อบบี้หอกลางคืน" → `D N2` ตาม user คลิป 10 *"D N1 D N2 นั่นแหละที่ใช้"* · ช็อต 4 มองจากในล็อบบี้ออก ไม่มีเพลตด้านในล็อบบี้ SD สร้างเอง
 - ช็อต 1 "ทำเสียงซึ้ง" → `playing the devoted boyfriend` (ตัดกำกับเสียง)
 - ช็อต 2 "ไม่หันไปหาเขา" → `keeps facing forward` · "เสียงเรียบ หนักแน่น ไม่โกรธ" → `calm and firm` (ตัดคำว่าเสียง · ประโยคปฏิเสธ)
-- ช็อต 4 "ไม่ตอบ" → `without a word` · "หัวเสียแต่ไม่ระเบิด" → `annoyed and keeps it inside` · "พื้นแห้ง ไม่มีฝน" → `The ground is dry` (ประโยคปฏิเสธ)
+- ช็อต 4 "ไม่ตอบ" → `without a word` · "พื้นแห้ง ไม่มีฝน" → `The ground is dry` (ประโยคปฏิเสธ)
+- 2026-10-19 user *"ยิง แจคต้องสแดงอาการให้เห็นชัดนะ เพราะอลิชจะไม่เห็น แต่ให้คนดูเห็นว่า หมอนี่มันยังไง"* → ช็อต 4 แทน "หัวเสียแต่เก็บไว้" ด้วยหน้าจริงของแจ็คที่คนดูเห็นชัด (หงุดหงิด ดูถูก คนที่เคยได้ทุกอย่าง) · SCENE ตามกัน · GLOBAL STYLE ยกเว้นแจ็คช็อต 4 จากบรรทัดการแสดงเรียบ
