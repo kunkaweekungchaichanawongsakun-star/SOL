@@ -1,8 +1,8 @@
 GLOBAL STYLE
-Live-action microdrama, 16:9. Real people, real places, natural skin. Two shots, 12 seconds.
+Live-action microdrama, 16:9. Real people, real places, natural skin. Five shots, 12 seconds.
 
 LIP SYNC
-Win and Aliz stay silent for the whole video. Doctor 1 and Doctor 2 speak only in Shot 2. Each line is lip-synced to the person saying it.
+Win and Aliz stay silent for the whole video. Doctor 1 and Doctor 2 speak only in Shot 5. Each line is lip-synced to the person saying it.
 
 BEFORE THIS VIDEO
 All of this has already happened before the first frame. This is the second video of this scene. It is Monday, late morning. Win was taking Aliz to her job interview on his motorcycle, but she has a fever and passed out against his back, so he rode straight to a luxury private hospital. Under the canopy of the emergency entrance he helped her off the motorcycle, but her legs gave way, and the stretcher inside was still far away, so he picked her up to carry her in himself. His motorcycle is still parked under the canopy outside, his black helmet hanging on its left mirror stalk and her white helmet on its seat. Win is the chairman of a big company; people who know him by name call him Khun Winyu. Today he is dressed like an ordinary man, in his green jacket.
@@ -29,28 +29,40 @@ ACTIVE REFERENCES
 @Image13 — WIN'S HELMET. THIS REFERENCE IS THE AUTHORITY FOR THIS HELMET ITSELF.
 @Image14 — ALIZ'S HELMET. THIS REFERENCE IS THE AUTHORITY FOR THIS HELMET ITSELF.
 @Audio1 — THE VOICES. Its first line is DOCTOR 1's voice and its second line is DOCTOR 2's voice. Each person speaks with the voice in @Audio1, at the times written in DIALOGUE.
-@Image1 and @Image2 carry her face, and her clothes come from @Image3. @Image5 and @Image6 carry his face, and his clothes come from @Image4. Shot 1 is the lobby in @Image9, with the outside of @Image11 beyond the glass doors; parked outside on the left of frame is the motorcycle in @Image12, with @Image13 hanging on its left mirror stalk and @Image14 on its seat. Shot 2 is the lobby in @Image10.
+@Image1 and @Image2 carry her face, and her clothes come from @Image3. @Image5 and @Image6 carry his face, and his clothes come from @Image4. Shots 1 to 4 are the lobby in @Image9, with the outside of @Image11 beyond the glass doors; parked outside on the left of frame is the motorcycle in @Image12, with @Image13 hanging on its left mirror stalk and @Image14 on its seat. Shot 5 is the lobby in @Image10.
 
 SHOT-BY-SHOT
-Shot 1 — 0.0–7.0 s — STEPPING IN ★ HERO SHOT · slow motion, about half real speed
+Shot 1 — 0.0–2.6 s — THE HERO OUTSIDE ★ HERO SHOT · slow motion, about half real speed
 Picture:
 - It opens on the two doctors in white coats walking across the frame from left to right, close to the camera, framed by the camera.
 - When the doctors clear the right edge, the camera sees Win still outside the glass doors, standing there carrying Aliz in a princess carry. Outside, on the left of frame, his motorcycle is parked, his black helmet hanging on the left mirror stalk and her white helmet on the seat.
-- He holds there for a moment, in slow motion, the hero pose. Then the automatic glass doors slide open and he steps in. He takes his time; it is slow motion.
-- The carry: his right arm supports her back and shoulders, his left arm scoops under her knees. Her head rests against the right side of his chest, eyes closed, her long hair hanging down over his arm, swaying slowly with the rhythm of his steps. Her white sneakers hang on the other side.
-- The light beat: while he is outside, he is a silhouette backlit against the bright sky. As he steps over the threshold, the warm light of the lobby begins to catch his face and hers; from silhouette to visible faces, in slow motion. This is the beauty of this shot.
+- He holds there for a moment, in slow motion, the hero pose: a silhouette backlit against the bright sky, like the hero of a movie.
+- The carry: his right arm supports her back and shoulders, his left arm scoops under her knees. Her head rests against the right side of his chest, eyes closed, her long hair hanging down over his arm. Her white sneakers hang on the other side.
+Camera: FS, low angle, the full figure of Win with Aliz in his arms framed in the golden door frame.
+
+Shot 2 — 2.6–3.8 s — HIS FACE (insert) · slow motion
+Picture: close-up of Win's face, the sky glowing behind his hair. His eyes look straight ahead into the building, searching for the way to the emergency room. Jaw set, breathing hard, completely focused on her. The cool, heroic beat that lets the audience feel what he feels.
+Camera: CU, slightly low angle, shallow depth of field.
+
+Shot 3 — 3.8–4.8 s — HER IN HIS ARMS (insert) · slow motion
+Picture: medium close-up from the waist up: Aliz's face resting against his chest, eyes closed, her long hair swaying slowly over his arm, her left hand resting on her own stomach, his arm holding her firm.
+Camera: MCU, shallow depth of field.
+
+Shot 4 — 4.8–7.0 s — STEPPING IN · slow motion
+Picture:
+- Back to the full figure: the automatic glass doors slide open and he steps in. He takes his time; it is slow motion. His arms take her real weight; he leans back a little to balance it, his strides long and steady. He shifts her up a little in his arms to hold her more securely.
+- The light beat: as he steps over the threshold, the warm light of the lobby begins to catch his face and hers; from silhouette to visible faces, in slow motion. This is the beauty of this shot.
 Camera: FS ending on a cowboy shot, 70 cm high, low angle, 85mm lens, dolly backward slightly slower than he walks, so he grows larger by himself, no zoom.
 Composition: centred and symmetrical. The golden door frame is a frame within the frame around him. Aliz's body is a horizontal line across his chest. His head on the upper third line. The polished marble floor reflects the two of them.
-Performance:
-- Win does not look at the camera. His eyes look straight ahead into the building, searching for the way to the emergency room. Jaw clenched, breathing hard.
-- His arms take her real weight; he leans back a little to balance it, his strides long and steady. In the middle of the shot he shifts her up a little in his arms to hold her more securely; the real weight makes the audience believe it.
-- Aliz is limp all over, her left hand resting on her own stomach.
-Light: the sky and sun outside, 5600K, behind him, catching the edge of his hair, the edge of his jacket shoulders and the ends of her hair. The hidden lights in the lobby ceiling, about 3500K, warm from the front. The marble floor bounces light up under the chin. No haze, no dust, no light beams.
-Sound: real sound slowed down with the slow motion. The sliding door, drawn out. His footsteps heavy and slow. The white coats whooshing past the lens. No music; the editor can add music here.
+Performance (Shots 1–4):
+- Win does not look at the camera. Jaw clenched, breathing hard.
+- Aliz is limp all over.
+Light (Shots 1–4): the sky and sun outside, 5600K, behind him, catching the edge of his hair, the edge of his jacket shoulders and the ends of her hair. The hidden lights in the lobby ceiling, about 3500K, warm from the front. The marble floor bounces light up under the chin. No haze, no dust, no light beams.
+Sound (Shots 1–4): real sound slowed down with the slow motion. The sliding door, drawn out. His footsteps heavy and slow. The white coats whooshing past the lens. No music; the editor can add music here.
 Note: if the AI makes the slow motion look strange, generate it at normal speed and slow it down in the edit with frame interpolation.
 Cut: Win walks in until he is almost at the camera → cut straight to a side view at real speed, the real sound back in full.
 
-Shot 2 — 7.0–12.0 s — IS THAT KHUN WINYU · normal speed
+Shot 5 — 7.0–12.0 s — IS THAT KHUN WINYU · normal speed
 Picture:
 - The lobby from the side: the glass doors on the left, the reception counter deep in the middle toward the right, the corridor to the emergency room on the right.
 - Win carries Aliz quickly across the middle ground from left to right, seen from the side, Aliz's head turned toward the camera.
@@ -69,8 +81,8 @@ Sound: quick footsteps on marble. A hospital announcement chime far away, no wor
 Cut: Win exits right → clip 3, the stretcher rushes in from the right toward him.
 
 DIALOGUE
-Shot 2, 7.8–8.8 s, DOCTOR 1: "นั่นคุณวิญญูใช่ไหม"
-Shot 2, 9.1–11.4 s, DOCTOR 2: "ไม่น่าใช่ แต่งตัวยังกะวินมอไซค์"
+Shot 5, 7.8–8.8 s, DOCTOR 1: "นั่นคุณวิญญูใช่ไหม"
+Shot 5, 9.1–11.4 s, DOCTOR 2: "ไม่น่าใช่ แต่งตัวยังกะวินมอไซค์"
 
 ---
 
@@ -88,3 +100,5 @@ Shot 2, 9.1–11.4 s, DOCTOR 2: "ไม่น่าใช่ แต่งตั�
 - เทค 1 เสร็จ — 12.06 วิ · 105.5 พอยต์ · asset `65184a04-f5b7-4554-85fb-fe1285a9477b` · รอ user ดู
 - **เทค 2 (เตรียม) 2026-10-19** — user *"คลิป 2 ต้องแก้นะ เพราะ วินต้องอยู่ข้างนอกประตูก่อน เพื่อให้ได้ มีโพส สโลวโมชั่น แล้วค่อยก้าวเข้ามา ไม่ต้องรีบ มันสโลโมชั่นอะ"* · *"ตอนเปิดฉาก ไม่ต้อง ขาววอกแบบนั้น ให้เปิดที่หมอเดินภาพเฟรมกล้องไปเลย ละกล้องค่อยเห็นวิน อยู่ข้างนอกก่อนเข้ามา"* · *"ข้างนอกต้องเห็น มอไซด์ ชิดซ้ายจอดไว้ด้วย เพราะฉากมันต่อกัน"* → ช็อต 1 bullet 1–2 เขียนใหม่ (เปิดที่หมอเดินผ่านเฟรม ไม่ใช่ขาวเต็มจอ · วินยืนโพสข้างนอกก่อน แล้วประตูเปิด ค่อยก้าวเข้า) · เพิ่ม @Image12 `ไบค์` · @Image13 `หมวกกันน็อควิน` · @Image14 `หมวกกันน็อคอลิช` (ต่อเนื่องจากคลิป 1: หมวกดำแขวนก้านกระจกซ้าย หมวกขาววางบนเบาะ) · เรฟ 14 + @Audio1
 - เทค 2 — ตัด `does not pose and` ออกจาก Performance ช็อต 1 เพราะขัดกับคำ user *"วินต้องอยู่ข้างนอกประตูก่อน เพื่อให้ได้ มีโพส สโลวโมชั่น"* (คำสั่งในแชตชนะสตอรี่บอร์ด) · คง `does not look at the camera`
+- เทค 2 — user *"ยิง มันเฉพาะซีนนี้ มันต้องดูเท่ห์ๆ พระเอกหนังหน่อยๆ อะ ผมเลยใช้คำว่า ฮีโร่ shot ไง เผลอๆ คุณเติม b-roll โคสอัพ ครึ่งตัวแทรก เท่ห์ๆ ก็ได้ ให้คนจับความรู้สึก ละเต็มตัวต่ออะ เพราะมันสโลโมชั่น"* → ช็อตฮีโร่ 0–7 วิ แตกเป็น 4 ช็อต: 1 FS วินโพสข้างนอก (0–2.6) · 2 CU หน้าวิน แทรก (2.6–3.8) · 3 MCU อลิซในอ้อมแขน แทรก (3.8–4.8) · 4 FS→cowboy ประตูเปิด ก้าวเข้า (4.8–7.0) · ช็อตหมอเลื่อนเป็นช็อต 5 · ทั้งหมด slow motion
+- เทค 2 ยิง 2026-10-19 — run `9a8425ce-e6ed-45fa-950f-a56863dfe8a3` · Seedance 2.5 · references · 16:9 · 720p · 12 วิ · เรฟ 14 + @Audio1 · user สั่ง "ยิง"
