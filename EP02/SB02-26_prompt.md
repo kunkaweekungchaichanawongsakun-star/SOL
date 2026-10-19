@@ -20,8 +20,8 @@ ACTIVE REFERENCES
 @Image6 — JACK'S WHITE MERCEDES-BENZ S-CLASS. THIS REFERENCE IS THE AUTHORITY FOR THE CAR ITSELF.
 @Image7 — THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF.
 @Image8 — WIN'S HELMET. THIS REFERENCE IS THE AUTHORITY FOR THIS HELMET ITSELF.
-@Image9 — WHERE WIN SITS AND HOW HE SITS. THIS REFERENCE IS THE AUTHORITY FOR HIS POSITION, HIS POSE AND HIS MOTORCYCLE'S POSITION BESIDE THE KIOSK.
-@Image2 and @Image3 carry his face, and his clothes come from @Image1. @Image9 carries only where he and the motorcycle are and how he sits. Shots 1 and 2 are the far side of the street in @Image4. Shot 3 looks up at the dorm in @Image5. The car is @Image6, his motorcycle is @Image7, and his black helmet @Image8 hangs on its mirror stalk.
+@Image9 — WHERE WIN SITS AND HOW HE SITS. THIS REFERENCE IS THE AUTHORITY FOR WHICH SIDE OF THE KIOSK HE IS ON, HOW HIS MOTORCYCLE STANDS AND HOW HE SITS. THE CAMERA IN THIS VIDEO IS CLOSER THAN IN @Image9.
+@Image2 and @Image3 carry his face, and his clothes come from @Image1. @Image9 carries only where he and the motorcycle are and how he sits; its distance and framing are not used. Shots 1 and 2 are the far side of the street in @Image4. Shot 3 looks up at the dorm in @Image5. The car is @Image6, his motorcycle is @Image7, and his black helmet @Image8 hangs on its mirror stalk.
 
 WHERE WIN IS, FOR THE WHOLE VIDEO, AS IN @Image9
 - His motorcycle is parked on the pavement across the street from the dorm, close against the hedge, to the left of the kiosk, under a tree and a street lamp. It stands parallel to the hedge, its front pointing toward the kiosk, its lights off.
@@ -33,10 +33,10 @@ Shot 1 — 0.0–5.0 s — FOLLOWING THE MERCEDES
 Picture:
 - Looking from the pavement on the dorm side, across the street. The white Mercedes passes very close to the lens from right to left, its white body filling the frame, with real motion blur from its speed.
 - The camera pans with the car from right to left, following it past the kiosk with its roller shutter down, under the trees and the street lamps, the long hedge and houses with warm lit windows behind.
-- The camera stops exactly on Win's spot to the left of the kiosk. The car carries on and passes out of the left of frame, and as its tail clears the frame, the last thing it reveals is Win, sitting on his motorcycle exactly where @Image9 shows him.
+- The camera stops on Win's spot to the left of the kiosk. The car carries on and passes out of the left of frame, and as its tail clears the frame, the last thing it reveals is Win, close enough to read clearly: sitting sideways on his motorcycle, his face lit by the street lamp, in the place @Image9 shows.
 - His head turns slowly, following the car to the left.
-Camera: WS, 110 cm high, eye level, 35mm lens, a pan from right to left following the car, coming to rest on Win, then locked-off.
-Composition when the camera comes to rest: as in @Image9, the kiosk in the centre of the frame. Win and his motorcycle at about the left third, between the left edge and the kiosk. The street is a wide dark band between the camera and him; the pavement on the dorm side is the lower foreground. The audience's eye follows the tail of the car to the left and stops exactly on Win.
+Camera: MS, 110 cm high, eye level, 50mm lens, a pan from right to left following the car, coming to rest on Win, then locked-off.
+Composition when the camera comes to rest: Win and the motorcycle fill the frame from his head to the wheels, Win on the left third, the corner of the kiosk and its awning on the right edge of the frame. Behind him, the hedge and the tree trunk. The audience's eye follows the tail of the car to the left and stops exactly on Win.
 Light: the street lamp on the post beside him shines down; Win sits in its warm pool of light, with leaf shadows falling on his shoulders. The kiosk and its awning take the same light. A deep blue sky. Warm lit windows in the houses behind the hedge.
 Sound: the Mercedes engine passing from right to left, then fading away into the distance. The night insects come back.
 
@@ -81,3 +81,4 @@ Everyone stays silent.
 - เทค 3 — ความหมาย "เหมือนเสื้อกาวน์หมอ" ยังตัดเหมือนเทค 1 · "หน้าเขาไม่โกรธ" → `calm` · "ทางขวาของป้อมไม่มีคน" → `The pavement to the right of the kiosk is empty.`
 - เทค 3 ยิง 2026-10-19 — run `d651cf54-0f12-427d-b927-dd0917ce03c7` · Seedance 2.5 · references · 16:9 · 720p · 12 วิ · เรฟ 9 · user สั่ง "ยิง"
 - เทค 3 เสร็จ — 12.04 วิ · 105.5 พอยต์ · asset `79e97177-8eed-48be-a2fe-4e5091705783` · รอ user ดู
+- **เทค 4 (เตรียม) 2026-10-19** user *"คลิป 12 ยังไม่เนียน ถ้าเป็นคุณจะทำยังไง มุมไกลตามภาพ มันไม่ชัด แต่เรารู้ตำแหน่งผมไว้ใช้ อ้างอิงตำแหน่งไม่ใช่ ให้เอามาใช้ แบบเป๊ะๆ ใช้มุมกล้องขยับเข้าไปให้มันเจนมาใหม่ก็ได้"* → @Image9 ถือแค่ฝั่งของป้อม/ท่า ไม่เอาระยะ · ช็อต 1 WS 35mm → MS 50mm ยังแพนตามเบนซ์แล้วหยุดที่วิน · องค์ประกอบใหม่: วิน+มอไซค์เต็มเฟรมหัวถึงล้อ วิน 1/3 ซ้าย มุมป้อม+กันสาดขอบขวา · ช็อต 2–3 คงเดิม
