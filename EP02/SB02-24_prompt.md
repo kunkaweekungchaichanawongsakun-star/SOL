@@ -1,5 +1,6 @@
 GLOBAL STYLE
 Live-action microdrama, 16:9. Real people, real places, natural skin. Three shots, 13 seconds.
+All the acting is understated and real, at the size of real life.
 
 LIP SYNC
 Shots 1 and 2 are wordless. In Shot 3, Jack speaks first and Aliz answers. Each line is lip-synced to the person saying it.
@@ -86,3 +87,4 @@ Shot 3, 10.7–12.3 s, ALIZ: "ไม่เป็นไรค่ะ หนูไ�
 - ช็อต 2 "อลิซไม่มองเขา ไม่รอ" → `keeps her eyes ahead on the lobby and keeps walking` (ประโยคปฏิเสธ)
 - ช็อต 3 "มือลอยอยู่ใกล้หลังเธอแต่ไม่แตะ" → `a hand's width away from it` · "พูดตัดเขาทันที ไม่หันไปมอง" → `her eyes ahead` · "ไม่ยอมให้เขาพยุง" → `walks on her own, out of his reach` (ประโยคปฏิเสธ)
 - ช็อต 3 "เสียงประจบ" · "ค่ะ สุภาพแต่เย็น" → ตัด (กำกับเสียง)
+- 2026-10-19 user *"ยิง D N1 D N2 นั่นแหละที่ใช้  การแสดงก็อย่า ให้มันเกินจริงหรือเวอร์เกินไปหละ"* → ยืนยันเพลต D N1 / D N2 · เพิ่มใน GLOBAL STYLE `All the acting is understated and real, at the size of real life.` (บอกระดับ ไม่สั่งอวัยวะ ตามสกิลขั้น 6)
