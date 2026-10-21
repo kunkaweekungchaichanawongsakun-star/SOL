@@ -32,7 +32,7 @@ ACTIVE REFERENCES
 @Audio1 — ALIZ'S VOICE, HER FIRST LINE, IN SHOT 2.
 @Audio2 — WIN'S VOICE, HIS LINE, IN SHOT 2, RIGHT AFTER @Audio1.
 @Audio3 — ALIZ'S VOICE, HER SECOND LINE, IN SHOT 3.
-@Image1 and @Image2 carry her face, @Image4 how she wears the helmet, and her clothes come from @Image3. @Image6 and @Image7 carry his face, @Image8 how he wears the helmet, and his clothes come from @Image5. The whole video is at the kerb in front of the glass door of the dorm in @Image13. The motorcycle is @Image9, the helmets are @Image10 and @Image11, and her phone is @Image12. @Image14 carries only where they sit, where the motorcycle stands and the angle of Shot 1; the pink top and pale trousers in @Image14 belong to another day, and today Aliz wears what @Image3 shows.
+@Image1 and @Image2 carry her face, @Image4 how she wears the helmet, and her clothes come from @Image3. @Image6 and @Image7 carry his face, @Image8 how he wears the helmet, and his clothes come from @Image5. The whole video is at the kerb in front of the glass door of the dorm in @Image13. The motorcycle is @Image9, the helmets are @Image10 and @Image11, and her phone is @Image12. @Image14 carries only where they sit, where the motorcycle stands and the angle of Shot 1; their clothes today are exactly what @Image3 and @Image5 show.
 
 WHAT THEY WEAR, AS IN @Image3 AND @Image5
 - Aliz: a grey short-sleeved knit top with a high round neck, black shorts with a black studded belt, black tights, black ankle boots, a black leather bag on her left shoulder, a gold necklace, gold hoop earrings, a gold bracelet on her right wrist and a gold watch on her left wrist. The white helmet with its chrome rim on her head, the chin strap fastened, her long black hair falling out below it.
@@ -108,3 +108,4 @@ DIALOGUE, IN THIS ORDER
 - กรองท่า: วิน "คิ้วขมวด" "ปากเผยอ" "กรามขยับ" → ตัด เหลือเหตุผล · อลิซ "เสียงเปลี่ยน พูดเร็ว ชัด" "เน้นคำ" "เบาลง" → ตัด (กำกับเสียง) เหลือ "ตัดสินใจแล้ว" · เก็บ "หลบตาลงแว่บเดียว" + เหตุผล
 - คอมโพส: ช็อต 1 เส้นนอนของรถเต็มเฟรม + frame within frame เสา/ประตู + lead room ทางซ้าย + ลำดับสายตา · ช็อต 2 มือถือเบลอเป็น foreground = แผนใหม่มาคั่นกลาง · ช็อต 3 symmetry ช่องว่างระหว่างหน้า = ใกล้กันที่สุดแต่คุยเรื่องผู้ชายอีกคน
 - เรฟ `เรฟ ขึ้นรถ` `1e6b8ea1` = @Image14 (ดูแล้ว: MS จากถนน · รถหัวซ้าย ชิดขอบทาง · วินหน้าซ้ายมือจับแฮนด์ ก้มนิดๆ · อลิซซ้อนขวา · ฉากหลังเสาขาวซ้าย ต้นไม้กระถาง ประตูกระจกมือจับยาว · อลิซใส่เสื้อชมพูกางเกงขาว) → เขียนว่าใบนี้ถือแค่ตำแหน่ง ที่จอดรถ และมุมช็อต 1 · ชุดชมพูเป็นวันอื่น ชุดวันนี้มาจาก @Image3 (ตามสตอรี่บอร์ด "ไม่ใช้ชุดชมพูในภาพ")
+- ตัดคำว่า pink top / pale trousers ออก (เอ่ยชื่อชุดที่ไม่อยากได้ = เรียกเข้าเฟรม) เหลือ "ชุดวันนี้ตาม @Image3 และ @Image5"
