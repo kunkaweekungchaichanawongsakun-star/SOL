@@ -26,7 +26,7 @@ ACTIVE REFERENCES
 @Image9 — ALIZ'S HELMET. THIS REFERENCE IS THE AUTHORITY FOR THIS HELMET ITSELF.
 @Image10 — JACK: 28. 100% matches the reference, and @Image11 is the authority for what he is wearing today.
 @Image11 — HIS FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for his clothes. HIS FACE COMES FROM @Image10.
-@Image12 — THE FRONT OF THE OFFICE BUILDING, SEEN FROM UNDER ITS CANOPY LOOKING OUT TO THE PLAZA AND THE ROAD. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF IN SHOT 1.
+@Image12 — THE FRONT OF THE OFFICE BUILDING, SEEN FROM UNDER ITS CANOPY LOOKING OUT TO THE PAVEMENT AND THE ROAD. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF IN SHOT 1.
 @Image13 — THE FRONT OF THE OFFICE BUILDING, SEEN FROM THE STREET. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF IN SHOT 2 AND SHOT 3.
 @Image1 and @Image2 carry her face, @Image4 how she wears the helmet, and her clothes come from @Image3. @Image5 carries Win, @Image6 how he wears the helmet, and his clothes come from @Image5. @Image10 carries Jack's face, and his clothes come from @Image11. Shot 1 is in the place in @Image12, Shot 2 and Shot 3 in the place in @Image13; it is the same building, seen from the two opposite sides of the pavement. The motorcycle is @Image7, the helmets are @Image8 and @Image9.
 
@@ -37,28 +37,28 @@ WHAT THEY WEAR, AS IN @Image3, @Image5 AND @Image11
 
 WHERE EVERYTHING IS
 - The tall glass office building stands along the pavement, with a wide canopy over its entrance and a revolving glass door. In front of it, a wide granite pavement with trees in square planters, a row of short steel bollards along the kerb, then the main road. The glass and stone of the front are plain.
-- The motorcycle stops at the kerb, side-on to the building, a few steps along from the revolving door.
 - THE MOTORCYCLE ARRIVES TRAVELLING TO THE LEFT OF FRAME IN SHOT 1. SHOT 2 AND SHOT 3 ARE SEEN FROM THE STREET, THE OPPOSITE SIDE, SO THERE ITS FRONT POINTS TO THE RIGHT OF FRAME.
-- IN SHOT 2 AND SHOT 3, JACK IS ALWAYS ON THE LEFT OF FRAME FACING RIGHT, ALIZ IN THE CENTRE, AND WIN ON THE MOTORCYCLE ON THE RIGHT OF FRAME, FACING RIGHT ALONG THE ROAD.
+- The revolving door is in the middle of the front of the building, under the canopy. The motorcycle stops at the kerb side-on to the building, a little along from the door, so that seen from the street the door is behind the gap between Aliz and Win.
+- IN SHOT 2 AND SHOT 3, ALIZ IS ON THE LEFT OF FRAME, JACK COMES TO STAND IN THE CENTRE FACING LEFT TOWARD HER, AND WIN SITS ON THE MOTORCYCLE ON THE RIGHT OF FRAME, FACING RIGHT ALONG THE ROAD, WITH HIS BACK TOWARD THEM.
 
 SHOT-BY-SHOT
 Shot 1 — ARRIVING
 Picture, in this order:
-- 1. Under the canopy of the office building, looking out across the granite plaza to the main road. The revolving door turns slowly at the left edge of frame. Two office workers cross the plaza in the far distance, soft and blurred, on their way between offices in the late morning, and cars pass in the far lane.
-- 2. Win's motorcycle comes in from the right of frame along the kerb, Win in his green jacket and black helmet with the visor down, Aliz in her grey top and white helmet riding behind him, holding his waist. It passes the revolving door, slows, and stops at the kerb near the centre of the frame, because this is the address she showed him. Win puts his feet down.
+- 1. Under the canopy of the office building, looking out across the wide granite pavement to the main road. The revolving door turns slowly at the left edge of frame. Two office workers cross the pavement in the far distance, soft and blurred, on their way between offices in the late morning, and cars pass in the far lane.
+- 2. Win's motorcycle comes in from the right of frame along the kerb, Win in his green jacket and black helmet with the visor down, Aliz in her grey top and white helmet riding behind him, holding his waist. It slows and stops at the kerb near the centre of the frame, because this is the address she showed him. Win puts his feet down.
 Camera: WS, 160 cm high, eye level, 24mm lens, locked-off, under the canopy of the building, looking out to the road.
-Composition: frame within frame — the edge of the canopy is a dark frame across the top, the revolving door a frame on the left, and through them the bright plaza and road. The motorcycle travels along the kerb as a leading line from right to left, with lead room ahead of it, and comes to rest in the centre. The audience's eye goes in this order: the motorcycle coming in → it stopping in the centre → the two of them on it.
-Light: strong late-morning sun on the plaza and the road; the canopy keeps the foreground in cool shade.
+Composition: frame within frame — the edge of the canopy is a dark frame across the top, the revolving door a frame on the left, and through them the bright pavement and road. The motorcycle travels along the kerb as a leading line from right to left, with lead room ahead of it, and comes to rest in the centre. The audience's eye goes in this order: the motorcycle coming in → it stopping in the centre → the two of them on it.
+Light: strong late-morning sun on the pavement and the road; the canopy keeps the foreground in cool shade.
 Sound: the city traffic, the motorcycle engine slowing, then idling.
 
 Shot 2 — THE HELMET
 Picture, in this order:
-- 1. Seen from the street. Win sits on the motorcycle on the right of frame, its front pointing to the right, facing the road ahead with his visor down. This is her business, and he keeps himself out of it, so he looks along the road and leaves the building behind him.
-- 2. Aliz steps off the back of the motorcycle onto the pavement and stands in the centre of the frame. She unclips the chin strap and lifts the white helmet off, then runs her fingers through her hair to tidy it, because the helmet has flattened it and she is about to go to work.
+- 1. Seen from the street, looking at the front of the building. The motorcycle stands at the kerb in front, its front pointing to the right. Win sits on it on the right of frame, facing the road ahead with his visor down. This is her business, and he keeps himself out of it, so he looks along the road and leaves the building behind him.
+- 2. Aliz steps off the back of the motorcycle onto the pavement and stands on the left of frame. She unclips the chin strap and lifts the white helmet off, then runs her fingers through her hair to tidy it, because the helmet has flattened it and she is about to go to work.
 - 3. She holds the white helmet out to Win, because she cannot take it into the office. Win half-turns on the seat, takes it with one hand and sets it on the rear seat behind him, then faces the road again.
-- 4. Meanwhile, in the background on the left, Jack comes out through the revolving door of the building. He has been waiting for her inside, and he came out the moment he saw her arrive. He walks across the pavement toward the kerb, smiling, and comes into the left of frame.
-Camera: MS, 140 cm high, eye level, 35mm lens, locked-off, in the street, looking back at the building.
-Composition: rule of thirds — Win on the right third, Aliz on the centre line, and the left third left open as space for what is coming; Jack fills it as he walks out of the building in the background. Depth in three layers: the motorcycle and Win in front, Aliz on the pavement in the middle, Jack and the revolving door behind. The audience's eye goes in this order: Aliz taking off the helmet → the helmet passing to Win → Jack coming out on the left.
+- 4. Meanwhile, in the background, Jack comes out through the revolving door in the middle of the building. He has been waiting for her inside, and he came out the moment he saw her arrive. He walks across the pavement toward the kerb, smiling, straight toward the gap between Aliz and Win.
+Camera: MS, 140 cm high, eye level, 35mm lens, locked-off, in the street, looking straight at the front of the building.
+Composition: symmetry — the building and its revolving door stand square in the centre of the frame, with Aliz on the left and Win on the right on either side of it, and the empty centre left open for what is coming; Jack walks out of the door and down the centre toward them. Depth in three layers: the motorcycle and Win in front, Aliz on the pavement in the middle, Jack and the revolving door behind. The audience's eye goes in this order: Aliz taking off the helmet → the helmet passing to Win → Jack coming out of the door in the centre.
 Sound: the click of the chin strap. The soft rush of the revolving door. The motorcycle idling.
 
 Shot 3 — JACK
@@ -67,10 +67,10 @@ Picture, in this order:
 - 2. He stops two steps from her.
 - 3. Aliz turns to him. Her smile becomes a polite one, because he is the man she wanted to stay away from, and today she owes him.
 Camera: MCU, 160 cm high, eye level, 85mm lens, a slow truck alongside Jack as he walks, stopping when he stops.
-Composition: Jack on the left third facing right, with lead room in front of him toward Aliz. Aliz's shoulder is soft and out of focus at the right edge of frame as foreground, so the space between them is the two steps he stops at. The building behind him is blurred into bright glass. The audience's eye goes from Jack's face → the space between them → Aliz turning.
+Composition: Jack on the right third facing left, with lead room in front of him toward Aliz. Aliz's shoulder is soft and out of focus at the left edge of frame as foreground, so the space between them is the two steps he stops at. The building behind him is blurred into bright glass. The audience's eye goes from Jack's face → the space between them → Aliz turning.
 
 THE LAST FRAME
-Jack stands on the left of frame facing right, two steps from Aliz. Aliz stands on the right of frame facing left toward him, with a polite closed-lip smile. The bright glass of the building behind them.
+Jack stands on the right of frame facing left, two steps from Aliz. Aliz stands on the left of frame facing right toward him, with a polite closed-lip smile. The bright glass of the building behind them.
 
 DIALOGUE
 Everyone stays silent.
@@ -92,4 +92,6 @@ Everyone stays silent.
 - ⚠️ ทิศ: เพลต T-02 (`a91d6735`) ประตูหมุนอยู่ขอบซ้ายจริง → ช็อต 1 กลับไปตามสตอรี่บอร์ด (ประตูซ้าย) · เพิ่มเสาหลักเหล็กริมขอบฟุตปาธ กระถางต้นไม้ ตามเพลต · ช็อต 2 มุมกลับ ประตูจะไปอยู่ขวา ฝั่งเดียวกับวิน → รอ user เคาะว่าแจ็คเข้าจากขวาผ่านหลังวิน หรือแก้ทางอื่น · T-01 ยังไม่อยู่ใน Mix Stage
 - เติมความสมเหตุสมผล: รถจอดเพราะเป็นที่อยู่ที่เธอเปิดแผนที่ให้ดู · พนักงานเดินข้ามลาน = สายๆ ย่านธุรกิจ · ถอดหมวก จัดผม เพราะกำลังจะไปทำงาน · คืนหมวกเพราะเอาเข้าออฟฟิศไม่ได้ · ⭐ วินไม่หันมาเพราะ "เรื่องของเธอ เขาไม่ยุ่ง" · ⭐ แจ็ครออยู่ข้างใน เห็นเธอมาเลยออกมาทันที · ยิ้มสุภาพเพราะเขาคือคนที่เธอไม่อยากเจอ และวันนี้เธอติดหนี้เขา
 - คอมโพส: ช็อต 1 frame within frame (กันสาดบน ประตูหมุนขวา) + leading line ขอบฟุตปาธ · ช็อต 2 rule of thirds เว้นซ้ายให้แจ็คเดินเข้ามา + depth สามชั้น · ช็อต 3 lead room ช่องว่างสองก้าว
-- ⚠️ เฟรมสุดท้ายในสตอรี่บอร์ดมีสามคน แต่ช็อต 3 เป็น MCU 85mm — เขียนเฉพาะที่อยู่ในเฟรม (แจ็ค + อลิซ) ตำแหน่งวินจดไว้สำหรับคลิป 7: วินบนรถขวา หันหลังให้ หันหน้าไปตามถนนทางขวา ชิลด์ปิด หมวกขาวบนเบาะหลัง
+- **T-01 (`3f8e0cc8`) มาแล้ว 2026-10-21** ภาพตรงจากถนน ประตูหมุนอยู่กลางตึกใต้กันสาด · เราเอาเข้า Mix Stage เอง (`save_to_mix_stage` จาก asset `936df7ec`) เพราะไฟล์อยู่แค่ในหน้าอัปโหลด
+- ⚠️ **ทิศช็อต 2–3 เขียนตามทาง A (รอ user เคาะ)** — ช็อต 1 (T-02) ประตูซ้าย + รถมาจากขวาจอดกลาง → มุมกลับจากถนน ประตูจะอยู่ฝั่งวิน · แจ็คจึงเดินออกจากประตูกลาง ลงมาตรงช่องระหว่างอลิซกับวิน · **สลับข้างจากสตอรี่บอร์ด:** อลิซซ้าย แจ็คกลางหันซ้าย วินขวาหันหลังให้แจ็ค · ช็อต 3 แจ็คอยู่ 1/3 ขวาหันซ้าย ไหล่อลิซขอบซ้าย · ช็อต 2 คอมโพสเปลี่ยนเป็น symmetry ตาม T-01 ที่ตึกตรงกลาง
+- เฟรมสุดท้ายช็อต 3 เป็น MCU — เขียนเฉพาะที่อยู่ในเฟรม · ตำแหน่งวินสำหรับคลิป 7: บนรถขวาสุด หันหน้าไปตามถนนทางขวา หลังให้แจ็ค ชิลด์ปิด หมวกขาวบนเบาะหลัง
