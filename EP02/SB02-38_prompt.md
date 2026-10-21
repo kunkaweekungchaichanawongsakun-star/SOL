@@ -36,7 +36,7 @@ WHAT THEY WEAR, AS IN @Image3, @Image5 AND @Image11
 - Jack: an all-white suit, a dark grey shirt with the collar button open, round gold glasses, white sneakers, his black hair styled.
 
 WHERE EVERYTHING IS
-- The tall glass office building stands along the pavement, with a wide canopy over its entrance and a revolving glass door. In front of it, a granite plaza, then the kerb, then the main road. The glass and stone of the front are plain.
+- The tall glass office building stands along the pavement, with a wide canopy over its entrance and a revolving glass door. In front of it, a wide granite pavement with trees in square planters, a row of short steel bollards along the kerb, then the main road. The glass and stone of the front are plain.
 - The motorcycle stops at the kerb, side-on to the building, a few steps along from the revolving door.
 - THE MOTORCYCLE ARRIVES TRAVELLING TO THE LEFT OF FRAME IN SHOT 1. SHOT 2 AND SHOT 3 ARE SEEN FROM THE STREET, THE OPPOSITE SIDE, SO THERE ITS FRONT POINTS TO THE RIGHT OF FRAME.
 - IN SHOT 2 AND SHOT 3, JACK IS ALWAYS ON THE LEFT OF FRAME FACING RIGHT, ALIZ IN THE CENTRE, AND WIN ON THE MOTORCYCLE ON THE RIGHT OF FRAME, FACING RIGHT ALONG THE ROAD.
@@ -44,10 +44,10 @@ WHERE EVERYTHING IS
 SHOT-BY-SHOT
 Shot 1 — ARRIVING
 Picture, in this order:
-- 1. Under the canopy of the office building, looking out across the granite plaza to the main road. The revolving door turns slowly at the right edge of frame. Two office workers cross the plaza in the far distance, soft and blurred, on their way between offices in the late morning, and cars pass in the far lane.
+- 1. Under the canopy of the office building, looking out across the granite plaza to the main road. The revolving door turns slowly at the left edge of frame. Two office workers cross the plaza in the far distance, soft and blurred, on their way between offices in the late morning, and cars pass in the far lane.
 - 2. Win's motorcycle comes in from the right of frame along the kerb, Win in his green jacket and black helmet with the visor down, Aliz in her grey top and white helmet riding behind him, holding his waist. It passes the revolving door, slows, and stops at the kerb near the centre of the frame, because this is the address she showed him. Win puts his feet down.
 Camera: WS, 160 cm high, eye level, 24mm lens, locked-off, under the canopy of the building, looking out to the road.
-Composition: frame within frame — the edge of the canopy is a dark frame across the top, the revolving door a frame on the right, and through them the bright plaza and road. The motorcycle travels along the kerb as a leading line from right to left, with lead room ahead of it, and comes to rest in the centre. The audience's eye goes in this order: the motorcycle coming in → it stopping in the centre → the two of them on it.
+Composition: frame within frame — the edge of the canopy is a dark frame across the top, the revolving door a frame on the left, and through them the bright plaza and road. The motorcycle travels along the kerb as a leading line from right to left, with lead room ahead of it, and comes to rest in the centre. The audience's eye goes in this order: the motorcycle coming in → it stopping in the centre → the two of them on it.
 Light: strong late-morning sun on the plaza and the road; the canopy keeps the foreground in cool shade.
 Sound: the city traffic, the motorcycle engine slowing, then idling.
 
@@ -89,7 +89,7 @@ Everyone stays silent.
 - เทค 1 — ก๊อปจาก `SB02-37_prompt.md` · Sequence `บท 02 · ต่อ` · คลิปแรกของซีน 2-7 · ไม่มีเสียงพูด
 - ✅ "ไม่มีตัวหนังสือหรือโลโก้" → `The glass and stone of the front are plain.` · "ไม่ถอดหมวก" → `His black helmet on his head with the clear visor down, for the whole video.`
 - กรอง: "สะบัดผม" → ตัด เหลือ `runs her fingers through her hair` (ท่าโชว์ เสี่ยงเล่นเกิน) · "ตาจับที่อลิซคนเดียว" → `she is all he is looking at` (สายตาเป็นตัวแอ็กชัน) · "ยิ้มกว้างขึ้น" → `his smile grows … because he has been waiting to see her`
-- ⚠️ ทิศ: ช็อต 1 ย้ายประตูหมุนจาก "ขอบซ้าย" ไปขอบขวา เพราะช็อต 2 เป็นมุมกลับ 180° ซ้ายขวาสลับกัน ถ้าประตูอยู่ซ้ายในช็อต 1 ช็อต 2 แจ็คต้องเดินมาจากขวาผ่านวิน ขัดกับเฟรมสุดท้าย (แจ็คซ้าย อลิซกลาง วินขวา) — รอดูเพลต T-02
+- ⚠️ ทิศ: เพลต T-02 (`a91d6735`) ประตูหมุนอยู่ขอบซ้ายจริง → ช็อต 1 กลับไปตามสตอรี่บอร์ด (ประตูซ้าย) · เพิ่มเสาหลักเหล็กริมขอบฟุตปาธ กระถางต้นไม้ ตามเพลต · ช็อต 2 มุมกลับ ประตูจะไปอยู่ขวา ฝั่งเดียวกับวิน → รอ user เคาะว่าแจ็คเข้าจากขวาผ่านหลังวิน หรือแก้ทางอื่น · T-01 ยังไม่อยู่ใน Mix Stage
 - เติมความสมเหตุสมผล: รถจอดเพราะเป็นที่อยู่ที่เธอเปิดแผนที่ให้ดู · พนักงานเดินข้ามลาน = สายๆ ย่านธุรกิจ · ถอดหมวก จัดผม เพราะกำลังจะไปทำงาน · คืนหมวกเพราะเอาเข้าออฟฟิศไม่ได้ · ⭐ วินไม่หันมาเพราะ "เรื่องของเธอ เขาไม่ยุ่ง" · ⭐ แจ็ครออยู่ข้างใน เห็นเธอมาเลยออกมาทันที · ยิ้มสุภาพเพราะเขาคือคนที่เธอไม่อยากเจอ และวันนี้เธอติดหนี้เขา
 - คอมโพส: ช็อต 1 frame within frame (กันสาดบน ประตูหมุนขวา) + leading line ขอบฟุตปาธ · ช็อต 2 rule of thirds เว้นซ้ายให้แจ็คเดินเข้ามา + depth สามชั้น · ช็อต 3 lead room ช่องว่างสองก้าว
 - ⚠️ เฟรมสุดท้ายในสตอรี่บอร์ดมีสามคน แต่ช็อต 3 เป็น MCU 85mm — เขียนเฉพาะที่อยู่ในเฟรม (แจ็ค + อลิซ) ตำแหน่งวินจดไว้สำหรับคลิป 7: วินบนรถขวา หันหลังให้ หันหน้าไปตามถนนทางขวา ชิลด์ปิด หมวกขาวบนเบาะหลัง
