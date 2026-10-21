@@ -106,3 +106,4 @@ DIALOGUE, IN THIS ORDER
 - แก้ชุดอลิซ: เดิมเขียน `off-the-shoulder` (แปล "แขนล้ำไหล่" ผิด) → `short-sleeved … high round neck` ตามเฟรมจริงและบ็อกก่อน
 - user *"ไฟล์เสียง แบบลำดับสิ"* 2026-10-21 → เปลี่ยนจากไฟล์เดียวมีไทม์โค้ดเป็นสองไฟล์ตามลำดับ (@Audio1 แจ็ค · @Audio2 อลิซ) · ตัดวินาทีออกจากทุกบีต เป็น "Picture, in this order:" แบบ SB02-37 · LIP SYNC บอกว่าเล่นตามลำดับ ครั้งละไฟล์ เงียบท้ายไฟล์ไม่ใช้ · บีตแรกช็อต 2 "at the word" → "Because of the word" (บีตเกิดหลังเขาพูดจบ)
 - แก้ BEFORE THIS VIDEO: หมวกขาว "rear seat" → "on the motorcycle in front of him" ตามเฟรม
+- เทค 1 ยิง 2026-10-21 — run `8421fe1f-aa16-49b5-b079-34c9739b7946` · Seedance 2.5 · references · 16:9 · 720p · 9 วิ · เรฟ 12 + @Audio1–2 · identity_phrases ค่าเดิม (เปิด) · user สั่ง "ยิง"
