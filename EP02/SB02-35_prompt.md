@@ -3,7 +3,7 @@ Live-action microdrama, 16:9. Real people, real places, natural skin. Four shots
 All the acting is natural and real, at the size of real life, like real people on an ordinary morning: small, simple and unhurried. Feelings show quietly. Aliz's smiles stay small and closed-lip. The air is clear and clean. The only light is the morning sun. The only sound is the real sound of the place.
 
 LIP SYNC
-Aliz speaks in Shot 1, Shot 2 and Shot 4. Win speaks in Shot 1. Each line is lip-synced to the person saying it.
+Aliz speaks in Shot 1, Shot 2 and Shot 4. Win speaks in Shot 1. Each line is lip-synced to the person saying it. The four voice files play one after another in the order @Audio1, @Audio2, @Audio3, @Audio4, each exactly once, with the actions written in SHOT-BY-SHOT between them. Everything ends within 14 seconds.
 
 BEFORE THIS VIDEO
 All of this has already happened before the first frame. This is the third video of this scene. Aliz collapsed with a fever and was taken to a luxury private hospital; she was discharged yesterday. Last night on the phone she told Win, the man she calls "ลุง", that the man who sat by her hospital bed was the last person she wanted to see. This morning Win came to pick her up on his motorcycle. She came out of the dorm to meet him, and he got off the motorcycle to see her up close. They now stand one step apart on the pavement in front of the glass door of her dorm, and he has just asked her, with a small warm smile, "หายดีแล้วแน่นะ" — is she really better.
@@ -28,7 +28,10 @@ ACTIVE REFERENCES
 @Image11 — THE LOBBY OF HER DORM IN THE MORNING, LOOKING OUT THROUGH THE GLASS DOOR. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
 @Image12 — THE LAST FRAME OF THE PREVIOUS VIDEO. THIS REFERENCE IS THE AUTHORITY FOR WHERE EVERYONE AND EVERYTHING IS AT THE START OF SHOT 1. SHOT 1 SEES THIS SAME MOMENT FROM A NEW CAMERA ANGLE. THE CAMERA IN SHOT 1 IS FURTHER AWAY THAN IN @Image12 AND STANDS ON THE PAVEMENT, LOOKING ALONG THE FRONT OF THE DORM.
 @Image13 — THE LAST FRAME OF CLIP 1 OF THIS SCENE, SEEN FROM INSIDE THE LOBBY. THIS REFERENCE IS THE AUTHORITY FOR WHERE THE MOTORCYCLE IS PARKED. THE CAMERA IN THIS VIDEO IS OUTSIDE ON THE PAVEMENT, AT A DIFFERENT ANGLE FROM @Image13.
-@Audio1 — THE VOICES. Its first, third and fourth lines are ALIZ's voice and its second line is WIN's voice. Each person speaks with the voice in @Audio1, at the times written in DIALOGUE.
+@Audio1 — ALIZ'S VOICE, HER FIRST LINE, IN SHOT 1.
+@Audio2 — WIN'S VOICE, HIS LINE, IN SHOT 1, RIGHT AFTER @Audio1.
+@Audio3 — ALIZ'S VOICE, HER SECOND LINE, IN SHOT 2.
+@Audio4 — ALIZ'S VOICE, HER THIRD LINE, IN SHOT 4.
 @Image1 and @Image2 carry her face, and her clothes come from @Image3. @Image5 and @Image6 carry his face, and his clothes come from @Image4. The whole video is outside on the pavement in front of the dorm in @Image10; the camera stays outside for the whole video. @Image11 is only what is seen through the glass door behind Aliz. Win's motorcycle is @Image7, his black helmet @Image8 hangs on its left mirror stalk, and Aliz's white helmet @Image9 sits on its rear seat. @Image12 carries where Win and Aliz stand and which way they face. @Image13 carries where the motorcycle is: it is still parked exactly there, right outside the glass door at the kerb, side-on to the door; Win got off it in the previous video and now stands on the pavement between it and Aliz. Faces and clothes come from the character references.
 
 WHAT THEY WEAR, AS IN @Image3 AND @Image4
@@ -42,49 +45,48 @@ WHERE EVERYONE IS, FOR THE WHOLE VIDEO
 - WIN IS ALWAYS ON THE LEFT OF FRAME FACING RIGHT, AND ALIZ IS ALWAYS ON THE RIGHT OF FRAME FACING LEFT, IN EVERY SHOT.
 
 SHOT-BY-SHOT
-Shot 1 — 0.0–7.7 s — SOMEWHERE CHEAPER
-Picture:
-- 0.0–0.4 s: they stand one step apart, as at the end of the previous video. Win has just asked if she is really better; Aliz is amused that he worries so much about a girl who is clearly fine now.
-- 0.4–5.8 s · Aliz: "แหม โรงบาลระดับนั้นรักษาไม่หายได้ไง... แต่คราวหน้าลุงพาไปอันที่ถูกๆ หน่อยก็ได้นะ"
+Shot 1 — SOMEWHERE CHEAPER
+Picture, in this order:
+- 1. Straight away, Aliz answers his question with @Audio1, amused that he worries so much about a girl who is clearly fine now.
+  - Aliz: "แหม โรงบาลระดับนั้นรักษาไม่หายได้ไง... แต่คราวหน้าลุงพาไปอันที่ถูกๆ หน่อยก็ได้นะ"
   - Emotion from the script: 半开玩笑，略带肉疼.
   - Performance: on "แหม" a small, light brush of her right hand, because his question feels too big for how well she is. She teases him with an amused closed-lip smile. After "ได้ไง..." she pauses for a moment, and the second half comes half as a joke and half as real pain at what that hospital must have cost.
-- 0.4–5.8 s · Win as he listens: the teasing almost makes him smile. When she mentions the cost, his face turns serious, because it sounds like she paid.
-- 5.8–6.3 s: Win leans a little toward her.
-- 6.3–7.6 s · Win: "โดนเรียกเก็บเงินเหรอ"
+- 2. While she speaks, Win listens. The teasing almost makes him smile. When she mentions the cost, his face turns serious, because it sounds like she paid.
+- 3. When she has finished, Win leans a little toward her and asks with @Audio2.
+  - Win: "โดนเรียกเก็บเงินเหรอ"
   - Emotion from the script: 略感疑惑，认真询问.
   - Performance: a plain, serious question; he is worried she had to pay it all herself.
-- 7.6–7.7 s: he waits for her answer.
 Camera: MS two-shot, 150 cm high, eye level, 50mm lens, locked-off, set on the pavement looking along the front of the dorm.
 Composition: rule of thirds — Win stands on the left third line, Aliz on the right third line, their eyes on the upper third. The empty step of pavement between them sits in the centre of the frame as negative space: close, the distance of two people who are close but not yet a couple. Depth in three layers: the pavement in front, the two of them in the middle, and behind them the motorcycle on Win's side and the glass door and potted plants on Aliz's side, which frame each of them with their own world. The kerb and the line of the dorm front run away into the distance between them as leading lines. The audience's eye goes in this order: Aliz's sunlit face, the brightest point → Win's face → the space between them.
 Light: the low morning sun comes from the street side on the left of frame. Aliz's face takes the warm sunlight full on; Win is lit from behind, a warm edge on his back and shoulders.
 Sound: a quiet side street in the morning, a few birds.
 
-Shot 2 — 7.7–9.7 s — SOMEONE PAID
-Picture:
-- 7.7–8.4 s: Aliz gives a small shake of her head, because someone else paid, and she looks down and away to the side, because she would rather not talk about who did.
-- 8.4–9.5 s · Aliz: "มีคนจ่ายให้…"
+Shot 2 — SOMEONE PAID
+Picture, in this order:
+- 1. Aliz gives a small shake of her head, because someone else paid, and she looks down and away to the side, because she would rather not talk about who did.
+- 2. Still looking away, she says @Audio3.
+  - Aliz: "มีคนจ่ายให้…"
   - Emotion from the script: 无奈烦躁.
   - Performance: a little fed up with the whole thing; she keeps looking away from Win.
-- 9.5–9.7 s: she is still looking down to the side.
 Camera: CU, 155 cm high, eye level, 85mm lens, locked-off.
 Composition: Aliz's face on the right third line, her eyes on the upper third. Win's shoulder is a soft dark shape on the left edge as foreground, so he is close even when she looks away from him; the space between his shoulder and her face is the topic she is avoiding. Behind her, the glass door of the dorm, blurred and warm. A shallow depth of field keeps only her face sharp.
 
-Shot 3 — 9.7–10.9 s — HE KEEPS IT TO HIMSELF · wordless
-Picture:
-- 9.7–10.4 s: from the annoyance in her voice, Win knows who paid: the man she told him last night was the last person she wanted to see, and she still feels the same. A very small smile comes to the corner of his mouth and his face softens. Aliz is still looking away, so the smile is his alone.
-- 10.4–10.9 s: he puts the smile away before she looks back, keeping it to himself.
+Shot 3 — HE KEEPS IT TO HIMSELF · a short, wordless shot
+Picture, in this order:
+- 1. From the annoyance in her voice, Win knows who paid: the man she told him last night was the last person she wanted to see, and she still feels the same.
+- 2. A very small smile comes to the corner of his mouth and his face softens. Aliz is still looking away, so the smile is his alone.
+- 3. He puts the smile away before she looks back, keeping it to himself.
 Camera: CU, 165 cm high, eye level, 85mm lens, locked-off.
 Composition: Win's face on the left third line, his eyes on the upper third, with lead room on the right in the direction he faces. Aliz's shoulder is a soft shape on the right edge as foreground. Behind him, the hedge across the street and the morning sun, blurred into warm light. The tight frame makes the small smile the only thing to look at: a secret shared with the audience alone.
 
-Shot 4 — 10.9–14.0 s — FORGET IT
-Picture:
-- 10.9–11.0 s: Aliz looks back at Win.
-- 11.0–13.6 s · Aliz: "… คนที่หนูไม่อยากเจอนั่นแหละ ช่างมันเถอะ"
+Shot 4 — FORGET IT
+Picture, in this order:
+- 1. Aliz looks back at Win and says @Audio4, because she wants this subject closed.
+  - Aliz: "… คนที่หนูไม่อยากเจอนั่นแหละ ช่างมันเถอะ"
   - Emotion from the script: 迅速带过.
-  - Performance: she wants this subject closed. On "ช่างมันเถอะ" a small wave of her right hand, and her bright closed-lip smile comes back.
-- 11.0–12.6 s: Win lets the subject go for her. He turns round to the motorcycle behind him and lifts her white helmet off the rear seat by its strap; it is time to go.
-- 12.6–13.6 s: he turns back and holds the helmet out to her.
-- 13.6–14.0 s: Aliz takes the helmet from his hands with both hands.
+- 2. On "ช่างมันเถอะ" a small wave of her right hand, and her bright closed-lip smile comes back.
+- 3. Win's face settles. He lets the subject go for her: he turns round to the motorcycle behind him, lifts her white helmet off the rear seat by its strap, turns back and holds it out to her, because it is time to go.
+- 4. Aliz reaches out and takes the helmet from his hands with both hands.
 Camera: MS two-shot, the same position as Shot 1.
 Composition: the same rule-of-thirds frame as Shot 1, Win on the left third, Aliz on the right third. When Win holds out the white helmet, it moves into the empty space in the centre of the frame between them and becomes the focal point: the first thing that crosses the step between them. The audience's eye goes from the helmet to Aliz's hands taking it.
 Sound: the helmet strap buckle clinks softly.
@@ -92,12 +94,11 @@ Sound: the helmet strap buckle clinks softly.
 THE LAST FRAME
 Win stands on the left of frame beside the motorcycle, his hands just letting go of the white helmet. Aliz stands on the right of frame, holding the white helmet in both hands. The motorcycle is behind Win, the dorm door behind Aliz.
 
-DIALOGUE
-Shot 1, 0.4–5.8 s, ALIZ: "แหม โรงบาลระดับนั้นรักษาไม่หายได้ไง... แต่คราวหน้าลุงพาไปอันที่ถูกๆ หน่อยก็ได้นะ"
-Shot 1, 6.3–7.6 s, WIN: "โดนเรียกเก็บเงินเหรอ"
-Shot 2, 8.4–9.5 s, ALIZ: "มีคนจ่ายให้…"
-Shot 4, 11.0–13.6 s, ALIZ: "… คนที่หนูไม่อยากเจอนั่นแหละ ช่างมันเถอะ"
-
+DIALOGUE, IN THIS ORDER
+1. Shot 1, @Audio1, ALIZ: "แหม โรงบาลระดับนั้นรักษาไม่หายได้ไง... แต่คราวหน้าลุงพาไปอันที่ถูกๆ หน่อยก็ได้นะ"
+2. Shot 1, @Audio2, WIN: "โดนเรียกเก็บเงินเหรอ"
+3. Shot 2, @Audio3, ALIZ: "มีคนจ่ายให้…"
+4. Shot 4, @Audio4, ALIZ: "… คนที่หนูไม่อยากเจอนั่นแหละ ช่างมันเถอะ"
 ---
 
 ## แท็กจีน — แปลไทย — ที่มา
@@ -127,3 +128,4 @@ Shot 4, 11.0–13.6 s, ALIZ: "… คนที่หนูไม่อยาก�
 - เทค 1 ยิง 2026-10-21 — run `1e0af45a-5868-4410-a315-d06b8dce1657` · Seedance 2.5 · references · 16:9 · 720p · 14 วิ · เรฟ 12 + @Audio1 · ติดเกต moderation 1 รอบ
 - เทค 1 เสร็จ — asset `b2f2bfa5-d4c7-4dfd-9005-19d7c21dee44` · 14.08 วิ · 123.1 พอยต์ · เจนนานราว 28 นาที
 - **เทค 2 (เตรียม) 2026-10-21** user *"ปรับนะ หลังจากนี้ให้เพิ่ม คุณต้องคิดถึงการจัดองค์ประกอบภาพต่างๆ ด้วย สำหรับการวางมุมกล้อง ให้สะกดสายตาคนดู … ใช้สูตรองค์ประกอบภาพตามความเหมาะสม มันไม่ได้มีแค่มุม 9 ตัด แต่เลือกใช้ให้ถูกความหมาย"* + *"ภาพเฟรมสุดท้ายของคลิป 2 มันครึ่งตัว มันเลยไม่รู้รถอยู่ไหน เลยต้องเอาภาพตำแหน่งรถจากเฟรมสุดท้ายคลิป 1 มาด้วย"* → เพิ่ม @Image13 `เฟรมสุดท้ายของ 2 6 คลิป 1` ถือตำแหน่งรถ (รถจอดที่เดิม หน้าประตู ชิดขอบทาง หันข้างให้ประตู · วินลงมายืนบนทางเท้าระหว่างรถกับอลิซ) · คอมโพสทุกช็อต: ช็อต 1/4 rule of thirds + negative space ระยะหนึ่งก้าว + ชั้นความลึก 3 ชั้น + leading lines ขอบทาง/แนวหน้าหอ + ลำดับสายตา · ช็อต 2 ไหล่วินเป็นฉากหน้า ระยะระหว่างไหล่กับหน้า = เรื่องที่เธอหลบ · ช็อต 3 lead room + เฟรมแน่นให้รอยยิ้มเป็นจุดเดียว (ความลับกับคนดู) · ช็อต 4 หมวกเข้ากลางเฟรมเป็น focal point สิ่งแรกที่ข้ามระยะหนึ่งก้าว
+- **เทค 2 (เตรียมใหม่) 2026-10-21** สตอรี่บอร์ดคลิป 3 ฉบับใหม่ + user *"รอบนี้ผมเอาวินาทีออกทั้งหมด เป็นลำดับการแสดงแทน"* → เสียงแยก 4 ไฟล์ `C2 6 clip03 1 Aliz` / `2 Win` / `3 Aliz` / `4 Aliz` = @Audio1–4 ตามลำดับ (`C2 6 clip03 14s` user ลบแล้ว) · ตัดวินาทีทั้งหมด → ทุกช็อต `Picture, in this order:` บีตเลข 1. 2. 3. · DIALOGUE เรียงลำดับพร้อม @Audio · LIP SYNC เติม `play one after another … each exactly once … Everything ends within 14 seconds.` · ช็อต 4 วินหยิบหมวกหลังอลิซโบกมือ ตามลำดับสตอรี่บอร์ดใหม่ (เดิมทับระหว่างประโยคเพราะติดวินาที) · คอมโพส + เรฟตำแหน่งรถคงจากเทค 2 เตรียม
