@@ -27,15 +27,16 @@ ACTIVE REFERENCES
 @Image10 — THE FRONT OF HER DORM IN THE MORNING. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
 @Image11 — THE LOBBY OF HER DORM IN THE MORNING, LOOKING OUT THROUGH THE GLASS DOOR. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
 @Image12 — THE LAST FRAME OF THE PREVIOUS VIDEO. THIS REFERENCE IS THE AUTHORITY FOR WHERE EVERYONE AND EVERYTHING IS AT THE START OF SHOT 1. SHOT 1 SEES THIS SAME MOMENT FROM A NEW CAMERA ANGLE. THE CAMERA IN SHOT 1 IS FURTHER AWAY THAN IN @Image12 AND STANDS ON THE PAVEMENT, LOOKING ALONG THE FRONT OF THE DORM.
+@Image13 — THE LAST FRAME OF CLIP 1 OF THIS SCENE, SEEN FROM INSIDE THE LOBBY. THIS REFERENCE IS THE AUTHORITY FOR WHERE THE MOTORCYCLE IS PARKED. THE CAMERA IN THIS VIDEO IS OUTSIDE ON THE PAVEMENT, AT A DIFFERENT ANGLE FROM @Image13.
 @Audio1 — THE VOICES. Its first, third and fourth lines are ALIZ's voice and its second line is WIN's voice. Each person speaks with the voice in @Audio1, at the times written in DIALOGUE.
-@Image1 and @Image2 carry her face, and her clothes come from @Image3. @Image5 and @Image6 carry his face, and his clothes come from @Image4. The whole video is outside on the pavement in front of the dorm in @Image10; the camera stays outside for the whole video. @Image11 is only what is seen through the glass door behind Aliz. Win's motorcycle is @Image7, his black helmet @Image8 hangs on its left mirror stalk, and Aliz's white helmet @Image9 sits on its rear seat. @Image12 carries where Win and Aliz stand and which way they face; faces and clothes come from the character references.
+@Image1 and @Image2 carry her face, and her clothes come from @Image3. @Image5 and @Image6 carry his face, and his clothes come from @Image4. The whole video is outside on the pavement in front of the dorm in @Image10; the camera stays outside for the whole video. @Image11 is only what is seen through the glass door behind Aliz. Win's motorcycle is @Image7, his black helmet @Image8 hangs on its left mirror stalk, and Aliz's white helmet @Image9 sits on its rear seat. @Image12 carries where Win and Aliz stand and which way they face. @Image13 carries where the motorcycle is: it is still parked exactly there, right outside the glass door at the kerb, side-on to the door; Win got off it in the previous video and now stands on the pavement between it and Aliz. Faces and clothes come from the character references.
 
 WHAT THEY WEAR, AS IN @Image3 AND @Image4
 - Aliz: a grey short-sleeved knit top with a high round neck, black shorts with a black studded belt, black tights, black ankle boots, a black leather bag on her left shoulder, a gold necklace, gold hoop earrings, a gold bracelet on her right wrist and a gold watch on her left wrist. Her long black hair loose.
 - Win: a light green jacket, a black T-shirt, black jeans, black boots. Bareheaded.
 
 WHERE EVERYONE IS, FOR THE WHOLE VIDEO
-- Win stands on the pavement on the left of frame, facing right toward Aliz. Behind him, his motorcycle is parked on its side stand close to the kerb, its front angled toward the camera and to the left; the white helmet sits on its rear seat, within reach of his hand when he turns round.
+- Win stands on the pavement on the left of frame, facing right toward Aliz. Behind him, his motorcycle is parked on its side stand at the kerb, where @Image13 shows it; from this camera its front is angled toward the camera and to the left. The white helmet sits on its rear seat, within reach of his hand when he turns round.
 - Aliz stands on the right of frame, one step away from him, facing left toward Win.
 - Behind Aliz on the right: the glass door of the dorm and the potted plants beside it. The side street is on the left of frame, behind Win.
 - WIN IS ALWAYS ON THE LEFT OF FRAME FACING RIGHT, AND ALIZ IS ALWAYS ON THE RIGHT OF FRAME FACING LEFT, IN EVERY SHOT.
@@ -54,7 +55,7 @@ Picture:
   - Performance: a plain, serious question; he is worried she had to pay it all herself.
 - 7.6–7.7 s: he waits for her answer.
 Camera: MS two-shot, 150 cm high, eye level, 50mm lens, locked-off, set on the pavement looking along the front of the dorm.
-Composition: Win on the left third, Aliz on the right third. One step between them: close, the distance of two people who are close but not yet a couple. The motorcycle behind Win, the dorm door behind Aliz.
+Composition: rule of thirds — Win stands on the left third line, Aliz on the right third line, their eyes on the upper third. The empty step of pavement between them sits in the centre of the frame as negative space: close, the distance of two people who are close but not yet a couple. Depth in three layers: the pavement in front, the two of them in the middle, and behind them the motorcycle on Win's side and the glass door and potted plants on Aliz's side, which frame each of them with their own world. The kerb and the line of the dorm front run away into the distance between them as leading lines. The audience's eye goes in this order: Aliz's sunlit face, the brightest point → Win's face → the space between them.
 Light: the low morning sun comes from the street side on the left of frame. Aliz's face takes the warm sunlight full on; Win is lit from behind, a warm edge on his back and shoulders.
 Sound: a quiet side street in the morning, a few birds.
 
@@ -66,14 +67,14 @@ Picture:
   - Performance: a little fed up with the whole thing; she keeps looking away from Win.
 - 9.5–9.7 s: she is still looking down to the side.
 Camera: CU, 155 cm high, eye level, 85mm lens, locked-off.
-Composition: Aliz's face on the right third, turned toward the left. Win's shoulder blurred on the left edge. Behind her, the glass door of the dorm, blurred and warm.
+Composition: Aliz's face on the right third line, her eyes on the upper third. Win's shoulder is a soft dark shape on the left edge as foreground, so he is close even when she looks away from him; the space between his shoulder and her face is the topic she is avoiding. Behind her, the glass door of the dorm, blurred and warm. A shallow depth of field keeps only her face sharp.
 
 Shot 3 — 9.7–10.9 s — HE KEEPS IT TO HIMSELF · wordless
 Picture:
 - 9.7–10.4 s: from the annoyance in her voice, Win knows who paid: the man she told him last night was the last person she wanted to see, and she still feels the same. A very small smile comes to the corner of his mouth and his face softens. Aliz is still looking away, so the smile is his alone.
 - 10.4–10.9 s: he puts the smile away before she looks back, keeping it to himself.
 Camera: CU, 165 cm high, eye level, 85mm lens, locked-off.
-Composition: Win's face on the left third, facing right. Aliz's shoulder blurred on the right edge.
+Composition: Win's face on the left third line, his eyes on the upper third, with lead room on the right in the direction he faces. Aliz's shoulder is a soft shape on the right edge as foreground. Behind him, the hedge across the street and the morning sun, blurred into warm light. The tight frame makes the small smile the only thing to look at: a secret shared with the audience alone.
 
 Shot 4 — 10.9–14.0 s — FORGET IT
 Picture:
@@ -85,6 +86,7 @@ Picture:
 - 12.6–13.6 s: he turns back and holds the helmet out to her.
 - 13.6–14.0 s: Aliz takes the helmet from his hands with both hands.
 Camera: MS two-shot, the same position as Shot 1.
+Composition: the same rule-of-thirds frame as Shot 1, Win on the left third, Aliz on the right third. When Win holds out the white helmet, it moves into the empty space in the centre of the frame between them and becomes the focal point: the first thing that crosses the step between them. The audience's eye goes from the helmet to Aliz's hands taking it.
 Sound: the helmet strap buckle clinks softly.
 
 THE LAST FRAME
@@ -124,3 +126,4 @@ Shot 4, 11.0–13.6 s, ALIZ: "… คนที่หนูไม่อยาก�
 - user *"ยิง หมวกดำคงไว้"* → หมวกดำบนก้านกระจกซ้ายคงไว้
 - เทค 1 ยิง 2026-10-21 — run `1e0af45a-5868-4410-a315-d06b8dce1657` · Seedance 2.5 · references · 16:9 · 720p · 14 วิ · เรฟ 12 + @Audio1 · ติดเกต moderation 1 รอบ
 - เทค 1 เสร็จ — asset `b2f2bfa5-d4c7-4dfd-9005-19d7c21dee44` · 14.08 วิ · 123.1 พอยต์ · เจนนานราว 28 นาที
+- **เทค 2 (เตรียม) 2026-10-21** user *"ปรับนะ หลังจากนี้ให้เพิ่ม คุณต้องคิดถึงการจัดองค์ประกอบภาพต่างๆ ด้วย สำหรับการวางมุมกล้อง ให้สะกดสายตาคนดู … ใช้สูตรองค์ประกอบภาพตามความเหมาะสม มันไม่ได้มีแค่มุม 9 ตัด แต่เลือกใช้ให้ถูกความหมาย"* + *"ภาพเฟรมสุดท้ายของคลิป 2 มันครึ่งตัว มันเลยไม่รู้รถอยู่ไหน เลยต้องเอาภาพตำแหน่งรถจากเฟรมสุดท้ายคลิป 1 มาด้วย"* → เพิ่ม @Image13 `เฟรมสุดท้ายของ 2 6 คลิป 1` ถือตำแหน่งรถ (รถจอดที่เดิม หน้าประตู ชิดขอบทาง หันข้างให้ประตู · วินลงมายืนบนทางเท้าระหว่างรถกับอลิซ) · คอมโพสทุกช็อต: ช็อต 1/4 rule of thirds + negative space ระยะหนึ่งก้าว + ชั้นความลึก 3 ชั้น + leading lines ขอบทาง/แนวหน้าหอ + ลำดับสายตา · ช็อต 2 ไหล่วินเป็นฉากหน้า ระยะระหว่างไหล่กับหน้า = เรื่องที่เธอหลบ · ช็อต 3 lead room + เฟรมแน่นให้รอยยิ้มเป็นจุดเดียว (ความลับกับคนดู) · ช็อต 4 หมวกเข้ากลางเฟรมเป็น focal point สิ่งแรกที่ข้ามระยะหนึ่งก้าว
