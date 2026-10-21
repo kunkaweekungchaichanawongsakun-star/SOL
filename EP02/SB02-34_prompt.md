@@ -97,3 +97,4 @@ Shot 3, 8.3–9.4 s, WIN: "หายดีแล้วแน่นะ"
 - ช็อต 2 "ยิ้มกว้าง" → `a bright closed-lip smile between her words` (อลิซไม่ยิ้มเห็นฟัน)
 - ช็อต 3 "เสียงต่ำเบา ไม่ยิ้ม … ตาไม่ละจากหน้าเธอ" → `serious … his eyes staying on her face` (ตัดกำกับเสียง · ประโยคปฏิเสธ)
 - ทิศ "ตั้งแต่อลิซก้าวออกประตู วินซ้าย อลิซขวาเสมอ" → ตัวใหญ่ใน WHERE EVERYONE IS
+- เทค 1 ยิง 2026-10-21 — run `23d43a28-865e-4659-8aca-9b577a0ab8f3` · Seedance 2.5 · references · 16:9 · 720p · 10 วิ · เรฟ 11 + @Audio1 · user สั่ง "ยิง"
