@@ -34,7 +34,7 @@ WHAT THEY WEAR, AS IN @Image3 AND @Image4
 - Win: a light green jacket, a black T-shirt, black jeans, black boots. Bareheaded.
 
 WHERE EVERYONE IS
-- AT THE START, EVERYONE IS EXACTLY WHERE @Image11 SHOWS THEM:
+- AT THE START, WIN AND THE MOTORCYCLE ARE EXACTLY WHERE @Image11 SHOWS THEM, AND ALIZ HAS MOVED ON TO THE DOOR:
   - Shot 1 opens a moment after @Image11: Aliz has already walked the few steps and stands right at the glass door, facing it, her right hand on the long brass handle.
   - Win sits astride the motorcycle just outside the glass door, on the street at the kerb, the motorcycle side-on to the door, its front pointing left as seen from inside the lobby, the white helmet on the rear seat. His head is turned toward the door.
   - Behind him, across the street, the long hedge, the trees and the houses, with the low morning sun behind them.
