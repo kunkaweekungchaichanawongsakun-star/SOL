@@ -67,3 +67,4 @@ Everyone stays silent.
 - BEFORE THIS VIDEO "discharged yesterday" — จากบท 2-4 คืนวันออก ร.พ. อลิซขอ "พรุ่งนี้มารับหนูหน่อยได้ไหม"
 - ไม่แนบ `WIN_greenjkt_CU` / `3Q` — สตอรี่บอร์ดแนบแค่วินเต็มตัว และวินอยู่นอกกระจก ย้อนแสง ไม่เห็นหน้าชัด
 - เทค 1 ยิง 2026-10-21 — run `8a4ddc9b-b597-4580-8529-db6d8bf2601e` · Seedance 2.5 · references · 16:9 · 720p · 9 วิ · เรฟ 9 · user สั่ง "ยิง" (ติด moderation gate รอบแรก ยิงซ้ำคีย์เดิม)
+- เทค 1 เสร็จ — 9.06 วิ · 79.1 พอยต์ · asset `a5778f67-8c56-45ad-9bc4-bedf2d9e92ac` · รอ user ดู

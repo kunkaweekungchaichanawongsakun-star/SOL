@@ -1,0 +1,99 @@
+GLOBAL STYLE
+Live-action microdrama, 16:9. Real people, real places, natural skin. Three shots, 10 seconds, at real-time speed.
+All the acting is natural and real, at the size of real life, like real people on an ordinary morning. The air is clear and clean. The only light is the morning sun and the lobby lights. The only sound is the real sound of the place.
+
+LIP SYNC
+Aliz speaks in Shot 1 and Shot 2. Win speaks in Shot 3. Each line is lip-synced to the person saying it.
+
+BEFORE THIS VIDEO
+All of this has already happened before the first frame. This is the second video of this scene. Aliz collapsed with a fever and was taken to hospital; she was discharged yesterday and asked Win, the man she calls "ลุง", to pick her up this morning. Fully recovered, dressed and made up, she came down early and has been waiting in the lobby of her dorm. Win has just pulled up on his motorcycle right outside the glass door, close to the dorm side of the street, its front pointing left, and switched off the engine. He is helmet off; his black helmet hangs on the left mirror stalk and her white helmet sits on the rear seat.
+
+SCENE
+Aliz cannot wait any longer: she hurries out of the door to show Win she is back, playful and full of life. Win, who usually waits on his motorcycle, gets off this morning to look at her up close, because he wants to see for himself that she is really well, and asks her quietly if she is truly better.
+
+ALIZ'S FACE
+Recovered and fresh, her skin tone natural as in her character references.
+
+ACTIVE REFERENCES
+@Image1 — ALIZ: 26, pretty, long straight jet-black hair. 100% matches the reference, and @Image3 is the authority for what she is wearing today.
+@Image2 — HER FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for her face.
+@Image3 — HER FULL BODY. 100% matches the reference for her clothes.
+@Image4 — WIN: 45, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @Image4 is the authority for what he is wearing today.
+@Image5 — HIS FACE FROM THE FRONT. 100% matches the reference for his face.
+@Image6 — HIS FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for his face.
+@Image7 — THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF.
+@Image8 — WIN'S HELMET. THIS REFERENCE IS THE AUTHORITY FOR THIS HELMET ITSELF.
+@Image9 — ALIZ'S HELMET. THIS REFERENCE IS THE AUTHORITY FOR THIS HELMET ITSELF.
+@Image10 — THE LOBBY OF HER DORM IN THE MORNING, LOOKING OUT THROUGH THE GLASS DOOR. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
+@Image11 — THE FRONT OF HER DORM IN THE MORNING. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
+@Audio1 — THE VOICES. Its first line is ALIZ's voice and its second line is WIN's voice. Each person speaks with the voice in @Audio1, at the times written in DIALOGUE.
+@Image1 and @Image2 carry her face, and her clothes come from @Image3. @Image5 and @Image6 carry his face, and his clothes come from @Image4. Shot 1 is inside the lobby in @Image10. Shots 2 and 3 are on the pavement in front of the dorm in @Image11. Win's motorcycle is @Image7, his black helmet @Image8 hangs on its left mirror stalk, and her white helmet @Image9 sits on the rear seat.
+
+WHAT THEY WEAR, AS IN @Image3 AND @Image4
+- Aliz: a grey off-the-shoulder knit top, black shorts with a black studded belt, black tights, black ankle boots, a black leather bag on her left shoulder, a gold necklace, gold hoop earrings, a gold bracelet on her right wrist and a gold watch on her left wrist. Her long black hair loose.
+- Win: a light green jacket, a black T-shirt, black jeans, black boots. Helmet off.
+
+WHERE EVERYONE IS
+- At the start: Aliz stands in the lobby on the left of frame, her back to the camera. Win sits on the motorcycle outside the glass door, right in front of it, close to the dorm side of the street, its front pointing left.
+- FROM THE MOMENT ALIZ STEPS OUT OF THE DOOR, WIN IS ALWAYS ON THE LEFT OF FRAME AND ALIZ IS ALWAYS ON THE RIGHT OF FRAME.
+
+SHOT-BY-SHOT
+Shot 1 — 0.0–3.0 s — PUSHING THE DOOR
+Picture:
+- Aliz walks to the door with quick steps, like someone who cannot wait any longer.
+- Her right hand takes the long handle and pushes the glass door open; the sunlight and the sound of the side street flow in.
+- Outside the door, Win has already turned to look at her, as he does every morning.
+- 2.2–4.7 s · Aliz: "ทะด๊า... ลูกค้าผู้น่ารักกลับมาแล้ว"
+  - Emotion from the script: 元气满满，欢快俏皮.
+  - Performance: "ทะด๊า..." lands just as the door opens; she opens her arms a little, as if presenting herself. The rest of the line carries on into Shot 2.
+Camera: MS from behind, 130 cm high, eye level, 35mm lens, a steadicam following behind her to the door.
+Composition: Aliz's back left of centre. Win in the centre of the frame outside the door. The audience's eye goes to the gap of the door as it opens.
+
+Shot 2 — 3.0–7.5 s — STEPPING OUT
+Picture:
+- The reverse angle from outside. Aliz steps out of the glass door onto the pavement with a bright closed-lip smile between her words, finishes her line, then walks straight toward Win on the left of frame.
+- Win looks her over from head to toe, checking she is really well. He gets off the motorcycle and stands on the pavement beside it. He usually waits on the motorcycle; this morning he gets off to see her up close.
+Camera: MS, 140 cm high, eye level, 50mm lens, locked-off, set in the street slightly ahead of the front of the motorcycle, looking at the door of the dorm.
+Composition: Win's right shoulder and the back of his head blurred on the left edge of the frame as foreground; the round headlight of the motorcycle in the lower left corner. Aliz sharp, coming out of the door on the right of frame and walking left toward Win. The glass door, potted plants and the warm lobby behind her.
+Light: the low morning sun from across the street falls full on Aliz's face; her face is warm and bright, her eyes catching real sunlight. Win in the foreground is a backlit shape.
+Sound: the glass door closing behind her. Her boots on the pavement. Morning birds.
+
+Shot 3 — 7.5–10.0 s — ARE YOU REALLY BETTER
+Picture:
+- Win stands beside the motorcycle; Aliz stops one step in front of him. He looks at her face steadily for a moment, his eyes going over it as if to check she is no longer pale, then asks quietly.
+- 8.3–9.4 s · Win: "หายดีแล้วแน่นะ"
+  - Emotion from the script: 温和关切，轻声求证.
+  - Performance: serious, his brows drawing together a little, his eyes staying on her face.
+Camera: CU, 165 cm high, eye level, 85mm lens, locked-off.
+Composition: Win's face on the left third, turned diagonally toward the right of frame where Aliz stands, with space in front of him on the right. Aliz's shoulder blurred on the right edge. Behind, the side street and the hedge across it, blurred.
+Light: the sun behind Win catches the edge of his hair and shoulders in a golden line. His face takes soft light bounced off the pale wall of the dorm.
+
+THE LAST FRAME
+Win stands on the pavement on the left of frame, facing right toward Aliz. Aliz stands on the right of frame, one step away, facing Win. The motorcycle is parked close to the kerb behind Win on the left. The door of the dorm is behind Aliz on the right.
+
+DIALOGUE
+Shot 1 to Shot 2, 2.2–4.7 s, ALIZ: "ทะด๊า... ลูกค้าผู้น่ารักกลับมาแล้ว"
+Shot 3, 8.3–9.4 s, WIN: "หายดีแล้วแน่นะ"
+
+---
+
+## แท็กจีน — แปลไทย — ที่มา
+
+| แท็ก | แปลไทย | ที่มา |
+|---|---|---|
+| `元气满满，欢快俏皮` | ร่าเริงสดใส ขี้เล่นน่ารัก | บท 2-6 บรรทัดอลิซ · สตอรี่บอร์ดจาวิส |
+| `温和关切，轻声求证` | อ่อนโยน ห่วงใย ถามเพื่อความแน่ใจเบาๆ | บท 2-6 บรรทัดวิน · สตอรี่บอร์ดจาวิส |
+
+## ที่มา
+
+สตอรี่บอร์ด "2-6 · คลิป 2 · ทะด๊า · 10 วิ" ของจาวิส 2026-10-21 — แปลเป็นอังกฤษ**ตามต้นฉบับเป๊ะ** · เสียง `C2 6 clip02 10s` (อลิซ 2.2–4.7 · วิน 8.3–9.4 ตามที่ user ให้) · เรฟชุดเดียวกับ SB02-33
+
+## CHANGE LOG
+- เทค 1 — ก๊อปจาก `SB02-33_prompt.md` · SHOT-BY-SHOT = สตอรี่บอร์ดจาวิสแปลตรงตัว · แบบเดียว
+- user *"อย่าลืมว่าการแสดงธรรมชาติ ดูจริง ไม่โอเวอร์แอคติ้ง หรือทำอะไรแปลกๆ"* → GLOBAL STYLE `natural and real, at the size of real life, like real people on an ordinary morning`
+- เพิ่มเอง: `WIN_greenjkt_CU` / `3Q` เพราะช็อต 3 เป็น CU หน้าวิน
+- ✅ ทุกช็อต: ประโยคปฏิเสธ แปลงเหมือน SB02-33 (อากาศใส · ความเร็วจริง · กล้องเคลื่อนจริง · เสียงจริงในฉาก · ตัดเรื่องตัวหนังสือ)
+- ช็อต 1 "ลากเสียงตอนประตูเปิดพอดี" → `lands just as the door opens` (ตัดกำกับเสียง)
+- ช็อต 2 "ยิ้มกว้าง" → `a bright closed-lip smile between her words` (อลิซไม่ยิ้มเห็นฟัน)
+- ช็อต 3 "เสียงต่ำเบา ไม่ยิ้ม … ตาไม่ละจากหน้าเธอ" → `serious … his eyes staying on her face` (ตัดกำกับเสียง · ประโยคปฏิเสธ)
+- ทิศ "ตั้งแต่อลิซก้าวออกประตู วินซ้าย อลิซขวาเสมอ" → ตัวใหญ่ใน WHERE EVERYONE IS
