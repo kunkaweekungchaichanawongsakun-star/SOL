@@ -28,20 +28,19 @@ ACTIVE REFERENCES
 @Image11 — ALIZ'S HELMET. THIS REFERENCE IS THE AUTHORITY FOR THIS HELMET ITSELF.
 @Image12 — HER PHONE. THIS REFERENCE IS THE AUTHORITY FOR THE PHONE ITSELF.
 @Image13 — THE FRONT OF HER DORM IN THE MORNING. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
-@Image14 — WHERE WIN AND ALIZ SIT ON THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THEIR POSITIONS ON THE MOTORCYCLE, WHERE THE MOTORCYCLE STANDS AND THE CAMERA ANGLE OF SHOT 1 ONLY. THEIR CLOTHES COME FROM @Image3 AND @Image5, AND WIN'S VISOR IS FLIPPED UP.
 @Audio1 — ALIZ'S VOICE, HER FIRST LINE, IN SHOT 2.
 @Audio2 — WIN'S VOICE, HIS LINE, IN SHOT 2, RIGHT AFTER @Audio1.
 @Audio3 — ALIZ'S VOICE, HER SECOND LINE, IN SHOT 3.
-@Image1 and @Image2 carry her face, @Image4 how she wears the helmet, and her clothes come from @Image3. @Image6 and @Image7 carry his face, @Image8 how he wears the helmet, and his clothes come from @Image5. The whole video is at the kerb in front of the glass door of the dorm in @Image13. The motorcycle is @Image9, the helmets are @Image10 and @Image11, and her phone is @Image12. @Image14 carries only where they sit, where the motorcycle stands and the angle of Shot 1; their clothes today are exactly what @Image3 and @Image5 show.
+@Image1 and @Image2 carry her face, @Image4 how she wears the helmet, and her clothes come from @Image3. @Image6 and @Image7 carry his face, @Image8 how he wears the helmet, and his clothes come from @Image5. The whole video is at the kerb in front of the glass door of the dorm in @Image13. The motorcycle is @Image9, the helmets are @Image10 and @Image11, and her phone is @Image12.
 
 WHAT THEY WEAR, AS IN @Image3 AND @Image5
 - Aliz: a grey short-sleeved knit top with a high round neck, black shorts with a black studded belt, black tights, black ankle boots, a black leather bag on her left shoulder, a gold necklace, gold hoop earrings, a gold bracelet on her right wrist and a gold watch on her left wrist. The white helmet with its chrome rim on her head, the chin strap fastened, her long black hair falling out below it.
 - Win: a light green jacket, a black T-shirt, black jeans, black boots. The black helmet on his head, the clear visor flipped up.
 
 WHERE EVERYONE IS, FOR THE WHOLE VIDEO
-- EXACTLY AS IN @Image14: the motorcycle stands at the kerb in front of the glass door of the dorm, its front pointing to the left of frame, the engine idling.
-- Win sits in front on the left, both hands on the handlebars. Aliz sits astride behind him on the right, close against his back.
-- Behind them: the white pillar, the potted plants and the glass door of the dorm, with the warm lobby lights inside.
+- The motorcycle stands at the kerb right in front of the glass door of the dorm, side-on to the camera, its front pointing to the left of frame, the engine idling.
+- Win sits in front on the left, leaning a little forward, both hands on the handlebars. Aliz sits astride behind him on the right, close against his back.
+- Behind them, from left to right: the white pillar, the tall potted plants, and the wide glass door with its long brass handles, with the warm lobby lights inside.
 - WIN IS ALWAYS ON THE LEFT AND ALIZ ALWAYS ON THE RIGHT. When they talk, Win turns his head over his left shoulder toward the right of frame, and Aliz leans forward and turns toward the left of frame.
 - THE PHONE SCREEN ALWAYS FACES THE CHARACTERS. THE CAMERA ONLY EVER SEES THE PLAIN GREY BACK OF THE PHONE.
 
@@ -50,7 +49,7 @@ Shot 1 — THE PHONE · a short shot
 Picture, in this order:
 - 1. Aliz takes her phone out of the black bag on her shoulder and looks down at it, searching for the place on the map, because she wants to show Win where they are really going. The screen faces her; the camera sees only the grey back of the phone.
 - 2. Win waits, both hands on the handlebars, looking at the road ahead, ready to go.
-Camera: MS, 120 cm high, eye level, 50mm lens, locked-off, set in the street, looking toward the dorm, at the angle of @Image14.
+Camera: MS, 120 cm high, eye level, 50mm lens, locked-off, set in the street, looking toward the dorm, side-on to the motorcycle.
 Composition: the motorcycle runs across the whole width of the frame as one strong horizontal line, its front on the left. Win centre-left, Aliz centre-right. The white pillar and the glass door behind them frame the two of them. Win faces left along the motorcycle, with lead room on the left where the road leads. The phone in Aliz's hands is the small point the audience's eye finds last: Win ready to go → Aliz busy with something else → the phone.
 Sound: the engine idling steadily. Morning birds.
 
@@ -114,3 +113,4 @@ DIALOGUE, IN THIS ORDER
 - **เทค 2 (เตรียม) 2026-10-21** user *"ผมแนบภาพอลิชสวมหมวกกันน็อก 2-6 ใหม่แล้ว ไม่ต้องเอาเสื้อชมพูมาดิ มันเลยเจนออกมาเป็นชุดชมพูแทน"* → @Image4 เปลี่ยนจาก `อลิซใส่หมวก` (เสื้อชมพู) เป็น `อลิช สวมหมวก 2 6` `3e44ddc2` (ดูแล้ว: เสื้อยืดเทาแขนสั้น สร้อยทอง สายกระเป๋าดำ หมวกขาวคาดสาย) · บรรทัดเรฟเขียนว่าใบนี้ใส่ชุดวันนี้เหมือน @Image3
 - เทค 2 ยิง 2026-10-21 — run `e49c52fd-51f7-4d0a-b71e-486747552ae3` · Seedance 2.5 · references · 16:9 · 720p · 13 วิ · เรฟ 14 + @Audio1–3 · ติดเกต moderation 1 รอบ · user สั่ง "ยิง"
 - เทค 2 เสร็จ — asset `71df11cb-778c-4e2a-8829-9819c28dd0e0` · 13.06 วิ · 114.3 พอยต์ · user *"คลิป 4 ยังเสื้อสีชมพูอยู่เลย"* → เรฟหมวกเปลี่ยนแล้วยังชมพู = ต้นเหตุคือ `เรฟ ขึ้นรถ` (อลิซเสื้อชมพู กางเกงขาว)
+- **เทค 3 2026-10-21** user *"ยิง แบบไม่ต้องมีเรฟ"* (ทางเลือก ค) → ถอด `เรฟ ขึ้นรถ` (@Image14) ออก เพราะอลิซในภาพใส่ชุดอื่น แล้วชุดหลุดตามมาสองเทค · เขียนตำแหน่งเป็นคำแทน ตามที่เห็นในภาพนั้น: รถหันข้างให้กล้อง หัวซ้าย ชิดขอบทางหน้าประตูกระจก · วินหน้าซ้าย เอนตัวนิดๆ มือจับแฮนด์ · อลิซซ้อนขวา ชิดหลัง · ฉากหลังซ้ายไปขวา เสาขาว ต้นไม้กระถางสูง ประตูกระจกกว้างมือจับทองยาว
