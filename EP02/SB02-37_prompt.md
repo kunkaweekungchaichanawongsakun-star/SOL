@@ -27,18 +27,18 @@ ACTIVE REFERENCES
 @Image10 — WIN'S HELMET. THIS REFERENCE IS THE AUTHORITY FOR THIS HELMET ITSELF.
 @Image11 — ALIZ'S HELMET. THIS REFERENCE IS THE AUTHORITY FOR THIS HELMET ITSELF.
 @Image12 — THE FRONT OF HER DORM IN THE MORNING. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
-@Image13 — WHERE WIN AND ALIZ SIT ON THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THEIR POSITIONS ON THE MOTORCYCLE AND WHERE THE MOTORCYCLE STANDS. THEIR CLOTHES COME FROM @Image3 AND @Image5.
 @Audio1 — ALIZ'S VOICE, HER LINE, IN SHOT 1.
 @Audio2 — WIN'S VOICE, HIS LINE, IN SHOT 2.
-@Image1 and @Image2 carry her face, @Image4 how she wears the helmet, and her clothes come from @Image3. @Image6 and @Image7 carry his face, @Image8 how he wears the helmet, and his clothes come from @Image5. The whole video is at the front of the dorm in @Image12. The motorcycle is @Image9, the helmets are @Image10 and @Image11. @Image13 carries only where they sit and where the motorcycle stands; their clothes today are exactly what @Image3 and @Image5 show.
+@Image1 and @Image2 carry her face, @Image4 how she wears the helmet, and her clothes come from @Image3. @Image6 and @Image7 carry his face, @Image8 how he wears the helmet, and his clothes come from @Image5. The whole video is at the front of the dorm in @Image12. The motorcycle is @Image9, the helmets are @Image10 and @Image11.
 
 WHAT THEY WEAR, AS IN @Image3 AND @Image5
 - Aliz: a grey short-sleeved knit top with a high round neck, black shorts with a black studded belt, black tights, black ankle boots, a black leather bag on her left shoulder, gold jewellery. The white helmet with its chrome rim on her head, her long black hair falling out below it.
 - Win: a light green jacket, a black T-shirt, black jeans, black boots. The black helmet on his head.
 
 WHERE EVERYONE IS AT THE START
-- EXACTLY AS IN @Image13: the motorcycle stands at the kerb in front of the glass door of the dorm, its front pointing to the left of frame, the engine idling.
-- Win sits in front on the left, his head turned over his left shoulder toward the right of frame, toward Aliz. Aliz sits behind him on the right, turned toward the left of frame, toward Win.
+- The motorcycle stands at the kerb right in front of the glass door of the dorm, side-on to the camera, its front pointing to the left of frame, the engine idling.
+- Win sits in front on the left, his head turned over his left shoulder toward the right of frame, toward Aliz. Aliz sits astride behind him on the right, close against his back, turned toward the left of frame, toward Win.
+- Behind them, from left to right: the white pillar, the tall potted plants, and the wide glass door with its long brass handles, with the warm lobby lights inside.
 - THE MOTORCYCLE TRAVELS TO THE LEFT OF FRAME, THE WAY ITS FRONT POINTS.
 
 SHOT-BY-SHOT
@@ -90,7 +90,7 @@ DIALOGUE, IN THIS ORDER
 
 ## ที่มา
 
-สตอรี่บอร์ด "2-6 · คลิป 5 · ไปเถอะลุง · 9 วิ" ของจาวิส 2026-10-21 (แบบลำดับ) · เสียง `C2 6 clip05 1 Aliz ปรับวิ` / `2 Win ปรับวิ` · เรฟตามที่ user แนบ + `WIN_greenjkt_CU` / `3Q` (CU หน้าวิน) · เรฟตำแหน่ง = `เรฟ ขึ้นรถ`
+สตอรี่บอร์ด "2-6 · คลิป 5 · ไปเถอะลุง · 9 วิ" ของจาวิส 2026-10-21 (แบบลำดับ) · เสียง `C2 6 clip05 1 Aliz ปรับวิ` / `2 Win ปรับวิ` · เรฟตามที่ user แนบ + `WIN_greenjkt_CU` / `3Q` (CU หน้าวิน) · เรฟตำแหน่ง `เรฟ ขึ้นรถ` ถอดออกแล้ว (เทค 1 แก้)
 
 ## CHANGE LOG
 - เทค 1 — ก๊อปจาก `SB02-36_prompt.md` · Sequence `บท 02 · ต่อ` · คลิปสุดท้ายของซีน 2-6
@@ -100,3 +100,4 @@ DIALOGUE, IN THIS ORDER
 - คอมโพส: ช็อต 1 symmetry ช่องว่างกลางเฟรม = ความเงียบ · ช็อต 2 ชิลด์ลง = กำแพงใสระหว่างเขากับโลก · ช็อต 3 high angle WS ครึ่งบนหอ ครึ่งล่างถนน lead room ทางซ้าย สายตาตามรถออกแล้วกลับมาที่ประตูว่าง
 - ⚠️ ช็อต 1 "มุมเดียวกับคลิป 4 ช็อต 3" → ถ้าคลิป 4 ผ่าน แนบเฟรมสุดท้ายคลิป 4 เป็นเรฟตำแหน่งช็อต 1 ได้
 - **เทค 1 แก้เรฟ 2026-10-21** user *"ผมแนบภาพอลิชสวมหมวกกันน็อก 2-6 ใหม่แล้ว ไม่ต้องเอาเสื้อชมพูมาดิ มันเลยเจนออกมาเป็นชุดชมพูแทน"* → @Image4 เปลี่ยนจาก `อลิซใส่หมวก` (เสื้อชมพู) เป็น `อลิช สวมหมวก 2 6` `3e44ddc2` (ดูแล้ว: เสื้อยืดเทาแขนสั้น สร้อยทอง สายกระเป๋าดำ หมวกขาวคาดสาย) · บรรทัดเรฟเขียนว่าใบนี้ใส่ชุดวันนี้เหมือน @Image3
+- **เทค 1 แก้ 2026-10-21** user *"ผ่านแล้ว ทำคลิป 5 ต่อเลย ถอดเรฟขึ้นรถออก"* (SB02-36 เทค 3 ผ่าน) → ถอด `เรฟ ขึ้นรถ` (@Image13) · เขียนตำแหน่งเป็นคำแบบเดียวกับ SB02-36 เทค 3 · เรฟเหลือ 12 + @Audio1–2
