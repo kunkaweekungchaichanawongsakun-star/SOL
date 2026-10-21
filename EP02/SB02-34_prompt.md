@@ -44,7 +44,7 @@ Picture:
 - Her right hand takes the long handle and pushes the glass door open; the sunlight and the sound of the side street flow in.
 - Outside the door, Win has already turned to look at her, as he does every morning.
 - 2.2–4.7 s · Aliz: "ทะด๊า... ลูกค้าผู้น่ารักกลับมาแล้ว"
-  - Performance: "ทะด๊า..." lands just as the door opens. She is glad to see him and says it lightly, a small joke between the two of them. The rest of the line carries on into Shot 2.
+  - Performance: "ทะด๊า..." lands just as the door opens. She is glad to see him; the line is a small joke between the two of them. The rest of the line carries on into Shot 2.
 Camera: MS from behind, 130 cm high, eye level, 35mm lens, a steadicam following behind her to the door.
 Composition: Aliz's back left of centre. Win in the centre of the frame outside the door. The audience's eye goes to the gap of the door as it opens.
 
