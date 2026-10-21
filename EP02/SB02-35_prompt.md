@@ -60,7 +60,7 @@ Sound: a quiet side street in the morning, a few birds.
 
 Shot 2 — 7.7–9.7 s — SOMEONE PAID
 Picture:
-- 7.7–8.4 s: Aliz gives a small shake of her head, because it was not her, and she looks down and away to the side, because she would rather not talk about who did.
+- 7.7–8.4 s: Aliz gives a small shake of her head, because someone else paid, and she looks down and away to the side, because she would rather not talk about who did.
 - 8.4–9.5 s · Aliz: "มีคนจ่ายให้…"
   - Emotion from the script: 无奈烦躁.
   - Performance: a little fed up with the whole thing; she keeps looking away from Win.
@@ -70,7 +70,7 @@ Composition: Aliz's face on the right third, turned toward the left. Win's shoul
 
 Shot 3 — 9.7–10.9 s — HE KEEPS IT TO HIMSELF · wordless
 Picture:
-- 9.7–10.4 s: from the annoyance in her voice, Win knows who paid: the man she told him last night was the last person she wanted to see, and she still feels the same. A very small smile comes to the corner of his mouth and his face softens. Aliz is still looking away and does not see it.
+- 9.7–10.4 s: from the annoyance in her voice, Win knows who paid: the man she told him last night was the last person she wanted to see, and she still feels the same. A very small smile comes to the corner of his mouth and his face softens. Aliz is still looking away, so the smile is his alone.
 - 10.4–10.9 s: he puts the smile away before she looks back, keeping it to himself.
 Camera: CU, 165 cm high, eye level, 85mm lens, locked-off.
 Composition: Win's face on the left third, facing right. Aliz's shoulder blurred on the right edge.
