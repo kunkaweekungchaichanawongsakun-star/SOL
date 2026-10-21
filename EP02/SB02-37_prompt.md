@@ -9,7 +9,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. This is the fifth and last video of this scene. Win came to take Aliz to her interview at W-Group, his own company, which she is unaware of. They are on his motorcycle at the kerb in front of the glass door of her dorm, both wearing helmets, the engine idling, Win in front and Aliz behind. She has just told him the plan has changed: she called W-Group to apologise, and she has to do another job first, to repay the man who paid her hospital bill, so that she is free of every debt. Win listened and accepted it. They are still facing each other over his shoulder.
 
 SCENE
-For a moment both of them are silent. Win wants to ask more, and keeps it to himself. Aliz breaks the silence: a small breath, a light pat on his shoulder, and a small smile — let's go. Win answers with one word, turns to face the road, closes his visor and puts the motorcycle in gear, keeping whatever he feels behind it. Aliz holds on to his jacket and looks at his back. They ride off, and the front of the dorm is left empty in the morning sun.
+For a moment both of them are silent. Win wants to ask more, and keeps it to himself. Aliz breaks the silence: a small breath, a light pat on his shoulder, and a small smile — let's go. Win answers with one word, turns to face the road, closes his visor and puts the motorcycle in gear, keeping whatever he feels behind it. Aliz, in her grey top, holds on to his waist and looks at his back. They ride off, and the front of the dorm is left empty in the morning sun.
 
 ALIZ'S FACE
 Recovered and fresh, her skin tone natural as in her character references.
@@ -59,14 +59,14 @@ Picture, in this order:
   - Win: "ครับ"
   - Emotion from the script: 沉稳低沉，克制隐忍.
 - 2. He turns to face the road ahead and pulls the clear visor of his helmet down over his face, keeping whatever he feels to himself, his eyes on the road.
-- 3. He pulls the clutch and clicks the motorcycle into gear with his foot. Aliz takes hold of the hem of his jacket, ready to ride, and looks at his back.
+- 3. He pulls the clutch and clicks the motorcycle into gear with his foot. Aliz, in her grey short-sleeved top, puts both hands lightly on his waist, ready to ride, and looks at his back.
 Camera: CU, 140 cm high, eye level, 85mm lens, locked-off, in front of the motorcycle, angled toward Win's left shoulder.
 Composition: Win's face centre-left, filling the frame; when the visor comes down, it becomes a clear wall between his face and the world. Aliz is soft behind his shoulder on the right, looking at him. The audience's eye goes from Win's face → the visor coming down → Aliz behind him.
 Sound: the visor snapping shut. The clunk of the gear.
 
 Shot 3 — LEAVING THE DORM
 Picture, in this order:
-- 1. The motorcycle pulls away from the front of the glass door and rides off to the left of frame along the side street, Win's visor down, Aliz holding on behind him.
+- 1. The motorcycle pulls away from the front of the glass door and rides off to the left of frame along the side street: Win in his green jacket with the visor down, and behind him Aliz in her grey short-sleeved top and white helmet, holding on to his waist.
 - 2. It leaves the frame on the left. The front of the dorm is empty; the glass door and the warm lobby remain, where she waited for him this morning.
 Camera: WS, 400 cm high, high angle looking down, 35mm lens, locked-off, set on the far side of the street, looking down at the front of the dorm.
 Composition: the dorm fills the upper half of the frame, the street runs across the lower half as a strong horizontal line. The motorcycle grows smaller as it rides left, with lead room ahead of it; the audience's eye follows it until it leaves the frame, then comes back to the empty doorway.
@@ -102,3 +102,5 @@ DIALOGUE, IN THIS ORDER
 - **เทค 1 แก้เรฟ 2026-10-21** user *"ผมแนบภาพอลิชสวมหมวกกันน็อก 2-6 ใหม่แล้ว ไม่ต้องเอาเสื้อชมพูมาดิ มันเลยเจนออกมาเป็นชุดชมพูแทน"* → @Image4 เปลี่ยนจาก `อลิซใส่หมวก` (เสื้อชมพู) เป็น `อลิช สวมหมวก 2 6` `3e44ddc2` (ดูแล้ว: เสื้อยืดเทาแขนสั้น สร้อยทอง สายกระเป๋าดำ หมวกขาวคาดสาย) · บรรทัดเรฟเขียนว่าใบนี้ใส่ชุดวันนี้เหมือน @Image3
 - **เทค 1 แก้ 2026-10-21** user *"ผ่านแล้ว ทำคลิป 5 ต่อเลย ถอดเรฟขึ้นรถออก"* (SB02-36 เทค 3 ผ่าน) → ถอด `เรฟ ขึ้นรถ` (@Image13) · เขียนตำแหน่งเป็นคำแบบเดียวกับ SB02-36 เทค 3 · เรฟเหลือ 12 + @Audio1–2
 - เทค 1 ยิง 2026-10-21 — run `3df3b6db-42f1-4463-a5bf-fd0718d4c93f` · Seedance 2.5 · references · 16:9 · 720p · 9 วิ · เรฟ 12 + @Audio1–2 · user สั่ง "ยิง"
+- เทค 1 เสร็จ — asset `5f5aeb63-52bc-460c-bda4-a2684c819d3f` · 9.06 วิ · 79.1 พอยต์ · user *"แจคเก็ตเขียว ทำไมอลิชใส่"*
+- **เทค 2 (เตรียม) 2026-10-21** สาเหตุที่น่าจะเป็น: (1) บรรทัดแอ็กชันของอลิซมีคำว่า "his jacket" สองจุด (SCENE + ช็อต 2 `takes hold of the hem of his jacket`) คำว่าแจ็คเก็ตไปติดกับตัวอลิซ · (2) ประโยคที่ Fortal ต่อท้าย `face and appearance must match [image 1]…[image 12]` สั่งให้ทุกคนตรงกับรูปทุกใบ รวมรูปวินใส่แจ็คเก็ตเขียว 3 ใบ · (3) ช็อต 3 มุมกว้าง คนตัวเล็ก ชุดสลับกันง่าย → แก้: อลิซจับเอววินแทนจับชายแจ็คเก็ต (ตัดคำ jacket ออกจากแอ็กชันของอลิซ) · ผูกชุดเข้ากับชื่อทุกช็อตที่เห็นทั้งคู่ (`Aliz, in her grey short-sleeved top` · `Win in his green jacket`) · ยิงด้วย `system_additions.identity_phrases: false`
