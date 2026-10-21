@@ -103,6 +103,10 @@ if [ -f "$MAP" ]; then
   else echo "⚠️ $SB ไม่มีใน BOX_MAP.md — เติมก่อนยิง"; echo; fi
 fi
 
+## A23 — ทุกบีตใน Picture ต้องขึ้นต้นด้วยเวลา (user 2026-10-21 "ปกติถ้าผมกำกับ promtp เอง ผมจะระบุวินาทีการกระทำไว้ เพื่อกันมันสุ่ม")
+A23=$(printf '%s\n' "$BODY" | awk '/^SHOT-BY-SHOT/{s=1} /^(THE LAST FRAME|DIALOGUE)/{s=0} s&&/^Picture:/{p=1;next} s&&/^(Camera|Composition|Light|Sound|Shot [0-9]|Cut|What the audience|Meaning|Performance):?/{p=0} s&&p&&/^- /&&!/^- [0-9]/{print NR": "$0}' | cut -c1-140)
+if [ -n "$A23" ]; then hit=1; echo "── A23 บีตไม่มีเวลากำกับ — ใส่ วินาทีเริ่ม–จบ ทุกบีต ไม่งั้น SD สุ่มจังหวะเอง (SB02-34 เทค 3 อลิซพูดก่อนเปิดประตู)"; echo "$A23"; echo; fi
+
 echo "=== ช่องเวลาที่ไม่มีใครทำอะไร (A11) — ไล่เองด้วยตา ==="
 printf '%s' "$BODY" | grep -nE '^(Shot|From [0-9]|At [0-9])' | cut -c1-120
 
