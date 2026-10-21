@@ -40,10 +40,11 @@ WHERE EVERYONE IS
 SHOT-BY-SHOT
 Shot 1 — 0.0–3.0 s — PUSHING THE DOOR
 Picture:
-- Aliz walks to the door at an easy pace.
+- Aliz has just seen him stop outside, so she walks to the door at an easy pace to go out to him.
 - Her right hand takes the long handle and pushes the glass door open; the sunlight and the sound of the side street flow in.
 - Outside the door, Win has already turned to look at her, as he does every morning.
 - 2.2–4.7 s · Aliz: "ทะด๊า... ลูกค้าผู้น่ารักกลับมาแล้ว"
+  - Emotion from the script: 元气满满，欢快俏皮.
   - Performance: "ทะด๊า..." lands just as the door opens. She is glad to see him; the line is a small joke between the two of them. The rest of the line carries on into Shot 2.
 Camera: MS from behind, 130 cm high, eye level, 35mm lens, a steadicam following behind her to the door.
 Composition: Aliz's back left of centre. Win in the centre of the frame outside the door. The audience's eye goes to the gap of the door as it opens.
@@ -51,7 +52,7 @@ Composition: Aliz's back left of centre. Win in the centre of the frame outside 
 Shot 2 — 3.0–7.5 s — STEPPING OUT
 Picture:
 - The reverse angle from outside. Aliz steps out of the glass door onto the pavement, finishes her line with a small closed-lip smile, then walks toward Win on the left of frame.
-- Win gets off the motorcycle and stands on the pavement beside it. He usually waits on the motorcycle; this morning he gets off because he wants to see her up close.
+- As she comes toward him, Win kicks the side stand down, swings his leg off and stands on the pavement beside the motorcycle. He usually waits on the motorcycle; this morning he gets off because he wants to see her up close.
 Camera: MS, 140 cm high, eye level, 50mm lens, locked-off, set in the street slightly ahead of the front of the motorcycle, looking at the door of the dorm.
 Composition: Win's right shoulder and the back of his head blurred on the left edge of the frame as foreground; the round headlight of the motorcycle in the lower left corner. Aliz sharp, coming out of the door on the right of frame and walking left toward Win. The glass door, potted plants and the warm lobby behind her.
 Light: the low morning sun from across the street falls full on Aliz's face; her face is warm and bright, her eyes catching real sunlight. Win in the foreground is a backlit shape.
@@ -61,6 +62,7 @@ Shot 3 — 7.5–10.0 s — ARE YOU REALLY BETTER
 Picture:
 - Win stands beside the motorcycle; Aliz stops one step in front of him. He is relieved to see her up and about, and still a little worried, so he asks to be sure.
 - 8.3–9.4 s · Win: "หายดีแล้วแน่นะ"
+  - Emotion from the script: 温和关切，轻声求证.
   - Performance: a simple, caring question between two people who know each other well.
 Camera: CU, 165 cm high, eye level, 85mm lens, locked-off.
 Composition: Win's face on the left third, turned diagonally toward the right of frame where Aliz stands, with space in front of him on the right. Aliz's shoulder blurred on the right edge. Behind, the side street and the hedge across it, blurred.
@@ -79,7 +81,8 @@ Shot 3, 8.3–9.4 s, WIN: "หายดีแล้วแน่นะ"
 
 | แท็ก | แปลไทย | ที่มา |
 |---|---|---|
-| — | ไม่มีแท็กจีนในเทค 2 (ด่าน A22) | user 2026-10-21 |
+| `元气满满，欢快俏皮` | ร่าเริงสดใส ขี้เล่นน่ารัก | บท 2-6 บรรทัดอลิซ · สตอรี่บอร์ดจาวิส |
+| `温和关切，轻声求证` | อ่อนโยน ห่วงใย ถามเพื่อความแน่ใจเบาๆ | บท 2-6 บรรทัดวิน · สตอรี่บอร์ดจาวิส |
 
 ## ที่มา
 
@@ -97,3 +100,4 @@ Shot 3, 8.3–9.4 s, WIN: "หายดีแล้วแน่นะ"
 - เทค 1 ยิง 2026-10-21 — run `23d43a28-865e-4659-8aca-9b577a0ab8f3` · Seedance 2.5 · references · 16:9 · 720p · 10 วิ · เรฟ 11 + @Audio1 · user สั่ง "ยิง"
 - เทค 1 เสร็จ — asset `e18c7655-c713-486f-91cd-c40d17b2ff66` · 10.08 วิ · 87.9 พอยต์
 - **เทค 2 (เตรียม) 2026-10-21** user *"สตอรี่บ็อกเป็นเพียงแค่ไกด์ … กรองให้มันตรงใจ ให้มันดูสมเหตุสมผล … การแสดงตัวละครที่ดูจริง เป็นธรรมชาติ"* → ตัดแท็กเสียงจีน 2 จุด · ตัดท่ารายอวัยวะ (กางแขนนำเสนอตัว · กวาดตามองหัวจรดเท้า · ตาไล่ดูหน้า · ขมวดคิ้ว) · เดินเร็ว → เดินสบายๆ · SCENE `playful and full of life` → ดีใจ + ภูมิใจนิดๆ ที่หายแล้ว · GLOBAL เติม `small, simple and unhurried` · บล็อกกิ้ง กล้อง ไทม์โค้ด เรฟ คงเดิม
+- **เทค 2 แก้ต่อ 2026-10-21** user *"ภาษาจีนกำกับอารมณ์เสียง เพื่อมาคุมการแสดงตัวละคร นั่นคือเวิคโฟวของผู้กำกับคนนี้ … และเติมความสมเหตุสมผลเข้าไปผ่าน promtp"* → คืนแท็กจีน 2 จุดใต้บทพูด · เติมเหตุผล: อลิซเดินไปที่ประตูเพราะเพิ่งเห็นเขาจอด · วินเตะขาตั้งลง ยกขาลงจากรถตอนเธอเดินมา
