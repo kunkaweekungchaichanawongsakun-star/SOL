@@ -18,7 +18,7 @@ ACTIVE REFERENCES
 @Image1 — ALIZ: 26, pretty, long straight jet-black hair. 100% matches the reference, and @Image3 is the authority for what she is wearing today.
 @Image2 — HER FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for her face.
 @Image3 — HER FULL BODY. 100% matches the reference for her clothes.
-@Image4 — ALIZ WEARING HER WHITE HELMET. THIS REFERENCE IS THE AUTHORITY FOR HOW THE HELMET SITS ON HER HEAD AND HOW HER HAIR COMES OUT BELOW IT. HER CLOTHES COME FROM @Image3.
+@Image4 — ALIZ WEARING HER WHITE HELMET IN TODAY'S CLOTHES. THIS REFERENCE IS THE AUTHORITY FOR HOW THE HELMET SITS ON HER HEAD AND HOW HER HAIR COMES OUT BELOW IT. HER CLOTHES ARE THE SAME AS IN @Image3.
 @Image5 — WIN: 45, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @Image5 is the authority for what he is wearing today.
 @Image6 — HIS FACE FROM THE FRONT. 100% matches the reference for his face.
 @Image7 — HIS FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for his face.
@@ -99,3 +99,4 @@ DIALOGUE, IN THIS ORDER
 - เติมความสมเหตุสมผล: ตบไหล่เพราะอยากจบความเงียบ บอกเขาว่าไม่เป็นไร · ปิดชิลด์ = เก็บสิ่งที่รู้สึกไว้ข้างใน · กลไกเข้าเกียร์ (บีบคลัตช์ เท้ากดเกียร์) · อลิซจับชายแจ็คเก็ตเพราะกำลังจะออกรถ · ทิศรถไปซ้ายตามหัวรถในคลิป 4 · ประตูหอว่าง = ที่ที่เธอรอเขาเมื่อเช้า
 - คอมโพส: ช็อต 1 symmetry ช่องว่างกลางเฟรม = ความเงียบ · ช็อต 2 ชิลด์ลง = กำแพงใสระหว่างเขากับโลก · ช็อต 3 high angle WS ครึ่งบนหอ ครึ่งล่างถนน lead room ทางซ้าย สายตาตามรถออกแล้วกลับมาที่ประตูว่าง
 - ⚠️ ช็อต 1 "มุมเดียวกับคลิป 4 ช็อต 3" → ถ้าคลิป 4 ผ่าน แนบเฟรมสุดท้ายคลิป 4 เป็นเรฟตำแหน่งช็อต 1 ได้
+- **เทค 1 แก้เรฟ 2026-10-21** user *"ผมแนบภาพอลิชสวมหมวกกันน็อก 2-6 ใหม่แล้ว ไม่ต้องเอาเสื้อชมพูมาดิ มันเลยเจนออกมาเป็นชุดชมพูแทน"* → @Image4 เปลี่ยนจาก `อลิซใส่หมวก` (เสื้อชมพู) เป็น `อลิช สวมหมวก 2 6` `3e44ddc2` (ดูแล้ว: เสื้อยืดเทาแขนสั้น สร้อยทอง สายกระเป๋าดำ หมวกขาวคาดสาย) · บรรทัดเรฟเขียนว่าใบนี้ใส่ชุดวันนี้เหมือน @Image3

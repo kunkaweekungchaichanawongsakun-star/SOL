@@ -18,7 +18,7 @@ ACTIVE REFERENCES
 @Image1 — ALIZ: 26, pretty, long straight jet-black hair. 100% matches the reference, and @Image3 is the authority for what she is wearing today.
 @Image2 — HER FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for her face.
 @Image3 — HER FULL BODY. 100% matches the reference for her clothes.
-@Image4 — ALIZ WEARING HER WHITE HELMET. THIS REFERENCE IS THE AUTHORITY FOR HOW THE HELMET SITS ON HER HEAD AND HOW HER HAIR COMES OUT BELOW IT. HER CLOTHES COME FROM @Image3.
+@Image4 — ALIZ WEARING HER WHITE HELMET IN TODAY'S CLOTHES. THIS REFERENCE IS THE AUTHORITY FOR HOW THE HELMET SITS ON HER HEAD AND HOW HER HAIR COMES OUT BELOW IT. HER CLOTHES ARE THE SAME AS IN @Image3.
 @Image5 — WIN: 45, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @Image5 is the authority for what he is wearing today.
 @Image6 — HIS FACE FROM THE FRONT. 100% matches the reference for his face.
 @Image7 — HIS FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for his face.
@@ -111,3 +111,4 @@ DIALOGUE, IN THIS ORDER
 - ตัดคำว่า pink top / pale trousers ออก (เอ่ยชื่อชุดที่ไม่อยากได้ = เรียกเข้าเฟรม) เหลือ "ชุดวันนี้ตาม @Image3 และ @Image5"
 - เทค 1 ยิง 2026-10-21 — run `44e0b7f2-3d52-47e0-904b-10ef76b89c7c` · Seedance 2.5 · references · 16:9 · 720p · 13 วิ · เรฟ 14 + @Audio1–3 · ติดเกต moderation 1 รอบ · user สั่ง "ยิง"
 - เทค 1 เสร็จ — asset `0da22ce2-7559-4ae6-9f2a-bdad6448e95e` · 13.06 วิ · 114.3 พอยต์
+- **เทค 2 (เตรียม) 2026-10-21** user *"ผมแนบภาพอลิชสวมหมวกกันน็อก 2-6 ใหม่แล้ว ไม่ต้องเอาเสื้อชมพูมาดิ มันเลยเจนออกมาเป็นชุดชมพูแทน"* → @Image4 เปลี่ยนจาก `อลิซใส่หมวก` (เสื้อชมพู) เป็น `อลิช สวมหมวก 2 6` `3e44ddc2` (ดูแล้ว: เสื้อยืดเทาแขนสั้น สร้อยทอง สายกระเป๋าดำ หมวกขาวคาดสาย) · บรรทัดเรฟเขียนว่าใบนี้ใส่ชุดวันนี้เหมือน @Image3
