@@ -43,12 +43,11 @@ WHERE EVERYONE IS
 SHOT-BY-SHOT
 Shot 1 — 0.0–3.0 s — PUSHING THE DOOR
 Picture:
-- Aliz has just seen him stop outside, so she walks to the door at an easy pace to go out to him.
-- Her right hand takes the long handle and pushes the glass door open; the sunlight and the sound of the side street flow in.
-- Outside the door, Win has already turned to look at her, as he does every morning.
+- 0.0–1.8 s: Aliz has just seen him stop outside, so she walks the few steps to the door to go out to him, silent. Outside, Win has already turned toward the door, as he does every morning.
+- 1.8–2.2 s: she reaches the door; her right hand takes the long handle and pushes the glass door open, and the sunlight and the sound of the side street flow in.
 - 2.2–4.7 s · Aliz: "ทะด๊า... ลูกค้าผู้น่ารักกลับมาแล้ว"
   - Emotion from the script: 元气满满，欢快俏皮.
-  - Performance: "ทะด๊า..." lands just as the door opens. She is glad to see him; the line is a small joke between the two of them. The rest of the line carries on into Shot 2.
+  - Performance: she keeps the line until the door is already swinging open, because she wants him to see her as she says it; "ทะด๊า..." comes as she stands in the open doorway. She is glad to see him; the line is a small joke between the two of them. The rest of the line carries on into Shot 2.
 Camera: a NEW ANGLE on the same moment as @Image11. The camera stands inside the lobby beside the reception counter, to the right of Aliz, and sees her from the side in three-quarter profile as she walks to the door; MS, 130 cm high, eye level, 35mm lens, panning gently with her.
 Composition: Aliz sharp in the foreground; beyond her, the glass door and, through the glass, Win waiting on the motorcycle exactly where @Image11 shows him. The audience's eye goes from Aliz to the door as it opens.
 
@@ -108,3 +107,5 @@ Shot 3, 8.3–9.4 s, WIN: "หายดีแล้วแน่นะ"
 - เทค 2 เสร็จ — asset `9c2b6263-a540-48aa-b168-ee8d2f72f4c5` · 10.08 วิ · 87.9 พอยต์ · user สั่งรวมคลิป 1+2 → ย้ายไป SB02-33 เทค 4
 - **เทค 3 2026-10-21** user *"ใช้เฟรมสุดท้าย … ไปดึงเฟรมสุดท้าย พวกตำแหน่งของตัวละคร และเปิดด้วยคัตกล้องมุมใหม่ แต่ตำแหน่งเดิม เพื่อง่ายต่อการตัดต่อ"* + *"อัปลงไปใน mix แล้ว เห็นแล้วยิงเลย"* → เรฟ `เฟรมสุดท้ายของ 2 6 คลิป 1` = @Image11 (ดูแล้ว: อลิซหลังเข้ากล้องซ้ายเฟรม ห่างประตูไม่กี่ก้าว ซ้ายของมือจับทองยาวสองอัน · วินคร่อมรถนอกประตูที่ขอบทาง รถหันซ้าย หมวกขาวบนเบาะหลัง หันหน้ามาทางประตู · ในภาพไม่เห็นหมวกดำ) · WHERE EVERYONE IS เขียนตามภาพจริง · ช็อต 1 มุมใหม่: ในล็อบบี้ข้างเคาน์เตอร์ ทางขวาของอลิซ เห็นเธอสามส่วนสี่ด้านข้าง · ตัดเรฟหมวกดำ (ไม่อยู่ในเฟรม เอ่ยแล้ว SD วาดเข้ามา) เลขเรฟเลื่อน · เสียงอยู่ท้ายเหมือนเดิม
 - เทค 3 ยิง 2026-10-21 — run `a945d93c-ad1f-43ac-a0ea-015021dcc6c1` · Seedance 2.5 · references · 16:9 · 720p · 10 วิ · เรฟ 11 + @Audio1 · user สั่ง "เห็นแล้วยิงเลย" · ติดเกต moderation 1 รอบ
+- เทค 3 เสร็จ — asset `7eac3ce4-34a8-410f-a623-dd95d5878140` · 10.08 วิ · 87.9 พอยต์
+- **เทค 4 (เตรียม) 2026-10-21** user *"ทำไมรอบนี้ อลิชไม่เปิดประตูก่อนแล้วค่อยทะด้าพูดบท แต่อันนี้พูดตั้งแต่อยู่ในหอ ยังไม่ทันออกประตู"* → สาเหตุ: ช็อต 1 บีตเดิน/ผลักประตูไม่มีเวลากำกับ (ผิดสกิลขั้น 6 "ทุกบีตต้องมีเวลาเริ่มและเวลาจบ") + เทค 3 อลิซเริ่มไกลประตูตามเฟรมสุดท้าย + `at an easy pace` · เสียงอลิซล็อกที่ 2.2 วิในไฟล์ → SD ให้พูดก่อนถึงประตู · แก้: 0–1.8 เดินเงียบ · 1.8–2.2 ถึงประตูผลักเปิด · 2.2 ทะด๊าตอนยืนที่ประตูที่เปิดแล้ว + เหตุผล "อยากให้เขาเห็นตอนพูด" · ตัด `at an easy pace`
