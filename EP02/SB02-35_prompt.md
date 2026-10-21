@@ -123,3 +123,4 @@ Shot 4, 11.0–13.6 s, ALIZ: "… คนที่หนูไม่อยาก�
 - ด่าน: A8 `never` · `nothing` → เขียนบอกเล่า · A1 ตา → `his face turns serious` / `his face softens` · A4 ช็อต 2 เก็บ `looks down and away` (การหลบตาคือแอ็กชัน: ไม่อยากพูดถึง) · สำนวน `as if` → ตัด
 - user *"ยิง หมวกดำคงไว้"* → หมวกดำบนก้านกระจกซ้ายคงไว้
 - เทค 1 ยิง 2026-10-21 — run `1e0af45a-5868-4410-a315-d06b8dce1657` · Seedance 2.5 · references · 16:9 · 720p · 14 วิ · เรฟ 12 + @Audio1 · ติดเกต moderation 1 รอบ
+- เทค 1 เสร็จ — asset `b2f2bfa5-d4c7-4dfd-9005-19d7c21dee44` · 14.08 วิ · 123.1 พอยต์ · เจนนานราว 28 นาที
