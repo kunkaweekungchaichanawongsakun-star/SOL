@@ -9,7 +9,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. This is the first video of a new scene. Aliz collapsed with a fever and was taken to hospital. She was discharged yesterday, and last night on the phone she asked Win, the man she calls "ลุง", to pick her up this morning on his motorcycle, and he said yes at once. She is fully recovered now. She is dressed and made up for the day and has come down to the lobby of her dorm early, before the time they agreed, to wait for him.
 
 SCENE
-Aliz is so eager to see Win again that she is waiting in the lobby before the agreed time, checking her watch and rising on her toes to look down the street for him. A resident walks out past her. Then Win's motorcycle pulls up right outside the glass door, and her happiness shows in her shoulders and the way she stands, even from behind.
+Aliz is so eager to see Win again that she is waiting in the lobby before the agreed time, checking her watch and rising on her toes to look down the street for him. The lobby is empty and quiet around her. Then Win's motorcycle pulls up right outside the glass door, and her happiness shows in her shoulders and the way she stands, even from behind.
 
 ALIZ'S FACE
 Recovered and fresh, her skin tone natural as in her character references.
@@ -28,7 +28,7 @@ ACTIVE REFERENCES
 
 WHAT THEY WEAR, AS IN @Image3 AND @Image4
 - Aliz: a grey off-the-shoulder knit top with a high round neck, high-waisted black shorts with a black studded belt, black tights, black ankle boots, a small black leather bag on her left shoulder, a thin gold necklace, small gold hoop earrings, a gold bracelet on her right wrist and a gold watch on her left wrist. Her long black hair loose, full make-up.
-- Win: a light green jacket, a black T-shirt, black jeans, black boots. Helmet off.
+- Win: a light green jacket, a black T-shirt, black jeans, black boots. He rides bareheaded and carries his helmet with him on the mirror stalk.
 
 WHERE EVERYONE IS
 - Aliz stands with her back to the camera on the left of frame, three steps from the glass door.
@@ -38,14 +38,13 @@ WHERE EVERYONE IS
 SHOT-BY-SHOT
 Shot 1 — 0.0–9.0 s — WAITING EARLY · one continuous shot
 Picture:
-- Aliz stands waiting, looking out of the door. She lifts her left wrist to glance at her watch: she is early. Then she rises a little on her toes and looks to the right down the street, the way he will come.
-- 1–4 s: a male resident of working age with a backpack walks past behind Aliz from the right, pushes the glass door open, turns left on the pavement and leaves the frame. He is the only resident in this scene.
-- 5–8 s: outside the glass, Win's black-and-silver classic motorcycle rides in from the right of frame, its front pointing left, slows and stops almost in the centre of the frame right in front of the door, close to the dorm side of the street. Win puts his feet down, switches off the engine and turns his face toward the door.
+- 0–5 s: Aliz stands alone in the quiet lobby, waiting, looking out of the door. She lifts her left wrist to glance at her watch: she is early. Then she rises a little on her toes and looks to the right down the street, the way he will come, and settles back on her heels, still watching.
+- 5–8 s: outside the glass, Win rides in bareheaded on his black-and-silver classic motorcycle from the right of frame, his black helmet hanging on the left mirror stalk and her white helmet on the rear seat, its front pointing left, slows and stops almost in the centre of the frame right in front of the door, close to the dorm side of the street. Win puts his feet down, switches off the engine and turns his face toward the door.
 - Aliz has seen him. Her shoulders lift a little, she tucks her hair behind her ear and stands up straight. We see her only from behind; her happiness is in her shoulders and the rhythm of her body.
 Camera: MS from behind Aliz, 130 cm high, eye level, 35mm lens, a very slow dolly in along her back toward the door, the camera physically moving.
-Composition: the glass door is a frame within the frame in the centre. Aliz on the left third, backlit, a golden rim on her hair. The audience's eye goes in this order: Aliz → the resident walking out → the motorcycle coming in from the right → stopping in the centre of the door frame.
+Composition: the glass door is a frame within the frame in the centre. Aliz on the left third, backlit, a golden rim on her hair. The audience's eye goes in this order: Aliz → the motorcycle coming in from the right → stopping in the centre of the door frame.
 Light: low golden morning sun from across the street, coming through the glass as long streaks on the terrazzo floor. Warm ceiling lights and the lamp on the counter. Win outside the glass is backlit with a golden rim.
-Sound: the lobby is quiet. When the resident opens the door, the sound of the side street flows in for a moment; the door closes and it is quiet again. The motorcycle engine approaching from the right, then cutting off.
+Sound: the lobby is quiet, with the faint sound of the side street through the glass. The motorcycle engine approaching from the right, then cutting off.
 
 THE LAST FRAME
 Aliz stands on the left of frame with her back to the camera, looking out of the door. Win sits on the motorcycle in the centre of the frame outside the glass door, its front pointing left, helmet off, his face turned toward the door.
@@ -68,3 +67,4 @@ Everyone stays silent.
 - ไม่แนบ `WIN_greenjkt_CU` / `3Q` — สตอรี่บอร์ดแนบแค่วินเต็มตัว และวินอยู่นอกกระจก ย้อนแสง ไม่เห็นหน้าชัด
 - เทค 1 ยิง 2026-10-21 — run `8a4ddc9b-b597-4580-8529-db6d8bf2601e` · Seedance 2.5 · references · 16:9 · 720p · 9 วิ · เรฟ 9 · user สั่ง "ยิง" (ติด moderation gate รอบแรก ยิงซ้ำคีย์เดิม)
 - เทค 1 เสร็จ — 9.06 วิ · 79.1 พอยต์ · asset `a5778f67-8c56-45ad-9bc4-bedf2d9e92ac` · รอ user ดู
+- **เทค 2 (เตรียม) 2026-10-21** user *"วินาที 1–4: ผู้พักชาย… เอาออกไม่ต้องมีคนเดิน และ วินไม่ต้องสวมหมวกกันน็อกตอนแรกดิ ขับมาอะ แต่พกมาด้วย"* → ตัดผู้พักออกทั้งหมด (ภาพ · SCENE · ลำดับสายตา · เสียงประตู) · 0–5 วิ อลิซรอคนเดียวในล็อบบี้เงียบ ดูนาฬิกา เขย่งมอง แล้ววางส้นลง · วินขี่มา `bareheaded` หมวกดำแขวนก้านกระจกซ้าย หมวกขาวบนเบาะหลัง
