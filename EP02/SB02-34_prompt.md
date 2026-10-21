@@ -27,7 +27,7 @@ ACTIVE REFERENCES
 @Image10 — THE FRONT OF HER DORM IN THE MORNING. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
 @Image11 — THE LAST FRAME OF THE PREVIOUS VIDEO. THIS REFERENCE IS THE AUTHORITY FOR WHERE EVERYONE AND EVERYTHING IS AT THE START OF SHOT 1. SHOT 1 SEES THIS SAME MOMENT FROM A NEW CAMERA ANGLE.
 @Audio1 — THE VOICES. Its first line is ALIZ's voice and its second line is WIN's voice. Each person speaks with the voice in @Audio1, at the times written in DIALOGUE.
-@Image1 and @Image2 carry her face, and her clothes come from @Image3. @Image5 and @Image6 carry his face, and his clothes come from @Image4. Shot 1 is inside the lobby in @Image9. Shots 2 and 3 are on the pavement in front of the dorm in @Image10. Win's motorcycle is @Image7, and her white helmet @Image8 sits on its rear seat. @Image11 carries only where Aliz, Win and the motorcycle are at the start; faces and clothes come from the character references.
+@Image1 and @Image2 carry her face, and her clothes come from @Image3. @Image5 and @Image6 carry his face, and his clothes come from @Image4. Shot 1 is inside the lobby in @Image9. Shots 2 and 3 are on the pavement in front of the dorm in @Image10. Win's motorcycle is @Image7, and her white helmet @Image8 sits on its rear seat. @Image11 carries where Win and the motorcycle are at the start, and Aliz has already walked on to the door; faces and clothes come from the character references.
 
 WHAT THEY WEAR, AS IN @Image3 AND @Image4
 - Aliz: a grey off-the-shoulder knit top, black shorts with a black studded belt, black tights, black ankle boots, a black leather bag on her left shoulder, a gold necklace, gold hoop earrings, a gold bracelet on her right wrist and a gold watch on her left wrist. Her long black hair loose.
@@ -35,7 +35,7 @@ WHAT THEY WEAR, AS IN @Image3 AND @Image4
 
 WHERE EVERYONE IS
 - AT THE START, EVERYONE IS EXACTLY WHERE @Image11 SHOWS THEM:
-  - Aliz stands inside the lobby a few steps from the glass door, facing it, a little to the left of its two long brass handles.
+  - Shot 1 opens a moment after @Image11: Aliz has already walked the few steps and stands right at the glass door, facing it, her right hand on the long brass handle.
   - Win sits astride the motorcycle just outside the glass door, on the street at the kerb, the motorcycle side-on to the door, its front pointing left as seen from inside the lobby, the white helmet on the rear seat. His head is turned toward the door.
   - Behind him, across the street, the long hedge, the trees and the houses, with the low morning sun behind them.
 - FROM THE MOMENT ALIZ STEPS OUT OF THE DOOR, WIN IS ALWAYS ON THE LEFT OF FRAME AND ALIZ IS ALWAYS ON THE RIGHT OF FRAME.
@@ -43,18 +43,18 @@ WHERE EVERYONE IS
 SHOT-BY-SHOT
 Shot 1 — 0.0–3.0 s — PUSHING THE DOOR
 Picture:
-- 0.0–1.8 s: Aliz has just seen him stop outside, so she walks the few steps to the door to go out to him, silent. Outside, Win has already turned toward the door, as he does every morning.
-- 1.8–2.2 s: she reaches the door; her right hand takes the long handle and pushes the glass door open, and the sunlight and the sound of the side street flow in.
+- 0.0–2.2 s: Aliz has come to the door to go out to him. Her right hand pushes the heavy glass door, the door swings open outward, and she steps into the open doorway, silent; the sunlight and the sound of the side street flow in. Outside, Win has already turned toward the door, as he does every morning.
 - 2.2–4.7 s · Aliz: "ทะด๊า... ลูกค้าผู้น่ารักกลับมาแล้ว"
   - Emotion from the script: 元气满满，欢快俏皮.
-  - Performance: she keeps the line until the door is already swinging open, because she wants him to see her as she says it; "ทะด๊า..." comes as she stands in the open doorway. She is glad to see him; the line is a small joke between the two of them. The rest of the line carries on into Shot 2.
-Camera: a NEW ANGLE on the same moment as @Image11. The camera stands inside the lobby beside the reception counter, to the right of Aliz, and sees her from the side in three-quarter profile as she walks to the door; MS, 130 cm high, eye level, 35mm lens, panning gently with her.
+  - Performance: once the door is open and she stands in the doorway where he can see her, she says it. "ทะด๊า..." comes as she stands in the open doorway, holding the door. She is glad to see him; the line is a small joke between the two of them. The rest of the line carries on into Shot 2.
+Camera: a NEW ANGLE, a moment after @Image11. The camera stands inside the lobby beside the reception counter, to the right of Aliz, and sees her from the side in three-quarter profile as she pushes the door open; MS, 130 cm high, eye level, 35mm lens, panning gently with her.
 Composition: Aliz sharp in the foreground; beyond her, the glass door and, through the glass, Win waiting on the motorcycle exactly where @Image11 shows him. The audience's eye goes from Aliz to the door as it opens.
 
 Shot 2 — 3.0–7.5 s — STEPPING OUT
 Picture:
-- The reverse angle from outside. Aliz steps out of the glass door onto the pavement, finishes her line with a small closed-lip smile, then walks toward Win on the left of frame.
-- As she comes toward him, Win kicks the side stand down, swings his leg off and stands on the pavement beside the motorcycle. He usually waits on the motorcycle; this morning he gets off because he wants to see her up close.
+- 3.0–4.7 s: the reverse angle from outside. Aliz steps out through the open glass door onto the pavement and lets it close behind her, finishing her line with a small closed-lip smile.
+- 4.7–6.5 s: she walks toward Win on the left of frame. As she comes toward him, Win kicks the side stand down, swings his leg off and stands on the pavement beside the motorcycle. He usually waits on the motorcycle; this morning he gets off because he wants to see her up close.
+- 6.5–7.5 s: she reaches him.
 Camera: MS, 140 cm high, eye level, 50mm lens, locked-off, set in the street slightly ahead of the front of the motorcycle, looking at the door of the dorm.
 Composition: Win's right shoulder and the back of his head blurred on the left edge of the frame as foreground; the round headlight of the motorcycle in the lower left corner. Aliz sharp, coming out of the door on the right of frame and walking left toward Win. The glass door, potted plants and the warm lobby behind her.
 Light: the low morning sun from across the street falls full on Aliz's face; her face is warm and bright, her eyes catching real sunlight. Win in the foreground is a backlit shape.
@@ -62,10 +62,11 @@ Sound: the glass door closing behind her. Her boots on the pavement. Morning bir
 
 Shot 3 — 7.5–10.0 s — ARE YOU REALLY BETTER
 Picture:
-- Win stands beside the motorcycle; Aliz stops one step in front of him. He is relieved to see her up and about, and still a little worried, so he asks to be sure.
+- 7.5–8.3 s: Win stands beside the motorcycle; Aliz stops one step in front of him. He is relieved to see her up and about, and still a little worried, so once she is standing in front of him he asks to be sure.
 - 8.3–9.4 s · Win: "หายดีแล้วแน่นะ"
   - Emotion from the script: 温和关切，轻声求证.
   - Performance: a simple, caring question between two people who know each other well.
+- 9.4–10.0 s: he waits for her answer.
 Camera: CU, 165 cm high, eye level, 85mm lens, locked-off.
 Composition: Win's face on the left third, turned diagonally toward the right of frame where Aliz stands, with space in front of him on the right. Aliz's shoulder blurred on the right edge. Behind, the side street and the hedge across it, blurred.
 Light: the sun behind Win catches the edge of his hair and shoulders in a golden line. His face takes soft light bounced off the pale wall of the dorm.
@@ -110,3 +111,5 @@ Shot 3, 8.3–9.4 s, WIN: "หายดีแล้วแน่นะ"
 - เทค 3 เสร็จ — asset `7eac3ce4-34a8-410f-a623-dd95d5878140` · 10.08 วิ · 87.9 พอยต์
 - **เทค 4 (เตรียม) 2026-10-21** user *"ทำไมรอบนี้ อลิชไม่เปิดประตูก่อนแล้วค่อยทะด้าพูดบท แต่อันนี้พูดตั้งแต่อยู่ในหอ ยังไม่ทันออกประตู"* → สาเหตุ: ช็อต 1 บีตเดิน/ผลักประตูไม่มีเวลากำกับ (ผิดสกิลขั้น 6 "ทุกบีตต้องมีเวลาเริ่มและเวลาจบ") + เทค 3 อลิซเริ่มไกลประตูตามเฟรมสุดท้าย + `at an easy pace` · เสียงอลิซล็อกที่ 2.2 วิในไฟล์ → SD ให้พูดก่อนถึงประตู · แก้: 0–1.8 เดินเงียบ · 1.8–2.2 ถึงประตูผลักเปิด · 2.2 ทะด๊าตอนยืนที่ประตูที่เปิดแล้ว + เหตุผล "อยากให้เขาเห็นตอนพูด" · ตัด `at an easy pace`
 - เทค 4 ยิง 2026-10-21 — run `b34c56d6-e967-4c75-b056-da73fc861aba` · Seedance 2.5 · references · 16:9 · 720p · 10 วิ · เรฟ 11 + @Audio1 · user สั่ง "ยิง อีกครั้งนะ"
+- เทค 4 เสร็จ — asset `385068a1-0f8a-4e24-873b-092f7bb776d1` · 10.08 วิ · 87.9 พอยต์ · user *"ครั้งที่ 4 อลิชก็ยังไม่เปิด ผลักประตูออกมา"*
+- **เทค 5 (เตรียม) 2026-10-21** สาเหตุเทค 4: บีตผลักประตูได้แค่ 0.4 วิ (1.8–2.2) ต่อจากเดิน 1.8 วิ → ทำไม่ทันในเวลาจริง SD ข้าม · แก้: ตัดข้ามเวลาด้วยมุมใหม่ — ช็อต 1 เปิดตอนอลิซยืนที่ประตูแล้ว มือขวาบนมือจับ (วินกับรถตามเฟรมสุดท้ายเดิม) · 0–2.2 ผลักประตูเปิดออก ก้าวไปยืนที่ช่องประตู เงียบ · 2.2 "ทะด๊า" เมื่อประตูเปิดแล้ว · ช็อต 2–3 ใส่วินาทีครบทุกบีต (A23) · 9.4–10 วินรอคำตอบ
