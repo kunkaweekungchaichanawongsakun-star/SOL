@@ -28,18 +28,19 @@ ACTIVE REFERENCES
 @Image11 — ALIZ'S HELMET. THIS REFERENCE IS THE AUTHORITY FOR THIS HELMET ITSELF.
 @Image12 — HER PHONE. THIS REFERENCE IS THE AUTHORITY FOR THE PHONE ITSELF.
 @Image13 — THE FRONT OF HER DORM IN THE MORNING. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
+@Image14 — WHERE WIN AND ALIZ SIT ON THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THEIR POSITIONS ON THE MOTORCYCLE, WHERE THE MOTORCYCLE STANDS AND THE CAMERA ANGLE OF SHOT 1 ONLY. THEIR CLOTHES COME FROM @Image3 AND @Image5, AND WIN'S VISOR IS FLIPPED UP.
 @Audio1 — ALIZ'S VOICE, HER FIRST LINE, IN SHOT 2.
 @Audio2 — WIN'S VOICE, HIS LINE, IN SHOT 2, RIGHT AFTER @Audio1.
 @Audio3 — ALIZ'S VOICE, HER SECOND LINE, IN SHOT 3.
-@Image1 and @Image2 carry her face, @Image4 how she wears the helmet, and her clothes come from @Image3. @Image6 and @Image7 carry his face, @Image8 how he wears the helmet, and his clothes come from @Image5. The whole video is at the kerb in front of the glass door of the dorm in @Image13. The motorcycle is @Image9, the helmets are @Image10 and @Image11, and her phone is @Image12.
+@Image1 and @Image2 carry her face, @Image4 how she wears the helmet, and her clothes come from @Image3. @Image6 and @Image7 carry his face, @Image8 how he wears the helmet, and his clothes come from @Image5. The whole video is at the kerb in front of the glass door of the dorm in @Image13. The motorcycle is @Image9, the helmets are @Image10 and @Image11, and her phone is @Image12. @Image14 carries only where they sit, where the motorcycle stands and the angle of Shot 1; the pink top and pale trousers in @Image14 belong to another day, and today Aliz wears what @Image3 shows.
 
 WHAT THEY WEAR, AS IN @Image3 AND @Image5
 - Aliz: a grey short-sleeved knit top with a high round neck, black shorts with a black studded belt, black tights, black ankle boots, a black leather bag on her left shoulder, a gold necklace, gold hoop earrings, a gold bracelet on her right wrist and a gold watch on her left wrist. The white helmet with its chrome rim on her head, the chin strap fastened, her long black hair falling out below it.
 - Win: a light green jacket, a black T-shirt, black jeans, black boots. The black helmet on his head, the clear visor flipped up.
 
 WHERE EVERYONE IS, FOR THE WHOLE VIDEO
-- The motorcycle stands at the kerb in front of the glass door of the dorm, its front pointing to the left of frame, the engine idling.
-- Win sits in front on the left, both hands on the handlebars. Aliz sits astride behind him on the right.
+- EXACTLY AS IN @Image14: the motorcycle stands at the kerb in front of the glass door of the dorm, its front pointing to the left of frame, the engine idling.
+- Win sits in front on the left, both hands on the handlebars. Aliz sits astride behind him on the right, close against his back.
 - Behind them: the white pillar, the potted plants and the glass door of the dorm, with the warm lobby lights inside.
 - WIN IS ALWAYS ON THE LEFT AND ALIZ ALWAYS ON THE RIGHT. When they talk, Win turns his head over his left shoulder toward the right of frame, and Aliz leans forward and turns toward the left of frame.
 - THE PHONE SCREEN ALWAYS FACES THE CHARACTERS. THE CAMERA ONLY EVER SEES THE PLAIN GREY BACK OF THE PHONE.
@@ -49,7 +50,7 @@ Shot 1 — THE PHONE · a short shot
 Picture, in this order:
 - 1. Aliz takes her phone out of the black bag on her shoulder and looks down at it, searching for the place on the map, because she wants to show Win where they are really going. The screen faces her; the camera sees only the grey back of the phone.
 - 2. Win waits, both hands on the handlebars, looking at the road ahead, ready to go.
-Camera: MS, 120 cm high, eye level, 50mm lens, locked-off, set in the street, looking toward the dorm.
+Camera: MS, 120 cm high, eye level, 50mm lens, locked-off, set in the street, looking toward the dorm, at the angle of @Image14.
 Composition: the motorcycle runs across the whole width of the frame as one strong horizontal line, its front on the left. Win centre-left, Aliz centre-right. The white pillar and the glass door behind them frame the two of them. Win faces left along the motorcycle, with lead room on the left where the road leads. The phone in Aliz's hands is the small point the audience's eye finds last: Win ready to go → Aliz busy with something else → the phone.
 Sound: the engine idling steadily. Morning birds.
 
@@ -97,7 +98,7 @@ DIALOGUE, IN THIS ORDER
 
 ## ที่มา
 
-สตอรี่บอร์ด "2-6 · คลิป 4 · เปลี่ยนแผน · 13 วิ" ของจาวิส 2026-10-21 (แบบลำดับ ไม่มีวินาที) · เสียง `C2 6 clip04 1 Aliz ปรับวิ` / `2 Win ปรับวิ` / `3 Aliz` · เรฟตามที่ user แนบ + `WIN_greenjkt_CU` / `3Q` (MCU หน้าวิน) · ⏳ เรฟ "อ้างอิงตำแหน่งบนรถ" ยังหาใน Mix Stage ไม่เจอ
+สตอรี่บอร์ด "2-6 · คลิป 4 · เปลี่ยนแผน · 13 วิ" ของจาวิส 2026-10-21 (แบบลำดับ ไม่มีวินาที) · เสียง `C2 6 clip04 1 Aliz ปรับวิ` / `2 Win ปรับวิ` / `3 Aliz` · เรฟตามที่ user แนบ + `WIN_greenjkt_CU` / `3Q` (MCU หน้าวิน) · เรฟตำแหน่งบนรถ = `เรฟ ขึ้นรถ` (user อัป 2026-10-21)
 
 ## CHANGE LOG
 - เทค 1 — ก๊อปจาก `SB02-35_prompt.md` เทค 2 (แบบลำดับ · เสียงแยกไฟล์ · คอมโพสมีความหมาย) · Sequence `บท 02 · ต่อ`
@@ -106,3 +107,4 @@ DIALOGUE, IN THIS ORDER
 - เติมความสมเหตุสมผล: BEFORE เล่าช่วงข้ามเวลา (สวมหมวก คาดสาย วินกลับรถในซอยให้หันทางออก ติดเครื่อง อลิซขึ้นซ้อน) · แผนเดิม = ไปสัมภาษณ์ W-Group (บริษัทวิน อลิซไม่รู้) · อลิซหยิบมือถือ เพราะจะชี้ให้ดูว่าไปไหน · วินหยุดถามครึ่งประโยค ปล่อยให้เธออธิบาย · วินเข้าใจว่าเป็นงานของผู้ชายที่จ่ายบิล · เก็บมือถือระหว่างพูด เพราะเรื่องจบแล้ว
 - กรองท่า: วิน "คิ้วขมวด" "ปากเผยอ" "กรามขยับ" → ตัด เหลือเหตุผล · อลิซ "เสียงเปลี่ยน พูดเร็ว ชัด" "เน้นคำ" "เบาลง" → ตัด (กำกับเสียง) เหลือ "ตัดสินใจแล้ว" · เก็บ "หลบตาลงแว่บเดียว" + เหตุผล
 - คอมโพส: ช็อต 1 เส้นนอนของรถเต็มเฟรม + frame within frame เสา/ประตู + lead room ทางซ้าย + ลำดับสายตา · ช็อต 2 มือถือเบลอเป็น foreground = แผนใหม่มาคั่นกลาง · ช็อต 3 symmetry ช่องว่างระหว่างหน้า = ใกล้กันที่สุดแต่คุยเรื่องผู้ชายอีกคน
+- เรฟ `เรฟ ขึ้นรถ` `1e6b8ea1` = @Image14 (ดูแล้ว: MS จากถนน · รถหัวซ้าย ชิดขอบทาง · วินหน้าซ้ายมือจับแฮนด์ ก้มนิดๆ · อลิซซ้อนขวา · ฉากหลังเสาขาวซ้าย ต้นไม้กระถาง ประตูกระจกมือจับยาว · อลิซใส่เสื้อชมพูกางเกงขาว) → เขียนว่าใบนี้ถือแค่ตำแหน่ง ที่จอดรถ และมุมช็อต 1 · ชุดชมพูเป็นวันอื่น ชุดวันนี้มาจาก @Image3 (ตามสตอรี่บอร์ด "ไม่ใช้ชุดชมพูในภาพ")
