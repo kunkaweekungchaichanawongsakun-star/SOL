@@ -132,3 +132,4 @@ DIALOGUE, IN THIS ORDER
 - แจ็คเก็ต: ไม่ส่ง `WIN_greenjkt_FS` เหมือน SB02-44 · ใช้แจ็คเก็ตในเรฟห้อง W-01
 - ลำดับเรฟ: 2aec936c (WIN CU) · 30d143af (WIN 3Q) · 516647b1 (WIN Suit FS) · e1776aa2 (Nuch CU) · e08d25d1 (Nuch FS) · ac342187 (W-01) · bacc3ce3 (W-02) · @Audio1 ba152e4e (clip02_1_Win 2.50 วิ) · @Audio2 4081337b (clip02_2_Aliz_phone 6.44 วิ) · @Audio3 3b697a35 (clip02_3_Win 2.50 วิ) · @Audio4 9849a487 (clip02_4_Aliz_phone 3.88 วิ)
 - ด่าน: แก้ A8 (ประตูปิด *almost without a sound* → *very quietly*) · A1 (แสงจอ *under his chin* → *his face from below*) · A20 (*centre of frame* → *middle of the shot*) · A4 คงไว้ 3 จุด (กฎจอมือถือ · วินก้มดูจอ · นุชเหลือบมองจอแล้วมองหน้าวิน) — สตอรี่บอร์ดสั่ง และการมองคือตัวแอ็กชัน
+- เทค 1 ยิง 2026-10-23 — run `737953a8-c544-41d4-aa37-8d21d5cc3759` · Seedance 2.5 · references · 16:9 · 720p · 24 วิ · เรฟ 7 + @Audio1–4 · generate_audio true · user สั่ง "ยิง"
