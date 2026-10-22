@@ -9,7 +9,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. Aliz collapsed with a fever on the way to her job interview, and Win, the man she calls "ลุง", carried her into a luxury private hospital and stayed beside her bed in a VIP recovery room with the heavy curtains closed so that she could sleep. Then Win was called back to work and left quietly while she slept. Now someone has pulled the heavy curtains open, and the bright daylight through the sheer white curtains has just woken her. She is still half asleep and still has a fever, in hospital patient clothes, the blanket covering her up to her chest, with a saline drip in her left forearm.
 
 SCENE
-Aliz is barely awake. The bright window light is in her eyes and the fever is still heavy on her, so she stays drowsy and squints against the glare. She thinks Win, the person she trusts most, is still there with her, and she murmurs an apology to him like a child: she finally got a new job and missed the very first appointment. She stays drowsy and heavy the whole time, from the first word to the last.
+Aliz is barely awake. Her face is turned toward the window, so the bright window light is in her eyes, and the fever is still heavy on her, so she stays drowsy and squints against the glare. Through the glare she can only make out the blurred shape of a man by the window beside her bed, watching over her, and she believes it is Win, the person she trusts most. She murmurs an apology to him like a child: she finally got a new job and missed the very first appointment. She stays drowsy and heavy the whole time, from the first word to the last.
 
 ALIZ'S FACE
 Normal skin tone, as in her character references, with no feverish red cheeks and not unrealistically pale. Her illness and tiredness are played only through her eyes, her breathing and her body.
@@ -26,19 +26,20 @@ ACTIVE REFERENCES
 @Image1 and @Image2 carry her face only, and her clothes come from @Image3. The whole video takes place in the room in @Image4.
 
 WHERE EVERYONE IS, FOR THE WHOLE VIDEO
-- Aliz lies on her back in the hospital bed, her head on the pillow, the blanket up to her chest. She is the only person in the frame.
+- Aliz lies in the hospital bed, her head on the pillow turned toward the window, the blanket up to her chest. FOR THE WHOLE VIDEO HER FACE IS TURNED TOWARD THE WINDOW, AND THE WINDOW LIGHT FALLS FULL ON HER FACE.
+- She is the only person in the frame.
 
 SHOT-BY-SHOT
 Shot 1 — HALF ASLEEP · one continuous shot
 Picture, in this order:
-- 1. Aliz lies on the pillow, barely awake, her eyes half open and narrowed against the bright window light, still heavy with fever.
-- 2. Still the same, she murmurs @Audio1, an apology to Win, whom she thinks is still there.
+- 1. Aliz lies on the pillow, her face turned toward the window, barely awake, her eyes half open and narrowed against the bright window light, still heavy with fever.
+- 2. Still the same, she murmurs @Audio1 toward the window, an apology to the blurred shape she believes is Win. Her half-open eyes rest there without focusing, heavy and close to shutting.
   - Aliz: "อุตส่าห์ได้งานใหม่ นัดแรกหนูก็เบี้ยวเขาแล้วอะลุง..."
   - Emotion from the script: 虚弱呢喃.
   - Performance: half asleep and weak with fever the whole time. She is talking to the person she trusts most.
 - 3. After "อะลุง..." she stays as she is, drowsy.
 Camera: CU, 110 cm high, slightly high angle looking down at her on the pillow, 85mm lens, locked-off.
-Composition: her face in the centre of the frame on the white pillow, soft daylight from the window side on her face, the background soft.
+Composition: her face in the centre of the frame on the white pillow, turned toward the window, the bright daylight from the window full on her face, the background soft. She is alone in the frame.
 
 THE LAST FRAME
 Aliz lies on the pillow in CU, drowsy, her eyes half open against the light.
@@ -65,3 +66,4 @@ user 2026-10-22 *"แก้คัทนี้นะ ให้อลิสยั�
 - เติมความสมเหตุสมผล: ตาเปิดได้ครึ่งเดียวเพราะแสงแยงตา + ไข้ยังไม่ลด · พูดกับคนที่คิดว่าเป็นวิน (ไม่ระบุทิศมอง เพราะ user ไม่เอาแบบช้อนตา)
 - ด่าน A1 `eyes half open` คงไว้ 2 จุด (บีต 1 + เฟรมสุดท้าย) เพราะเป็นสภาพที่ user สั่ง (สะลึมสะลือ แสงแยงตา) · จุดอื่นเปลี่ยนเป็น `drowsy` กันเล่นเกิน · A1/A8 บรรทัด ALIZ'S FACE กับ SALINE DRIP ก๊อปจาก SB02-20 ตามเดิม
 - แก้ก่อนอัป: SALINE DRIP อ้าง `@Image6` (เลขของ SB02-20) → `@Image4` · ตัดคำ "the man by her bed" / "to the man" กัน SD วาดผู้ชายเข้าเฟรม เหลือ "Win is still there" (ความเชื่อของเธอ ไม่ใช่ของในเฟรม)
+- user 2026-10-22 *"แก้ด้วยคำอย่างเดียว แต่ต้องบอกให้ชัดว่านางหันหน้าไปทางหน้าต่าง"* (ไม่ส่งคลิป 1 วิ ท้ายคัท 2) → SCENE: เห็นเงาผู้ชายเลือนลางข้างเตียงทางหน้าต่าง เฝ้าดูแลอยู่ เชื่อว่าเป็นวิน · ตำแหน่ง: หน้าหันไปทางหน้าต่างตลอด แสงหน้าต่างตกเต็มหน้า (ตัวใหญ่) · บีต 2 พึมพำไปทางหน้าต่าง สายตาครึ่งปรือไม่โฟกัส หนักเหมือนจะปิด · คอมโพส "She is alone in the frame." · ผู้ชายเอ่ยเฉพาะใน SCENE เป็นสิ่งที่เธอรับรู้ ไม่อยู่ในบีตภาพ (กันไหล่/แขนโผล่) · หมายเหตุ: ทิศแสงเป็นคำสั่ง user (ปกติสกิลห้ามสั่งทิศแสง)
