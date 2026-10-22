@@ -1,5 +1,5 @@
 GLOBAL STYLE
-Live-action microdrama, 16:9. Real people, real places, natural skin. One continuous shot, 4 seconds, at real-time speed.
+Live-action microdrama, 16:9. Real people, real places, natural skin. One continuous shot, 5 seconds, at real-time speed.
 All the acting is natural and real, at the size of real life: small, simple and unhurried. The air in the room is clear and clean. Soft, gentle light fills the whole room evenly. The only sound is the real sound of the room.
 
 LIP SYNC
@@ -29,7 +29,7 @@ WHERE EVERYONE IS, FOR THE WHOLE VIDEO
 - She is the only person in the frame.
 
 SHOT-BY-SHOT
-Shot 1 — ASLEEP · one continuous shot, 4 seconds
+Shot 1 — ASLEEP · one continuous shot, 5 seconds
 Picture, in this order:
 - 1. From the very first frame Aliz is asleep, half lying back against the pillows, dressed for her interview, worn out by the fever, 疲惫. She sleeps deeply and breathes slowly.
 - 2. All through the shot the phone beside her right hand vibrates on the blanket, and she sleeps on through it, because the fever has worn her out.
@@ -52,7 +52,7 @@ Aliz stays silent.
 | `疲惫` | เพลีย อ่อนแรง | ผู้กำกับ 2026-10-12 *"อลิซเผลอหลับเพราะความเพลีย(มีไข้)"* |
 
 ## CHANGE LOG
-- เทค 2 ของบ็อก SB02-5B (`95ae5269`) = **คัท 1 ใหม่อย่างเดียว** 4 วิ — ก๊อปจาก `SB02-5B_prompt.md` (ช็อต 1 ของเทค 1) · โครง Picture แบบลำดับก๊อปจาก `SB02-42_prompt.md`
+- เทค 2 ของบ็อก SB02-5B (`95ae5269`) = **คัท 1 ใหม่อย่างเดียว** 5 วิ — ก๊อปจาก `SB02-5B_prompt.md` (ช็อต 1 ของเทค 1) · โครง Picture แบบลำดับก๊อปจาก `SB02-42_prompt.md`
 - user 2026-10-22 *"แก้คัทแรกของ C2_clip02_v2_SB02-5B ให้นอนเอนหลังเผลอหลับไป ไม่มีผ้าห่มคลุมขา แต่เป็นขาทับอยู่บนผ้าห่ม (คือตื่นมาอาบน้ำเปลี่ยนชุดแล้วแต่ง่วงและเผลอเอนหลังหลับไป อยากได้โพสแบบขาข้างขวาห้อยลงข้างเตียง"* → นั่งพิงหัวเตียง → **เอนหลังพิงหมอน** · ขาบนผ้าห่ม · ขาขวาห้อยลงข้างเตียงฝั่งกล้อง · BEFORE THIS VIDEO เติม ตื่นเช้า อาบน้ำ แต่งตัว แล้วเอนพักรอวินจนเผลอหลับ
 - user *"2026 10 17 0240 fbce43 ชื่อฉากใหม่ ในเรฟ"* → @Image4 เปลี่ยนเป็น Mix Stage `77b063f0` (asset `4014aa37`) · หัวเตียงอยู่ซ้ายเฟรมตามเรฟ · ขาขวาของคนนอนหงายหัวซ้ายเท้าขวา = ฝั่งใกล้กล้อง
 - user *"ไม่มีฝุ่นลอยในห้องแล้ว"* → เขียนบอกเล่า *"The air in the room is clear and clean."* (เรฟใหม่ไม่มีลำแสงฝุ่น)
@@ -63,3 +63,6 @@ Aliz stays silent.
 - user *"แก้ให้ไม่ใส่รองเท้า ใส่แค่ถุงเท้าขาวแบบสั้นเสมอรองเท้า"* → ตัด *down to her sneakers* ทั้ง 2 จุด · บรรทัด @Image3 คุมแค่เสื้อกับยีนส์ (เรฟ FS ใส่ผ้าใบขาว) + ON HER FEET SHE WEARS ONLY SHORT WHITE LOW-CUT SOCKS · ไม่เอ่ยคำว่ารองเท้าเลย กันดึงเข้าเฟรม
 - คงไว้จากเทค 1: มือถือสั่นข้างมือตลอดคัท · 疲惫 · เสียงห้อง + เสียงมือถือสั่น · ตัด 惊醒/强撑 เพราะอยู่คัท 3–4 ที่ไม่ได้ทำ
 - ลำดับเรฟ: e92dfe91 (CU) · 29a09380 (3Q) · c3b088a7 (FS) · 77b063f0 (ห้องใหม่) · f90ef20a (มือถือ) · ไม่มีเสียง (คัท 1 ไม่มีบทพูด · เสียงเดิม 28aac209 ยังผูกอยู่แต่ไม่อยู่ใน roles)
+- user *"เพิ่มเป็น 5 วิ ยิง"* → 4 → **5 วิ** (GLOBAL STYLE + หัวช็อต)
+- เทค 2 ยิง 2026-10-22 — run `793c9050-dc1d-4984-b3fb-45d3c7cf06d4` · Seedance 2.5 · references · 16:9 · 720p · 5 วิ · เรฟ 5 ไม่มีเสียงเรฟ · generate_audio true · user สั่ง "เพิ่มเป็น 5 วิ ยิง"
+- เทค 2 เสร็จ — 5.06 วิ · 44 พอยต์ · asset `9eba4989-49f4-4709-acee-f7da42202333` · ช็อตเดียวไม่มีคัท · contact `EP02/frames/SB02-5B_V2_contact.png` · ผลดู: ท่าเอน ขาขวาห้อยฝั่งกล้อง ถุงเท้าขาว ห้องใหม่ ไม่มีฝุ่น ตรง · กล้องดันเข้ามาเยอะกว่าที่สั่ง (จาก wide ทั้งห้อง ถึงราว MS ที่ตัวบนเตียง) · ม่านยังมืด หน้าได้แสงโคม ไม่มืด · รอ user ดู
