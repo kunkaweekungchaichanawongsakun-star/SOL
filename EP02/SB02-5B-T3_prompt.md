@@ -25,13 +25,13 @@ ACTIVE REFERENCES
 @Image1 and @Image2 carry her face only, and her clothes come from @Image3. Every shot takes place in @Image4.
 
 WHERE EVERYONE IS
-Shot 1: Aliz sits on her bed against the headboard, asleep, her head tilted over to the left of frame and resting against the headboard. Her legs lie on top of the blanket, and on her feet she wears only short skin-tone low-cut socks. Her phone lies face down on the blanket on the right of frame, beside her hand, and her small bag sits ready beside her. The camera starts in the room, closer to the bed than where @Image4 is photographed from, at the height of her face. The wide frame takes in the bed, the headboard and the heavy curtain hanging behind the bed, and it ends on that curtain, so the closed dark curtain is the whole background behind her. The camera moves in toward her so slowly that the audience barely feels it move, from the first frame to the last frame of the shot.
+Shot 1: Aliz sits on her bed against the headboard, asleep, her head tilted over to the left of frame and resting against the headboard. Her legs lie on top of the blanket, and on her feet she wears only short skin-tone low-cut socks. Her phone lies face down on the blanket on the right of frame, beside her hand, and her small bag sits ready beside her. The camera finds the shot that best tells the audience that Aliz is unwell and worn out. It stays calm, and any movement it makes is slow and gentle, from the first frame to the last frame of the shot.
 Shot 2: the phone lies face down on the blanket beside her fingers. The camera is down at the level of the blanket, close to her hand, and stays in that one place for the whole shot.
 Shot 3: Aliz sits on her bed against the headboard. The camera is beside the bed, level with her face, and stays in that one place for the whole shot.
 Shot 4: Aliz sits on her bed against the headboard. The camera is beside the bed, level with her face, and stays in that one place for the whole shot.
 
 SHOT-BY-SHOT
-Shot 1 — WIDE, 0.0–4.0 s
+Shot 1 — ASLEEP, 0.0–4.0 s
 From 0.0 to 4.0 s: Aliz is asleep, dressed for her interview, worn out by the fever, 疲惫. The phone lies face down beside her hand and vibrates on the blanket for the whole shot.
 Shot 2 — INSERT CU, 4.0–5.5 s
 From 4.0 to 5.5 s: the phone, face down, buzzes and creeps across the blanket until it touches her fingertips.
@@ -47,7 +47,7 @@ OPTICS
 Shot 1: Aliz is sharp and the room around her is soft. Shot 2: the phone and her fingertips are sharp, and everything behind is soft. Shots 3 and 4: Aliz is sharp, and the room behind her is soft.
 
 CAMERA
-Shot 1 WIDE, a dolly in so slow that the audience barely feels it, moving from the first frame to the last frame of the shot. Shot 2 INSERT CU, locked off. Shot 3 CU, locked off. Shot 4 MCU, locked off.
+Shot 1: the framing that best shows she is unwell, with calm, slow and gentle movement. Shot 2 INSERT CU, locked off. Shot 3 CU, locked off. Shot 4 MCU, locked off.
 
 PERFORMANCE
 Understated and real, at the size of real life. Reactions arrive a half-beat late. Aliz is drained and weak from the fever, and she pushes herself through it quietly: small, slow and heavy. Smiles start small and stay small.
@@ -91,3 +91,4 @@ Shots 1 to 3: quiet room tone with a soft air-conditioner hum, and only the buzz
   - *"มือถือคว่ำหน้าจอลงกับเตียง เปิดสั่น ไม่มีจอสว่าง"* → มือถือ face down ทุกจุด (WHERE ช็อต 1, 2 · ช็อต 1 · ช็อต 2) · ตัด *Its screen glows, blank and bright*
   - *"อย่าแอคเว่อนะ ท่าทางต้องอิดโรย แต่ฝีน"* → GLOBAL STYLE เติมบรรทัดแอคติ้งขนาดชีวิตจริง · PERFORMANCE = drained and weak, pushes herself through it quietly · ช็อต 4 tired and weak, 强撑
   - *"ไม่เอาชู 5 นิ้ว โคตรตลก"* → ลบชูห้านิ้วออกจาก SCENE และช็อต 4
+- user 2026-10-22 *"เอาเรื่องขอบม่านไม่เห็นช่องแดดออก ให้ SD เลือกช็อตมา แต่เน้นว่าต้องการเล่าว่า อลิซมีอาการป่วย ไม่ควรเคลื่อนกล้องหวือหวา"* → ช็อต 1 ตัดตำแหน่งกล้อง เฟรมถึงม่าน และ WIDE/ดอลลี่ออกทั้งหมด (WHERE · หัวช็อต · CAMERA) · ให้ SD เลือกช็อตที่เล่าว่าอลิซป่วยและหมดแรงได้ดีที่สุด · กล้องนิ่งสงบ ถ้าเคลื่อนให้ช้าและนุ่ม · ช็อต 2–4 คงเดิม
