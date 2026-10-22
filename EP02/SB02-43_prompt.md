@@ -9,7 +9,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. It is Monday morning. Last night Aliz kissed Win on the cheek. Today Win is taking her to her job interview at a big client company, and who he really is is still a secret from her: he is the chairman of that company. Aliz woke up with a fever, came down to the lobby of her dormitory and walked to the glass door, where Win opened the door for her and is holding it open. She stopped just inside the doorway. Up close, Win saw that she looks unwell, and he has just asked her if she is sick.
 
 SCENE
-Aliz answers Win that she is fine, and that today they should leave early, ahead of time, because this interview matters to her. She has a fever, but she holds herself together and puts on a small smile for him so that he will stop worrying, 强撑.
+Aliz answers Win that she is fine, and that today they should leave early, ahead of time, because this interview matters to her. She has a fever, but she holds herself together and speaks to him gently so that he will stop worrying, and when she finishes she gives him a small smile to show him she really is fine, 强撑.
 
 ALIZ'S FACE
 Her skin tone is natural, as in her character references. Her fever shows only in how she holds herself: tired and a little weak, holding herself steady.
@@ -35,8 +35,8 @@ Picture, in this order:
 - 1. From the very first frame Aliz stands still in the doorway, facing Win, and says @Audio1 to him.
   - Aliz: "ไม่เป็นไร วันนี้ควรจะรีบไปก่อนเวลา"
   - Emotion from the script: 发烧了，还在逞强.
-  - Performance: she puts on a small closed-lip smile for him, a forced one, held up so that he will stop worrying, 强撑. She stands quietly with her arms relaxed at her sides.
-- 2. When her line ends she stays standing in the doorway, still holding herself together, while Win keeps holding the door, until the end of the video.
+  - Performance: she talks to him gently, her face soft and reassuring, still tired from the fever, because she wants him to stop worrying. She stands quietly with her arms relaxed at her sides.
+- 2. When her line ends she gives Win a small closed-lip smile to show him she really is fine, 强撑. She stays standing in the doorway, still holding herself together, while Win keeps holding the door, until the end of the video.
 Camera: MS, locked off, just behind Win's shoulder at Aliz's eye level.
 Light: soft, even light on Aliz, the lobby behind her a soft blur.
 Sound: the morning street through the open door.
@@ -66,3 +66,5 @@ DIALOGUE, IN THIS ORDER
 - หน้า: ตัด *faint flush of fever* ของเดิม → สีผิวปกติ ไข้อยู่ที่ท่าทาง ตามคำ user ล่าสุดใน SB02-5B *"ไม่เอาหน้าแดง… อาการไข้มาจากท่าทาง"*
 - @Image6 ล็อบบี้ คุมแค่ตัวห้อง (เรฟเป็นล็อบบี้แดดจ้า แต่คัท 2 เดิมฉากหลังมืดกว่า เบลอ) · ไม่ใช้เรฟถนนหน้าหอ เพราะกล้องหันเข้าล็อบบี้
 - ลำดับเรฟ: e92dfe91 (ALIZ CU) · 29a09380 (3Q) · c3b088a7 (FS) · b0b68bd1 (WIN FS) · 30d143af (WIN 3Q) · 6be2a235 (จากในหอพัก) · @Audio1 765ca4a6
+- user *"พูดไป ฝืนยิ้มไปด้วย SD จะทำหน้าแปลกๆ?"* → ยิ้มปิดปากระหว่างพูดขัดกับลิปซิงก์ · user *"เอาแบบนั้น แก้แล้วยิง"* → แยกสองจังหวะ: บีต 1 พูดนุ่มๆ หน้าปลอบให้วินสบายใจ ยังเหนื่อยจากไข้ (ไม่สั่งยิ้ม) · บีต 2 พูดจบแล้วยิ้มปิดปากเล็กๆ ยืนยันว่าไม่เป็นไร 强撑 · SCENE เปลี่ยนตาม
+- เทค 1 ยิง 2026-10-22 — run `a1e970db-6817-4096-9c44-838a8a4fe497` · Seedance 2.5 · references · 16:9 · 720p · 4 วิ · เรฟ 6 + @Audio1 · generate_audio true · user สั่ง "แก้แล้วยิง"
