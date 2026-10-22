@@ -89,3 +89,4 @@ DIALOGUE, IN THIS ORDER
 - ช็อต 3 สตอรี่บอร์ดให้แจ็คเก็ต "หลุดจากไม้แขวนมาครึ่งตัว" · เติมเหตุในช็อต 1 บีต 3: มือที่กำแน่นขึ้นดึงแจ็คเก็ตหลุดจากไม้แขวนครึ่งตัว
 - ลำดับเรฟ: 2aec936c (WIN CU) · 30d143af (WIN 3Q) · 516647b1 (WIN Suit FS) · ac342187 (W-01) · bacc3ce3 (W-02) · @Audio1 80f2355f (clip04_1_Jack_phone 4.70 วิ) · @Audio2 8e879d75 (clip04_2_Win 2.50 วิ)
 - ด่าน: แก้ A8 4 จุด (*it is not hers* · *does not know* ×2 · *without pressing anything* → *rests still above the screen*) · A4 คงไว้ (กฎจอมือถือ · ก้มดูจอ — สตอรี่บอร์ดสั่ง)
+- เทค 1 ยิง 2026-10-23 — run `e83d506a-95ad-4bea-95c8-593e97ca8d88` · Seedance 2.5 · references · 16:9 · 720p · 12 วิ · เรฟ 5 + @Audio1–2 · generate_audio true · user สั่ง "ยิง" (ใช้บทเสียง 1 ตามที่เสนอ)
