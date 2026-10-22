@@ -1,15 +1,15 @@
 GLOBAL STYLE
-Live-action microdrama, 16:9. Real people, real places, natural skin. One continuous shot, 7 seconds, at real-time speed.
+Live-action microdrama, 16:9. Real people, real places, natural skin. One continuous shot, 6 seconds, at real-time speed.
 All the acting is natural and real, at the size of real life: small, simple and unhurried. The only light is the soft, bright daylight through the sheer white curtains. The only sound is the real sound of the room.
 
 LIP SYNC
-Aliz speaks once. Her line is lip-synced to her. The voice file @Audio1 plays exactly once, from near the start of the video. It begins and ends with a short stretch of silence; only the spoken words are used. Everything ends within 7 seconds.
+Aliz speaks once. Her line is lip-synced to her. The voice file @Audio1 plays exactly once, from the very first frame. Everything ends within 6 seconds.
 
 BEFORE THIS VIDEO
 All of this has already happened before the first frame. Aliz collapsed with a fever on the way to her job interview, and Win, the man she calls "ลุง", carried her into a luxury private hospital and stayed beside her bed in a VIP recovery room with the heavy curtains closed so that she could sleep. Then Win was called back to work and left quietly while she slept. Now someone has pulled the heavy curtains open, and the bright daylight through the sheer white curtains has just woken her. She is still half asleep and still has a fever, in hospital patient clothes, the blanket covering her up to her chest, with a saline drip in her left forearm.
 
 SCENE
-Aliz is barely awake. Her face is turned toward the window, so the bright window light is in her eyes, and the fever is still heavy on her, so she stays drowsy and squints against the glare. Through the glare she can only make out the blurred shape of a man by the window beside her bed, watching over her, and she believes it is Win, the person she trusts most. She murmurs an apology to him like a child: she finally got a new job and missed the very first appointment. She stays drowsy and heavy the whole time, from the first word to the last.
+Aliz is barely awake. Her face is turned toward the window, so the bright window light is in her eyes, and the fever is still heavy on her, so her eyes keep falling shut. Through the glare she can only make out the blurred shape of a man by the window beside her bed, watching over her, and she believes it is Win, the person she trusts most. She murmurs an apology to him like a child: she finally got a new job and missed the very first appointment. She keeps trying to open her eyes to see him, but the glare and the fever close them again, so she talks on, seeing him only as a blur. Only on her last words does she manage to hold her eyes open a little longer, toward him.
 
 ALIZ'S FACE
 Normal skin tone, as in her character references, with no feverish red cheeks and not unrealistically pale. Her illness and tiredness are played only through her eyes, her breathing and her body.
@@ -32,17 +32,17 @@ WHERE EVERYONE IS, FOR THE WHOLE VIDEO
 SHOT-BY-SHOT
 Shot 1 — HALF ASLEEP · one continuous shot
 Picture, in this order:
-- 1. Aliz lies on the pillow, her face turned toward the window, barely awake, her eyes half open and narrowed against the bright window light, still heavy with fever.
-- 2. Still the same, she murmurs @Audio1 toward the window, an apology to the blurred shape she believes is Win. Her half-open eyes rest there without focusing, heavy and close to shutting.
+- 1. From the very first frame she is already murmuring @Audio1, her face turned toward the window, her eyes closed, heavy with fever.
   - Aliz: "อุตส่าห์ได้งานใหม่ นัดแรกหนูก็เบี้ยวเขาแล้วอะลุง..."
   - Emotion from the script: 虚弱呢喃.
   - Performance: half asleep and weak with fever the whole time. She is talking to the person she trusts most.
-- 3. After "อะลุง..." she stays as she is, drowsy.
+- 2. While she talks, she tries to open her eyes toward the blurred shape she believes is Win, because she wants to see him. Her eyes open only a narrow slit against the glare, then fall shut again, and she keeps talking with her eyes closed. She tries again, and again they close.
+- 3. On "อะลุง..." she manages to hold her eyes half open a little longer, toward him, still unfocused, as the line fades.
 Camera: CU, 110 cm high, slightly high angle looking down at her on the pillow, 85mm lens, locked-off.
 Composition: her face in the centre of the frame on the white pillow, turned toward the window, the bright daylight from the window full on her face, the background soft. She is alone in the frame.
 
 THE LAST FRAME
-Aliz lies on the pillow in CU, drowsy, her eyes half open against the light.
+Aliz lies on the pillow in CU, drowsy, her eyes half open toward the window light.
 
 DIALOGUE, IN THIS ORDER
 1. Shot 1, @Audio1, ALIZ: "อุตส่าห์ได้งานใหม่ นัดแรกหนูก็เบี้ยวเขาแล้วอะลุง..."
@@ -70,3 +70,4 @@ user 2026-10-22 *"แก้คัทนี้นะ ให้อลิสยั�
 - user ถามส่งเฟรมแรกคัท 3 + บอกไม่เอาคน fg / ไม่ลืมตากว้าง → แนะนำไม่ส่ง (เรฟพาขอบเบลอ+ตาช้อนมา · ประโยคปฏิเสธเรียกของเข้าเฟรม) · user สั่ง "ยิง" ตามพรอมป์เดิม
 - เทค 1 ยิง 2026-10-22 — run `ecaff56e-f5b3-47a0-9e4d-09aec2d991b3` · Seedance 2.5 · references · 16:9 · 720p · 7 วิ · เรฟ 4 + @Audio1 · identity_phrases ค่าเดิม (เปิด)
 - เทค 1 เสร็จ — asset `eb789ca9-1cb7-44f6-ab93-5161f6b7d324` · 7.07 วิ · 61.6 พอยต์ · เช็คเฟรมเอง: ช็อตเดียว · อลิซคนเดียวในเฟรม ✅ · ตาปรือ สะลึมสะลือตลอด ✅ · หันไปทางหน้าต่าง (ขวาเฟรม) ✅ · ⚠️ มุมกล้องเป็นด้านข้างโปรไฟล์ เตียงปรับหลังขึ้นเอนนั่ง ไม่ใช่ CU กดมองลงตามพรอมป์ อาจไม่ต่อกับคัท 1/2 ของ SB02-20
+- **เทค 2 (ยิงในบ็อกเดิม SB02-20) 2026-10-22** user *"ใส่เป็นเทค2 ของบ็อกเดิม จะได้หาง่าย แก้ให้ทั้งคัท อลิซไม่ควรลืมตาสุดเลย คือพยายามจะลืมแล้วก็หลับตาลง แต่พยายามพูดไปทั้งๆที่มองไม่ชัด แต่คำสุดท้ายคือพยายามลืมได้นาน แล้วลดเป็น 6 วิ เริ่มมาก็เริ่มพูดได้"* → ยิงใน shot `b3fe7491` (SB02-20) ให้ขึ้น V.2 · พรอมป์ shot นั้นถูกแทนด้วยพรอมป์นี้ (พรอมป์ 4 คัทเดิมยังอยู่ใน `SB02-20_prompt.md`) · @Audio1 ใหม่ `f78b69c5` ตัด 4.57–10.40 (เสียงเริ่ม 0.05 วิ) · 6 วิ · บีตใหม่: เริ่มพูดตั้งแต่เฟรมแรก ตาปิด → พยายามลืมได้แค่ปริ แล้วปิดลง พูดต่อทั้งที่มองไม่ชัด (ลองซ้ำ) → "อะลุง..." ลืมครึ่งค้างได้นานขึ้น · ถอดประโยค "squints / eyes half open" ช่วงต้นออก · หมายเหตุ: สั่งตาเป็นคำสั่ง user ตรงๆ (ติด A1 ได้)
