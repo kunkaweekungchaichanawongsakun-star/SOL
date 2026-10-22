@@ -1,15 +1,15 @@
 GLOBAL STYLE
-Live-action microdrama, 16:9. Real people, real places, natural skin. One continuous shot, 6 seconds, at real-time speed.
+Live-action microdrama, 16:9. Real people, real places, natural skin. One continuous shot, 7 seconds, at real-time speed.
 All the acting is natural and real, at the size of real life: small, simple and unhurried. Feelings show quietly. The only light is the soft daylight through the sheer white curtains. The only sound is the real sound of the room.
 
 LIP SYNC
-Jack speaks. His line is lip-synced to him. The voice file @Audio1 plays exactly once, starting while he is still sitting down. Aliz stays silent for the whole video. Everything ends within 6 seconds, right after his last word.
+Jack speaks. His line is lip-synced to him. The voice file @Audio1 plays exactly once, starting while he is still sitting down. Aliz stays silent for the whole video. Everything ends within 7 seconds, shortly after his last word.
 
 BEFORE THIS VIDEO
 All of this has already happened before the first frame. Aliz collapsed with a fever on the way to her job interview, and Win, the man she calls "ลุง", carried her into a luxury private hospital, stayed beside her while she slept, then was called back to work and left. When she woke up, the man beside her bed was Jack, not Win. He called her darling and told her to go back to sleep; she turned away from his hand, pulled back on the pillow and asked how he got here. Jack liked the question, because he enjoys telling this story, so he pulled the white armchair up to the bed and is sitting down in it, as @Video1 shows. She is in hospital patient clothes, the blanket covering her up to her chest, with a saline drip in her left forearm.
 
 SCENE
-Jack starts telling Aliz, proudly, how he found her while he is still sitting down in the armchair, because he can hardly wait to tell it: he called her phone, a member of staff answered and asked who he was, and when he said he was her darling, they told him. He enjoys the story and himself. The video ends on the word "ดาร์ลิ่ง".
+Jack starts telling Aliz, proudly, how he found her while he is still sitting down in the armchair, because he can hardly wait to tell it: he called her phone, a member of staff answered and asked who he was, and when he said he was the patient's darling, they told him. He enjoys the story and himself. The video ends just after the words "ดาร์ลิ่งของคนไข้".
 
 ALIZ'S FACE
 Normal skin tone, as in her character references, with no feverish red cheeks and not unrealistically pale. Her illness and tiredness are played only through her eyes, her breathing and her body.
@@ -36,11 +36,11 @@ SHOT-BY-SHOT
 Shot 1 — TELLING THE STORY · one continuous shot
 Picture, in this order:
 - 1. Straight on from the last frame of @Video1, while Jack is still sitting down in the armchair, he already starts telling her the story with @Audio1, looking at her, because he can hardly wait to tell it. He settles back in the chair as he talks.
-  - Jack: "ก็พี่แจ็คโทรเข้ามือถือเราอะ มีเจ้าหน้าที่รับแล้วถามว่าพี่เป็นใคร พอบอกว่าเป็นดาร์ลิ่ง"
+  - Jack: "ก็พี่แจ็คโทรเข้ามือถือเราอะ มีเจ้าหน้าที่รับแล้วถามว่าพี่เป็นใคร พอบอกว่าเป็นดาร์ลิ่งของคนไข้"
   - Emotion from the script: 自我感觉良好，洋洋得意.
   - Performance: he tells it like a man proud of himself, every gesture small and natural.
-    - At "ดาร์ลิ่ง" he laughs in his throat and taps his own chest once.
-- 2. The video ends right on the word "ดาร์ลิ่ง", Jack smiling, pleased with himself.
+    - At "ดาร์ลิ่งของคนไข้" he laughs in his throat and taps his own chest once.
+- 2. After "ดาร์ลิ่งของคนไข้" he keeps smiling at her, pleased with himself, and the video ends.
 Camera: the same camera as @Video1 — OTS from behind Aliz's head, locked-off.
 Composition: as in @Video1 — Aliz's hair and shoulder soft and blurred on the left in the foreground, Jack in the armchair on the right, the bright sheer curtains behind him. The audience's eye stays on Jack's face.
 
@@ -48,7 +48,7 @@ THE LAST FRAME
 Jack sits in the white armchair on the right of frame, facing Aliz, smiling, pleased with himself. Aliz's hair is soft on the left in the foreground.
 
 DIALOGUE, IN THIS ORDER
-1. Shot 1, @Audio1, JACK: "ก็พี่แจ็คโทรเข้ามือถือเราอะ มีเจ้าหน้าที่รับแล้วถามว่าพี่เป็นใคร พอบอกว่าเป็นดาร์ลิ่ง"
+1. Shot 1, @Audio1, JACK: "ก็พี่แจ็คโทรเข้ามือถือเราอะ มีเจ้าหน้าที่รับแล้วถามว่าพี่เป็นใคร พอบอกว่าเป็นดาร์ลิ่งของคนไข้"
 ---
 
 ## แท็กจีน — แปลไทย — ที่มา
@@ -61,7 +61,7 @@ DIALOGUE, IN THIS ORDER
 
 user 2026-10-22 *"ใช้คัทนี้ส่งให้ SD แล้ว extend ให้แจ็คพูดประโยค C2-3_clip08_14s.wav นี้ตอนนั่งลง แทนคัทแรกของบ็อก C2-3_clip08_v1_SB02-22 แต่ทำแค่พูดจบคำว่า "ดาร์ลิ่ง""* · เลือกไฟล์ตัด *"อันแรกได้เลย"* = `C2-3_clip08_cut_5.20s.wav`
 - @Video1 = คัทสุดท้าย SB02-21 V1 (8.71–11.07 วิ ของ run `3d057a51`) → Mix Stage `fbb49468`
-- @Audio1 = `C2 3 clip08 14s` ตัดที่ 5.20 วิ (fade-out 30 ms) → Mix Stage `79967910`
+- @Audio1 = `C2 3 clip08 14s` ตัดที่ 5.80 วิ (fade-out 30 ms) → Mix Stage `f559e23f` (เดิม 5.20 วิ `79967910` ถอดแล้ว)
 - @Image1–6 = เรฟชุดเดียวกับ SB02-21 (`e92dfe91` `29a09380` `fd8fc819` `1ca9b355` `12b0b77a` `03a2bedf`)
 
 ## CHANGE LOG
@@ -70,3 +70,4 @@ user 2026-10-22 *"ใช้คัทนี้ส่งให้ SD แล้ว 
 - ~~กรอง: ท่าประกอบบทของแจ็คตัดหมด~~ → user สั่งคืน (ดูบรรทัดล่าง) · ผายมือ ดันแว่น อยู่หลัง "ดาร์ลิ่ง" ไม่เกี่ยวกับคลิปนี้
 - ความยาว 6 วิ: ไฟล์เสียง 5.20 วิ (เงียบหน้า 0.52 วิ) เริ่มตั้งแต่ยังนั่งไม่เสร็จ → จบหลัง "ดาร์ลิ่ง"
 - user *"บอก sd ให้เริ่มพูดก่อนจะนั่ง ไม่ต้องรอนั่งลงเสร็จแล้วค่อยพูด แอ็คติ้งการพูดแบบเดิมดีแล้ว"* → รวมบีตนั่ง+พูดเป็นบีตเดียว เริ่มพูดระหว่างนั่ง · คืนการแสดงจาก SB02-22 เดิม: `proud of himself, small and natural` + `At "ดาร์ลิ่ง" he laughs in his throat and taps his own chest once` (ติด A22 แต่ user สั่ง เก็บไว้) · ไม่ใส่ "ถือมือถือชี้" เพราะใน @Video1 แจ็คไม่ได้ถือมือถือ
+- user *"เปลี่ยนๆ ต้องพูดจบคำว่า ดาลิ่งของคนไข้ ใช้เสียงอันที่ 3"* 2026-10-22 → @Audio1 เปลี่ยนเป็นไฟล์ตัด 5.80 วิ · บทพูดใน DIALOGUE ยาวถึง "ดาร์ลิ่งของคนไข้" · หัวเราะ+ตบอกย้ายไปที่ "ดาร์ลิ่งของคนไข้" ตาม SB02-22 เดิม · คลิป 6 → 7 วิ (เสียง 5.8 วิ + ท้ายยิ้มค้างสั้นๆ)
