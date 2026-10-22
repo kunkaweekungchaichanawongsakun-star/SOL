@@ -150,3 +150,5 @@ DIALOGUE, IN THIS ORDER
   3. ช็อต 4 "ผมปลิวตามมือถือที่ถูกดึง" เกินจริง → *Her hand is left empty beside her ear*
   4. ช็อต 5 "มือยังค้างข้างหู" ตลอดตอนหันกลับ → หันแล้ว *lowers her empty hand* · ท่ากำสายกระเป๋าย้ายไปตอนจบช็อต 5 ที่มือว่างแล้ว (คงเดิม)
   5. ช็อต 5 แจ็ค "ชูมือถือสูงให้พ้นมือเธอ" ทั้งที่เธอไม่ได้แย่ง = ท่าแกล้งเด็ก และต้องลดลงมาดูจอก่อนกดวาง → *holding her phone at his side, away from her* แล้ว *lifts the phone a little, glances at the screen … ends the call with his thumb*
+- REF_LINES: ลงบรรทัด MAKEUP ARTIST / WARDROBE ASSISTANT ในหมวดล็อกแล้ว (user สั่ง "ยิง" หลังเสนอ) · A16 ผ่าน
+- เทค 1 ยิง 2026-10-23 — run `e52eda35-8f30-40fe-8698-90400f808cab` · Seedance 2.5 · references · 16:9 · 720p · 26 วิ · เรฟ 10 + @Audio1–5 · generate_audio true · user สั่ง "ยิง" (ครั้งแรกติด moderation gate ลงทะเบียนเรฟ รอ ~30 วิ แล้วยิงซ้ำด้วย idempotency key เดิม)

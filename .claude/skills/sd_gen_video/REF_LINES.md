@@ -53,6 +53,18 @@ PA JUANG: a Thai woman in her fifties, the housekeeper of the building. THIS REF
 VA `pa_juang` (`5RBwcWFB89aiOxcA`) · ป้าแม่บ้าน EP1 · user เคาะ 2026-10-02 (SB08-9) *"ใส่ผ้ากันเปื้อนตามเรฟ"* — ชุดให้เรฟเป็นตัวกำหนด ไม่เขียนบรรยายชุด
 ---
 
+### MAKEUP ARTIST (ST-01)
+```
+MAKEUP ARTIST: 30s, head of the styling team. 100% matches the reference for her face and her clothes.
+```
+user เคาะ 2026-10-23 (สั่ง "ยิง" SB02-46 หลังเสนอบรรทัดนี้) · Mix Stage `ST 01 · หัวหน้าทีมแต่งตัว` `7ff7594f` · ใบเดียวมีทั้งหน้าและชุด
+
+### WARDROBE ASSISTANT (ST-02)
+```
+WARDROBE ASSISTANT: 20s, the styling team's assistant. 100% matches the reference for her face and her clothes.
+```
+user เคาะ 2026-10-23 (สั่ง "ยิง" SB02-46 หลังเสนอบรรทัดนี้) · Mix Stage `ST 02 · ผู้ช่วยแต่งตัว` `873cb52b` · ใบเดียวมีทั้งหน้าและชุด
+
 ## รอ user เคาะ
 
 (ว่าง)
