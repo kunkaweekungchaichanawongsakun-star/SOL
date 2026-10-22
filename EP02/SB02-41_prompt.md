@@ -30,7 +30,7 @@ ACTIVE REFERENCES
 
 WHERE EVERYONE IS, FOR THE WHOLE VIDEO
 - As at the end of @Video1: Aliz lies in the bed in the left foreground with her back half to the camera, her head on the pillow, her dark hair soft and out of focus on the left of frame.
-- Jack sits in the white armchair beside the bed on the window side, on the right of frame, facing her, the bright sheer curtains behind him.
+- Jack sits in the white armchair beside the bed on the window side, on the right of frame, FACING LEFT TOWARD HER for the whole video, the bright sheer curtains behind him.
 
 SHOT-BY-SHOT
 Shot 1 — TELLING THE STORY · one continuous shot
@@ -45,7 +45,7 @@ Camera: the same camera as @Video1 — OTS from behind Aliz's head, locked-off.
 Composition: as in @Video1 — Aliz's hair and shoulder soft and blurred on the left in the foreground, Jack in the armchair on the right, the bright sheer curtains behind him. The audience's eye stays on Jack's face.
 
 THE LAST FRAME
-Jack sits in the white armchair on the right of frame, facing Aliz, smiling, pleased with himself. Aliz's hair is soft on the left in the foreground.
+Jack sits in the white armchair on the right of frame, facing left toward Aliz, smiling, pleased with himself. Aliz's hair is soft on the left in the foreground.
 
 DIALOGUE, IN THIS ORDER
 1. Shot 1, @Audio1, JACK: "ก็พี่แจ็คโทรเข้ามือถือเราอะ มีเจ้าหน้าที่รับแล้วถามว่าพี่เป็นใคร พอบอกว่าเป็นดาร์ลิ่งของคนไข้"
@@ -71,3 +71,4 @@ user 2026-10-22 *"ใช้คัทนี้ส่งให้ SD แล้ว 
 - ความยาว 6 วิ: ไฟล์เสียง 5.20 วิ (เงียบหน้า 0.52 วิ) เริ่มตั้งแต่ยังนั่งไม่เสร็จ → จบหลัง "ดาร์ลิ่ง"
 - user *"บอก sd ให้เริ่มพูดก่อนจะนั่ง ไม่ต้องรอนั่งลงเสร็จแล้วค่อยพูด แอ็คติ้งการพูดแบบเดิมดีแล้ว"* → รวมบีตนั่ง+พูดเป็นบีตเดียว เริ่มพูดระหว่างนั่ง · คืนการแสดงจาก SB02-22 เดิม: `proud of himself, small and natural` + `At "ดาร์ลิ่ง" he laughs in his throat and taps his own chest once` (ติด A22 แต่ user สั่ง เก็บไว้) · ไม่ใส่ "ถือมือถือชี้" เพราะใน @Video1 แจ็คไม่ได้ถือมือถือ
 - user *"เปลี่ยนๆ ต้องพูดจบคำว่า ดาลิ่งของคนไข้ ใช้เสียงอันที่ 3"* 2026-10-22 → @Audio1 เปลี่ยนเป็นไฟล์ตัด 5.80 วิ · บทพูดใน DIALOGUE ยาวถึง "ดาร์ลิ่งของคนไข้" · หัวเราะ+ตบอกย้ายไปที่ "ดาร์ลิ่งของคนไข้" ตาม SB02-22 เดิม · คลิป 6 → 7 วิ (เสียง 5.8 วิ + ท้ายยิ้มค้างสั้นๆ)
+- user ถาม *"อันใหม่ แจ็คจะหันหน้าไปทางซ้าย มองอลิซ ไม่ใช่หันไปทางขวาแบบคัทก่อนถูกมั้ย?"* → เช็คเฟรม: SB02-21 คัทสุดท้าย แจ็คขวาเฟรมหันซ้ายหาอลิซ (หัวอลิซเบลอซ้าย) · SB02-22 V1 คัท 1 เป็นมุมกว้างคนละมุม (หน้าต่างขวา แจ็คนั่งไขว่ห้างถือมือถือ หันออกกล้อง/ขวา) → ย้ำทิศเป็นตัวใหญ่ `FACING LEFT TOWARD HER for the whole video` + เฟรมสุดท้าย `facing left toward Aliz`
