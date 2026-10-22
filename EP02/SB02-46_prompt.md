@@ -53,7 +53,7 @@ Picture, in this order:
 - 3. The camera moves to the right, past the branches of the olive tree close in front, and the leaves open to show Aliz hiding against the wooden wall, the phone at her left ear, her right hand cupped around her mouth, saying @Audio1 to the end.
   - Aliz: "ลุง มารับหนูทีได้มั้ย เขาจะให้ไปงานเลี้ยงกับผู้ใหญ่เจ้าของโครงการคืนนี้ รู้สึกไม่ค่อยดีเลย"
   - Emotion from the script: 焦急求助，心怀忐忑.
-  - Performance: she calls him "ลุง" like someone holding on to the one rope she has. On "รู้สึกไม่ค่อยดีเลย" she sinks a little and holds the strap of her bag tighter.
+  - Performance: she calls him "ลุง" like someone holding on to the one rope she has. On "รู้สึกไม่ค่อยดีเลย" she sinks a little lower behind the leaves.
 - 4. While she talks, she glances once toward the meeting room door near the camera, afraid someone will come out and see her.
 Camera: starts WS, 120 cm high, eye level, 24mm lens, a sideways dolly to the right through the olive branches, moving in until it stops as an MCU on Aliz.
 Meaning: the camera follows the voice to the person speaking; the leaves in front of her say she is hiding.
@@ -75,7 +75,7 @@ Sound: footsteps far away on the polished stone, very faint.
 
 Shot 3 — TELLING HIM THE STORY
 Picture, in this order:
-- 1. Aliz nods quickly, leans in to the phone and says @Audio3, because she is planning what he must say.
+- 1. Aliz nods quickly, turns a little closer to the wall and says @Audio3, because she is planning what he must say.
   - Aliz: "ตอนนี้เลยค่ะ ยังงี้นะลุง พอมาถึงแล้วต้องบอกว่า"
   - Emotion from the script: 急切叮嘱，迅速商量.
   - Performance: "ตอนนี้เลยค่ะ" comes at once; "ยังงี้นะลุง" is serious, like a secret plan. Her sentence is cut off at "ต้องบอกว่า".
@@ -86,19 +86,19 @@ Composition: Aliz's face on the right third, facing right; the corridor and the 
 Shot 4 — THE WHITE HAND
 Picture, in this order:
 - 1. Jack's hand, in the white sleeve of his suit, comes in from the left of frame and pulls the phone away from Aliz's ear on "ต้องบอกว่า".
-- 2. Her hair swings after the phone as it is pulled away.
+- 2. Her hand is left empty beside her ear.
 Camera: CU, 155 cm high, eye level, 50mm lens, locked-off, at the height of Aliz's ear.
 Composition: Aliz's ear and hand centre right; the white sleeve shooting in from the left edge of frame, the brightest thing in the shot.
 Sound: Aliz's voice cut off. The rustle of the suit sleeve.
 
 Shot 5 — JACK SMILES
 Picture, in this order:
-- 1. Aliz spins round to the left, startled, her hand still up beside her ear.
-- 2. Jack stands right in front of her, holding her phone up high and away from her so she cannot reach it, and says @Audio4 to her with a wide, easy grin, treating it all like a game.
+- 1. Aliz turns round to the left, startled, and lowers her empty hand.
+- 2. Jack stands right in front of her, holding her phone at his side, away from her, and says @Audio4 to her with a wide, easy grin, treating it all like a game.
   - Jack: "ที่รักชุดมาแล้วนะ สวยมากมาก มาใส่เลยเร็วเร็ว ผู้บริหารมารอแล้ว"
   - Emotion from the script: 油腔滑调，得意掌控.
   - Performance: smooth and relaxed, a man who thinks he has everything under control. The grin is all on the surface.
-- 3. Win's voice comes out of the phone in Jack's hand, small and thin, @Audio5. Jack glances at the screen, which faces him, and presses his thumb to hang up.
+- 3. Win's voice comes out of the phone in Jack's hand, small and thin, @Audio5. Jack lifts the phone a little, glances at the screen, which faces him, and ends the call with his thumb.
   - Win, from the phone: "ฮัลโหล ฮัลโหล"
 - 4. Behind Jack, the two women have stopped, the black garment bag still swinging on its gold hook. Both of them look away, because they want to stay out of it.
 - 5. Aliz stands still, holding the strap of her bag tight, staring at Jack, and stays like that until the end of the video.
@@ -144,3 +144,9 @@ DIALOGUE, IN THIS ORDER
 - ชุดอลิซ: บรีฟ "เสื้อไหมพรมเทาแขนล้ำไหล่" · ใช้ *a grey knit top* ให้เรฟคุมทรง (SB02-40 เขียนคอกลมแขนสั้นตามเรฟ)
 - ลำดับเรฟ: b95c75c6 (Aliz NEW C2 5 CU) · 85720ff3 (CU 3Q) · 6abc3bd8 (FS) · f90ef20a (ALIZ_phone) · 1ca9b355 (Jack face เทา) · 12b0b77a (Jack sheet เทา · สูทขาว) · 7ff7594f (ST 01) · 873cb52b (ST 02) · 8c0469de (ถุงคลุมชุด) · e4e0edb2 (C-02) · @Audio1 2ecaf904 (6.44 วิ) · @Audio2 369c9349 (2.50) · @Audio3 7cdc9ce6 (3.88) · @Audio4 61f62506 (4.70) · @Audio5 cde8d4ee (2.50)
 - ด่าน: แก้ A8 4 จุด · สำนวน *as if* 2 จุด · A13 คำว่า whisper 4 จุด (ไฟล์เสียงเป็นเสียงกระซิบอยู่แล้ว) · คงไว้: A4 (เหลือบมองประตู · แจ็คเหลือบดูจอ · สองคนหลบตา · จ้องแจ็ค — สตอรี่บอร์ดสั่ง เป็นตัวแอ็กชัน) · A19 ถุงคลุมชุดแกว่ง (user สั่งในสตอรี่บอร์ด *"ถุงคลุมชุดสีดำแกว่งตามจังหวะเดิน"*) · A16 บรรทัด ST-01/ST-02 รอ user เคาะแล้วค่อยลง REF_LINES
+- user *"ก่อนยิง เช็คการแอคติ้งก่อน มันดูผิดธรรมชาติ ท่าทางไหนไหม"* → แก้ 5 จุด:
+  1. ช็อต 1 "กำสายกระเป๋าแน่น" ขณะที่มือซ้ายถือมือถือ มือขวาป้องปาก = ไม่มีมือว่าง → *sinks a little lower behind the leaves*
+  2. ช็อต 3 "โน้มตัวเข้าหามือถือ" (มือถือแนบหูอยู่แล้ว โน้มเข้าหาไม่ได้) → *turns a little closer to the wall*
+  3. ช็อต 4 "ผมปลิวตามมือถือที่ถูกดึง" เกินจริง → *Her hand is left empty beside her ear*
+  4. ช็อต 5 "มือยังค้างข้างหู" ตลอดตอนหันกลับ → หันแล้ว *lowers her empty hand* · ท่ากำสายกระเป๋าย้ายไปตอนจบช็อต 5 ที่มือว่างแล้ว (คงเดิม)
+  5. ช็อต 5 แจ็ค "ชูมือถือสูงให้พ้นมือเธอ" ทั้งที่เธอไม่ได้แย่ง = ท่าแกล้งเด็ก และต้องลดลงมาดูจอก่อนกดวาง → *holding her phone at his side, away from her* แล้ว *lifts the phone a little, glances at the screen … ends the call with his thumb*
