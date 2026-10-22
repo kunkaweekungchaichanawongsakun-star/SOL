@@ -9,7 +9,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. This is the second video of this scene. It is Monday morning. Win arranged to pick Aliz up at her dormitory at a set time and take her to her job interview, and he has just arrived outside and called her, so her phone is vibrating right now. Aliz woke up early, showered and got dressed for the interview, but she felt dizzy and she is coming down with a fever. While she waited for him she grew sleepy, leaned back on her bed against the pillows to rest for a moment, and dozed off there, her legs lying on top of the blanket and her phone on the bed beside her hand.
 
 SCENE
-Aliz has dozed off half lying back on her bed, fully dressed and ready for her interview, worn out by a fever that is only starting. She meant to rest only for a moment, so she lies just as she leaned back: propped against the pillows, her legs on top of the blanket, her right leg hanging down over the side of the bed, ready to stand up again in a moment. Her phone vibrates beside her hand, and she sleeps on through it, because the fever has worn her out. The camera drifts slowly in toward her, drawing the audience closer to the girl who is sleeping through the call.
+Aliz has dozed off half lying back on her bed, fully dressed and ready for her interview, worn out by a fever that is only starting. She meant to rest only for a moment, so she lies just as she leaned back: propped against the pillows, her legs on top of the blanket, her right leg hanging down over the side of the bed, ready to stand up again in a moment. Her phone vibrates beside her hand, and she sleeps on through it, because the fever has worn her out. The camera drifts in toward her so gently that the audience barely feels it move, quietly drawing them closer to the girl who is sleeping through the call.
 
 ALIZ'S FACE
 Her skin tone is natural, as in her character references, and her face is softly and clearly lit. Her tiredness shows only in how deeply she sleeps and how heavily she lies.
@@ -33,12 +33,12 @@ Shot 1 — ASLEEP · one continuous shot, 4 seconds
 Picture, in this order:
 - 1. From the very first frame Aliz is asleep, half lying back against the pillows, dressed for her interview, worn out by the fever, 疲惫. She sleeps deeply and breathes slowly.
 - 2. All through the shot the phone beside her right hand vibrates on the blanket, and she sleeps on through it, because the fever has worn her out.
-Camera: WIDE to MS. The camera starts in the room where @Image4 is photographed from, at the height of the bed, and dollies in toward her very slowly and smoothly. It keeps moving at the same slow pace from the first frame to the last frame, and arrives at MS on her as the video ends.
+Camera: WIDE. The camera starts in the room where @Image4 is photographed from, at the height of the bed, and dollies in toward her extremely slowly and smoothly, so slowly that the audience barely feels it move. It keeps moving at the same gentle pace from the first frame to the last frame, with her whole body on the bed in the frame all the way through.
 Light: soft, gentle light spread evenly through the whole room, so the room and her face are both softly and clearly lit.
 Sound: quiet room tone with a soft air-conditioner hum, and the buzz of the phone vibrating on the blanket.
 
 THE LAST FRAME
-MS of Aliz asleep, half lying back against the pillows, her right leg hanging down over the side of the bed, the phone vibrating beside her right hand, her face softly lit.
+A wide shot, only a little closer than the first frame, of Aliz asleep, her whole body on the bed, half lying back against the pillows, her right leg hanging down over the side of the bed, the phone vibrating beside her right hand, her face softly lit.
 
 DIALOGUE
 Aliz stays silent.
@@ -57,7 +57,9 @@ Aliz stays silent.
 - user *"2026 10 17 0240 fbce43 ชื่อฉากใหม่ ในเรฟ"* → @Image4 เปลี่ยนเป็น Mix Stage `77b063f0` (asset `4014aa37`) · หัวเตียงอยู่ซ้ายเฟรมตามเรฟ · ขาขวาของคนนอนหงายหัวซ้ายเท้าขวา = ฝั่งใกล้กล้อง
 - user *"ไม่มีฝุ่นลอยในห้องแล้ว"* → เขียนบอกเล่า *"The air in the room is clear and clean."* (เรฟใหม่ไม่มีลำแสงฝุ่น)
 - user *"อยากได้ dolly ช้าๆ ไม่มีหยุดกล้องตลอดทั้งคัท"* → กล้องเคลื่อนเข้าช้าเท่ากันตั้งแต่เฟรมแรกถึงเฟรมสุดท้าย ถึง MS ตอนจบพอดี
+- (แก้จากนอก session) WIDE → MEDIUM WIDE เดินระยะสั้น เห็นทั้งตัวตลอด
+- user *"ถ้า wide > MS กล้องจะเคลื่อนเร็วมากๆ ให้บอกแค่กล้องเคลื่อนช้าๆ ไม่ให้คนดูรู้สึก"* → ตัดขนาดภาพปลายทาง เหลือ WIDE ดอลลี่ช้ามากจนคนดูแทบไม่รู้สึก เห็นทั้งตัวตลอด · THE LAST FRAME = wide ที่ใกล้กว่าเฟรมแรกนิดเดียว · SCENE เปลี่ยนตาม
 - user *"ปรับให้แสงนวลทั้งห้อง อย่าให้หน้ามืดน่ากลัว"* → เรฟห้องใบใหม่มืด ม่านปิด จึงแยกบรรทัด @Image4 ว่าคุมแค่ห้อง ส่วนแสงในวิดีโอนวลและสว่างกว่าเรฟ กระจายทั้งห้อง · บอกแค่คุณภาพแสง ไม่บอกทิศ · ตัด *"Her face is pale and feverish"* เปลี่ยนเป็นหัวข้อ ALIZ'S FACE สีผิวปกติ หน้าได้แสงนวลชัด
 - user *"แก้ให้ไม่ใส่รองเท้า ใส่แค่ถุงเท้าขาวแบบสั้นเสมอรองเท้า"* → ตัด *down to her sneakers* ทั้ง 2 จุด · บรรทัด @Image3 คุมแค่เสื้อกับยีนส์ (เรฟ FS ใส่ผ้าใบขาว) + ON HER FEET SHE WEARS ONLY SHORT WHITE LOW-CUT SOCKS · ไม่เอ่ยคำว่ารองเท้าเลย กันดึงเข้าเฟรม
-- คงไว้จากเทค 1: มือถือสั่นข้างมือตลอดคัท · WIDE → MS · 疲惫 · เสียงห้อง + เสียงมือถือสั่น · ตัด 惊醒/强撑 เพราะอยู่คัท 3–4 ที่ไม่ได้ทำ
+- คงไว้จากเทค 1: มือถือสั่นข้างมือตลอดคัท · 疲惫 · เสียงห้อง + เสียงมือถือสั่น · ตัด 惊醒/强撑 เพราะอยู่คัท 3–4 ที่ไม่ได้ทำ
 - ลำดับเรฟ: e92dfe91 (CU) · 29a09380 (3Q) · c3b088a7 (FS) · 77b063f0 (ห้องใหม่) · f90ef20a (มือถือ) · ไม่มีเสียง (คัท 1 ไม่มีบทพูด · เสียงเดิม 28aac209 ยังผูกอยู่แต่ไม่อยู่ใน roles)
