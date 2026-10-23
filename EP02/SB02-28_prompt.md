@@ -36,7 +36,7 @@ WHERE WIN IS DURING THE CALL, AS IN @Image12
 - He faces the right of frame, looking up and to the right at Aliz's window. His left hand holds the phone to his left ear.
 - His head is in the centre of the frame, with space on the right in the direction he is looking. Behind him on the left, the wall and awning of the kiosk. On the right, trees, the hedge and warm house windows, blurred into bokeh.
 - Light: warm orange street light from above, catching his greying hair, his shoulders and the back of his hand.
-- THE SCREEN OF WIN'S PHONE ALWAYS FACES WIN. WHILE THE CALL IS RINGING IN HIS HAND, THE SCREEN IS LIT. THE MOMENT HE LIFTS THE PHONE TO HIS EAR, THE SCREEN GOES DARK, AS A REAL PHONE DOES DURING A CALL. FROM THEN ON IT IS A DARK PHONE AGAINST HIS EAR, AND THE STREET LIGHT ALONE LIGHTS HIS FACE.
+- THE SCREEN OF WIN'S PHONE ALWAYS FACES WIN. WHILE THE CALL IS RINGING IN HIS HAND, THE SCREEN IS ON: A BLACK SCREEN WITH ONLY THE CALLER'S NAME, "ALIZ", IN WHITE LETTERS. THE MOMENT HE LIFTS THE PHONE TO HIS EAR, THE SCREEN GOES DARK, AS A REAL PHONE DOES DURING A CALL. FROM THEN ON IT IS A DARK PHONE AGAINST HIS EAR, AND THE STREET LIGHT ALONE LIGHTS HIS FACE.
 
 WHERE ALIZ IS DURING THE CALL, AS IN @Image13
 - She sits on the edge of her bed near its foot, her body centre-right in the frame, her face turned diagonally toward the left of frame.
@@ -50,15 +50,15 @@ THEY FACE EACH OTHER ACROSS THE CUTS: IN EVERY SHOT ALIZ FACES THE LEFT OF FRAME
 SHOT-BY-SHOT
 Shot 1 — 0.0–3.8 s — THE LIGHT OF THE SCREEN
 Picture, in this order:
-- 1. Win sitting sideways on the seat of his motorcycle beside the kiosk. The phone in his hand vibrates and the screen lights up, lighting his face from below, against the orange street light from above.
-- 2. The screen shows an incoming call with Aliz's photo, as a picture only.
+- 1. Win sitting sideways on the seat of his motorcycle beside the kiosk. The phone in his hand vibrates and the screen comes on, its faint glow on his face from below, against the orange street light from above.
+- 2. The screen is black, with only the caller's name, "ALIZ", in white letters.
 - 3. He looks at the screen, then up at the window that has just lit up, high on the right, and a small smile comes. He answers and lifts the phone to his left ear, and the screen goes dark against his ear.
 - 4. 3.0–3.7 s · Win: "หวัดดีครับ"
   - Emotion from the script: 低沉沉稳，温和应答.
   - Performance: he tries to keep how glad he is out of it.
 Camera: MCU from the side, 120 cm high, eye level, 85mm lens, locked-off, the angle as in @Image12.
 Composition: Win faces the right of frame. His head in the centre of the frame, with space on the right in the direction he is looking. The wall and awning of the kiosk behind him on the left. Trees, the hedge and warm house windows blurred on the right.
-Light: the bluish-white light of the phone screen from below while it rings. Warm orange street light from above on his hair and shoulders. Once the phone is at his ear, the street light alone.
+Light: the faint glow of the black phone screen from below while it rings. Warm orange street light from above on his hair and shoulders. Once the phone is at his ear, the street light alone.
 Meaning: the light from her call reaches his face first, and then his smile follows.
 
 Shot 2 — 3.8–10.7 s — OUT OF HOSPITAL
@@ -135,3 +135,4 @@ Shot 3, 10.9–11.7 s, WIN: "ดีจังเลย"
 - user *"คัทเสียงทำไมนะ จะซ่อมทั้งบ็อก"* → ใช้เสียงเต็ม `C2 4 clip14 13s` `757d5ee2` เหมือนเดิม · ยกเลิกบ็อก SB02-51 (archived) · ไทม์โค้ดตาม silencedetect: วิน 3.02–3.66 · อลิซ 3.97–7.52 · วิน 7.73–8.4 · อลิซ 8.4–10.62 · วิน 10.92–11.70
 - ด่าน: A4 (วินมองจอ แล้วมองหน้าต่าง = ตัวแอ็กชัน) คงไว้ · A20 บรรทัด WHERE WIN IS / Composition ช็อต 1 เดิมจากเทค 2 ไม่ได้แตะ คงไว้
 - ลำดับเรฟ: e92dfe91 · 29a09380 · c3b088a7 · b0b68bd1 · 2aec936c · 30d143af · 77f6d8d4 · 73f928e1 · 59aa7c25 · cb8f59e3 · f90ef20a · 8dd9cda9 · 12fe96a6 · @Audio1 757d5ee2
+- user 2026-10-23 *"ลบเรฟหน้าจอมือถือทิ้งไป ให้ SD เขียนตามจริง คือจอดำ มีตัวหนังสือชื่อคนที่โทรมา แค่นั้น ไม่ต้องมีรูป และ ไม่เอาพื้นขาว"* → ช็อต 1 บีต 2 *with Aliz's photo, as a picture only* → *The screen is black, with only the caller's name, "ALIZ", in white letters.* (ชื่อตามบท 2-4 *"จอขึ้น ALIZ"*) · WHERE WIN IS: *THE SCREEN IS ON: A BLACK SCREEN WITH ONLY THE CALLER'S NAME…* · บีต 1 / Light: แสงจอ *bluish-white* → *faint glow of the black phone screen* · `ALIZ_phone` (@Image11) คงไว้ เป็นตัวเครื่องมือถืออลิซในช็อต 2 ไม่ใช่เรฟหน้าจอวิน
