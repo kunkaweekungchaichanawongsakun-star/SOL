@@ -1,5 +1,5 @@
 GLOBAL STYLE
-Live-action microdrama, 16:9. Real people, real places, natural skin. Two shots, 5 seconds, at real-time speed.
+Live-action microdrama, 16:9. Real people, real places, natural skin. Two shots, 6 seconds, at real-time speed.
 All the acting is understated and real, at the size of real life. The one exception is Jack alone outside the glass in Shot 2, where his true face shows clearly. It is night. The only sound is the real sound of the lobby and of the street outside.
 
 SOUND
@@ -40,7 +40,7 @@ Camera: WS, 150 cm high, eye level, 35mm lens, locked-off, inside the lobby a fe
 Composition: the glass doors in the middle, a frame within the frame shutting Jack outside. The white Mercedes outside on the right of frame with its front passenger door open.
 Sound: the glass door shutting hard, and the sound from outside going quiet at once.
 
-Shot 2 — 2.0–5.0 s — HIS TRUE FACE
+Shot 2 — 2.0–6.0 s — HIS TRUE FACE
 Picture, in this order:
 - 1. Jack stands just outside the shut glass door. His smile drops. Aliz has gone, so only the audience sees it, clearly: the sweet boyfriend is gone, and what is left is a man who is irritated, contemptuous and used to getting his way, angry that she has shut him out and gone up alone.
 - 2. He lets out a fed-up sigh, sick of her.
@@ -70,3 +70,5 @@ Inside the lobby looking out through the shut glass doors. Jack outside beside h
 - ไม่มีบทพูด ไม่ส่งเสียง · ตัดหมวด LIP SYNC / DIALOGUE เปลี่ยนเป็น SOUND · ไม่ส่ง D N1 / D N2 เพราะทั้งคลิปมองจากในล็อบบี้ วิวนอกกระจกมาจากเพลตล็อบบี้
 - ลำดับเรฟ: e92dfe91 (ALIZ CU) · 29a09380 (3Q) · c3b088a7 (FS) · 1e317578 (Jack face ไวน์แดง) · 585d8f45 (Jack sheet ไวน์แดง) · bc2843b8 (EP08 S4 lobby night) · 83ad02ef (เบนซ์ P 01) · 75ace63b (เบนซ์ประตูหน้าเปิด ครอป)
 - user 2026-10-23 *"แจ็คควรทำเสียงถอนใจแบบเซ็งๆ ตอนอลิซเดินไปแล้ว ก่อนปิดประตู"* → ช็อต 2 เติมบีต 2 *He lets out a fed-up sigh, sick of her.* (หลังยิ้มหุบ ก่อนหันไปปิดประตูรถ) · บีตเดิม 2–3 เลื่อนเป็น 3–4 · SOUND + Sound ช็อต 2 เติม *Jack's fed-up sigh, heard through the glass*
+- user 2026-10-23 *"6 วิ ยิง"* → 6 วิ · ช็อต 2 = 2.0–6.0 (ช็อต 1 คง 2.0 วิ ประตูปิดไวเท่าเดิม)
+- เทค 1 ยิง 2026-10-23 — run `38b71583-058d-4192-9065-d785efccace5` · Seedance 2.5 · references · 16:9 · 720p · 6 วิ · เรฟ 8 · generate_audio true · user สั่ง "6 วิ ยิง"
