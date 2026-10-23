@@ -6,7 +6,7 @@ LIP SYNC
 This video is wordless. Everyone stays silent for the whole video.
 
 BEFORE THIS VIDEO
-All of this has already happened before the first frame. Aliz has just been discharged from hospital. Win, the man she calls "ลุง", carried her into that hospital, then had to leave for work; when he came back, he saw another man sitting beside her bed and stayed away. This evening Jack drove her home to her dorm in his white Mercedes. She went into the lobby alone and left him outside; he slammed the car door and drove off hard. All this time, Win has been waiting across the street on the far pavement, standing against his motorcycle parked beside the closed kiosk, its lights off, still in his green jacket, his helmet off.
+All of this has already happened before the first frame. Aliz has just been discharged from hospital. Win, the man she calls "ลุง", carried her into that hospital, then had to leave for work; when he came back, he saw another man sitting beside her bed and stayed away. This evening Jack drove her home to her dorm in his white Mercedes. She went into the lobby alone and left him outside; he slammed the car door and drove off hard. All this time, Win has been waiting across the street on the far pavement, standing against his motorcycle parked under the tree to the left of the closed kiosk, its lights off, still in his green jacket, his helmet off.
 
 SCENE
 The white Mercedes speeds past right in front of the camera, and as the car clears the frame it reveals Win, who has been waiting across from the dorm the whole time. Win ignores the car completely. His mind is on Aliz: he is looking across the street at her dorm, and the car goes by unnoticed.
@@ -20,11 +20,12 @@ ACTIVE REFERENCES
 @Image6 — JACK'S WHITE MERCEDES-BENZ S-CLASS. THIS REFERENCE IS THE AUTHORITY FOR THE CAR ITSELF.
 @Image7 — THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF.
 @Image8 — WIN'S HELMET. THIS REFERENCE IS THE AUTHORITY FOR THIS HELMET ITSELF.
-@Image2 and @Image3 carry his face, and his clothes come from @Image1. The video is on the far side of the street in @Image4, looking across from the dorm side in @Image5. The car is @Image6, his motorcycle is @Image7, and his black helmet @Image8 hangs on its mirror stalk.
+@Image9 — THE FRAME AFTER THE CAR HAS PASSED. THIS REFERENCE IS THE AUTHORITY FOR THE FRAMING, FOR WHERE WIN AND HIS MOTORCYCLE ARE ON THE PAVEMENT, AND FOR HOW BIG THEY ARE. HOW WIN STANDS COMES FROM THIS PROMPT.
+@Image2 and @Image3 carry his face, and his clothes come from @Image1. The video is on the far side of the street in @Image4, looking across from the dorm side in @Image5. The car is @Image6, his motorcycle is @Image7, and his black helmet @Image8 hangs on its mirror stalk. The framing after the car has passed is @Image9.
 
 WHERE EVERYTHING IS, FOR THE WHOLE VIDEO
-- HIS MOTORCYCLE IS PARKED ON ITS STAND RIGHT BESIDE THE KIOSK, on its left side, close against the hedge, under the street lamp, with its lights off. The black helmet hangs on its mirror stalk.
-- WIN STANDS UPRIGHT, LEANING BACK AGAINST THE SIDE OF THE SEAT OF HIS MOTORCYCLE, half resting on it, both feet on the pavement, his body straight, still and quiet. Green jacket, helmet off.
+- HIS MOTORCYCLE IS PARKED ON THE PAVEMENT UNDER THE TREE, TO THE LEFT OF THE KIOSK, CLOSE AGAINST THE HEDGE, AS IN @Image9, with its lights off. It is a full-size motorcycle; its seat comes up to Win's hip. The black helmet hangs on its mirror stalk.
+- WIN STANDS UPRIGHT, LEANING BACK AGAINST THE SIDE OF THE SEAT OF HIS MOTORCYCLE, half resting on it, both feet on the pavement, his body straight, still and quiet. He is in the same place as in @Image9, standing up straighter. Green jacket, helmet off.
 - WIN FACES ACROSS THE STREET TOWARD THE DORM, WHICH IS ACROSS THE STREET A LITTLE TO THE RIGHT OF FRAME. He looks across at it at street level.
 - The pavement to the right of the kiosk is empty.
 
@@ -32,15 +33,15 @@ SHOT-BY-SHOT
 Shot 1 — 0.0–5.0 s — THE CAR GOES, WIN STAYS
 Picture, in this order:
 - 1. From the very first frame, the white Mercedes passes right in front of the lens from right to left, so close that its white body fills the whole frame from edge to edge, with real motion blur from its speed. It wipes across the frame.
-- 2. As its tail clears the left of frame, it reveals Win leaning against his motorcycle beside the kiosk, in the warm light of the street lamp.
+- 2. As its tail clears the left of frame, it reveals Win leaning against his motorcycle under the tree, framed as in @Image9, in the warm light of the street lamp.
 - 3. Win stays still, facing across the street toward the dorm a little to the right of frame, looking across at it the whole time. The car goes by and he ignores it, because his mind is on Aliz. He stays like that until the end of the video.
-Camera: MWS, 110 cm high, eye level, 35mm lens, closer than a wide shot, locked-off for the whole video, on the pavement on the dorm side, looking across the street at Win. The car passes between the camera and Win.
-Composition after the car has passed: Win leaning against his motorcycle, the whole machine and all of him in the shot, large and clear; the corner of the kiosk and its awning beside him; the tree trunk and the hedge behind him.
-Light: the street lamp on the post beside the kiosk shines down; Win stands in its warm pool of light, with leaf shadows falling on his shoulders. The kiosk and its awning take the same light. A deep blue sky. Warm lit windows in the houses behind the hedge.
+Camera: MWS, framed as in @Image9, 110 cm high, eye level, 35mm lens, locked-off for the whole video, on the pavement on the dorm side, looking across the street at Win. The car passes between the camera and Win.
+Composition after the car has passed: as in @Image9. Win leaning against his motorcycle under the tree on the left, the kiosk with its awning on the right, the hedge behind them, the pavement and the edge of the road in front.
+Light: the street lamp on the post beside the tree shines down; Win stands in its warm pool of light, with leaf shadows falling on his shoulders. The kiosk and its awning take the same light. A deep blue sky. Warm lit windows in the houses behind the hedge.
 Sound: the Mercedes engine roaring past the camera from right to left, then fading away into the distance. The night insects come back.
 
 THE LAST FRAME
-Win standing upright against his motorcycle beside the kiosk, facing across the street toward the dorm a little to the right of frame, in the light of the street lamp. The street empty.
+Win standing upright against his motorcycle under the tree, as in @Image9, facing across the street toward the dorm a little to the right of frame, in the light of the street lamp. The street empty.
 
 DIALOGUE
 Everyone stays silent.
@@ -67,3 +68,4 @@ Everyone stays silent.
 - ด่าน: A20 ขึ้นที่บีต 1 *fills the whole frame* → คงไว้ เพราะ user สั่ง *"เห็นรถเต็มเฟรมกว่าเดิม"* (A20 ไม่ใช่ด่านที่ hook บล็อก)
 - เทค 1 ยิง 2026-10-23 — run `03bb55a3-2694-4478-ab3b-b2f982137049` · Seedance 2.5 · references · 16:9 · 720p · 5 วิ · เรฟ 8 · generate_audio true · user สั่ง "ยิง"
 - เทค 1 เสร็จ — 5.06 วิ · 44 พอยต์ · asset `850d0b58-7cfd-4ccf-87de-44b3aef593f7` · contact `EP02/frames/SB02-50_V1_contact.png` · เฟรม 3.0 วิ `EP02/frames/SB02-50_V1_3.0s.png` · ไม่มีจุดตัด (ช็อตเดียว) · ผลดู: เบนซ์ wipe เต็มเฟรม 0–1.0 วิ วิ่งขวาไปซ้าย พ้นเฟรมราว 1.75 ✓ · กล้องนิ่ง ✓ · วินยืนพิงเบาะมอไซค์ เท้าสองข้างแตะพื้น ตัวตรง ✓ · มอไซค์ใหม่ตรงเรฟ หมวกแขวนแฮนด์ ✓ · มอไซค์จอดหน้าป้อม/ข้างป้อม ✓ · ไม่มีคนอื่น ✓ · ⚠️ วินหันข้างเต็ม (profile) มองไปทางขวาเฟรมตามแนวถนน ไม่ได้เฉียงข้ามถนนมาทางกล้อง · ขนาดภาพใกล้กว่า V3 นิดหน่อย วินยังตัวเล็ก · รอ user ดู
+- user 2026-10-23 *"ทำไมไม่ส่งรูปเรฟเทคเดิม แล้วแค่แก้ท่ายืนพิง ทำไมรถดูเล็กอีกแล้ว?"* → เทค 1 ไม่มีเรฟเฟรม SD เลยวางวิน+มอไซค์ลงบนถนน (ไม่ใช่ฟุตบาท) และขนาดมอไซค์เทียบคนเพี้ยน · ส่งเฟรม SB02-26 V3 ที่ 3.5 วิ ครอปใกล้ขึ้น (`EP02/frames/SB02-26_V3_3.5s_crop.png` → asset `4507fdd8` → Mix Stage `6a1a5a33`) เป็น @Image9 ถือขนาดภาพ ตำแหน่งบนฟุตบาท และขนาดวิน/มอไซค์ · ท่ามาจากพรอมป์ (ยืนตรงกว่า V3) · มอไซค์กลับไปจอดใต้ต้นไม้ซ้ายป้อมตามเฟรม V3 · เติมขนาด *full-size motorcycle; its seat comes up to Win's hip* · wipe เบนซ์ + ทิศมองคงเดิม
