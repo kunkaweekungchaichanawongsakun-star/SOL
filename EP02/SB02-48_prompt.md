@@ -32,7 +32,7 @@ WHERE EVERYTHING IS, FOR THE WHOLE VIDEO
 - Jack's white Mercedes is parked at the kerb in front of the lobby, its nose toward the left of frame, its front passenger door standing wide open toward the lobby with the interior light on.
 - Jack stands on the pavement between the car and the glass doors of the lobby, the car just behind him.
 - Aliz stands in front of Jack, closer to the glass doors, facing the doors.
-- Aliz and Jack are the only people in this video.
+- ALIZ AND JACK ARE THE ONLY TWO PEOPLE IN THIS VIDEO. The street and the pavement around them are empty.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–4.0 s — SHE DRAWS THE LINE
@@ -65,8 +65,8 @@ Picture, in this order:
 - 4. He turns to the open passenger door of the car behind him and slams it shut with his hand, hard, taking his anger out on it. The interior light of the car goes out as the door shuts.
 - 5. He stands beside the shut car door until the end of the video.
 Camera: WS, 150 cm high, eye level, 35mm lens, locked-off, inside the lobby a few steps back from the glass doors.
-Composition: the glass doors in the middle, a frame within the frame shutting Jack outside. Jack in the middle beyond the glass. The white Mercedes parked at the kerb behind him on the right of frame, its nose toward the left of frame, its open passenger door facing the lobby.
-Light: the lobby warm. Outside, night blue with the orange street lamps. The ground is dry.
+Composition: the glass doors in the middle, a frame within the frame shutting Jack outside. Jack in the middle beyond the glass. On the right of frame, outside the glass, there is only Jack's white Mercedes, parked at the kerb behind him, its nose toward the left of frame, its left front door, the passenger door, standing open toward the lobby.
+Light: the lobby warm. Outside, night blue with the orange street lamps. THE PAVING OUTSIDE THE GLASS IS DRY AND MATTE AND THE NIGHT AIR IS CLEAR, FOR EVERY SECOND OF THIS VIDEO.
 Sound: the glass door closes, and the sound from outside goes quiet at once. Then the heavy bang of the car door, muffled through the glass.
 
 THE LAST FRAME
@@ -100,3 +100,4 @@ DIALOGUE, IN THIS ORDER
 - ช็อต 3 เดิมสั่งอวัยวะ *"He breathes out through his nose, pushes his tongue into his cheek and looks away"* → ตัด เหลือความรู้สึก *irritated, contemptuous and used to getting his way, angry that she has left him outside* · ตัวประกอบ (พนักงานกะดึก · ผู้เช่าที่ตู้จดหมาย) ตัดออก เพราะเทค V1 มีผู้ชายแปลกหน้าโผล่นอกกระจก → *Aliz and Jack are the only people in this video*
 - ลำดับเรฟ: e92dfe91 (ALIZ CU) · 29a09380 (3Q) · c3b088a7 (FS) · 1e317578 (Jack face ไวน์แดง) · 585d8f45 (Jack sheet ไวน์แดง) · 73f928e1 (D N1) · 77f6d8d4 (D N2) · bc2843b8 (EP08 S4 lobby night) · 83ad02ef (เบนซ์ P 01) · @Audio1 7284c1ff · @Audio2 2565c064
 - user 2026-10-23 *"อัพโหลด lobby จากข้างใน กลางคืนให้แล้ว ชื่อ EP08-S4-lobby-night.png"* → Mix Stage `bc2843b8` "EP08 S4 lobby night" (ห้องเดียวกับ `efff75c3` มุมเดียวกัน เป็นกลางคืน) แทน `efff75c3` ที่ @Image8 · ตัดคำสั่งไฟกลางคืนในบรรทัดเรฟกับบรรทัดสรุปออก เพราะเพลตถือแสงเองแล้ว · ⚠️ พื้นนอกกระจกในเพลตดูเปียกมีเงาสะท้อน แต่ช็อต 3 เขียน *The ground is dry* (ตาม SB02-25 ที่ไม่มีฝน) — รายงาน user
+- user 2026-10-23 *"สั่ง SD ว่าพื้นไม่เปียกได้มั้ย? เอาคนที่ยืนไกลๆออกด้วยนะ ให้ทางขวาเฟรมมีแค่รถเบนซ์ที่ประตูซ้ายเปิดคาไว้"* → ช็อต 3 Light: *The ground is dry* → ตัวใหญ่แบบเด็ดขาด *THE PAVING OUTSIDE THE GLASS IS DRY AND MATTE AND THE NIGHT AIR IS CLEAR, FOR EVERY SECOND OF THIS VIDEO* (เพลตมีพื้นเงาและเส้นฝนบนฟ้า · เขียนบอกเล่า ไม่เอ่ยคำว่าเปียก/ฝน) · WHERE EVERYTHING IS → *ALIZ AND JACK ARE THE ONLY TWO PEOPLE IN THIS VIDEO. The street and the pavement around them are empty.* · ช็อต 3 Composition → ขวาเฟรมนอกกระจก *there is only Jack's white Mercedes … its left front door, the passenger door, standing open*
