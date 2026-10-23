@@ -22,11 +22,11 @@ ACTIVE REFERENCES
 @Image5 — HIS FULL BODY. 100% matches the reference for his clothes.
 @Image6 — THE STREET IN FRONT OF HER DORM AT NIGHT, SEEN FROM THE ROAD. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
 @Image7 — THE FRONT OF HER DORM AT NIGHT, LOOKING ACROSS THE ROAD TO THE KIOSK. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
-@Image8 — THE DORM LOBBY FROM THE INSIDE, LOOKING OUT THROUGH THE GLASS DOORS. THIS REFERENCE IS THE AUTHORITY FOR THE ROOM ITSELF, FOR THE PLAIN CLEAR GLASS DOORS AND FOR THEIR LONG STRAIGHT METAL HANDLES. IN THIS VIDEO IT IS NIGHT.
+@Image8 — THE DORM LOBBY FROM THE INSIDE, LOOKING OUT THROUGH THE GLASS DOORS. THIS REFERENCE IS THE AUTHORITY FOR THE ROOM ITSELF, FOR THE PLAIN CLEAR GLASS DOORS AND FOR THEIR LONG STRAIGHT METAL HANDLES, AT NIGHT.
 @Image9 — JACK'S WHITE MERCEDES-BENZ S-CLASS. THIS REFERENCE IS THE AUTHORITY FOR THE CAR ITSELF.
 @Audio1 — ALIZ'S VOICE, HER LINE, IN SHOT 1.
 @Audio2 — JACK'S VOICE, HIS LINE, IN SHOT 2.
-@Image1 and @Image2 carry her face, and her clothes come from @Image3. @Image4 carries his face, and his clothes come from @Image5. Shots 1 and 2 are on the pavement in front of the dorm lobby, with the far side of the road in @Image7 behind them. Shot 3 is inside the lobby in @Image8, lit for night: the lobby warm from its own lamps, and outside the glass the night street of @Image7 with its orange street lamps. The car is the one in @Image9.
+@Image1 and @Image2 carry her face, and her clothes come from @Image3. @Image4 carries his face, and his clothes come from @Image5. Shots 1 and 2 are on the pavement in front of the dorm lobby, with the far side of the road in @Image7 behind them. Shot 3 is inside the lobby in @Image8, at night. The car is the one in @Image9.
 
 WHERE EVERYTHING IS, FOR THE WHOLE VIDEO
 - Jack's white Mercedes is parked at the kerb in front of the lobby, its nose toward the left of frame, its front passenger door standing wide open toward the lobby with the interior light on.
@@ -98,4 +98,5 @@ DIALOGUE, IN THIS ORDER
 - user *"อยากแก้ให้ด้านขวาเฟรมหลังแจ็ค มีรถเบนซ์ของเขาจอดอยู่ หัวรถไปทางซ้ายเฟรม และประตูฝั่งคนนั่งเปิดคาไว้ ตอนท้ายพอแจ็คหงุดหงิดที่โดนอลิซทิ้ง ไม่ให้ขึ้นห้องด้วย ก็หันไปใช้มือปิดประตูที่คาอยู่อย่างแรง"* → เติมหมวด WHERE EVERYTHING IS (รถจอดชิดขอบทางหน้าล็อบบี้ หัวไปซ้ายเฟรม ประตูคนนั่งหน้าเปิดหันเข้าล็อบบี้) · ช็อต 3 บีต 3–5 · ส่งเรฟเบนซ์ `83ad02ef` เป็น @Image9 · รถหันหัวซ้าย มองจากล็อบบี้ = เห็นข้างซ้ายรถ = ฝั่งคนนั่งของรถพวงมาลัยขวา ตรงกัน
 - ช็อต 2 รถอยู่หลังแจ็คด้วย (ซอฟต์) เพราะรถจอดอยู่ตรงนั้นทั้งคลิป ให้ต่อเนื่องกับช็อต 3 — เราเติมเอง รายงาน user
 - ช็อต 3 เดิมสั่งอวัยวะ *"He breathes out through his nose, pushes his tongue into his cheek and looks away"* → ตัด เหลือความรู้สึก *irritated, contemptuous and used to getting his way, angry that she has left him outside* · ตัวประกอบ (พนักงานกะดึก · ผู้เช่าที่ตู้จดหมาย) ตัดออก เพราะเทค V1 มีผู้ชายแปลกหน้าโผล่นอกกระจก → *Aliz and Jack are the only people in this video*
-- ลำดับเรฟ: e92dfe91 (ALIZ CU) · 29a09380 (3Q) · c3b088a7 (FS) · 1e317578 (Jack face ไวน์แดง) · 585d8f45 (Jack sheet ไวน์แดง) · 73f928e1 (D N1) · 77f6d8d4 (D N2) · efff75c3 (จากในหอพัก 2 6) · 83ad02ef (เบนซ์ P 01) · @Audio1 7284c1ff · @Audio2 2565c064
+- ลำดับเรฟ: e92dfe91 (ALIZ CU) · 29a09380 (3Q) · c3b088a7 (FS) · 1e317578 (Jack face ไวน์แดง) · 585d8f45 (Jack sheet ไวน์แดง) · 73f928e1 (D N1) · 77f6d8d4 (D N2) · bc2843b8 (EP08 S4 lobby night) · 83ad02ef (เบนซ์ P 01) · @Audio1 7284c1ff · @Audio2 2565c064
+- user 2026-10-23 *"อัพโหลด lobby จากข้างใน กลางคืนให้แล้ว ชื่อ EP08-S4-lobby-night.png"* → Mix Stage `bc2843b8` "EP08 S4 lobby night" (ห้องเดียวกับ `efff75c3` มุมเดียวกัน เป็นกลางคืน) แทน `efff75c3` ที่ @Image8 · ตัดคำสั่งไฟกลางคืนในบรรทัดเรฟกับบรรทัดสรุปออก เพราะเพลตถือแสงเองแล้ว · ⚠️ พื้นนอกกระจกในเพลตดูเปียกมีเงาสะท้อน แต่ช็อต 3 เขียน *The ground is dry* (ตาม SB02-25 ที่ไม่มีฝน) — รายงาน user
