@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "mcp__fotal_mcp__generate_shot_video",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"$CLAUDE_PROJECT_DIR/.claude/hooks/precheck_generate.sh\""
+          }
+        ]
+      }
+    ]
+  }
+}
