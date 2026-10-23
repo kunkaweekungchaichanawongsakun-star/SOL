@@ -3,7 +3,7 @@ Live-action microdrama, 16:9. Real people, real places, natural skin. Two shots,
 All the acting is understated and real, at the size of real life. The one exception is Jack alone outside the glass in Shot 2, where his true face shows clearly. It is night. The only sound is the real sound of the lobby and of the street outside.
 
 SOUND
-This video is wordless. The only sounds are the glass door, the street outside and the car door.
+This video is wordless. The only sounds are the glass door, Jack's fed-up sigh, the street outside and the car door.
 
 BEFORE THIS VIDEO
 All of this has already happened before the first frame. Aliz has just been discharged from hospital, where Jack turned up by calling himself her darling and paid her hospital bill. This evening he drove her home to her dorm in his white Mercedes and parked at the kerb in front of the lobby. She got out by herself, leaving the front passenger door hanging open with the interior light on. On the pavement she shook her arm free of his hand and told him she would pay him back for the bill, and Jack laughed it off with "คืนอะไรกัน นี่พี่แจ็คนะ". Now she is walking into the lobby, and Jack is following right behind her, sure that she will let him come up.
@@ -43,12 +43,13 @@ Sound: the glass door shutting hard, and the sound from outside going quiet at o
 Shot 2 — 2.0–5.0 s — HIS TRUE FACE
 Picture, in this order:
 - 1. Jack stands just outside the shut glass door. His smile drops. Aliz has gone, so only the audience sees it, clearly: the sweet boyfriend is gone, and what is left is a man who is irritated, contemptuous and used to getting his way, angry that she has shut him out and gone up alone.
-- 2. He turns to his car behind him and slams the open front passenger door shut with his hand, hard, taking his anger out on it. The interior light of the car goes out as the door shuts.
-- 3. He stands beside the shut car door until the end of the video.
+- 2. He lets out a fed-up sigh, sick of her.
+- 3. He turns to his car behind him and slams the open front passenger door shut with his hand, hard, taking his anger out on it. The interior light of the car goes out as the door shuts.
+- 4. He stands beside the shut car door until the end of the video.
 Camera: MS, 150 cm high, eye level, 50mm lens, locked-off, inside the lobby close to the glass doors.
 Composition: Jack sharp beyond the glass, his face clear. The white Mercedes just behind him on the right of frame, its nose toward the left of frame, its front passenger door open toward the lobby.
 Light: the lobby warm. Outside, night blue with the orange street lamps. THE PAVING OUTSIDE THE GLASS IS DRY AND MATTE AND THE NIGHT AIR IS CLEAR, FOR EVERY SECOND OF THIS VIDEO.
-Sound: the heavy bang of the car door, muffled through the glass.
+Sound: Jack's fed-up sigh, heard through the glass. Then the heavy bang of the car door, muffled through the glass.
 
 THE LAST FRAME
 Inside the lobby looking out through the shut glass doors. Jack outside beside his white Mercedes on the right of frame, its front passenger door now shut, his face hard.
@@ -68,3 +69,4 @@ Inside the lobby looking out through the shut glass doors. Jack outside beside h
 - WHERE EVERYTHING IS: ประตูหน้าคนนั่ง *THE ONE BESIDE THE SIDE MIRROR* ตัวใหญ่ + *Every other door of the car is shut* (เทค 1 เปิดประตูหลัง)
 - ไม่มีบทพูด ไม่ส่งเสียง · ตัดหมวด LIP SYNC / DIALOGUE เปลี่ยนเป็น SOUND · ไม่ส่ง D N1 / D N2 เพราะทั้งคลิปมองจากในล็อบบี้ วิวนอกกระจกมาจากเพลตล็อบบี้
 - ลำดับเรฟ: e92dfe91 (ALIZ CU) · 29a09380 (3Q) · c3b088a7 (FS) · 1e317578 (Jack face ไวน์แดง) · 585d8f45 (Jack sheet ไวน์แดง) · bc2843b8 (EP08 S4 lobby night) · 83ad02ef (เบนซ์ P 01) · 75ace63b (เบนซ์ประตูหน้าเปิด ครอป)
+- user 2026-10-23 *"แจ็คควรทำเสียงถอนใจแบบเซ็งๆ ตอนอลิซเดินไปแล้ว ก่อนปิดประตู"* → ช็อต 2 เติมบีต 2 *He lets out a fed-up sigh, sick of her.* (หลังยิ้มหุบ ก่อนหันไปปิดประตูรถ) · บีตเดิม 2–3 เลื่อนเป็น 3–4 · SOUND + Sound ช็อต 2 เติม *Jack's fed-up sigh, heard through the glass*
