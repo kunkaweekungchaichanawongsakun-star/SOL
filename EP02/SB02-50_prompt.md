@@ -1,5 +1,5 @@
 GLOBAL STYLE
-Live-action microdrama, 16:9. Real people, real places, natural skin. One shot, 5 seconds.
+Live-action microdrama, 16:9. Real people, real places, natural skin. One shot, 4 seconds.
 All the acting is understated and real, at the size of real life.
 
 LIP SYNC
@@ -30,7 +30,7 @@ WHERE EVERYTHING IS, FOR THE WHOLE VIDEO
 - The pavement to the right of the kiosk is empty.
 
 SHOT-BY-SHOT
-Shot 1 — 0.0–5.0 s — THE CAR GOES, WIN STAYS
+Shot 1 — 0.0–4.0 s — THE CAR GOES, WIN STAYS
 Picture, in this order:
 - 1. From the very first frame, the white Mercedes passes right in front of the lens from right to left, so close that its white body fills the whole frame from edge to edge, with real motion blur from its speed. It wipes across the frame.
 - 2. As its tail clears the left of frame, it reveals Win leaning against his motorcycle under the tree, framed as in @Image9, in the warm light of the street lamp.
@@ -70,3 +70,4 @@ Everyone stays silent.
 - เทค 1 เสร็จ — 5.06 วิ · 44 พอยต์ · asset `850d0b58-7cfd-4ccf-87de-44b3aef593f7` · contact `EP02/frames/SB02-50_V1_contact.png` · เฟรม 3.0 วิ `EP02/frames/SB02-50_V1_3.0s.png` · ไม่มีจุดตัด (ช็อตเดียว) · ผลดู: เบนซ์ wipe เต็มเฟรม 0–1.0 วิ วิ่งขวาไปซ้าย พ้นเฟรมราว 1.75 ✓ · กล้องนิ่ง ✓ · วินยืนพิงเบาะมอไซค์ เท้าสองข้างแตะพื้น ตัวตรง ✓ · มอไซค์ใหม่ตรงเรฟ หมวกแขวนแฮนด์ ✓ · มอไซค์จอดหน้าป้อม/ข้างป้อม ✓ · ไม่มีคนอื่น ✓ · ⚠️ วินหันข้างเต็ม (profile) มองไปทางขวาเฟรมตามแนวถนน ไม่ได้เฉียงข้ามถนนมาทางกล้อง · ขนาดภาพใกล้กว่า V3 นิดหน่อย วินยังตัวเล็ก · รอ user ดู
 - user 2026-10-23 *"ทำไมไม่ส่งรูปเรฟเทคเดิม แล้วแค่แก้ท่ายืนพิง ทำไมรถดูเล็กอีกแล้ว?"* → เทค 1 ไม่มีเรฟเฟรม SD เลยวางวิน+มอไซค์ลงบนถนน (ไม่ใช่ฟุตบาท) และขนาดมอไซค์เทียบคนเพี้ยน · ส่งเฟรม SB02-26 V3 ที่ 3.5 วิ ครอปใกล้ขึ้น (`EP02/frames/SB02-26_V3_3.5s_crop.png` → asset `4507fdd8` → Mix Stage `6a1a5a33`) เป็น @Image9 ถือขนาดภาพ ตำแหน่งบนฟุตบาท และขนาดวิน/มอไซค์ · ท่ามาจากพรอมป์ (ยืนตรงกว่า V3) · มอไซค์กลับไปจอดใต้ต้นไม้ซ้ายป้อมตามเฟรม V3 · เติมขนาด *full-size motorcycle; its seat comes up to Win's hip* · wipe เบนซ์ + ทิศมองคงเดิม
 - user 2026-10-23 *"กูถมท่ายืนพิง กับ หน้าที่หันผิดให้ และ รายละเอียดรถที่ไม่ตรงให้แล้ว"* (แนบเฟรมครอป V3 ที่ถมสีฟ้า: หน้า · ขา/ท่าพิง · ถังน้ำมัน-แฮนด์มอไซค์) → `EP02/frames/SB02-26_V3_3.5s_crop_masked.jpg` → asset `039cc7cd` → Mix Stage `928ed0cf` แทน `6a1a5a33` ที่ @Image9 · บรรทัดเรฟเติม *HOW WIN STANDS AND WHERE HE FACES COME FROM THIS PROMPT. THE MOTORCYCLE ITSELF COMES FROM @Image7.* · ไม่เอ่ยถึงสีฟ้า (แบบเดียวกับจุดแดงใน @Image9 ของ SB02-26 เทค 3 ที่ไม่ได้เอ่ยแล้วไม่โผล่)
+- user 2026-10-23 *"ยิง 4 วิพอ"* → 4 วิ
