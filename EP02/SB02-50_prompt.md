@@ -9,7 +9,7 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. Aliz has just been discharged from hospital. Win, the man she calls "ลุง", carried her into that hospital, then had to leave for work; when he came back, he saw another man sitting beside her bed and stayed away. This evening Jack drove her home to her dorm in his white Mercedes. She went into the lobby alone and left him outside; he slammed the car door and drove off hard. All this time, Win has been waiting across the street on the far pavement, sitting on his motorcycle parked beside the closed kiosk, its lights off, still in his green jacket, his helmet off.
 
 SCENE
-The camera follows the white Mercedes as it speeds away, and as the car passes out of frame it reveals Win, who has been sitting on his motorcycle across from the dorm the whole time. Win ignores the car completely. His mind is on Aliz, so his attention stays to the right, away from the car.
+The camera follows the white Mercedes as it speeds away, and as the car passes out of frame it reveals Win, who has been sitting on his motorcycle across from the dorm the whole time. Win ignores the car completely. His mind is on Aliz: he is looking up across the street at her dorm, and the car goes by below him unnoticed.
 
 ACTIVE REFERENCES
 @Image1 — WIN: 45, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @Image1 is the authority for what he is wearing today.
@@ -24,7 +24,7 @@ ACTIVE REFERENCES
 
 WHERE EVERYTHING IS, FOR THE WHOLE VIDEO
 - HIS MOTORCYCLE IS PARKED ON ITS STAND RIGHT BESIDE THE KIOSK, on its left side, close against the hedge, under the street lamp, with its lights off. The black helmet hangs on its mirror stalk.
-- WIN SITS ON THE SEAT OF HIS MOTORCYCLE, leaning back easy with his arms folded, one foot on the pavement, cool and quiet, a man who is used to waiting. Green jacket, helmet off.
+- WIN SITS ON THE SEAT OF HIS MOTORCYCLE, still and quiet, turned toward the left of frame, looking up across the street at the dorm. Green jacket, helmet off.
 - The pavement to the right of the kiosk is empty.
 
 SHOT-BY-SHOT
@@ -33,14 +33,14 @@ Picture, in this order:
 - 1. Looking from the pavement on the dorm side, across the street. The white Mercedes passes very close to the lens from right to left, its white body filling the frame, with real motion blur from its speed.
 - 2. The camera pans with the car from right to left, past the kiosk with its roller shutter down, under the trees and the street lamps, the long hedge and houses with warm lit windows behind.
 - 3. The camera stops on the motorcycle beside the kiosk. The car carries on and passes out of the left of frame, and as its tail clears the frame, it reveals Win sitting on his motorcycle, in the warm light of the street lamp.
-- 4. Win sits still, facing the right of frame, his attention to the right the whole time, ignoring the car as it goes, because his mind is on Aliz. He stays like that until the end of the video.
+- 4. Win sits still, turned toward the left of frame, looking up across the street at the dorm the whole time. The car goes by below and he ignores it, because his mind is on Aliz. He stays like that until the end of the video.
 Camera: MWS, 110 cm high, eye level, 35mm lens, closer than a wide shot, a pan from right to left following the car, coming to rest on Win, then locked-off.
 Composition when the camera comes to rest: Win on his motorcycle, the whole machine and all of him in the shot, large and clear; the corner of the kiosk and its awning beside him; the tree trunk and the hedge behind him.
 Light: the street lamp on the post beside the kiosk shines down; Win sits in its warm pool of light, with leaf shadows falling on his shoulders. The kiosk and its awning take the same light. A deep blue sky. Warm lit windows in the houses behind the hedge.
 Sound: the Mercedes engine passing from right to left, then fading away into the distance. The night insects come back.
 
 THE LAST FRAME
-Win sitting on his motorcycle beside the kiosk, arms folded, facing the right of frame, in the light of the street lamp. The street empty.
+Win sitting on his motorcycle beside the kiosk, turned toward the left of frame, looking up across the street at the dorm, in the light of the street lamp. The street empty.
 
 DIALOGUE
 Everyone stays silent.
@@ -59,4 +59,6 @@ Everyone stays silent.
 - ตัดของ SB02-26 ที่ไม่ได้ใช้: ช็อต 2 (MCU มองตามรถ) ช็อต 3 (หน้าต่างไฟเปิด) · *His head turns slowly, following the car to the left* (ขัดกับคำสั่งไม่สนใจแจ็ค) · @Image9 `ตำแหน่งวินยูบนมอเตอร์ไซค์หันเข้าป้อมแอบ` (ถือท่านั่งบนมอไซค์ ขัดกับยืน)
 - ⚠️ คัท 2 ของ V3 (4.92–9.29) วินนั่งบนมอไซค์ข้างป้อม MCU มองซ้าย — ต่อกับคัทใหม่ที่วินยืนข้างต้นไม้มองขวาไม่เนียน รายงาน user
 - ลำดับเรฟ: b0b68bd1 (WIN) · 2aec936c (WIN CU) · 30d143af (WIN 3Q) · 77f6d8d4 (D N2) · 73f928e1 (D N1) · 83ad02ef (เบนซ์ P 01) · ede3defe (ไบค์) · c89ed1da (หมวกวิน)
-- user 2026-10-23 *"เปลี่ยนเป็นนั่งบนมอไซค์ก็ได้ ขอเท่ๆ ครอปเฟรมใกล้กว่าเดิมหน่อยนึงก็ดี รอเรฟมอไซค์ใหม่ก่อนค่อยยิง"* → วินนั่งบนมอไซค์ที่จอดข้างป้อม *leaning back easy with his arms folded, one foot on the pavement, cool and quiet, a man who is used to waiting* · ยังหันขวาไม่สนใจรถ · กล้อง WS → MWS (35mm เท่าเดิม กล้องใกล้ขึ้น) · องค์ประกอบ: วิน+มอไซค์เต็มตัว ใหญ่ชัด มุมป้อมข้างๆ ต้นไม้กับรั้วต้นไม้ข้างหลัง · ⏳ รอเรฟมอไซค์ใหม่จาก user แทน `ede3defe` · ยังไม่อัป prompt เข้าบ็อก
+- user 2026-10-23 *"เปลี่ยนเป็นนั่งบนมอไซค์ก็ได้ ขอเท่ๆ ครอปเฟรมใกล้กว่าเดิมหน่อยนึงก็ดี รอเรฟมอไซค์ใหม่ก่อนค่อยยิง"* → วินนั่งบนมอไซค์ที่จอดข้างป้อม *leaning back easy with his arms folded, one foot on the pavement, cool and quiet, a man who is used to waiting* · ยังหันขวาไม่สนใจรถ · กล้อง WS → MWS (35mm เท่าเดิม กล้องใกล้ขึ้น) · องค์ประกอบ: วิน+มอไซค์เต็มตัว ใหญ่ชัด มุมป้อมข้างๆ ต้นไม้กับรั้วต้นไม้ข้างหลัง · ⏳ รอเรฟมอไซค์ใหม่จาก user แทน `ede3defe`
+- user 2026-10-23 *"ไม่เอาเท่ละนะ ดูเฟรมแรกของคัทถัดไปละกัน เพราะฉะนั้นที่บอกว่าวินมองขวาเฟรม ไม่สนแจ็ค จริงๆคือมองมาขวาเฟรมของเลนส์นะ ไม่ใช่หันไปมองขวา ถูกมั้ย?"* + แนบเฟรมแรกคัท 2 V3 (MCU วินหันหน้าไปซ้ายเฟรม เงยมองขึ้น) → ตัดท่าเท่ (กอดอก เอนหลัง เท้าแตะพื้น) เหลือ *still and quiet* · ทิศ: ยึดเฟรมแรกคัท 2 V3 → *turned toward the left of frame, looking up across the street at the dorm* · ไม่สนรถ = มองขึ้นไปที่หอ รถผ่านข้างล่าง (*The car goes by below and he ignores it*) · ไม่ส่งเฟรมคัท 2 เป็นเรฟ เพราะเป็น MCU จะดึงขนาดภาพเข้ามา
+- user *"อัพเรฟมอไซค์ใหม่ไปแล้ว ลบของเก่าไปแล้วด้วย win bike.jpg"* → Mix Stage `59aa7c25` "win bike" (ชีตมอไซค์หลายมุม + เงาคนสีเทาเทียบขนาด) แทน `ede3defe` ที่ @Image7 · บรรทัดเรฟคงตาม REF_LINES
