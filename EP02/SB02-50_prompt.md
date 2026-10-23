@@ -18,7 +18,7 @@ ACTIVE REFERENCES
 @Image4 — THE FAR SIDE OF THE STREET ACROSS FROM HER DORM AT NIGHT, WITH THE KIOSK, THE TREES AND THE STREET LAMPS. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
 @Image5 — THE STREET IN FRONT OF HER DORM AT NIGHT, SEEN FROM THE ROAD. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
 @Image6 — JACK'S WHITE MERCEDES-BENZ S-CLASS. THIS REFERENCE IS THE AUTHORITY FOR THE CAR ITSELF.
-@Image7 — THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF.
+@Image7 — THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF AND FOR ITS SIZE: THE GREY FIGURE STANDING BESIDE IT IS WIN'S HEIGHT, AND IT SHOWS HOW BIG THE MOTORCYCLE IS NEXT TO HIM.
 @Image8 — WIN'S HELMET. THIS REFERENCE IS THE AUTHORITY FOR THIS HELMET ITSELF.
 @Image9 — THE FRAME AFTER THE CAR HAS PASSED. THIS REFERENCE IS THE AUTHORITY FOR THE FRAMING, FOR WHERE WIN AND HIS MOTORCYCLE ARE ON THE PAVEMENT, AND FOR HOW BIG THEY ARE. HOW WIN STANDS AND WHERE HE FACES COME FROM THIS PROMPT. THE MOTORCYCLE ITSELF COMES FROM @Image7.
 @Image2 and @Image3 carry his face, and his clothes come from @Image1. The video is on the far side of the street in @Image4, looking across from the dorm side in @Image5. The car is @Image6, his motorcycle is @Image7, and his black helmet @Image8 hangs on its mirror stalk. The framing after the car has passed is @Image9.
@@ -73,3 +73,4 @@ Everyone stays silent.
 - user 2026-10-23 *"ยิง 4 วิพอ"* → 4 วิ
 - เทค 2 ยิง 2026-10-23 — run `065489ba-65c1-4ea1-a0e2-127a5e3100fb` · Seedance 2.5 · references · 16:9 · 720p · 4 วิ · เรฟ 9 (@Image9 `928ed0cf`) · generate_audio true · user สั่ง "ยิง 4 วิพอ" · รอบแรกติด moderation gate ยิงซ้ำ key เดิม
 - เทค 2 เสร็จ — 4.06 วิ · 35.2 พอยต์ · asset `77a3ea19-3d8f-4284-80db-cc1dc48d1f08` · contact `EP02/frames/SB02-50_V2_contact.png` · เฟรม `SB02-50_V2_3.0s.png` · ซูม `SB02-50_V2_3.0s_zoom.png` · ผลดู: เบนซ์ wipe เต็มเฟรม 0–0.9 วิ ✓ · กล้องนิ่ง ✓ · วิน+มอไซค์อยู่บนฟุตบาทใต้ต้นไม้ซ้ายป้อม ตรงตำแหน่ง V3 ✓ · ขนาดมอไซค์เทียบคนสมจริง ✓ · วินหันหน้าไปทางขวาเฟรม ไม่มองตามรถ ✓ · ไม่มีคนอื่น ✓ · ⚠️ ขนาดภาพกว้างเท่า V3 (ไม่ได้ใกล้ขึ้นตามครอป) · ⚠️ วินนั่งครึ่งตัวบนเบาะ ตัวตรงกว่า V3 แต่ยังไม่ใช่ยืนพิง · ⚠️ มีหมวกกันน็อคใบที่สองอยู่บนตักวิน นอกจากใบที่แขวนแฮนด์ · รอ user ดู
+- user 2026-10-23 *"เรฟมอไซค์อันใหม่มีภาพขนาดคน(วิน)เทียบกับตัวรถด้วย ตอนพร้อมป์อย่าลืมบอกได้ด้วย ไม่ให้รถออกมาเล็กเกิน"* → @Image7 เติม *AND FOR ITS SIZE: THE GREY FIGURE STANDING BESIDE IT IS WIN'S HEIGHT, AND IT SHOWS HOW BIG THE MOTORCYCLE IS NEXT TO HIM.* (เดิมไม่เอ่ยเงาคน เพราะกลัว SD วาดตาม — คำ user ชนะ) · ยังไม่ยิง
