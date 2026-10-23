@@ -80,3 +80,8 @@ user เคาะ 2026-10-23 (สั่ง "ยิง" SB02-46 หลังเ�
 THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF.
 ```
 ที่เคยเขียนผิด: ไล่ยี่ห้อถัง เบาะ ล้อ กระจก ยาว 5 บรรทัด — 4 แบบไม่ซ้ำกัน
+
+เรฟ `win bike` (`59aa7c25`) มีเงาคนสีเทาเทียบขนาด → ต่อท้ายบรรทัดว่า (user 2026-10-23 *"ตอนพร้อมป์อย่าลืมบอกได้ด้วย ไม่ให้รถออกมาเล็กเกิน"*):
+```
+THE MOTORCYCLE. THIS REFERENCE IS THE AUTHORITY FOR THE MACHINE ITSELF AND FOR ITS SIZE: THE GREY FIGURE STANDING BESIDE IT IS WIN'S HEIGHT, AND IT SHOWS HOW BIG THE MOTORCYCLE IS NEXT TO HIM.
+```
