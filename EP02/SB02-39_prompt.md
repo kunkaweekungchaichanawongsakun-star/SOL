@@ -100,3 +100,4 @@ DIALOGUE, IN THIS ORDER
   - ⚠️ เรฟวิดีโอมีหน้าคนจริง อาจติดขั้นลงทะเบียนแบบ transform (0 พอยต์) → ทางสำรอง: ใช้เฟรมแรก/สุดท้ายของคลิป flip เป็นรูปแทน
   - ลำดับเรฟ: b95c75c6 · 85720ff3 · 6abc3bd8 (อลิซ) · 1ca9b355 (Jack face เทา) · 12b0b77a (Jack sheet เทา) · 3f8e0cc8 (T 01) · a91d6735 (T 02) · @Video1 ec4d9d79 · @Audio1 66f85178 · @Audio2 b02dad71
 - user 2026-10-25 *"จบคัท 2 จะตัดจังหวะที่อลิซก้าวเดินไปเป็นคัทในรูป เข้าใจมั้ย?"* (แนบเฟรมมุมจากถนน: แจ็คซ้ายหันขวา อลิซเดินหันหลังเข้าประตูหมุน วินบนมอไซค์ขวาหน้า) → ช็อต 2 จบที่ก้าวแรกของอลิซ ตัดต่อแบบ match on action เข้าคัทในรูป · บีต 2 *The moment her line ends, she takes her first step … The shot ends on that first step.* · LAST FRAME ตามกัน · ความยาว 10 → 9 วิ (ช็อต 2 = 4.3–9.0)
+- เทค 2 ยิง 2026-10-25 — run `a71959b3-859f-4858-a10a-b961454d5f78` · Seedance 2.5 · references · 16:9 · 720p · 9 วิ · เรฟ 7 + @Video1 + @Audio1–2 · generate_audio true · user สั่ง "ยิง"
