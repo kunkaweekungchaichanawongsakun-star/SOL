@@ -1,0 +1,11 @@
+Keep this video as it is: the same lobby, the same camera position and framing, the same two people, the same timing and the same actions from start to end.
+The one difference is the car. On Jack's white Mercedes outside the glass, the door standing open is the FRONT PASSENGER DOOR, the front door right beside the side mirror, with the interior light on. The rear door is shut for the whole video.
+When Jack turns and slams the open car door shut near the end, he slams that front passenger door, and the interior light goes out as it shuts.
+
+---
+
+## งาน
+- ซ่อมคัท 3 ของ SB02-48 V1 (C2-4 clip11 v2 · 6.04–12.06 วิ) ด้วย Seedance Edit (`transform_video` mode=edit) — user 2026-10-25 *"แก้ C2-4_clip11_v2_SB02-25 คัท 3 เรื่องประตูรถที่เปิดคาไว้ต้องเป็นประตูคนนั่งข้างคนขับ ไม่ใช่ประตูหลัง โดยส่งคลิปคัท 3 ให้ SD แล้ว บอกให้แก้เฉพาะประตูรถ ได้มั้ย?"*
+- ต้นทาง: ตัดจาก asset `6ed25ecd` ช่วง 6.042–12.062 → `cut3.mp4` 6.02 วิ 1280×720 (สแครชแพด) · อัปเป็น asset `ed030c43-fe0f-4146-a55b-552b93042111`
+- ข้อจำกัดของ Edit: รับวิดีโอต้นทางได้ไฟล์เดียว แนบรูปเรฟประตูหน้า (`75ace63b`) ไม่ได้ · ไม่มีมาสก์ SD สร้างคลิปใหม่ทั้งคลิปตามพรอมป์ ของอื่นอาจขยับเล็กน้อย · ผลออกเป็น asset ใน workspace ไม่ขึ้นเป็นเทคในบ็อก
+- พรอมป์เขียนเป็นผลที่ต้องการ (desired result) ไม่มีประโยคปฏิเสธ
