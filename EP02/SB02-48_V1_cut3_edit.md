@@ -31,3 +31,15 @@ The open front door stays open and still for the whole clip.
 ```
 The white car outside the glass has its back door open. Change the car so that its back door is closed and its front door, the one next to the side mirror, is open instead. Keep everything else in the video the same.
 ```
+- user *"ไว้ลองใหม่กับ omni พรุ่งนี้ เตรียมพร้อมป์ใหม่ อาจจะง่ายขึ้นถ้าส่ง 1st frame ที่แก้โดย นาโน ไปด้วย?"* → เตรียม 2 ขั้น:
+  1. เฟรมแรกคัท 3 เต็มขนาด `EP02/frames/SB02-48_V1_cut3_frame000.png` (1280×720) → ให้ Nano แก้ด้วยพรอมป์:
+
+```
+Edit this image. On the white car outside the glass doors, close the open back door so it sits flush with the body. Open the front door instead, the front door right next to the side mirror, swung wide open toward the camera like the back door was, with the dark red leather front seat and the warm interior light showing through it. Keep everything else in the image exactly the same: the lobby, the people, their poses, the lighting, the reflections and the framing.
+```
+
+  2. Omni Flash · Edit Video · 16:9 · 5 วิ · 720p · 24fps · ต้นทาง `SB02-48_V1_cut3_1s12f_freeze5s.mp4` + แนบรูปที่ Nano แก้ (ถ้า Edit Video รับรูปไม่ได้ ใช้ Reference to Video แนบทั้งคลิปและรูป) · พรอมป์:
+
+```
+Change the white car outside the glass so it looks like the attached image: the back door is closed and the front door, the one next to the side mirror, is open. The attached image is the first frame of the result. Keep everything else in the video the same.
+```
