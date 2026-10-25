@@ -43,3 +43,4 @@ Edit this image. On the white car outside the glass doors, close the open back d
 ```
 Change the white car outside the glass so it looks like the attached image: the back door is closed and the front door, the one next to the side mirror, is open. The attached image is the first frame of the result. Keep everything else in the video the same.
 ```
+- user ส่งเฟรมแรกที่ Nano แก้แล้ว (`EP02/frames/SB02-48_V1_cut3_frame000_nano.jpg` 1376×768 · ย่อเป็น 1280×720 `…_nano_1280.png`) · ประตูหน้าติดกระจกมองข้างเปิด ✓ ประตูหลังปิดสนิท ✓ ของอื่นตรงต้นฉบับ · *"ok พรุ่งนี้ลอง"* → รอผล Omni
