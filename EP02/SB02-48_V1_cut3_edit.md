@@ -23,3 +23,11 @@ Keep exactly as in the original: the lobby, the glass doors and their long handl
 The open front door stays open and still for the whole clip.
 ```
 - Omni Flash แจ้ง *"Edited video duration (3.958s …) does not match config duration (5s …)"* → ตัดใหม่ 5.000 วิ (6.042–11.042 ของ V1 · 120 เฟรม @24fps · เสียง 5.000 วิ) → `SB02-48_V1_cut3_5s.mp4` (สแครชแพด) ส่ง user · พรอมป์เดิมใช้ได้ (ช่วง 4–5 วิ มีแค่แจ็คยืนนอกกระจก ยังไม่ถึงตอนปิดประตูรถ)
+- user *"omni เจนออกมาเหมือนเดิมทุกอย่าง 1.เขียนพร้อมป์ใหม่ ให้มันทำได้ง่ายขึ้น 2.ช่วงท้าย ผู้ชายจะเดินไปปิดประตูหลัง … ส่งแค่ 1 วิ 12 เฟรม แล้วที่เหลือเป็นเฟรมดำ?"* → แก้ข้อมูลผิดของเรา: ไฟล์ 5 วิ (6.042–11.042) มีตอนแจ็คเดินไปปิดประตูหลังจริง (~3.9–5.0 วิของคัท) · ไม่ใช้เฟรมดำ (โมเดลอาจอ่านเป็นตัดฉาก/สร้างของใหม่) → ทำ 2 แบบจาก 36 เฟรมแรกของคัท 3 (= 1 วิ 12 เฟรม · 6.042–7.542 ของ V1) เติมให้ครบ 120 เฟรม เสียงเงียบ:
+  - `SB02-48_V1_cut3_1s12f_freeze5s.mp4` — 36 เฟรมจริง + ค้างเฟรมสุดท้าย 84 เฟรม (แนะนำ)
+  - `SB02-48_V1_cut3_1s12f_pingpong5s.mp4` — เดินหน้า-ถอยหลัง-เดินหน้า-ถอยหลัง + ค้าง 24 เฟรม
+  - พรอมป์ใหม่ สั้น สั่งการเปลี่ยนเป็นหลัก:
+
+```
+The white car outside the glass has its back door open. Change the car so that its back door is closed and its front door, the one next to the side mirror, is open instead. Keep everything else in the video the same.
+```
