@@ -22,3 +22,4 @@ Keep exactly as in the original: the lobby, the glass doors and their long handl
 
 The open front door stays open and still for the whole clip.
 ```
+- Omni Flash แจ้ง *"Edited video duration (3.958s …) does not match config duration (5s …)"* → ตัดใหม่ 5.000 วิ (6.042–11.042 ของ V1 · 120 เฟรม @24fps · เสียง 5.000 วิ) → `SB02-48_V1_cut3_5s.mp4` (สแครชแพด) ส่ง user · พรอมป์เดิมใช้ได้ (ช่วง 4–5 วิ มีแค่แจ็คยืนนอกกระจก ยังไม่ถึงตอนปิดประตูรถ)
