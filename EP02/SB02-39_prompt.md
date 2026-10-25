@@ -1,9 +1,9 @@
 GLOBAL STYLE
-Live-action microdrama, 16:9. Real people, real places, natural skin. Two shots, 10 seconds, at real-time speed.
+Live-action microdrama, 16:9. Real people, real places, natural skin. Two shots, 9 seconds, at real-time speed.
 All the acting is natural and real, at the size of real life, like real people on an ordinary late morning: small, simple and unhurried. Feelings show quietly. Aliz's smiles stay small and closed-lip. The air is clear and clean. The only light is the strong late-morning sun and the clear sky. The only sound is the real sound of the place.
 
 LIP SYNC
-Jack speaks in Shot 1. Aliz speaks in Shot 2. Each line is lip-synced to the person saying it. The two voice files play one after another in the order @Audio1, @Audio2, each exactly once, with the actions written in SHOT-BY-SHOT between them. @Audio1 ends with a stretch of silence that is there only to make the file long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 10 seconds.
+Jack speaks in Shot 1. Aliz speaks in Shot 2. Each line is lip-synced to the person saying it. The two voice files play one after another in the order @Audio1, @Audio2, each exactly once, with the actions written in SHOT-BY-SHOT between them. @Audio1 ends with a stretch of silence that is there only to make the file long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 9 seconds.
 
 BEFORE THIS VIDEO
 All of this has already happened before the first frame. This is the second video of this scene. Win brought Aliz on his motorcycle to the tall glass office building of Jack, the man who paid her hospital bill, because she has to do a job for him to repay him. She got off, took off her white helmet and handed it back to Win. Jack came out through the revolving door, smiling, and is walking straight to her across the pavement.
@@ -49,18 +49,18 @@ Picture, in this order:
 Camera: as in @Video1. MCU, 160 cm high, eye level, 85mm lens, on the street side, a slow truck alongside Jack as he walks, stopping when he stops.
 Composition: Jack on the left third, facing right toward her. Aliz's head and shoulder soft at the right edge of frame. Behind him, the glass front and the revolving door, blurred.
 
-Shot 2 — 4.3–10.0 s — STOP CALLING ME THAT
+Shot 2 — 4.3–9.0 s — STOP CALLING ME THAT
 Picture, in this order:
 - 1. Over Jack's shoulder: Aliz looks straight at Jack and says @Audio2 to him.
   - Aliz: "พี่แจ็ค เลิกเรียกที่รักเถอะ หนูรู้ว่าพี่เรียกแบบนี้มากี่คนแล้ว"
   - Emotion from the script: 冷嘲热讽，毫不客气.
   - Performance: she stands her ground, close to him. A small, mocking closed-lip smile at the corner of her mouth.
-- 2. When her line ends, she walks past him and out of frame on the left, into the building, because she has work to do.
+- 2. The moment her line ends, she takes her first step to walk past him toward the left of frame, into the building, because she has work to do. The shot ends on that first step.
 Camera: OTS over Jack's shoulder, 155 cm high, eye level, 85mm lens, locked-off, on the building side, looking out toward the road: the reverse of Shot 1.
 Composition: Jack's shoulder and the back of his head soft on the left of frame, close to the camera. Aliz in MCU on the right of frame, facing left toward him. Behind her, the road in front of the building as in @Image7, soft and blurred into bokeh. THE FRAME HOLDS ONLY JACK'S SHOULDER, ALIZ AND THE BLURRED ROAD BEHIND HER.
 
 THE LAST FRAME
-Jack's shoulder on the left of frame, close to the camera. Aliz has walked out of frame on the left. Behind him, the road soft and blurred.
+Jack's shoulder on the left of frame, close to the camera. Aliz on the right of frame in the middle of her first step past him. Behind her, the road soft and blurred.
 
 DIALOGUE, IN THIS ORDER
 1. Shot 1, @Audio1, JACK: "มาแล้ว... ที่รัก"
@@ -99,3 +99,4 @@ DIALOGUE, IN THIS ORDER
   - เสียงเดิม: @Audio1 `66f85178` (2.50 วิ · พูด 0–1.15) · @Audio2 `b02dad71` (4.26 วิ)
   - ⚠️ เรฟวิดีโอมีหน้าคนจริง อาจติดขั้นลงทะเบียนแบบ transform (0 พอยต์) → ทางสำรอง: ใช้เฟรมแรก/สุดท้ายของคลิป flip เป็นรูปแทน
   - ลำดับเรฟ: b95c75c6 · 85720ff3 · 6abc3bd8 (อลิซ) · 1ca9b355 (Jack face เทา) · 12b0b77a (Jack sheet เทา) · 3f8e0cc8 (T 01) · a91d6735 (T 02) · @Video1 ec4d9d79 · @Audio1 66f85178 · @Audio2 b02dad71
+- user 2026-10-25 *"จบคัท 2 จะตัดจังหวะที่อลิซก้าวเดินไปเป็นคัทในรูป เข้าใจมั้ย?"* (แนบเฟรมมุมจากถนน: แจ็คซ้ายหันขวา อลิซเดินหันหลังเข้าประตูหมุน วินบนมอไซค์ขวาหน้า) → ช็อต 2 จบที่ก้าวแรกของอลิซ ตัดต่อแบบ match on action เข้าคัทในรูป · บีต 2 *The moment her line ends, she takes her first step … The shot ends on that first step.* · LAST FRAME ตามกัน · ความยาว 10 → 9 วิ (ช็อต 2 = 4.3–9.0)
