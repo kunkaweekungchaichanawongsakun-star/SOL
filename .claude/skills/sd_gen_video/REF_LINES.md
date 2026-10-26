@@ -65,6 +65,12 @@ WARDROBE ASSISTANT: 20s, the styling team's assistant. 100% matches the referenc
 ```
 user เคาะ 2026-10-23 (สั่ง "ยิง" SB02-46 หลังเสนอบรรทัดนี้) · Mix Stage `ST 02 · ผู้ช่วยแต่งตัว` `873cb52b` · ใบเดียวมีทั้งหน้าและชุด
 
+### TIN
+```
+TIN: Thai, the owner of the project. 100% matches the reference for his face, his body and his clothes, from the front and from behind.
+```
+user 2026-10-26 *"THIN ก็คือ tin ไง งงอะไร เรฟภาพมีแล้ว"* (หลังเสนอบรรทัดนี้ใน SB02-52) · Mix Stage `Thin` `1b11b860` · ใบเดียวมีหน้า หลัง และ CU · ไม่มีอายุ (ไม่มีที่มา)
+
 ## รอ user เคาะ
 
 (ว่าง)
