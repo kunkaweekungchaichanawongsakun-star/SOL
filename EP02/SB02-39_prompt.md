@@ -1,15 +1,15 @@
 GLOBAL STYLE
-Live-action microdrama, 16:9. Real people, real places, natural skin. Two shots, 9 seconds, at real-time speed.
+Live-action microdrama, 16:9. Real people, real places, natural skin. One shot, 5 seconds, at real-time speed.
 All the acting is natural and real, at the size of real life, like real people on an ordinary late morning: small, simple and unhurried. Feelings show quietly. Whenever Aliz smiles, it is a closed-lip smile. The air is clear and clean. The only light is the strong late-morning sun and the clear sky. The light on Aliz's face is soft and even. The only sound is the real sound of the place.
 
 LIP SYNC
-Jack speaks in Shot 1. Aliz speaks in Shot 2. Each line is lip-synced to the person saying it. The two voice files play one after another in the order @Audio1, @Audio2, each exactly once, with the actions written in SHOT-BY-SHOT between them. @Audio1 ends with a stretch of silence that is there only to make the file long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 9 seconds.
+Aliz speaks. Her line is lip-synced to her. The voice file @Audio1 plays once, from the start of the video. Everything ends within 5 seconds.
 
 BEFORE THIS VIDEO
-All of this has already happened before the first frame. This is the second video of this scene. Win brought Aliz on his motorcycle to the tall glass office building of Jack, the man who paid her hospital bill, because she has to do a job for him to repay him. She got off, took off her white helmet and handed it back to Win. Jack came out through the revolving door, smiling, and is walking straight to her across the pavement.
+All of this has already happened before the first frame. Win brought Aliz on his motorcycle to the tall glass office building of Jack, the man who paid her hospital bill, because she has to do a job for him to repay him. Jack came out through the revolving door, walked straight to her across the pavement, stopped two steps from her and greeted her with "มาแล้ว... ที่รัก", the way a man greets his girlfriend.
 
 SCENE
-Jack greets Aliz as "ที่รัก", the way a man greets his girlfriend, easy and pleased with himself. Aliz protests at being called that, because Win can still hear them and she is afraid he will get the wrong idea. She stays polite with Jack, because she feels she owes him. Then she walks past him into the building to start the job.
+Aliz protests at being called that, because she is afraid people will get the wrong idea about the two of them. She stays polite with Jack, because she feels she owes him. Then she walks past him into the building to start the job.
 
 ALIZ'S FACE
 Fresh and bright, her skin tone natural as in her character references.
@@ -20,12 +20,10 @@ ACTIVE REFERENCES
 @Image3 — HER FULL BODY. 100% matches the reference for her clothes.
 @Image4 — JACK: 28, Thai. 100% matches the reference, and @Image5 is the authority for what he is wearing today.
 @Image5 — HIS FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for his clothes. HIS FACE COMES FROM @Image4.
-@Image6 — THE FRONT OF THE OFFICE BUILDING, SEEN FROM THE STREET. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF. SHOT 1 IS MUCH CLOSER THAN @Image6 AND SEES ONLY A NARROW PART OF IT: THE KERB, THE BOLLARDS, THE PAVEMENT, AND BEHIND THEM THE LOWER PART OF THE GLASS FRONT WITH THE REVOLVING DOOR.
-@Image7 — THE SAME BUILDING SEEN FROM UNDER ITS CANOPY, LOOKING OUT TO THE PAVEMENT AND THE ROAD. THIS REFERENCE IS THE AUTHORITY FOR WHAT IS BEHIND ALIZ IN SHOT 2: THE ROAD IN FRONT OF THE BUILDING, SOFT AND BLURRED.
-@Video1 — THE OPENING OF THIS VIDEO. THIS REFERENCE IS THE AUTHORITY FOR SHOT 1: ITS FRAMING, THE CAMERA, WHERE JACK WALKS AND WHERE HE STOPS.
-@Audio1 — JACK'S VOICE, HIS LINE, IN SHOT 1.
-@Audio2 — ALIZ'S VOICE, HER LINE, IN SHOT 2.
-@Image1 and @Image2 carry her face, and her clothes come from @Image3. @Image4 carries Jack's face, and his clothes come from @Image5. The whole video is on the pavement in front of the building in @Image6. Shot 1 follows @Video1. The background of Shot 2 is the road in @Image7.
+@Image6 — THE FRONT OF THE OFFICE BUILDING, SEEN FROM THE STREET. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
+@Image7 — THE SAME BUILDING SEEN FROM UNDER ITS CANOPY, LOOKING OUT TO THE PAVEMENT AND THE ROAD. THIS REFERENCE IS THE AUTHORITY FOR WHAT IS BEHIND ALIZ: THE ROAD IN FRONT OF THE BUILDING, SOFT AND BLURRED.
+@Audio1 — ALIZ'S VOICE, HER LINE.
+@Image1 and @Image2 carry her face, and her clothes come from @Image3. @Image4 carries Jack's face, and his clothes come from @Image5. The whole video is on the pavement in front of the building in @Image6. The background behind Aliz is the road in @Image7.
 
 WHAT THEY WEAR, AS IN @Image3 AND @Image5
 - Aliz: a grey short-sleeved knit top with a high round neck, black shorts with a black belt with silver studs, black tights, black ankle boots, a black leather bag on her left shoulder, a gold necklace, gold hoop earrings, a gold bracelet on her right wrist and a gold watch on her left wrist. Her long black hair loose. Her head is bare.
@@ -34,37 +32,25 @@ WHAT THEY WEAR, AS IN @Image3 AND @Image5
 WHERE EVERYONE IS, FOR THE WHOLE VIDEO
 - On the pavement in front of the glass building.
 - Aliz stands on the right of frame, facing left toward Jack.
-- Jack comes to stand two steps from her, on the left of frame, facing right toward her.
-- ALIZ IS ALWAYS ON THE RIGHT OF FRAME AND JACK ON THE LEFT OF FRAME, IN BOTH SHOTS.
+- Jack stands two steps from her, on the left of frame, facing right toward her.
+- ALIZ IS ALWAYS ON THE RIGHT OF FRAME AND JACK ON THE LEFT OF FRAME.
 
 SHOT-BY-SHOT
-Shot 1 — 0.0–4.3 s — HERE YOU ARE
+Shot 1 — 0.0–5.0 s — STOP CALLING ME THAT
 Picture, in this order:
-- 1. As in @Video1: Jack walks out from the revolving door straight toward Aliz, smiling, and comes to a stop on the left of frame, two steps from her. Aliz's head and shoulder are soft and out of focus at the right edge of frame.
-- 2. He turns to her and straight away says @Audio1.
-  - Jack: "มาแล้ว... ที่รัก"
-  - Emotion from the script: 故作深情，油腔滑调.
-  - Performance: he greets her the way a man greets his girlfriend, easy and pleased with himself, in a casual everyday way.
-- 3. He keeps smiling at her, waiting for her answer.
-Camera: as in @Video1. MCU, 160 cm high, eye level, 85mm lens, on the street side, a slow truck alongside Jack as he walks, stopping when he stops.
-Composition: Jack on the left third, facing right toward her. Aliz's head and shoulder soft at the right edge of frame. Behind him, the glass front and the revolving door, blurred.
-
-Shot 2 — 4.3–9.0 s — STOP CALLING ME THAT
-Picture, in this order:
-- 1. Over Jack's shoulder: Aliz looks straight at Jack and says @Audio2 to him.
+- 1. Over Jack's shoulder: from the first frame, Aliz looks straight at Jack and says @Audio1 to him.
   - Aliz: "พี่แจ็ค เลิกเรียกที่รักเถอะ หนูรู้ว่าพี่เรียกแบบนี้มากี่คนแล้ว"
   - Emotion: 急忙撇清，又碍于情面.
-  - Performance: she protests at being called that where Win can hear, worried he will get the wrong idea, and she stays polite with Jack, because she feels she owes him.
-- 2. The moment her line ends, she takes her first step to walk past him toward the left of frame, into the building, because she has work to do. The shot ends on that first step.
-Camera: OTS over Jack's shoulder, 155 cm high, eye level, 85mm lens, locked-off, on the building side, looking out toward the road: the reverse of Shot 1.
+  - Performance: she protests at being called that, afraid people will get the wrong idea, and she stays polite with Jack, because she feels she owes him.
+- 2. The moment her line ends, she takes her first step to walk past him toward the left of frame, into the building, because she has work to do. The video ends on that first step.
+Camera: OTS over Jack's shoulder, 155 cm high, eye level, 85mm lens, locked-off, on the building side, looking out toward the road.
 Composition: Jack's shoulder and the back of his head soft on the left of frame, close to the camera. Aliz in MCU on the right of frame, facing left toward him. Behind her, the road in front of the building as in @Image7, soft and blurred into bokeh. THE FRAME HOLDS ONLY JACK'S SHOULDER, ALIZ AND THE BLURRED ROAD BEHIND HER.
 
 THE LAST FRAME
 Jack's shoulder on the left of frame, close to the camera. Aliz on the right of frame in the middle of her first step past him. Behind her, the road soft and blurred.
 
-DIALOGUE, IN THIS ORDER
-1. Shot 1, @Audio1, JACK: "มาแล้ว... ที่รัก"
-2. Shot 2, @Audio2, ALIZ: "พี่แจ็ค เลิกเรียกที่รักเถอะ หนูรู้ว่าพี่เรียกแบบนี้มากี่คนแล้ว"
+DIALOGUE
+1. @Audio1, ALIZ: "พี่แจ็ค เลิกเรียกที่รักเถอะ หนูรู้ว่าพี่เรียกแบบนี้มากี่คนแล้ว"
 
 ---
 
@@ -72,8 +58,7 @@ DIALOGUE, IN THIS ORDER
 
 | แท็ก | แปลไทย | ที่มา |
 |---|---|---|
-| `故作深情，油腔滑调` | แกล้งทำเป็นหวานซึ้ง น้ำเสียงกะล่อน | บท 2-7 · สตอรี่บอร์ดจาวิส คลิป 7 ช็อต 1 |
-| `急忙撇清，又碍于情面` | รีบปัดว่าไม่ใช่แฟน แต่ยังเกรงใจเพราะติดบุญคุณ | user 2026-10-26 *"อลิซไม่ได้จะแดกดันแจ็คนะ แค่ประท้วงที่เขามาเรียกเธอว่า "ที่รัก" ขณะที่วินอยู่ตรงนั้น คือกลัววินเข้าใจผิดด้วยซ้ำ และอลิซก็รู้สึกว่าแจ็คมีบุญคุณต่อเธอ"* · *"ใช้แท็กรีบปัดว่าไม่ใช่แฟน ดีกว่า"* (แทน `冷嘲热讽，毫不客气` ของบท 2-7) |
+| `急忙撇清，又碍于情面` | 急忙 รีบ · 撇清 ปัดให้พ้นตัว ทำให้ชัดว่าไม่ได้เป็นอะไรกัน · 又 แต่ก็ · 碍于情面 ติดที่ความเกรงใจ ไม่กล้าหักหน้า | user 2026-10-26 *"อลิซไม่ได้จะแดกดันแจ็คนะ แค่ประท้วงที่เขามาเรียกเธอว่า "ที่รัก" ขณะที่วินอยู่ตรงนั้น คือกลัววินเข้าใจผิดด้วยซ้ำ และอลิซก็รู้สึกว่าแจ็คมีบุญคุณต่อเธอ"* · *"ใช้แท็กรีบปัดว่าไม่ใช่แฟน ดีกว่า"* (แทน `冷嘲热讽，毫不客气` ของบท 2-7) |
 
 ## ที่มา
 
@@ -110,3 +95,7 @@ DIALOGUE, IN THIS ORDER
   - ช็อต 2: แท็ก `冷嘲热讽，毫不客气` → `急忙撇清，又碍于情面` · user *"เสียงโอเค กลางๆ ได้ทั้ง 2 ทาง ใช้แท็กรีบปัดว่าไม่ใช่แฟน ดีกว่า"* · Performance ตัด *stands her ground* (สตอรี่บอร์ด "ไม่ถอยสักก้าว" — ท่า ไม่ใช่อารมณ์ และขัดกับเกรงใจ) และ *mocking smile at the corner of her mouth* (สั่งอวัยวะทับช่วงพูด → ปากฉีก) · ไม่สั่งยิ้มระหว่างพูด
   - บรรทัดเรฟ ALIZ / JACK เติม `Thai` ตาม `REF_LINES.md` · user *"ใส่ Thai ทั้งสามคน"*
   - ⚠️ ชื่อวินอยู่ใน SCENE และ Performance ช็อต 2 เป็นเหตุผล (วินได้ยิน) ไม่ได้วางวินในเฟรม · ช็อต 2 ยังล็อก *THE FRAME HOLDS ONLY JACK'S SHOULDER, ALIZ AND THE BLURRED ROAD BEHIND HER.*
+- user 2026-10-26 *"1 ตัดวินออก แค่ไม่อยากให้ใครเข้าใจผิด"* → SCENE + Performance: *because Win can still hear them … afraid he will get the wrong idea* → *afraid people will get the wrong idea (about the two of them)* · ไม่มีชื่อวินในตัวเรื่องแล้ว เหลือแค่ BEFORE THIS VIDEO (วินพามาส่ง)
+- user 2026-10-26 *"ยิงเฉพาะคัท 2 ได้มั้ย?"* → **เทค 3 = ช็อต 2 อย่างเดียว 5 วิ** (ขั้นต่ำ Seedance 2.5 = 4 วิ · เสียงอลิซ 4.26 วิ + ก้าวแรก) · ช็อต 1 ใช้ของเทค 2 (0–4.25 ของ `79999bb7`) · ตัด @Video1 `ec4d9d79` และเสียงแจ็ค `66f85178` · เสียงอลิซ `b02dad71` เลื่อนเป็น @Audio1 · คำทักของแจ็คย้ายไป BEFORE THIS VIDEO · ตัดแท็ก `故作深情，油腔滑调` ออกจากตาราง (ไม่มีบทแจ็คแล้ว) · ตัดประโยค *SHOT 1 IS MUCH CLOSER…* ออกจาก @Image6 (พูดถึงช็อต 1 ที่ไม่มีแล้ว)
+  - ⚠️ บรรทัด `Over Jack's shoulder:` + `looks straight at Jack` เป็นข้อเท็จจริงบล็อกกิ้ง OTS จากเทค 2 (A4 ไม่ขึ้น) คงไว้
+  - ลำดับเรฟ: b95c75c6 · 85720ff3 · 6abc3bd8 (อลิซ) · 1ca9b355 · 12b0b77a (แจ็ค เทา) · 3f8e0cc8 (T 01) · a91d6735 (T 02) · @Audio1 b02dad71
