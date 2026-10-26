@@ -1,120 +1,58 @@
 GLOBAL STYLE
-Live-action microdrama, 16:9. Real people, real places, natural skin. Five shots, 26 seconds, at real-time speed.
-All the acting is natural and real, at the size of real life, like real people on an ordinary working afternoon: small, simple and unhurried. Feelings show quietly. Aliz's smiles stay small and closed-lip. The air is clear and clean. The only light is the afternoon sun through the glass and the warm hidden lights along the wooden wall. Every surface is plain. The only sound is the real sound of the place.
+Live-action microdrama, 16:9. Real people, real places, natural skin. One shot, 7 seconds, at real-time speed.
+All the acting is natural and real, at the size of real life, like real people on an ordinary working afternoon: small, simple and unhurried. Feelings show quietly. Whenever Aliz smiles, it is a closed-lip smile. The air is clear and clean. The only light is the afternoon sun through the glass and the warm hidden lights along the wooden wall. Every surface is plain. The only sound is the real sound of the place.
 
 LIP SYNC
-Aliz speaks in Shot 1 and Shot 3, into her phone. Jack speaks in Shot 5. Each line is lip-synced to the person saying it. Win's voice comes out of the phone, small and thin, in Shot 2 and Shot 5. Win is somewhere else, and everyone in the corridor stays silent while his voice plays. The voice files play in order, each exactly once: @Audio1 in Shot 1, starting while the camera is still on the empty corridor, before Aliz is seen; @Audio2 in Shot 2; @Audio3 in Shot 3; @Audio4 and then @Audio5 in Shot 5. A voice file may end with a stretch of silence that is there only to make the file long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 26 seconds.
+Aliz speaks into her phone. Her line is lip-synced to her. The voice file @Audio1 plays once, from the start of the video. Everything ends within 7 seconds.
 
 BEFORE THIS VIDEO
 All of this has already happened before the first frame. This is the third video of this scene. Today Aliz came to the office building of Jack, the younger man who chases her, to do a job for him and repay the hospital bill she believes he paid. Jack has just told her that tonight she is going to a dinner with the important man who owns the project, and it feels wrong to her. She has slipped out into the corridor outside the meeting room and is calling the one person she trusts, "ลุง", the man who takes her on his motorcycle every morning. To her, "ลุง" is a man with a motorcycle; he is really Win Yu, the chairman of W-Group, and that is still his secret.
 
 SCENE
-Aliz hides behind a potted olive tree in the corridor and talks into her phone, asking ลุง to come and get her, because she dreads that dinner. He says he will come right now, and for a moment she can breathe. She starts telling him the story he must tell when he arrives. Behind her, Jack comes round the far corner with two women from the styling team, one of them carrying a dress in a black garment bag for Aliz to wear tonight. Aliz has her back to the corridor and keeps talking. Jack takes the phone right out of her hand, smiles like it is a game, tells her the dress is here and the executives are waiting, and hangs up on the voice saying hello. The two women look away, because they want to stay out of it. Aliz stands there, holding on to her bag, staring at him.
+Aliz hides behind a potted olive tree in the corridor and talks into her phone, asking ลุง to come and get her, because she dreads that dinner.
 
 ALIZ'S FACE
 Her skin tone is natural, as in her character references. Her worry shows only in her look and her breathing.
 
 ACTIVE REFERENCES
-@Image1 — ALIZ: 26, pretty, long straight jet-black hair. 100% matches the reference, and @Image3 is the authority for what she is wearing today.
+@Image1 — ALIZ: 26, Thai, pretty, long straight jet-black hair. 100% matches the reference, and @Image3 is the authority for what she is wearing today.
 @Image2 — HER FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for her face.
 @Image3 — HER FULL BODY. 100% matches the reference for her clothes.
 @Image4 — ALIZ'S PHONE. THIS REFERENCE IS THE AUTHORITY FOR THE PHONE ITSELF.
-@Image5 — JACK: 28. 100% matches the reference, and @Image6 is the authority for what he is wearing today.
-@Image6 — HIS FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for his clothes. HIS FACE COMES FROM @Image5.
-@Image7 — MAKEUP ARTIST: 30s, head of the styling team. 100% matches the reference for her face and her clothes.
-@Image8 — WARDROBE ASSISTANT: 20s, the styling team's assistant. 100% matches the reference for her face and her clothes.
-@Image9 — THE BLACK GARMENT BAG ON ITS GOLD HOOK. THIS REFERENCE IS THE AUTHORITY FOR THE BAG ITSELF.
-@Image10 — THE CORRIDOR, SEEN FROM THE MEETING ROOM DOOR LOOKING BACK TO THE CORNER. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF AND FOR ITS LIGHT.
-@Audio1 — ALIZ'S VOICE, HER FIRST LINE, IN SHOT 1.
-@Audio2 — WIN'S VOICE FROM THE PHONE, IN SHOT 2.
-@Audio3 — ALIZ'S VOICE, HER SECOND LINE, IN SHOT 3.
-@Audio4 — JACK'S VOICE, HIS LINE, IN SHOT 5.
-@Audio5 — WIN'S VOICE FROM THE PHONE, IN SHOT 5.
-@Image1 and @Image2 carry Aliz's face, and her clothes come from @Image3. @Image5 carries Jack's face, and his clothes come from @Image6. @Image7 and @Image8 carry the two women of the styling team. The phone is @Image4 and the garment bag is @Image9. The whole video takes place in the corridor in @Image10.
+@Image5 — THE CORRIDOR, SEEN FROM THE MEETING ROOM DOOR LOOKING BACK TO THE CORNER. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF AND FOR ITS LIGHT.
+@Image6 — THE FIRST FRAME OF THIS VIDEO. THIS REFERENCE IS THE AUTHORITY FOR THE FRAMING, FOR THE OLIVE TREE, FOR THE GLASS AND THE CITY BEHIND IT, AND FOR WHERE ALIZ STANDS. HER FACE COMES FROM @Image1 AND @Image2.
+@Audio1 — ALIZ'S VOICE, HER LINE.
+@Image1 and @Image2 carry Aliz's face, and her clothes come from @Image3. The phone is @Image4. The video takes place in the corridor in @Image5 and opens exactly on the frame in @Image6.
 
-WHAT THEY WEAR, AS IN @Image3, @Image6, @Image7 AND @Image8
+WHAT SHE WEARS, AS IN @Image3
 - Aliz: a grey knit top, black shorts with a black belt with silver studs, black tights, black ankle boots, a black leather bag on her left shoulder, a gold necklace, gold hoop earrings, a gold bracelet on her right wrist and a gold watch on her left wrist. Her long black hair loose.
-- Jack: an all-white suit, a dark grey shirt with the collar button open, round gold glasses, white sneakers.
-- The makeup artist: a black top with a mandarin collar and gold buttons, black trousers, black flat shoes, her hair in a low bun, a belt holding makeup brushes.
-- The wardrobe assistant: a black top with a mandarin collar and gold buttons, black trousers, a bob haircut, a pincushion on her wrist and a lint roller in her hand. She carries the black garment bag high, hanging from its gold hook.
-- THE SCREEN OF THE PHONE ALWAYS FACES WHOEVER IS HOLDING IT. THE CAMERA ONLY EVER SEES THE BACK OF THE PHONE.
+- THE SCREEN OF THE PHONE ALWAYS FACES ALIZ. THE CAMERA ONLY EVER SEES THE BACK OF THE PHONE.
 
 WHERE EVERYONE IS
-- The corridor, as in @Image10: on the left a long glass wall over the city, on the right a wooden wall with framed pictures, a polished stone floor. A potted olive tree in a square stone pot stands against the wooden wall. At the far end the corridor turns a corner. The camera stands at the meeting room door, looking back toward the corner.
-- AT THE START: Aliz hides beside the olive tree, close to the wooden wall on the right, near the camera. She faces the right of frame, toward the wall, the phone at her left ear, her right hand cupped around her mouth. Her back is to the corridor that runs away to the corner.
-- WHILE SHE IS ON THE PHONE ALIZ FACES THE RIGHT OF FRAME.
-- Jack and the two women come round the far corner and walk along the corridor until they are right behind Aliz, on the left of frame. After Jack takes the phone, Aliz turns round to him, so she faces left. The two women stop behind Jack.
+- The corridor, as in @Image5 and @Image6: a long glass wall over the city, a wooden wall, a polished stone floor. A potted olive tree in a square stone pot stands against the wooden wall.
+- Aliz hides beside the olive tree, close to the wooden wall on the right, near the camera. She holds her phone at her left ear with both hands: her right hand supports it from below and her left hand holds its edge. She stays like that for the whole video.
+- ALIZ IS THE ONLY PERSON IN THIS VIDEO.
 
 SHOT-BY-SHOT
-Shot 1 — A VOICE BEHIND THE LEAVES
+Shot 1 — 0.0–7.0 s — A VOICE BEHIND THE LEAVES
 Picture, in this order:
-- 1. The long empty corridor. The golden afternoon sun lies in long bands across the polished stone floor, and the lines of the glass and the wooden wall lead the eye to the corner at the far end.
-- 2. Aliz's voice, @Audio1, begins before anyone is seen.
-- 3. The camera moves to the right, past the branches of the olive tree close in front, and the leaves open to show Aliz hiding against the wooden wall, the phone at her left ear, her right hand cupped around her mouth, saying @Audio1 to the end.
+- 1. From the first frame, as in @Image6: the olive branches close in front of the camera, Aliz half hidden behind them at the right edge of frame, holding her phone with both hands, and her voice, @Audio1, begins.
+- 2. The camera moves to the right, past the branches of the olive tree, and the leaves open to show Aliz hiding against the wooden wall, saying @Audio1 to the end.
   - Aliz: "ลุง มารับหนูทีได้มั้ย เขาจะให้ไปงานเลี้ยงกับผู้ใหญ่เจ้าของโครงการคืนนี้ รู้สึกไม่ค่อยดีเลย"
   - Emotion from the script: 焦急求助，心怀忐忑.
   - Performance: she calls him "ลุง" like someone holding on to the one rope she has. On "รู้สึกไม่ค่อยดีเลย" she sinks a little lower behind the leaves.
-- 4. While she talks, she glances once toward the meeting room door near the camera, afraid someone will come out and see her.
+- 3. While she talks, she glances once toward the meeting room door near the camera, afraid someone will come out and see her.
+- 4. When her line ends, she waits for his answer, anxious, until the end of the video.
 Camera: starts WS, 120 cm high, eye level, 24mm lens, a sideways dolly to the right through the olive branches, moving in until it stops as an MCU on Aliz.
 Meaning: the camera follows the voice to the person speaking; the leaves in front of her say she is hiding.
-Composition: when the camera stops, Aliz's face is on the right third, facing right, close to the wooden wall; olive leaves soft at the left edge of frame, close to the camera; the long corridor running away to the left behind her.
-Light: the golden afternoon sun from the glass on the left catches the edge of her hair and her cheek. The hidden lights in the wooden wall are warm and soft on the right. The olive leaves throw a pattern of shadow on the wall.
+Light: the golden afternoon sun from the glass catches the edge of her hair and her cheek. The hidden lights in the wooden wall are warm and soft. The olive leaves throw a pattern of shadow on the wall.
 Sound: her voice close to the phone. The air conditioning in the corridor. Voices far away inside the meeting room, through the door.
 
-Shot 2 — THE CORNER
-Picture, in this order:
-- 1. Aliz waits for his answer, anxious, looking at the wall.
-- 2. Win's voice comes out of the phone, small and thin, @Audio2. Relief goes through her for a moment.
-  - Win, from the phone: "ให้ไปตอนนี้เลยมั้ย"
-- 3. Far behind her, at the corner at the end of the corridor, Jack in his white suit comes round the corner, followed by the two women in black, one of them holding the black garment bag up high.
-- 4. The focus slowly moves from Aliz's face to the three of them walking this way. Aliz keeps her back to them.
-Camera: MCU, 150 cm high, eye level, 85mm lens, locked-off, a rack focus from Aliz to the corner.
-Meaning: the audience sees what Aliz has yet to see; that is where the tension comes from.
-Composition: Aliz's face on the right third, sharp first, then soft; the far end of the corridor centre left, where every line of the corridor leads, and Jack appears exactly there. The white suit is the brightest thing in the background.
-Sound: footsteps far away on the polished stone, very faint.
-
-Shot 3 — TELLING HIM THE STORY
-Picture, in this order:
-- 1. Aliz nods quickly, turns a little closer to the wall and says @Audio3, because she is planning what he must say.
-  - Aliz: "ตอนนี้เลยค่ะ ยังงี้นะลุง พอมาถึงแล้วต้องบอกว่า"
-  - Emotion from the script: 急切叮嘱，迅速商量.
-  - Performance: "ตอนนี้เลยค่ะ" comes at once; "ยังงี้นะลุง" is serious, like a secret plan. Her sentence is cut off at "ต้องบอกว่า".
-- 2. Behind her, soft in the background, Jack and the two women come closer and closer, bigger with every step, the black garment bag swinging as they walk.
-Camera: MCU, 150 cm high, eye level, 85mm lens, locked-off.
-Composition: Aliz's face on the right third, facing right; the corridor and the three people walking toward her centre left in the background, the depth shallow, but the white suit easy to read. The audience sees him coming, while her back stays turned.
-
-Shot 4 — THE WHITE HAND
-Picture, in this order:
-- 1. Jack's hand, in the white sleeve of his suit, comes in from the left of frame and pulls the phone away from Aliz's ear on "ต้องบอกว่า".
-- 2. Her hand is left empty beside her ear.
-Camera: CU, 155 cm high, eye level, 50mm lens, locked-off, at the height of Aliz's ear.
-Composition: Aliz's ear and hand centre right; the white sleeve shooting in from the left edge of frame, the brightest thing in the shot.
-Sound: Aliz's voice cut off. The rustle of the suit sleeve.
-
-Shot 5 — JACK SMILES
-Picture, in this order:
-- 1. Aliz turns round to the left, startled, and lowers her empty hand.
-- 2. Jack stands right in front of her, holding her phone at his side, away from her, and says @Audio4 to her with a wide, easy grin, treating it all like a game.
-  - Jack: "ที่รักชุดมาแล้วนะ สวยมากมาก มาใส่เลยเร็วเร็ว ผู้บริหารมารอแล้ว"
-  - Emotion from the script: 油腔滑调，得意掌控.
-  - Performance: smooth and relaxed, a man who thinks he has everything under control. The grin is all on the surface.
-- 3. Win's voice comes out of the phone in Jack's hand, small and thin, @Audio5. Jack lifts the phone a little, glances at the screen, which faces him, and ends the call with his thumb.
-  - Win, from the phone: "ฮัลโหล ฮัลโหล"
-- 4. Behind Jack, the two women have stopped, the black garment bag still swinging on its gold hook. Both of them look away, because they want to stay out of it.
-- 5. Aliz stands still, holding the strap of her bag tight, staring at Jack, and stays like that until the end of the video.
-Camera: MS two-shot, 150 cm high, eye level, 35mm lens, locked-off.
-Composition: Jack on the left third, facing right; Aliz on the right third, facing left; the two women and the garment bag in the middle of the shot behind Jack; the olive tree at the right edge of frame.
-Light: the afternoon sun from the glass on the left falls on Jack's white suit and makes it blaze; Aliz is on the side of the wooden wall, where the light is warmer and softer.
-
 THE LAST FRAME
-Jack stands on the left of frame holding Aliz's phone, the screen facing him, the call ended. Aliz stands on the right of frame facing him, holding the strap of her bag tight. The two women and the garment bag stand behind Jack. The olive tree at the right edge of frame.
+Aliz in MCU against the wooden wall, holding her phone at her left ear with both hands, waiting for his answer. Olive leaves soft at the left edge of frame.
 
-DIALOGUE, IN THIS ORDER
-1. Shot 1, @Audio1, ALIZ: "ลุง มารับหนูทีได้มั้ย เขาจะให้ไปงานเลี้ยงกับผู้ใหญ่เจ้าของโครงการคืนนี้ รู้สึกไม่ค่อยดีเลย"
-2. Shot 2, @Audio2, WIN, from the phone: "ให้ไปตอนนี้เลยมั้ย"
-3. Shot 3, @Audio3, ALIZ: "ตอนนี้เลยค่ะ ยังงี้นะลุง พอมาถึงแล้วต้องบอกว่า"
-4. Shot 5, @Audio4, JACK: "ที่รักชุดมาแล้วนะ สวยมากมาก มาใส่เลยเร็วเร็ว ผู้บริหารมารอแล้ว"
-5. Shot 5, @Audio5, WIN, from the phone: "ฮัลโหล ฮัลโหล"
+DIALOGUE
+1. @Audio1, ALIZ: "ลุง มารับหนูทีได้มั้ย เขาจะให้ไปงานเลี้ยงกับผู้ใหญ่เจ้าของโครงการคืนนี้ รู้สึกไม่ค่อยดีเลย"
 
 ---
 
@@ -123,8 +61,6 @@ DIALOGUE, IN THIS ORDER
 | แท็ก | แปลไทย | ที่มา |
 |---|---|---|
 | `焦急求助，心怀忐忑` | ร้อนใจขอความช่วยเหลือ ใจไม่ดี | user 2026-10-23 สตอรี่บอร์ดคลิป 3 ช็อต 1 *"อารมณ์ตามบท: 焦急求助，心怀忐忑"* |
-| `急切叮嘱，迅速商量` | รีบกำชับ รีบตกลงกัน | user ช็อต 3 *"อารมณ์ตามบท: 急切叮嘱，迅速商量"* |
-| `油腔滑调，得意掌控` | ลื่นไหล ได้ใจว่าคุมได้ | user ช็อต 5 *"ผมเสนอชั่วคราว 油腔滑调，得意掌控"* |
 
 ## เสื้อผ้าที่ user สั่งให้เอ่ย
 
@@ -154,3 +90,12 @@ DIALOGUE, IN THIS ORDER
 - เทค 1 ยิง 2026-10-23 — run `e52eda35-8f30-40fe-8698-90400f808cab` · Seedance 2.5 · references · 16:9 · 720p · 26 วิ · เรฟ 10 + @Audio1–5 · generate_audio true · user สั่ง "ยิง" (ครั้งแรกติด moderation gate ลงทะเบียนเรฟ รอ ~30 วิ แล้วยิงซ้ำด้วย idempotency key เดิม)
 - เทค 1 เสร็จ — 26.08 วิ · 228.5 พอยต์ · asset `f024eefd-ace3-4751-9bbd-2bc21062aaec` · contact `EP02/frames/SB02-46_V1_contact.png` · จุดตัด 4.92 / 9.00 / 13.63 · ผลดู: ได้ 4 คัท ไม่ใช่ 5 — ช็อต 4 (CU มือขาวดึงมือถือ) หายไป ตัดจากอลิซคุยโทรศัพท์ไป two-shot ที่แจ็คถือมือถืออยู่แล้วเลย · ช็อต 1 อลิซหลังต้นมะกอก มือสองข้างป้องปากกับมือถือ ฉากหลังเป็นกระจก (กล้องหันกลับด้านจากเรฟ C-02) · ช็อต 2 แจ็คกับทีมแต่งตัวเดินมาจากปลายทางเดิน ✓ · ช็อต 5 แจ็คซ้าย อลิซขวา ผู้หญิงสองคนข้างหลังแจ็ค ✓ ยาว ~12 วิ · รอ user ดู
 - user 2026-10-26 *"แก้ คัท 1 ของ SB02-46_2-9c03_corridor_V1 เรื่องหน้าฝรั่ง แล้วก็การพูดที่ฉีกปากแปลกๆ และไม่เอามือซ้ายที่ยกมาป้องปาก ต้องส่งเฟรมแรกมั้ย ยิงใหม่จะได้เฟรมเดิมมั้ย?"* → ดูคัท 1 (0–4.92) `EP02/frames/SB02-46_V1_cut1_contact.png` · ขอบคัท `SB02-46_V1_cut1_edges.png` (0.0 · 4.85 · 4.96 · 9.1) · พูด 0.3–4.7 · สาเหตุ: (1) หน้าฝรั่ง = identity_phrases ที่ Fortal ต่อท้าย *face and appearance must match [image 1] … [image 10]* (รวมแจ็ค ST-01 ST-02 มือถือ ถุงชุด ทางเดิน · ยืนยันด้วย preview_shot_prompt) (2) ปากฉีก + มือป้องปาก = พรอมป์สั่ง *her right hand cupped around her mouth* ทั้ง WHERE EVERYONE IS และช็อต 1 บีต 3 ทับช่วงพูด + GLOBAL บรรทัดยิ้มแบบเก่า · ⚠️ คัท 2 (4.92–9.00) และคัท 3 (9.00–13.63) ก็มีมือป้องปาก · คัท 3 เปิดด้วยมุมเดียวกับท้ายคัท 1 · รอ user เลือกขอบเขต
+- **เทค 2 (เตรียม) 2026-10-26 — คัท 1 อย่างเดียว** · user *"แก้ให้บอกว่าอลิซถือมือถือ 2 มือ มือขวาประคอง มือซ้ายจับขอบ ก็ส่งรูปเฟรมแรกได้แล้วมั้้ย?"* (user ถามเฟรมแรกของคัท 1 → ถือว่าทาง ก แก้คัท 1)
+  - มือ: *phone at her left ear, her right hand cupped around her mouth* (2 ที่) → *holds her phone at her left ear with both hands: her right hand supports it from below and her left hand holds its edge* · ใส่ไว้ที่ WHERE EVERYONE IS ครั้งเดียว (ประกาศตำแหน่งตอนหัวคัท)
+  - เฟรมแรก: V1 0.0 วิ `EP02/frames/SB02-46_V1_frame000.png` (ต้นมะกอก · อลิซขอบขวา หน้าไม่เข้าเฟรม แขนขวายกขึ้นถือมือถือ) → asset `498ca56f` → Mix Stage `afbdd65a` = @Image6 · ตัดบีต *long empty corridor* + *voice begins before anyone is seen* ออก เพราะเฟรมแรกเปิดที่ต้นมะกอกกับอลิซแล้ว (V1 ก็เปิดแบบนี้)
+  - ความยาว 7 วิ: ไฟล์ @Audio1 `2ecaf904` พูดเต็ม 0.0–6.4 วิ (วัดระดับเสียง) · V1 คัท 1 จบ 4.92 แต่ "รู้สึกไม่ค่อยดีเลย" ล้นไปอยู่ต้นคัท 2 (5.2–6.2 ของ V1) → คัท 1 ใหม่ถือทั้งประโยค · ตัดต่อ: คัท 2 V1 เริ่มที่ ~6.3 · บีต 4 *waits for his answer, anxious* ยกจากช็อต 2 บีต 1 เดิม (ช่วงหลังพูดจบ ~0.6 วิ)
+  - GLOBAL บรรทัดยิ้ม → แบบใหม่ (สกิล) · ALIZ เติม Thai (REF_LINES) · SCENE เหลือส่วนของคัท 1 · ตัดเรฟแจ็ค ST-01 ST-02 ถุงชุด และ @Audio2–5 (ไม่อยู่ในคัท 1) · Composition ช็อต 1 *the long corridor running away to the left behind her* ตัด (เทค 1 หลังอลิซเป็นกระจก เฟรมแรกคุม) · Light *from the glass on the left* → *from the glass* (ทิศตามเฟรมแรก)
+  - ⚠️ มือขวาข้ามมาประคองมือถือที่หูซ้าย ผ่านหน้าใกล้ปาก อาจบังปากระหว่างพูด
+  - ยิงแบบ `prompt_mode: manual` (ไม่ให้ Fortal ต่อ identity_phrases)
+  - ลำดับเรฟ: b95c75c6 · 85720ff3 · 6abc3bd8 · f90ef20a (มือถือ) · e4e0edb2 (C-02) · afbdd65a (เฟรมแรก) · @Audio1 2ecaf904
+  - user ถามว่า identity_phrases เกี่ยวกับหน้าฝรั่งยังไง → ไม่มีหลักฐาน (ดู SB02-39 เทค 3) · ยิง manual เพื่อตัดตัวแปรนี้ ไม่ได้คาดว่าจะแก้หน้า · เรฟหน้า @Image1–2 ดูด้วยตาแล้ว: หน้าเอเชีย สันจมูกชัด แสงสตูดิโอเรียบ
