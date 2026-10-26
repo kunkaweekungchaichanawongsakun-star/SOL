@@ -149,3 +149,5 @@ Win's face peeks out from under the pile of guards, his cheek on the floor, his 
 - ลำดับเรฟ: b0b68bd1 (WIN_greenjkt_FS) · 2aec936c (WIN_greenjkt_CU) · 30d143af (WIN_greenjkt_3Q) · 17b738cc (SG 01 ทีม รปภ.) · 9380eb89 (X 01 ล็อบบี้ สองด่าน) · a8b563c2 (X 01S มุมข้าง) · ไม่มีไฟล์เสียง · generate_audio true (เสียงในฉาก)
 - ด่านรอบแรก: SCENE *cannot touch him* (A8) → *every guard who tries to grab him misses* · ช็อต 6 *as if* (สำนวน) ตัด · ช็อต 3 *speeds up* / *speeding up* (A13) → *sprints* / *his sprinting footsteps* · A19 แจ็คเก็ตปลิว = user สั่ง (ตารางเสื้อผ้า)
 - SCENE *without even looking at them* (A8) → *looking straight ahead*
+- user 2026-10-26 สั่ง "ยิง" หลังเสนอบรรทัด SECURITY GUARDS → ลง REF_LINES หมวดล็อกแล้ว
+- เทค 1 ยิง 2026-10-26 — run `3ff44055-92f5-4788-95a2-6b4737c1b2a6` · Seedance 2.5 · references · 16:9 · 720p · 30 วิ · เรฟ 6 · ไม่มีเสียงเรฟ · generate_audio true · **prompt_mode manual** · user สั่ง "ยิง"

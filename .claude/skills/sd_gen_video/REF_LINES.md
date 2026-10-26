@@ -77,6 +77,12 @@ SECURITY CHIEF: Thai, middle-aged, the head of security of the building. 100% ma
 ```
 user 2026-10-26 สั่ง "ยิง" SB02-56 หลังเสนอบรรทัดนี้ · Mix Stage `SG 02 · หัวหน้า รปภ.` `4e5b84cc` · ชีตหน้า ข้าง หลัง + CU 3 ใบ · "วัยกลางคน" จาก 👮 สตอรี่บอร์ดคลิป 5
 
+### SECURITY GUARDS (SG-01)
+```
+SECURITY GUARDS: six Thai security guards of the building, each with his own face. 100% matches the reference for their faces and their clothes.
+```
+user 2026-10-26 สั่ง "ยิง" SB02-57 หลังเสนอบรรทัดนี้ · Mix Stage `SG 01 · ทีม รปภ.` `17b738cc` · ชีตเต็มตัว 6 คน + CU 6 หน้า
+
 **ชื่อในพรอมป์ อลิซ = Aoy · แจ็ค = Juk** — user 2026-10-26 ถาม *"เปลี่ยนชื่อเรียกตอนพร้อมพ์ให้SD จากอลิซเป็น อ้อย ดีมั้ย แจ็ค ก็เปลี่ยนเป็น จุก"* แล้วสั่ง *"เปลี่ยนเป็น Aoy / Juk"* (ชื่อฝรั่งอาจดึงหน้าฝรั่ง · ทดลอง) · ใช้กับบ็อกที่ยิงตั้งแต่ SB02-52 · บ็อกเก่าไม่ย้อนแก้ · บทพูดไทยยังเรียก "พี่แจ็ค" "อลิซ" ตามเสียงจริง
 
 ## รอ user เคาะ
