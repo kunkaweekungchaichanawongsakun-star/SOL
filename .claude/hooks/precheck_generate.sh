@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # PreToolUse hook สำหรับ mcp__fotal_mcp__generate_shot_video
 # หาบ็อกจาก shot_id ใน BOX_MAP → รัน check_prompt.sh กับไฟล์พรอมป์ของบ็อกนั้น
-# บล็อกการยิง (exit 2) ถ้ายังเจอ A1 สั่งอวัยวะ · A8 ประโยคปฏิเสธ · A13 กำกับเสียง
+# บล็อกการยิง (exit 2) ถ้ายังเจอ A1 สั่งอวัยวะ · A8 ประโยคปฏิเสธ · A13 กำกับเสียง · A23 คำอารมณ์นอกแท็ก
 # ที่ไม่ได้จดยกเว้นไว้ใน CHANGE LOG ด้วยบรรทัด  "- ด่านยกเว้น: A1 …เหตุผล…"
 # ที่มา: user 2026-10-23 "ทำ hook เลย" หลัง SB02-25 ยิงทั้งที่ A1 ขึ้น (กรามเกร็ง → ปากแปลก)
 
@@ -27,7 +27,7 @@ fi
 
 OUT=$(bash "$SKILL/check_prompt.sh" "$FILE" 2>&1)
 BLOCK=""
-for code in A1 A8 A13; do
+for code in A1 A8 A13 A23; do
   if printf '%s\n' "$OUT" | grep -q "^── $code "; then
     if ! grep -qE "^- ด่านยกเว้น:.*\b$code\b" "$FILE"; then
       BLOCK="$BLOCK $code"
