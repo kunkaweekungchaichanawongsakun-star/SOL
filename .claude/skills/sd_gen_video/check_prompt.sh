@@ -15,7 +15,7 @@ flag () { # flag "ชื่อข้อ" "regex" ["regex ข้อยกเว�
 
 echo "=== ตรวจ $F ==="
 flag "A8 ประโยคปฏิเสธ (เอ่ยชื่อของที่ไม่อยากได้)" '\b(never|is not|are not|does not|do not|no [a-z]|nothing|nobody|without)\b'
-flag "A1 สั่งอวัยวะ" '\b(her eyes|his eyes|eyebrow|her brow|his brow|her lips|his lips|her chin|his chin|eyelid|jaw)\b' '(height|level|line) of (his|her) eyes|(his|her) eye (line|level)'
+flag "A1 สั่งอวัยวะ" '\b(her eyes|his eyes|eyebrow|her brow|his brow|her lips|his lips|her chin|his chin|eyelid|jaw|her mouth|his mouth|corner of (her|his) mouth|corners of (her|his) mouth)\b' '(height|level|line) of (his|her) eyes|(his|her) eye (line|level)'
 flag "A4 กำหนดสายตา" '\b(looks? (at|toward|up|down|away)|gaze|glances?|eyes (lift|drift|go))\b'
 CAPS=$(printf "%s" "$BODY" | grep -n -E "\b(EXCITED|ANGRY|SHY|HAPPY|SAD|STARTLED|POUTY|AMUSED|NERVOUS|SMUG|EMBARRASSED|SHEEPISH|PLEASED)\b" | cut -c1-160); if [ -n "$CAPS" ]; then hit=1; echo "── 0.1b ตัวใหญ่กับคำอารมณ์"; echo "$CAPS"; echo; fi
 flag "0.1 หมวดล็อก" '^(LOCKS|RULES|CONSTRAINTS)'
