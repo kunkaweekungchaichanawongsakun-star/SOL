@@ -12,7 +12,7 @@ SCENE
 Just as Aoy is cornered, the exit door opens and the security chief of the building puts his head in, out of breath: someone has come to see Aoy, it is urgent, they tried to stop him, but he has forced his way up. Aoy's fear leaves her face; it must be ลุง, and hope comes back. Then she pictures what he must be going through to get to her, and the hope turns into worry. She calls out for him and runs off the stage and out of the door. Juk is left alone on the stage, and he and Tin are both puzzled.
 
 AOY'S FACE
-Her skin tone is natural, as in her character references, with her event makeup as in @Image1. Her hope and her worry show in her look and in her breathing.
+Her skin tone is natural, as in her character references, with her event makeup as in @Image1. She only shows that she is thinking and that she is startled, natural and understated, at the size of real life; she stays dry-eyed the whole time. Her hope and her worry show in her look and in her breathing.
 
 ACTIVE REFERENCES
 @Image1 — AOY: 26, Thai, pretty, long straight jet-black hair. 100% matches the reference, and @Image3 is the authority for what she is wearing today.
@@ -42,7 +42,7 @@ WHERE EVERYONE IS
 - The room, as in @Image8 and @Image9: a glossy black stage with the LED screens behind it, red-carpeted steps up to the stage at its left and right edges, empty red seats rising into the dark, small lights along the aisle steps, the VIP row of five big red leather chairs behind a long wooden table. Beside the right steps of the stage, as seen from the VIP row, a single exit door in the dark wall; outside it, a corridor bright with the afternoon sun.
 - AT THE START: Aoy and Juk stand close together in the spotlight at the front edge of the stage. Tin sits in the middle chair of the VIP row, as in @Image10. The security chief appears at the exit door beside the right steps of the stage.
 - AOY'S RUN: down the red-carpeted steps at the right edge of the stage, as seen from the VIP row, and out of the exit door beside those steps. She runs out toward the right of frame.
-- Seen from the side on the stage, Juk is on the left of frame facing right, and Aoy is on the right of frame facing left; the exit door is to the right.
+- WHENEVER AOY IS SEEN FROM THE SIDE, SHE IS ON THE RIGHT OF FRAME FACING LEFT, AND JUK IS ON THE LEFT OF FRAME FACING RIGHT. THE EXIT DOOR IS ON THE RIGHT OF FRAME, AND AOY RUNS OUT TO THE RIGHT OF FRAME.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–2.5 s — THE DOOR OPENS
@@ -56,12 +56,12 @@ Light: the strip of warm light from the door cuts the dark of the room in one li
 
 Shot 2 — 2.5–7.5 s — THE REPORT
 Picture, in this order:
-- 1. The security chief steps half into the room, out of breath from running up, and looks up toward the VIP row.
-- 2. He says @Audio1. As he talks he gives a hurried wai with the radio still in his hand, glances at Aoy on the stage, spreads his arms to show how they tried to block the man, and looks back over his shoulder into the corridor, nervous, sweat on his temples.
+- 1. The security chief steps half into the room, out of breath from running up, and turns his face up toward Tin in the VIP row, up and to the left of frame.
+- 2. He says @Audio1 up to Tin, because he is reporting to the boss; his face stays turned up toward the VIP row the whole time he talks. As he talks he gives a hurried wai with the radio still in his hand, spreads his arms to show how they tried to block the man, and looks back over his shoulder into the corridor, nervous, sweat on his temples.
   - Security chief: "ขอโทษครับท่าน มีคนมาขอพบคุณอลิซ บอกว่าด่วนมาก พวกผมพยายามจะกันไว้ แต่แกบุกขึ้นมาแล้ว"
   - Emotion from the script: 仓皇失措，慌忙通报.
 Camera: MS, 150 cm high, eye level, 50mm lens, locked-off, looking from the stage to the door.
-Composition: the security chief inside the door frame, a frame within the frame. The bright corridor behind him.
+Composition: the security chief inside the door frame, a frame within the frame, his face turned up and to the left of frame toward the VIP row. The bright corridor behind him.
 Light: the corridor light behind him gives him a warm rim. His face catches the spotlight reflected from the stage.
 Sound: the radio in his hand hisses softly.
 
@@ -69,10 +69,10 @@ Shot 3 — 7.5–12.0 s — HER FACE LIGHTS UP
 Picture, in this order:
 - 1. While the security chief is still talking, Aoy spins round from Juk to face the door.
 - 2. The warm light from the door falls across half her face. As he says that the man has forced his way up, the fear leaves her face.
-- 3. She holds her breath, then says @Audio2 to herself.
+- 3. She holds her breath, then says @Audio2 to herself, her face toward the camera.
   - Aoy: "…ลุง?"
   - Emotion from the script: 绝处逢生，满怀希望.
-  - Performance: tears start to come, and a small smile begins: the hope of someone who is drowning and sees a rope.
+  - Performance: she is thinking, natural and understated, dry-eyed; a small hope shows.
 Camera: CU, 155 cm high, eye level, 85mm lens, locked-off, in front of Aoy at an angle.
 Composition: Aoy's face in the middle of the frame, turned almost straight to the camera, looking just past the lens to the right, where the door is. Juk's white suit soft at the left edge of frame.
 Light: the warm light from the door on the right falls on that side of her face; the other half is still in the white spotlight.
@@ -82,7 +82,7 @@ Picture, in this order:
 - 1. Aoy is still facing the door, the small smile holding.
 - 2. Her look drifts far away: she is picturing something.
 - 3. Her hope slowly turns into worry.
-- 4. What she is picturing shocks her, more and more.
+- 4. What she is picturing startles her. All of it stays small and natural, dry-eyed.
 Camera: BCU, 155 cm high, eye level, 100mm lens, a very slow dolly in until only the upper half of her face fills the frame.
 Meaning: the camera slowly goes into her look, a door into what she is picturing. This is the cut point to the next video.
 Composition: the upper half of her face in the upper third of the frame. The warm light from the door glints in her look.
@@ -94,9 +94,9 @@ Picture, in this order:
   - Aoy: "ลุง !!!"
   - Emotion from the script: 急切惊呼，情不自禁.
   - Performance: it comes out before she can think. She leans forward with it, one hand half raised, reaching toward someone far away.
-- 2. At once she starts to run toward the right of frame.
+- 2. At once she starts to run out toward the right of frame, toward the exit door.
 Camera: MS, 150 cm high, eye level, 85mm lens, locked-off, looking straight at her from the direction of the seats, OTS over Juk's shoulder.
-Composition: the back of Juk's white suit soft at the left edge of frame. Aoy in the middle of the frame, with space on the right for her to run into.
+Composition: the back of Juk's white suit soft at the left edge of frame. Aoy in the middle of the frame, with the exit door and space on the right of frame for her to run into.
 Sound: her call echoes through the whole room.
 
 Shot 6 — 18.5–22.0 s — OFF THE STAGE
@@ -157,3 +157,7 @@ DIALOGUE, IN THIS ORDER
 - user 2026-10-26 สั่ง "ยิง" หลังเสนอบรรทัด SECURITY CHIEF → ลง REF_LINES หมวดล็อกแล้ว · A16 ผ่าน
 - เทค 1 ยิง 2026-10-26 — run `b55084a2-43ea-46ca-8d8c-4bfd27c41e07` · Seedance 2.5 · references · 16:9 · 720p · 24 วิ · เรฟ 10 + @Audio1–3 · generate_audio true · **prompt_mode manual** · user สั่ง "ยิง"
 - เทค 1 เสร็จ — 24.06 วิ · 210.9 พอยต์ · asset `70931a0e-6bff-467a-b187-53034ad13919` · contact `EP02/frames/SB02-56_V1_contact.png` (1 fps) · จุดตัด 1.92 / 7.12 / 12.08 / 16.50 / 18.04 / 22.00 = 7 ช่วง · ผลดู: ช็อต 1 WS จาก VIP ประตูเปิด แสงพาด ✓ · ช็อต 2 หัวหน้า รปภ. ในกรอบประตู ไหว้ กางแขน ✓ (เสียง ~2.4–7.4) · ⚠️ ช็อต 3 (7.12–12.08) เปิดด้วยหน้าอลิซแว่บเดียว แล้วเป็นมุมหลังอลิซหันไปทางประตู "…ลุง?" (~10.7–11.1) พูดตอนเห็นแต่ด้านหลัง · ช็อต 4 (12.08–16.50) CU อลิซน้ำตาคลอ ยิ้มแล้วกลายเป็นกังวล ตกใจ ✓ หน้าเอเชีย ✓ · ช็อต 5 "ลุง!!!" (~16.7–18.1) อลิซออกวิ่ง หัวหน้าที่ประตู ✓ · ช็อต 6 WS จาก VIP อลิซลงเวทีออกประตู ✓ · ช็อต 7 แจ็คหันหลังกางมือ ทินไกลๆ ✓ (มุมกว้างกว่าที่สั่ง 200mm) · เราฟังไม่ได้ รอ user ฟัง
+- **เทค 2 (เตรียม) 2026-10-26** — user *"ยาม พูดกับทิน มันต้องหันมาข้างบน ฝั่ง VIP … แต่ทำไม เจนออกมา แล้ว มันหันไปหา อลิชที่เวที และไม่พอ อลิช มันจะร้องไห้น้ำตาซึมทำไม แค่ออกอาการคิด ตกใจ เล่น ธรรมมชาติ ไม่โอเวอร์ แอคติ้งสิ เรื่อง การหัน เช่น กัน อลิชต้อง อยู่ มุม ขวาเฟรมหันหน้าไปทางซ้ายทุกครั้ง กรณีหันข้าง อันนี้ไปอยู่ ฝั่งซ้าย … แก้เลย โดยเฉพาะ การแสดงอารมณ์ มันโอเวอร์แอคติ้งแล้ว บอกไปเล่น ธรรมชาติ"*
+  - ไล่เฟรมเทค 1 `EP02/frames/SB02-56_V1_review.png`: 3.0–5.5 ยามหันหน้าเข้ากล้อง (ทิศเวที) · 13–15.5 อลิซน้ำตาไหล · 17.8 อลิซพุ่งไปทางซ้ายเฟรม (ประตูอยู่ขวา) · 9.0–11.0 ช็อต 3 ถ่ายจากหลังอลิซ เห็นแต่ด้านหลัง
+  - สาเหตุจากพรอมป์เรา: ช็อต 2 *glances at Aoy on the stage* (ยกจาก "ตาเหลือบไปที่อลิซ") + ไม่ได้บอกว่าพูดกับทินตลอด · ช็อต 3 *tears start to come* (ยกจาก "ตาเริ่มชื้น") + *drowning … rope* · ช็อต 4 *shocks her, more and more*
+  - แก้: หน้าอลิซ เติม *She only shows that she is thinking and that she is startled, natural and understated … she stays dry-eyed the whole time* (คำ user) · WHERE เปลี่ยนเป็นตัวใหญ่ *WHENEVER AOY IS SEEN FROM THE SIDE, SHE IS ON THE RIGHT OF FRAME FACING LEFT … THE EXIT DOOR IS ON THE RIGHT OF FRAME, AND AOY RUNS OUT TO THE RIGHT OF FRAME* · ช็อต 2 ตัด *glances at Aoy* · *turns his face up toward Tin in the VIP row, up and to the left of frame* · *He says @Audio1 up to Tin, because he is reporting to the boss; his face stays turned up toward the VIP row the whole time* · Composition เติมทิศหน้า · ช็อต 3 ตัด *tears* + *drowning* → *she is thinking, natural and understated, dry-eyed; a small hope shows* · *her face toward the camera* · ช็อต 4 *shocks her, more and more* → *startles her. All of it stays small and natural, dry-eyed* · ช็อต 5 *toward the exit door* + Composition *with the exit door … on the right of frame*
