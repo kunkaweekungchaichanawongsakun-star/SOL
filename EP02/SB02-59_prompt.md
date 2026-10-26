@@ -1,7 +1,7 @@
 GLOBAL STYLE
 Live-action microdrama, 16:9. Real people, real places, natural skin. Seven shots, 26 seconds. Every shot is at real-time speed, except Shot 1 and Shot 5, which are in slow motion.
 All the acting is natural and real, at the size of real life, for every person in this video. Aoy stays dry-eyed. Whenever Aoy smiles, it is a closed-lip smile. Every move has a real cause and real weight.
-THE VISITOR IS THE CAMERA. EVERY SHOT IS WHAT THE VISITOR'S OWN LOOK SEES, OR A CLOSE VIEW OF THE LOWER PART OF HIS BAMBOO WALKING STICK. THE ONLY PART OF THE VISITOR THAT IS EVER IN THE PICTURE IS THE LOWER PART OF THE STICK AND ITS TIP; HIS HAND STAYS ABOVE THE TOP OF THE FRAME. THE ONLY SHADOWS ON THE FLOOR ARE THE SHADOWS OF THE STICK, THE GATES, THE PILLARS, THE GUARD AND AOY.
+THE VISITOR IS THE CAMERA. EVERY SHOT IS WHAT THE VISITOR'S OWN LOOK SEES, OR A CLOSE VIEW OF THE LOWER PART OF HIS BAMBOO WALKING STICK, OR A VIEW WHERE ONLY THE END OF THE STICK REACHES INTO THE PICTURE. THE ONLY PART OF THE VISITOR THAT IS EVER IN THE PICTURE IS THE LOWER PART OF THE STICK AND ITS TIP; HIS HAND STAYS ABOVE THE TOP OF THE FRAME. THE ONLY SHADOWS ON THE FLOOR ARE THE SHADOWS OF THE STICK, THE GATES, THE PILLARS, THE GUARD AND AOY.
 The only light is the low golden late-afternoon sun near the revolving doors, the soft ceiling lights of the lobby, and the status lights on the security gates. The inner hall past the gates is out of the sun, lit only by the soft ceiling lights and their reflection on the marble floor. The air is clear and clean. Every surface is plain, the security gates too. The camera keeps one fixed focal length per shot. The only sound is the real sound of the lobby.
 
 LIP SYNC
@@ -77,12 +77,12 @@ Sound: the guard's jogging steps. The stick knocking on the floor in an unbroken
 
 Shot 4 — 12.0–15.5 s — THE STICK RAISED
 Picture, in this order:
-- 1. The stick swings up from the bottom edge of the frame, its tip pointing up, raised high in front of the guard, ready to strike, because the visitor wants him out of the way.
-- 2. The guard jumps, throws both arms up over his head and backs away fast until his back is against a marble pillar at the side of the way, on the right.
-- 3. The stick comes down and goes on knocking on the floor. His view walks on past the guard, who stands pressed flat against the pillar on the right of frame.
-Camera: POV, 145 cm high, eye level, 35mm lens, handheld, walking forward.
-Meaning: the stick raised close to the lens fills the foreground; the audience feels the power of the man holding it.
-Composition: the lower part of the stick sharp in the foreground, a diagonal up from the bottom edge. The guard behind the stick at MS. His hand above the top of the frame.
+- 1. Close on the guard as he walks backward: the end of the bamboo stick swings into the frame from the left edge and stops pointing straight at his face, ready to strike, because the visitor wants him out of the way. Only the end of the stick is in the picture, the last arm's length of it.
+- 2. The guard jumps, throws both arms up over his head and backs away fast until his back is against a marble pillar at the side of the way.
+- 3. The end of the stick swings back out of the frame to the left. The guard stays pressed flat against the pillar, frozen.
+Camera: MS, 150 cm high, eye level, 50mm lens, locked-off, beside the visitor's right shoulder, looking at the guard.
+Meaning: only the end of the stick reaches into the picture; the audience feels the power of the man holding it while he stays out of sight.
+Composition: the guard in the middle of the frame. The end of the stick sharp in the foreground, coming in from the left edge. The rest of the stick and the man holding it are beyond the left edge of the frame.
 Sound: the stick whooshing through the air. The guard's shoes backing away fast on the stone.
 
 Shot 5 — 15.5–17.5 s — KNOCK, IN SLOW MOTION
@@ -97,7 +97,7 @@ Shot 6 — 17.5–23.0 s — LUNG—
 Picture, in this order:
 - 1. His view walks on into the inner hall.
 - 2. Far off at the end of the hall, Aoy runs barefoot out of the inner passage on the right of frame, the pair of heels swinging in her hand, and turns to run straight at the camera, because she is sure this is ลุง.
-- 3. Her face lights up and she smiles, running closer and closer until she is two steps from the camera.
+- 3. Her face lights up with a small closed-lip smile, natural, at the size of real life, as she runs closer and closer until she is two steps from the camera.
 - 4. His view stops walking and stands completely still.
 - 5. Aoy starts to say @Audio2 and breaks off in the middle of the word: her feet stop dead, her body leaning forward, and she holds there, because she sees that the person in front of her is someone else. Half of her smile is still on her face.
   - Aoy: "ลุง—"
@@ -160,3 +160,6 @@ DIALOGUE, IN THIS ORDER
 - roles ตั้งแล้ว valid: ภาพ 7 + @Audio1 589ae0de + @Audio2 69b87144
 - user 2026-10-26 สั่ง "ยิง" หลังเสนอบรรทัด SECURITY GUARD → ลง REF_LINES หมวดล็อกแล้ว
 - เทค 1 ยิง 2026-10-26 — run `1bef2189-7d79-45e8-850e-db1e311a2f38` · Seedance 2.5 · references · 16:9 · 720p · 26 วิ · manual · เรฟภาพ 7 + เสียง 2 · user สั่ง "ยิง"
+- เทค 1 ผล — asset `8be28bd3` · 26.08 วิ · 228.5 พอยต์ · คัท 3.25 / ~7.5 / 15.0 / 17.0 · ช็อต 1 ปลายไม้ slow-mo ✓ · ช็อต 2 ไม้ดันบานกระจก ไฟแดง ✓ · ช็อต 3 รปภ. หนุ่มพูด (แต่**วิ่งมาจากข้างหน้า** ไม่ใช่ตามมาจากข้างหลังทางขวา) · ⚠️ **ช็อต 4 เห็นมือผู้มาเยือนกำไม้ 12.6–13.6 วิ** (เงื้อไม้ใกล้เลนส์ มือตามมาด้วย) · ช็อต 5 ปลายไม้ slow-mo รองเท้า รปภ. ข้างหลัง ✓ · ช็อต 6 อลิซออกจากทางเดินขวา วิ่งเข้าหากล้อง ✓ แต่ **20.5–22 ยิ้มกว้างเห็นฟัน กางแขน** · ช็อต 7 หน้างง ✓ · ไม่มีเงาคน ✓ · เฟรม `EP02/frames/SB02-59_V1_contact.png` · `SB02-59_V1_hand.png`
+- เทค 2 เตรียม (รอ user เลือก): ช็อต 4 เดิม POV ไม้ตวัดขึ้นจากขอบล่าง เงื้อสูงใกล้เลนส์ → มือติดมา · ใหม่ MS กล้องข้างไหล่ขวาผู้มาเยือน มองที่ รปภ. **ปลายไม้ช่วงสุดท้ายยื่นเข้าจากขอบซ้าย** ชี้หน้า แล้วถอยออกซ้าย (user *"ทุกช็อตกล้องเป็นสายตาของผู้มาเยือน หรือจัดกรอบให้เห็นแค่ปลายไม้"*) · ช็อต 6 "smiles" → *a small closed-lip smile, natural, at the size of real life* (เทค 1 ยิ้มเห็นฟัน)
+  - GLOBAL เติม *OR A VIEW WHERE ONLY THE END OF THE STICK REACHES INTO THE PICTURE* ให้ตรงกับช็อต 4 ใหม่
