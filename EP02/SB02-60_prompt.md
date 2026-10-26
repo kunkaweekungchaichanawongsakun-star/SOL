@@ -83,3 +83,4 @@ DIALOGUE, IN THIS ORDER
 - อารมณ์: ยิ้มดีใจ → เป็นห่วง มองหาลุง → งง (คำ user) · ตัดบรรทัด *Her face lights up … smile* และ *Half of her smile is still on her face* ทั้งหมด
 - เรฟ: 647d4b67 · c87d5782 · de7e4e99 · 9380eb89 · a8b563c2 · เสียง 69b87144 (C2 10 clip08 2 Aliz พูด 0–1.22)
 - roles valid · พรอมป์อัปขึ้น Fortal แล้ว
+- เทค 1 ยิง 2026-10-26 — run `7c717c28-bc0f-46c3-88c9-59e0965e992b` · Seedance 2.5 · references · 16:9 · 720p · 9 วิ · manual · เรฟ 5 + เสียง 1 · user สั่ง "ยิง"
