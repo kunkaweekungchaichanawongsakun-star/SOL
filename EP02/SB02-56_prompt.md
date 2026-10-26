@@ -154,3 +154,5 @@ DIALOGUE, IN THIS ORDER
 - ช็อต 4 = จุดตัดไปคลิป 6 (ภาพในความคิด) ตามสตอรี่บอร์ด · เขียนไว้ใน Meaning *This is the cut point to the next video.*
 - ลำดับเรฟ: 647d4b67 · c87d5782 · de7e4e99 (อลิซ) · 1b11b860 (ทิน) · 1ca9b355 · 12b0b77a (แจ็ค) · 4e5b84cc (SG 02 หัวหน้า รปภ.) · 3189752b (M 01) · f82b9bf2 (M 02) · 2d874784 (M 02 มีทิน) · @Audio1 533fe1a0 (clip05 1 Chief 6.35) · @Audio2 32133f77 (clip05 2 Aliz 2.50) · @Audio3 7079eb70 (clip05 3 Aliz 2.50)
 - ช็อต 3 "หันขวับ" เขียนครั้งแรก *turns sharply* ติด A13/A23 (sharply) → *spins round from Juk to face the door*
+- user 2026-10-26 สั่ง "ยิง" หลังเสนอบรรทัด SECURITY CHIEF → ลง REF_LINES หมวดล็อกแล้ว · A16 ผ่าน
+- เทค 1 ยิง 2026-10-26 — run `b55084a2-43ea-46ca-8d8c-4bfd27c41e07` · Seedance 2.5 · references · 16:9 · 720p · 24 วิ · เรฟ 10 + @Audio1–3 · generate_audio true · **prompt_mode manual** · user สั่ง "ยิง"

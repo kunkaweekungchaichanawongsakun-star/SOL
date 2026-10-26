@@ -71,6 +71,12 @@ TIN: Thai, the owner of the project. 100% matches the reference for his face, hi
 ```
 user 2026-10-26 *"THIN ก็คือ tin ไง งงอะไร เรฟภาพมีแล้ว"* (หลังเสนอบรรทัดนี้ใน SB02-52) · Mix Stage `Thin` `1b11b860` · ใบเดียวมีหน้า หลัง และ CU · ไม่มีอายุ (ไม่มีที่มา)
 
+### SECURITY CHIEF (SG-02)
+```
+SECURITY CHIEF: Thai, middle-aged, the head of security of the building. 100% matches the reference for his face and his clothes.
+```
+user 2026-10-26 สั่ง "ยิง" SB02-56 หลังเสนอบรรทัดนี้ · Mix Stage `SG 02 · หัวหน้า รปภ.` `4e5b84cc` · ชีตหน้า ข้าง หลัง + CU 3 ใบ · "วัยกลางคน" จาก 👮 สตอรี่บอร์ดคลิป 5
+
 **ชื่อในพรอมป์ อลิซ = Aoy · แจ็ค = Juk** — user 2026-10-26 ถาม *"เปลี่ยนชื่อเรียกตอนพร้อมพ์ให้SD จากอลิซเป็น อ้อย ดีมั้ย แจ็ค ก็เปลี่ยนเป็น จุก"* แล้วสั่ง *"เปลี่ยนเป็น Aoy / Juk"* (ชื่อฝรั่งอาจดึงหน้าฝรั่ง · ทดลอง) · ใช้กับบ็อกที่ยิงตั้งแต่ SB02-52 · บ็อกเก่าไม่ย้อนแก้ · บทพูดไทยยังเรียก "พี่แจ็ค" "อลิซ" ตามเสียงจริง
 
 ## รอ user เคาะ
