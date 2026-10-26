@@ -166,3 +166,4 @@ Win's face peeks out from under the pile of guards, his cheek on the floor, his 
   - ช็อต 8: `He mouths "ช่วยด้วย", silent.` → *He silently asks for help.* (เทค 1 ได้ซับฝัง)
   - ด่าน A4 *watches Win* — user สั่งตรงๆ *"ยาม ทุกคนมีเป้าหมาย มองมาที่วิน"* · A20 บรรทัด Composition คงตามสตอรี่บอร์ด
 
+- เทค 2 ยิง 2026-10-26 — run `fe13813a-6a12-4c88-be06-955922d13879` · Seedance 2.5 · references · 16:9 · 720p · 30 วิ · manual · เรฟ 6 ใบเดิม · user สั่ง "ยิง"
