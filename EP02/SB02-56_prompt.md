@@ -1,6 +1,6 @@
 GLOBAL STYLE
 Live-action microdrama, 16:9. Real people, real places, natural skin. Seven shots, 24 seconds, at real-time speed.
-All the acting is natural and real, at the size of real life: small, simple and unhurried. Feelings show quietly. Whenever Aoy smiles, it is a closed-lip smile. The room is dark for a rehearsal. The only light is the three spotlights in the ceiling, the big LED screens behind the stage, the small lights along the aisle steps, the lit window of the control room at the back of the room, and the warm light from the corridor that comes in through the exit door when it opens. A thin haze from the fog machine of the launch lies low over the stage, as in @Image9; the rest of the air is clear. The camera moves through the room at one fixed focal length per shot. The only sound is the real sound of the room.
+All the acting is natural and real, at the size of real life: small, simple and unhurried, for every person in this video. Feelings show quietly. Whenever Aoy smiles, it is a closed-lip smile. The room is dark for a rehearsal. The only light is the three spotlights in the ceiling, the big LED screens behind the stage, the small lights along the aisle steps, the lit window of the control room at the back of the room, and the warm light from the corridor that comes in through the exit door when it opens. A thin haze from the fog machine of the launch lies low over the stage, as in @Image9; the rest of the air is clear. The camera moves through the room at one fixed focal length per shot. The only sound is the real sound of the room.
 
 LIP SYNC
 The security chief speaks in Shot 2. Aoy speaks in Shot 3 and Shot 5. Each line is lip-synced to the person saying it. The voice files play in order, each exactly once: @Audio1 from Shot 2, its last words carrying on over the start of Shot 3, heard from the door while the camera is on Aoy; @Audio2 in Shot 3; @Audio3 in Shot 5. Shots 1, 4, 6 and 7 have only the sounds of the room. A voice file may end with a stretch of silence that is there only to make the file long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 24 seconds.
@@ -42,7 +42,10 @@ WHERE EVERYONE IS
 - The room, as in @Image8 and @Image9: a glossy black stage with the LED screens behind it, red-carpeted steps up to the stage at its left and right edges, empty red seats rising into the dark, small lights along the aisle steps, the VIP row of five big red leather chairs behind a long wooden table. Beside the right steps of the stage, as seen from the VIP row, a single exit door in the dark wall; outside it, a corridor bright with the afternoon sun.
 - AT THE START: Aoy and Juk stand close together in the spotlight at the front edge of the stage. Tin sits in the middle chair of the VIP row, as in @Image10. The security chief appears at the exit door beside the right steps of the stage.
 - AOY'S RUN: down the red-carpeted steps at the right edge of the stage, as seen from the VIP row, and out of the exit door beside those steps. She runs out toward the right of frame.
-- WHENEVER AOY IS SEEN FROM THE SIDE, SHE IS ON THE RIGHT OF FRAME FACING LEFT, AND JUK IS ON THE LEFT OF FRAME FACING RIGHT. THE EXIT DOOR IS ON THE RIGHT OF FRAME, AND AOY RUNS OUT TO THE RIGHT OF FRAME.
+- THE ONE LINE OF THIS SCENE, AS IN THE VIDEOS BEFORE: TIN IN THE VIP ROW IS ON THE LEFT OF FRAME FACING RIGHT. THE STAGE SIDE OF THE ROOM IS ON THE RIGHT OF FRAME.
+- AOY IS ALWAYS ON THE RIGHT OF FRAME FACING LEFT. JUK, ON THE STAGE WITH HER, IS ON THE LEFT OF FRAME FACING RIGHT. WHEN AOY HAS GONE AND JUK TURNS TO TIN, JUK IS ON THE STAGE SIDE, ON THE RIGHT OF FRAME FACING LEFT.
+- THE SECURITY CHIEF COMES IN AT THE DOOR ON AOY'S SIDE, SO HE IS ON THE RIGHT OF FRAME FACING LEFT, TALKING TO TIN, WHO IS ON THE LEFT OF FRAME FACING RIGHT. THEY FACE EACH OTHER ACROSS THE ROOM.
+- AOY RUNS OUT OF THE RIGHT OF FRAME, AWAY FROM TIN AND JUK, TO THE DOOR ON HER SIDE.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–2.5 s — THE DOOR OPENS
@@ -56,47 +59,47 @@ Light: the strip of warm light from the door cuts the dark of the room in one li
 
 Shot 2 — 2.5–7.5 s — THE REPORT
 Picture, in this order:
-- 1. The security chief steps half into the room, out of breath from running up, and turns his face up toward Tin in the VIP row, up and to the left of frame.
-- 2. He says @Audio1 up to Tin, because he is reporting to the boss; his face stays turned up toward the VIP row the whole time he talks. As he talks he gives a hurried wai with the radio still in his hand, spreads his arms to show how they tried to block the man, and looks back over his shoulder into the corridor, nervous, sweat on his temples.
+- 1. The security chief steps half into the room, out of breath from running up the stairs, on the right of frame facing left, and turns his face up to the left toward Tin in the VIP row, because Tin is the boss of this room.
+- 2. He says @Audio1 to Tin, his face turned up to the left toward the VIP row the whole time he talks. As he talks he gives a hurried wai with the radio still in his hand, spreads his arms to show how they tried to block the man, and looks back over his shoulder into the corridor, sweat on his temples.
   - Security chief: "ขอโทษครับท่าน มีคนมาขอพบคุณอลิซ บอกว่าด่วนมาก พวกผมพยายามจะกันไว้ แต่แกบุกขึ้นมาแล้ว"
   - Emotion from the script: 仓皇失措，慌忙通报.
-Camera: MS, 150 cm high, eye level, 50mm lens, locked-off, looking from the stage to the door.
-Composition: the security chief inside the door frame, a frame within the frame, his face turned up and to the left of frame toward the VIP row. The bright corridor behind him.
+  - Performance: natural, at the size of real life.
+Camera: MS, 150 cm high, eye level, 50mm lens, locked-off, from the side.
+Composition: the security chief on the right of frame inside the door frame, facing left, his face turned up and to the left toward the VIP row. The bright corridor behind him.
 Light: the corridor light behind him gives him a warm rim. His face catches the spotlight reflected from the stage.
 Sound: the radio in his hand hisses softly.
 
-Shot 3 — 7.5–12.0 s — HER FACE LIGHTS UP
+Shot 3 — 7.5–12.0 s — LUNG?
 Picture, in this order:
-- 1. While the security chief is still talking, Aoy spins round from Juk to face the door.
-- 2. The warm light from the door falls across half her face. As he says that the man has forced his way up, the fear leaves her face.
-- 3. She holds her breath, then says @Audio2 to herself, her face toward the camera.
+- 1. Aoy on the right of frame, facing left toward Juk, listening to the security chief's voice from the door on her side.
+- 2. As he says that the man has forced his way up, the fear leaves her face.
+- 3. She holds her breath, then says @Audio2 to herself.
   - Aoy: "…ลุง?"
   - Emotion from the script: 绝处逢生，满怀希望.
   - Performance: she is thinking, natural and understated, dry-eyed; a small hope shows.
-Camera: CU, 155 cm high, eye level, 85mm lens, locked-off, in front of Aoy at an angle.
-Composition: Aoy's face in the middle of the frame, turned almost straight to the camera, looking just past the lens to the right, where the door is. Juk's white suit soft at the left edge of frame.
-Light: the warm light from the door on the right falls on that side of her face; the other half is still in the white spotlight.
+Camera: CU, 155 cm high, eye level, 85mm lens, locked-off, from the side, a three-quarter view of her face.
+Composition: Aoy's face on the right of frame, facing left. Juk's white shoulder soft at the left edge of frame.
+Light: the warm light from the open door touches her; her face is in the white spotlight.
 
 Shot 4 — 12.0–16.0 s — WHAT SHE PICTURES
 Picture, in this order:
-- 1. Aoy is still facing the door, the small smile holding.
-- 2. Her look drifts far away: she is picturing something.
-- 3. Her hope slowly turns into worry.
-- 4. What she is picturing startles her. All of it stays small and natural, dry-eyed.
+- 1. Aoy, still on the right of frame facing left, is thinking of ลุง.
+- 2. Her look drifts far away: she is picturing him on his way up to her.
+- 3. What she pictures startles her a little. All of it stays small and natural, dry-eyed.
 Camera: BCU, 155 cm high, eye level, 100mm lens, a very slow dolly in until only the upper half of her face fills the frame.
 Meaning: the camera slowly goes into her look, a door into what she is picturing. This is the cut point to the next video.
-Composition: the upper half of her face in the upper third of the frame. The warm light from the door glints in her look.
+Composition: the upper half of her face on the right of frame, facing left.
 Sound: the sound of the room slowly fades away.
 
 Shot 5 — 16.0–18.5 s — ลุง!!!
 Picture, in this order:
-- 1. Aoy snaps back and calls out @Audio3.
+- 1. Aoy, on the right of frame facing left toward Juk, snaps back and calls out @Audio3.
   - Aoy: "ลุง !!!"
   - Emotion from the script: 急切惊呼，情不自禁.
-  - Performance: it comes out before she can think. She leans forward with it, one hand half raised, reaching toward someone far away.
-- 2. At once she starts to run out toward the right of frame, toward the exit door.
-Camera: MS, 150 cm high, eye level, 85mm lens, locked-off, looking straight at her from the direction of the seats, OTS over Juk's shoulder.
-Composition: the back of Juk's white suit soft at the left edge of frame. Aoy in the middle of the frame, with the exit door and space on the right of frame for her to run into.
+  - Performance: it comes out before she can think, natural, at the size of real life.
+- 2. At once she turns away from Juk and runs out of the right of frame, to the exit door on her side.
+Camera: MS, 150 cm high, eye level, 85mm lens, locked-off, from the side, OTS over Juk's shoulder.
+Composition: the back of Juk's white suit soft on the left of frame, facing right. Aoy on the right of frame, facing left, with space on the right of frame for her to run out into.
 Sound: her call echoes through the whole room.
 
 Shot 6 — 18.5–22.0 s — OFF THE STAGE
@@ -115,7 +118,7 @@ Picture, in this order:
 - 1. Juk turns round to look up at Tin, his hands spread a little.
 - 2. Tin sits still, puzzled, his head slowly tilting to one side, the iPad in his hand slowly lowering, until the end of the video.
 Camera: MS, 120 cm high, eye level, 200mm lens, locked-off, looking up from the stage to the VIP row, over Juk's shoulder.
-Composition: Juk's white shoulder and his spread hand soft at the right edge of frame. Tin in the middle of the frame in the VIP chair.
+Composition: Juk's white shoulder and his spread hand soft on the right of frame, facing left. Tin on the left of frame in the VIP chair, facing right.
 Sound: the room silent, only the soft hiss of the fog machine.
 
 THE LAST FRAME
@@ -164,3 +167,14 @@ DIALOGUE, IN THIS ORDER
 
 - เทค 2 ยิง 2026-10-26 — run `720fa8ea-cf99-4621-816c-e89761537daa` · Seedance 2.5 · references · 16:9 · 720p · 24 วิ · manual · เรฟชุดเดิม 13 ไฟล์
 - เทค 2 ผล — asset `f6c70de4` · 24.06 วิ · 210.9 พอยต์ · คัท 1.75 / 6.75 / 12.0 / 16.5 / 18.0 / 22.25 (7 ช็อต) · ยามหันพูดเข้ากล้องที่อยู่ข้ามไหล่ทิน (หันหาทิน) ✓ · อลิซไม่มีน้ำตาไหล ✓ ตาฉ่ำเล็กน้อยช่วง 14–15 วิ · 15.5 คิ้วขมวดห่วงค่อนข้างชัด · อลิซขวาเฟรม จุกซ้ายเฟรม ✓ · วิ่งออกขวาไปประตู ✓ (ตอนวิ่งตัวหันขวาตามทิศประตู) · ยิ้ม 12.5 ปิดปาก ✓ · เสียงยามพูด 3–8 วิ · "ลุง?" ~11 · "ลุง!!!" ~17 · เฟรม `EP02/frames/SB02-56_V2_contact.png` · `SB02-56_V2_eyes.png`
+- **เทค 3 — user 2026-10-26** *"เทค 2 แล้ว ยังเหมือนเดิมอยู่อีก สรุป ยามมันจะคุยกับใคร … ได้อ่านทั้งเฟรมของคลิป ก่อนหน้า SB02-56 ไหม ว่าตำแหน่งตัวละครยังไง … อลิช ต้องเล่นมุมกล้องด้านเดียว ถ้าหันข้าง ต้องอยู่ มุมขวาของเฟรมมองไปทางซ้าย และทิน อยู่ฝั่งซ้ายมองขวาของเฟรมกล้องกรณีหันข้าง … ถ้ามัน อยู่ฝั่งอลิช ยามก็ต้อง อยู่เฟรมขวาหันไปซ้ายเพื่อ คุยกับทิน ที่ อยู่เฟรมซ้ายมองขวา มันถึงรับ กัน … ความไม่สมเหตสมผล ที่เขียน ลงไป ใน promtp นี่ แอคติ้งอีก"*
+  - เฟรมเทค 2 (`SB02-56_V2_contact.png`): ช็อต 2 ยามหันหน้าตรงเข้ากล้อง ไม่รู้ว่าคุยกับใคร · ช็อต 3–4 อลิซหน้าตรงกล้อง มองขวาไปทางประตู · ช็อต 5 อลิซหันขวา · หน้าอลิซ 8–11 อ้าปากตกใจ 15.5 คิ้วขมวดแรง · ยามอ้าปากกว้าง
+  - สาเหตุ: เทค 2 ผมเขียนแค่ "ยามเงยไปทาง VIP" กับ "อลิซหันไปทางประตู" ไม่ได้ล็อกแกนตามที่ SB02-54/55 ตั้งไว้ (ทิน+จุกซ้ายมองขวา · อลิซขวามองซ้าย) · ช็อต 3 ผมสั่ง *spins round from Juk to face the door* + *looking just past the lens to the right* → หน้าตรงกล้องมองขวา
+  - WHERE: แทนบรรทัดเดิมด้วยแกนตัวใหญ่ 4 บรรทัด — ทินซ้ายมองขวา · อลิซขวามองซ้าย จุกซ้ายมองขวา · ยามเข้าประตูฝั่งอลิซ = ขวามองซ้าย คุยกับทินที่ซ้ายมองขวา · อลิซวิ่งออกขวาไปประตูฝั่งตัวเอง
+  - ช็อต 2: ยามขวาเฟรมหันซ้าย เงยหน้าไปซ้ายหาทิน "เพราะทินเป็นนายของห้องนี้" · ตัด *nervous* · เติม Performance ธรรมชาติขนาดชีวิตจริง · กล้อง from the side
+  - ช็อต 3: ตัด *spins round from Juk to face the door* · อลิซขวาเฟรมหันซ้ายไปทางจุก ฟังเสียงยามจากประตูฝั่งตัวเอง · กล้อง CU ด้านข้าง 3/4 · ตัด *her face toward the camera* / *looking just past the lens to the right* · แสงตัดทิศ
+  - ช็อต 4: ตัด *the small smile holding* และ *hope slowly turns into worry* → คิดถึงลุง นึกภาพเขากำลังขึ้นมา แล้วตกใจนิดหน่อย (คำ user เทค 1 "แค่ออกอาการคิด ตกใจ") · ขวาเฟรมหันซ้าย
+  - ช็อต 5: อลิซขวาเฟรมหันซ้ายตอนร้อง แล้วหันหนีวิ่งออกขวา · ตัด *She leans forward with it, one hand half raised, reaching toward someone far away* (แอคติ้งเกิน) → *natural, at the size of real life*
+  - ช็อต 7: ทินซ้ายเฟรมหันขวา · จุกขวาเฟรมหันซ้าย (คุยกันข้ามห้อง แกนเดียวกับยาม) · WHERE เติมว่าตอนอลิซไปแล้วจุกหันหาทิน จุกอยู่ฝั่งเวที = ขวามองซ้าย
+  - GLOBAL: acting ธรรมชาติ *for every person in this video* (ยามเทค 2 อ้าปากกว้าง)
+
