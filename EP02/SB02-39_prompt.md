@@ -1,9 +1,9 @@
 GLOBAL STYLE
-Live-action microdrama, 16:9. Real people, real places, natural skin. One shot, 5 seconds, at real-time speed.
+Live-action microdrama, 16:9. Real people, real places, natural skin. One shot, 4 seconds, at real-time speed.
 All the acting is natural and real, at the size of real life, like real people on an ordinary late morning: small, simple and unhurried. Feelings show quietly. Whenever Aliz smiles, it is a closed-lip smile. The air is clear and clean. The only light is the strong late-morning sun and the clear sky. The light on Aliz's face is soft and even. The only sound is the real sound of the place.
 
 LIP SYNC
-Aliz speaks. Her line is lip-synced to her. The voice file @Audio1 plays once, from the start of the video. Everything ends within 5 seconds.
+Aliz speaks. Her line is lip-synced to her. The voice file @Audio1 plays once, from the start of the video. Everything ends within 4 seconds.
 
 BEFORE THIS VIDEO
 All of this has already happened before the first frame. Win brought Aliz on his motorcycle to the tall glass office building of Jack, the man who paid her hospital bill, because she has to do a job for him to repay him. Jack came out through the revolving door, walked straight to her across the pavement, stopped two steps from her and greeted her with "มาแล้ว... ที่รัก", the way a man greets his girlfriend.
@@ -20,23 +20,23 @@ ACTIVE REFERENCES
 @Image3 — HER FULL BODY. 100% matches the reference for her clothes.
 @Image4 — JACK: 28, Thai. 100% matches the reference, and @Image5 is the authority for what he is wearing today.
 @Image5 — HIS FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for his clothes. HIS FACE COMES FROM @Image4.
-@Image6 — THE FRONT OF THE OFFICE BUILDING, SEEN FROM THE STREET. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF.
-@Image7 — THE SAME BUILDING SEEN FROM UNDER ITS CANOPY, LOOKING OUT TO THE PAVEMENT AND THE ROAD. THIS REFERENCE IS THE AUTHORITY FOR WHAT IS BEHIND ALIZ: THE ROAD IN FRONT OF THE BUILDING, SOFT AND BLURRED.
+@Image6 — THE FIRST FRAME OF THIS VIDEO. THIS REFERENCE IS THE AUTHORITY FOR THE FRAMING, FOR WHERE JACK AND ALIZ STAND ON THE PAVEMENT, AND FOR THE ROAD BEHIND HER. HER FACE COMES FROM @Image1 AND @Image2.
+@Image7 — THE OFFICE BUILDING SEEN FROM UNDER ITS CANOPY, LOOKING OUT TO THE PAVEMENT AND THE ROAD. THIS REFERENCE IS THE AUTHORITY FOR WHAT IS BEHIND ALIZ: THE ROAD IN FRONT OF THE BUILDING, SOFT AND BLURRED.
 @Audio1 — ALIZ'S VOICE, HER LINE.
-@Image1 and @Image2 carry her face, and her clothes come from @Image3. @Image4 carries Jack's face, and his clothes come from @Image5. The whole video is on the pavement in front of the building in @Image6. The background behind Aliz is the road in @Image7.
+@Image1 and @Image2 carry her face, and her clothes come from @Image3. @Image4 carries Jack's face, and his clothes come from @Image5. The video opens exactly on the frame in @Image6. The background behind Aliz is the road in @Image7.
 
 WHAT THEY WEAR, AS IN @Image3 AND @Image5
 - Aliz: a grey short-sleeved knit top with a high round neck, black shorts with a black belt with silver studs, black tights, black ankle boots, a black leather bag on her left shoulder, a gold necklace, gold hoop earrings, a gold bracelet on her right wrist and a gold watch on her left wrist. Her long black hair loose. Her head is bare.
 - Jack: an all-white suit, a dark grey shirt with the collar button open, round gold glasses, white sneakers.
 
 WHERE EVERYONE IS, FOR THE WHOLE VIDEO
-- On the pavement in front of the glass building.
+- On the pavement in front of the building, as in @Image6.
 - Aliz stands on the right of frame, facing left toward Jack.
 - Jack stands two steps from her, on the left of frame, facing right toward her.
 - ALIZ IS ALWAYS ON THE RIGHT OF FRAME AND JACK ON THE LEFT OF FRAME.
 
 SHOT-BY-SHOT
-Shot 1 — 0.0–5.0 s — STOP CALLING ME THAT
+Shot 1 — 0.0–4.0 s — STOP CALLING ME THAT
 Picture, in this order:
 - 1. Over Jack's shoulder: from the first frame, Aliz looks straight at Jack and says @Audio1 to him.
   - Aliz: "พี่แจ็ค เลิกเรียกที่รักเถอะ หนูรู้ว่าพี่เรียกแบบนี้มากี่คนแล้ว"
@@ -101,3 +101,10 @@ DIALOGUE
   - ลำดับเรฟ: b95c75c6 · 85720ff3 · 6abc3bd8 (อลิซ) · 1ca9b355 · 12b0b77a (แจ็ค เทา) · 3f8e0cc8 (T 01) · a91d6735 (T 02) · @Audio1 b02dad71
 - เทค 3 ยิง 2026-10-26 — run `6d1d2d06-6c29-4b0a-ac06-eb40ff4a26b6` · Seedance 2.5 · references · 16:9 · 720p · 5 วิ · เรฟ 7 + @Audio1 · generate_audio true · ช็อต 2 อย่างเดียว · user สั่ง "ยิง"
 - เทค 3 เสร็จ — 5.04 วิ · 44 พอยต์ · asset `320c4d22-ccdd-4e77-8266-17265c22c2c6` · contact `EP02/frames/SB02-39_V3_contact.png` · ซูมหน้า `SB02-39_V3_face.png` · ไม่มีจุดตัดในคลิป · ผลดู: OTS ไหล่แจ็คซ้าย อลิซขวา ✓ ฉากหลังถนนเบลอ ✓ ไม่มีวิน ✓ · หน้าเอเชีย จมูกปกติ แสงหน้านุ่ม ✓ · สีหน้ากังวล/อึดอัด ไม่ดุ ✓ · ปากขยับตามคำ ไม่ฉีก ✓ · ⚠️ ขนาดภาพกว้างกว่าเทค 2 (MS ถึงเอว แทน MCU) · สายตาเฉียงผ่านไหล่แจ็คไปทางซ้ายเล็กน้อย · อลิซเริ่มก้าว ~4.0 ผ่านหลังไหล่แจ็คหลุดเฟรม ~4.75 → ตัดเข้าคัทถัดไปราว 4.0–4.25 · เสียงพูด: เราฟังไม่ได้ รอ user ฟัง
+- **เทค 4 (เตรียม) 2026-10-26** — user ส่งเฟรม (เทค 2 ช็อต 2 ถมหน้าอลิซสีฟ้า) *"ตำแหน่งที่เจนมาดันย้ายไปอยู่ติดประตูอะ ใช้รูปนี้เป็นเรฟสำหรับเฟรมแรก ได้มั้ย?"* → `EP02/frames/SB02-39_shot2_frame_ref.png` → asset `19a9b03c` → Mix Stage `fe080748` · ใช้โหมด references (first_frame แนบเรฟอื่นและเสียงไม่ได้)
+  - @Image6 T 01 `3f8e0cc8` (หน้าตึกกระจกจากถนน) → เฟรมของ user · เหตุผล: เทค 3 ยืนติดกระจกตึก · บรรทัดเรฟ *THE FIRST FRAME … AUTHORITY FOR THE FRAMING, WHERE JACK AND ALIZ STAND, THE ROAD BEHIND HER. HER FACE COMES FROM @Image1 AND @Image2.* (ไม่เอ่ยสีที่ถม แบบ `SB02-50` @Image9)
+  - @Image7 *THE SAME BUILDING* → *THE OFFICE BUILDING* (@Image6 ไม่ใช่รูปตึกแล้ว) · บรรทัดสรุปเรฟ → *The video opens exactly on the frame in @Image6.* · WHERE EVERYONE IS *in front of the glass building* → *in front of the building, as in @Image6*
+  - ลำดับเรฟ: b95c75c6 · 85720ff3 · 6abc3bd8 · 1ca9b355 · 12b0b77a · fe080748 · a91d6735 · @Audio1 b02dad71
+  - user 2026-10-26 *"ยิง 4 วิพอ"* → 5 → 4 วิ · เทค 3 เสียงพูดจบ ~3.7 วิ (วัดระดับเสียงทุก 0.1 วิ) · ก้าวแรก 3.7–4.0
+- เทค 4 ยิง 2026-10-26 — run `d7b64e1b-0d55-4b2f-b583-c6b00972a03b` · Seedance 2.5 · references · 16:9 · 720p · 4 วิ · เรฟ 7 (เฟรม user เป็น @Image6) + @Audio1 · generate_audio true · user สั่ง "ยิง 4 วิพอ"
+- เทค 4 เสร็จ — 4.06 วิ · 35.2 พอยต์ · asset `5780f11e-fe8e-40d0-8789-420d7643debe` · contact `EP02/frames/SB02-39_V4_contact.png` · ซูมหน้า `SB02-39_V4_face.png` · ไม่มีจุดตัด · ผลดู: ตำแหน่งตรงเฟรม user ✓ (ถนนโบเก้+เสากั้นหลังอลิซ ไม่ติดกระจกตึก) · MCU ✓ · หน้าเอเชีย จมูกปกติ ✓ · พูด 0.3–3.8 ปากขยับปกติ ไม่ฉีก ✓ · ไม่ดุ สีหน้าอึดอัด/ขอร้อง ✓ · ⚠️ 0.0–1.0 อลิซยิ้มกว้างหยีตาก่อนเริ่มพูด (ไม่ได้สั่ง · 0.25 วิ เห็นฟันเล็กน้อย) · ⚠️ จบ 3.75–4.0 แค่หันหน้า/ตัวเริ่มขยับไปทางซ้าย ยังไม่เห็นก้าวเต็ม · รอ user ดู
