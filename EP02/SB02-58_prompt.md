@@ -104,3 +104,4 @@ Aoy has run out of the left of frame, the pair of heels in her hand. The empty c
 - อวัยวะ: "ก้มมองส้นสูง" ตัด (ไม่ใช่ท่าที่จำเป็น) · "ตามองตรงไปข้างหน้า" → *looks straight ahead down the corridor to the left* · "ความเป็นห่วงเล่นด้วยสายตา…กับลมหายใจหอบ" → *Her worry shows in her look straight ahead and in her quick breathing* (คำ user)
 - อารมณ์: เป็นห่วง (คำ user "ความเป็นห่วง") · ไม่มีแท็กจีนเพราะไม่มีบทพูด
 - เรฟ: user แนบ "อลิซหน้าตรง กี่เพ้า · หน้า 3/4 · กี่เพ้าตัว · กี่เพ้าด้านหลัง" → `647d4b67` CU · `c87d5782` CU 3Q · `de7e4e99` FS (ใบเดียวมีทั้งหน้าและหลัง) · C-01 `a5adcef3` · C-01S `a352bc1d`
+- เทค 1 ยิง 2026-10-26 — run `1034a4c0-6b17-4759-baa9-f60d795084ae` · Seedance 2.5 · references · 16:9 · 720p · 14 วิ · manual · เรฟ 5 · user สั่ง "ยิง"
