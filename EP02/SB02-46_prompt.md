@@ -1,9 +1,9 @@
 GLOBAL STYLE
-Live-action microdrama, 16:9. Real people, real places, natural skin. One shot, 7 seconds, at real-time speed.
+Live-action microdrama, 16:9. Real people, real places, natural skin. One shot, 6 seconds, at real-time speed.
 All the acting is natural and real, at the size of real life, like real people on an ordinary working afternoon: small, simple and unhurried. Feelings show quietly. Whenever Aliz smiles, it is a closed-lip smile. The air is clear and clean. The only light is the afternoon sun through the glass and the warm hidden lights along the wooden wall. Every surface is plain. The only sound is the real sound of the place.
 
 LIP SYNC
-Aliz speaks into her phone. Her line is lip-synced to her. The voice file @Audio1 plays once, from the start of the video. Everything ends within 7 seconds.
+Aliz speaks into her phone. Her line is lip-synced to her. The voice file @Audio1 plays once, from the start of the video. @Audio1 ends with a stretch of silence that is there only to make the file long enough; only the spoken words are used. Everything ends within 6 seconds.
 
 BEFORE THIS VIDEO
 All of this has already happened before the first frame. This is the third video of this scene. Today Aliz came to the office building of Jack, the younger man who chases her, to do a job for him and repay the hospital bill she believes he paid. Jack has just told her that tonight she is going to a dinner with the important man who owns the project, and it feels wrong to her. She has slipped out into the corridor outside the meeting room and is calling the one person she trusts, "ลุง", the man who takes her on his motorcycle every morning. To her, "ลุง" is a man with a motorcycle; he is really Win Yu, the chairman of W-Group, and that is still his secret.
@@ -34,25 +34,25 @@ WHERE EVERYONE IS
 - ALIZ IS THE ONLY PERSON IN THIS VIDEO.
 
 SHOT-BY-SHOT
-Shot 1 — 0.0–7.0 s — A VOICE BEHIND THE LEAVES
+Shot 1 — 0.0–6.0 s — A VOICE BEHIND THE LEAVES
 Picture, in this order:
 - 1. From the first frame, as in @Image6: the olive branches close in front of the camera, Aliz half hidden behind them at the right edge of frame, holding her phone with both hands, and her voice, @Audio1, begins.
 - 2. The camera moves to the right, past the branches of the olive tree, and the leaves open to show Aliz hiding against the wooden wall, saying @Audio1 to the end.
-  - Aliz: "ลุง มารับหนูทีได้มั้ย เขาจะให้ไปงานเลี้ยงกับผู้ใหญ่เจ้าของโครงการคืนนี้ รู้สึกไม่ค่อยดีเลย"
+  - Aliz: "ลุง มารับหนูทีได้มั้ย เขาจะให้ไปงานเลี้ยงกับผู้ใหญ่เจ้าของโครงการคืนนี้"
   - Emotion from the script: 焦急求助，心怀忐忑.
-  - Performance: she calls him "ลุง" like someone holding on to the one rope she has. On "รู้สึกไม่ค่อยดีเลย" she sinks a little lower behind the leaves.
+  - Performance: she calls him "ลุง" like someone holding on to the one rope she has.
 - 3. While she talks, she glances once toward the meeting room door near the camera, afraid someone will come out and see her.
-- 4. When her line ends, she waits for his answer, anxious, until the end of the video.
+- 4. When her line ends, she stays hidden behind the leaves, the phone at her ear, until the end of the video.
 Camera: starts WS, 120 cm high, eye level, 24mm lens, a sideways dolly to the right through the olive branches, moving in until it stops as an MCU on Aliz.
 Meaning: the camera follows the voice to the person speaking; the leaves in front of her say she is hiding.
 Light: the golden afternoon sun from the glass catches the edge of her hair and her cheek. The hidden lights in the wooden wall are warm and soft. The olive leaves throw a pattern of shadow on the wall.
 Sound: her voice close to the phone. The air conditioning in the corridor. Voices far away inside the meeting room, through the door.
 
 THE LAST FRAME
-Aliz in MCU against the wooden wall, holding her phone at her left ear with both hands, waiting for his answer. Olive leaves soft at the left edge of frame.
+Aliz in MCU against the wooden wall, holding her phone at her left ear with both hands. Olive leaves soft at the left edge of frame.
 
 DIALOGUE
-1. @Audio1, ALIZ: "ลุง มารับหนูทีได้มั้ย เขาจะให้ไปงานเลี้ยงกับผู้ใหญ่เจ้าของโครงการคืนนี้ รู้สึกไม่ค่อยดีเลย"
+1. @Audio1, ALIZ: "ลุง มารับหนูทีได้มั้ย เขาจะให้ไปงานเลี้ยงกับผู้ใหญ่เจ้าของโครงการคืนนี้"
 
 ---
 
@@ -99,3 +99,7 @@ DIALOGUE
   - ยิงแบบ `prompt_mode: manual` (ไม่ให้ Fortal ต่อ identity_phrases)
   - ลำดับเรฟ: b95c75c6 · 85720ff3 · 6abc3bd8 · f90ef20a (มือถือ) · e4e0edb2 (C-02) · afbdd65a (เฟรมแรก) · @Audio1 2ecaf904
   - user ถามว่า identity_phrases เกี่ยวกับหน้าฝรั่งยังไง → ไม่มีหลักฐาน (ดู SB02-39 เทค 3) · ยิง manual เพื่อตัดตัวแปรนี้ ไม่ได้คาดว่าจะแก้หน้า · เรฟหน้า @Image1–2 ดูด้วยตาแล้ว: หน้าเอเชีย สันจมูกชัด แสงสตูดิโอเรียบ
+- user 2026-10-26 *"ยาว 6 วิพอ จบประโยค "เจ้าของโครงการคืนนี้" ได้"* → 7 → 6 วิ · ตัดเสียง @Audio1 ที่ 5.05 วิ (ช่องเงียบ 5.0–5.1 ก่อน "รู้สึกไม่ค่อยดีเลย") เฟดออก 0.07 วิ เติมเงียบครบ 6.00 วิ → asset `82348af9` → Mix Stage `3cb88036` แทน `2ecaf904` · "รู้สึกไม่ค่อยดีเลย" ใช้ของคัท 2 V1 (5.2–6.2) ตามเดิม · ตัดต่อ: คัท 1 ใหม่ → คัท 2 V1 ที่ 4.92
+  - บทพูด DIALOGUE + ช็อต 1 เหลือถึง "คืนนี้" · ตัด Performance *On "รู้สึกไม่ค่อยดีเลย" she sinks a little lower* (คำนั้นไม่อยู่ในคลิปนี้) · บีต 4 *waits for his answer, anxious* → *stays hidden behind the leaves, the phone at her ear* (ประโยคยังพูดต่อในคัท 2 · ไม่เติมอารมณ์) · LAST FRAME ตัด *waiting for his answer* · LIP SYNC เติมประโยคเงียบท้ายไฟล์
+  - ลำดับเรฟ: b95c75c6 · 85720ff3 · 6abc3bd8 · f90ef20a · e4e0edb2 · afbdd65a · @Audio1 3cb88036
+  - ⚠️ ระหว่างเตรียม พบ Mix Stage `41d34c3d` ผูกเข้าบ็อกและแทน @Audio ใน roles (ไม่ใช่ที่เราทำ · หาชื่อไม่เจอ) → ตั้ง roles กลับเป็น `3cb88036` · ถาม user
