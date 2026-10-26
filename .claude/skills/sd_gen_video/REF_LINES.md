@@ -19,22 +19,22 @@
 
 ### ALIZ
 ```
-ALIZ: 26, pretty, long straight jet-black hair. 100% matches the reference, and @ImageN is the authority for what she is wearing today.
+ALIZ: 26, Thai, pretty, long straight jet-black hair. 100% matches the reference, and @ImageN is the authority for what she is wearing today.
 ```
-รูปแบบของ EP04-06 · user สั่งให้กลับมาใช้แบบนี้ 2026-09-09 หลังจากผมเปลี่ยนเองตอนขึ้น EP07 โดยไม่มีเหตุผลและไม่ได้บอก
-**คาแร็กเตอร์ประจำ: ยิ้มไม่เห็นฟัน** (user 2026-10-15) — ไม่อยู่ในบรรทัดเรฟ ใส่ใน PERFORMANCE ทุกบ็อก: `Aliz's smiles stay small and closed-lip.` (ดู SKILL.md ขั้น 6 การแสดง)
+รูปแบบของ EP04-06 · user สั่งให้กลับมาใช้แบบนี้ 2026-09-09 หลังจากผมเปลี่ยนเองตอนขึ้น EP07 โดยไม่มีเหตุผลและไม่ได้บอก · **Thai** เติม 2026-10-26 user *"ใส่ Thai ทั้งสามคน"* (หลัง `SB02-39` เทค 2 อลิซจมูกโด่งเป็นฝรั่ง ชื่อ Aliz ฟังเป็นฝรั่ง)
+**คาแร็กเตอร์ประจำ: ยิ้มไม่เห็นฟัน** (user 2026-10-15) — ไม่อยู่ในบรรทัดเรฟ ใส่ใน PERFORMANCE ทุกบ็อก: `Whenever Aliz smiles, it is a closed-lip smile.` (ดู SKILL.md ขั้น 6 การแสดง)
 
 ### WIN
 ```
-WIN: 45, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @ImageN is the authority for what he is wearing today.
+WIN: 45, Thai, thick black swept-back hair with a light scatter of grey at the temples. 100% matches the reference, and @ImageN is the authority for what he is wearing today.
 ```
-**WIN = วิน** — เดิมบรรทัดนี้ชื่อ SING (user ยืนยัน 2026-10-12 *"วิน ชื่อเดิม คือ SING"*) · user สั่ง 2026-10-13 *"เปลี่ยน SING เป็น WIN ให้หมด"* · ในพรอมป์เรียกเขาว่า Win ทุกบรรทัด
+**WIN = วิน** — เดิมบรรทัดนี้ชื่อ SING (user ยืนยัน 2026-10-12 *"วิน ชื่อเดิม คือ SING"*) · user สั่ง 2026-10-13 *"เปลี่ยน SING เป็น WIN ให้หมด"* · ในพรอมป์เรียกเขาว่า Win ทุกบรรทัด · **Thai** เติม 2026-10-26 user *"ใส่ Thai ทั้งสามคน"* (หลัง `SB02-39` เทค 2 อลิซจมูกโด่งเป็นฝรั่ง ชื่อ Aliz ฟังเป็นฝรั่ง)
 
 ### JACK
 ```
-JACK: 28. 100% matches the reference, and @ImageN is the authority for what he is wearing today.
+JACK: 28, Thai. 100% matches the reference, and @ImageN is the authority for what he is wearing today.
 ```
-user เคาะ 2026-09-10 · ส่ง **2 ใบ** — `jack_face_v3` หน้า · `jack_sheet_v3` ชุด (หน้าตรง + หันหลัง)
+user เคาะ 2026-09-10 · ส่ง **2 ใบ** — `jack_face_v3` หน้า · `jack_sheet_v3` ชุด (หน้าตรง + หันหลัง) · **Thai** เติม 2026-10-26 user *"ใส่ Thai ทั้งสามคน"* (หลัง `SB02-39` เทค 2 อลิซจมูกโด่งเป็นฝรั่ง ชื่อ Aliz ฟังเป็นฝรั่ง)
 อายุ 28 มาจาก `PROJECT.md` บรรทัด 119 · **ไม่มีคำบรรยายรูปร่างเลย** เพราะไม่มีแหล่งที่มา
 ที่เคยเขียนผิด: `JACK: 28, tall and slim.` — `tall and slim` แต่งเอง แจ็คออกมาเป็นคนละคน
 

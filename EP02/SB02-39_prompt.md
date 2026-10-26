@@ -1,6 +1,6 @@
 GLOBAL STYLE
 Live-action microdrama, 16:9. Real people, real places, natural skin. Two shots, 9 seconds, at real-time speed.
-All the acting is natural and real, at the size of real life, like real people on an ordinary late morning: small, simple and unhurried. Feelings show quietly. Aliz's smiles stay small and closed-lip. The air is clear and clean. The only light is the strong late-morning sun and the clear sky. The only sound is the real sound of the place.
+All the acting is natural and real, at the size of real life, like real people on an ordinary late morning: small, simple and unhurried. Feelings show quietly. Whenever Aliz smiles, it is a closed-lip smile. The air is clear and clean. The only light is the strong late-morning sun and the clear sky. The light on Aliz's face is soft and even. The only sound is the real sound of the place.
 
 LIP SYNC
 Jack speaks in Shot 1. Aliz speaks in Shot 2. Each line is lip-synced to the person saying it. The two voice files play one after another in the order @Audio1, @Audio2, each exactly once, with the actions written in SHOT-BY-SHOT between them. @Audio1 ends with a stretch of silence that is there only to make the file long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 9 seconds.
@@ -9,16 +9,16 @@ BEFORE THIS VIDEO
 All of this has already happened before the first frame. This is the second video of this scene. Win brought Aliz on his motorcycle to the tall glass office building of Jack, the man who paid her hospital bill, because she has to do a job for him to repay him. She got off, took off her white helmet and handed it back to Win. Jack came out through the revolving door, smiling, and is walking straight to her across the pavement.
 
 SCENE
-Jack greets Aliz as "ที่รัก", the way a man greets his girlfriend, easy and pleased with himself. Aliz shuts him down coldly, because she knows how many women he calls that, and then walks past him into the building to start the job, because she has said all she wants to say to him.
+Jack greets Aliz as "ที่รัก", the way a man greets his girlfriend, easy and pleased with himself. Aliz protests at being called that, because Win can still hear them and she is afraid he will get the wrong idea. She stays polite with Jack, because she feels she owes him. Then she walks past him into the building to start the job.
 
 ALIZ'S FACE
 Fresh and bright, her skin tone natural as in her character references.
 
 ACTIVE REFERENCES
-@Image1 — ALIZ: 26, pretty, long straight jet-black hair. 100% matches the reference, and @Image3 is the authority for what she is wearing today.
+@Image1 — ALIZ: 26, Thai, pretty, long straight jet-black hair. 100% matches the reference, and @Image3 is the authority for what she is wearing today.
 @Image2 — HER FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for her face.
 @Image3 — HER FULL BODY. 100% matches the reference for her clothes.
-@Image4 — JACK: 28. 100% matches the reference, and @Image5 is the authority for what he is wearing today.
+@Image4 — JACK: 28, Thai. 100% matches the reference, and @Image5 is the authority for what he is wearing today.
 @Image5 — HIS FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for his clothes. HIS FACE COMES FROM @Image4.
 @Image6 — THE FRONT OF THE OFFICE BUILDING, SEEN FROM THE STREET. THIS REFERENCE IS THE AUTHORITY FOR THE PLACE ITSELF. SHOT 1 IS MUCH CLOSER THAN @Image6 AND SEES ONLY A NARROW PART OF IT: THE KERB, THE BOLLARDS, THE PAVEMENT, AND BEHIND THEM THE LOWER PART OF THE GLASS FRONT WITH THE REVOLVING DOOR.
 @Image7 — THE SAME BUILDING SEEN FROM UNDER ITS CANOPY, LOOKING OUT TO THE PAVEMENT AND THE ROAD. THIS REFERENCE IS THE AUTHORITY FOR WHAT IS BEHIND ALIZ IN SHOT 2: THE ROAD IN FRONT OF THE BUILDING, SOFT AND BLURRED.
@@ -53,8 +53,8 @@ Shot 2 — 4.3–9.0 s — STOP CALLING ME THAT
 Picture, in this order:
 - 1. Over Jack's shoulder: Aliz looks straight at Jack and says @Audio2 to him.
   - Aliz: "พี่แจ็ค เลิกเรียกที่รักเถอะ หนูรู้ว่าพี่เรียกแบบนี้มากี่คนแล้ว"
-  - Emotion from the script: 冷嘲热讽，毫不客气.
-  - Performance: she stands her ground, close to him. A small, mocking closed-lip smile at the corner of her mouth.
+  - Emotion: 急忙撇清，又碍于情面.
+  - Performance: she protests at being called that where Win can hear, worried he will get the wrong idea, and she stays polite with Jack, because she feels she owes him.
 - 2. The moment her line ends, she takes her first step to walk past him toward the left of frame, into the building, because she has work to do. The shot ends on that first step.
 Camera: OTS over Jack's shoulder, 155 cm high, eye level, 85mm lens, locked-off, on the building side, looking out toward the road: the reverse of Shot 1.
 Composition: Jack's shoulder and the back of his head soft on the left of frame, close to the camera. Aliz in MCU on the right of frame, facing left toward him. Behind her, the road in front of the building as in @Image7, soft and blurred into bokeh. THE FRAME HOLDS ONLY JACK'S SHOULDER, ALIZ AND THE BLURRED ROAD BEHIND HER.
@@ -73,7 +73,7 @@ DIALOGUE, IN THIS ORDER
 | แท็ก | แปลไทย | ที่มา |
 |---|---|---|
 | `故作深情，油腔滑调` | แกล้งทำเป็นหวานซึ้ง น้ำเสียงกะล่อน | บท 2-7 · สตอรี่บอร์ดจาวิส คลิป 7 ช็อต 1 |
-| `冷嘲热讽，毫不客气` | แดกดัน เย็นชา ไม่ไว้หน้า | บท 2-7 · สตอรี่บอร์ดจาวิส คลิป 7 ช็อต 2 |
+| `急忙撇清，又碍于情面` | รีบปัดว่าไม่ใช่แฟน แต่ยังเกรงใจเพราะติดบุญคุณ | user 2026-10-26 *"อลิซไม่ได้จะแดกดันแจ็คนะ แค่ประท้วงที่เขามาเรียกเธอว่า "ที่รัก" ขณะที่วินอยู่ตรงนั้น คือกลัววินเข้าใจผิดด้วยซ้ำ และอลิซก็รู้สึกว่าแจ็คมีบุญคุณต่อเธอ"* · *"ใช้แท็กรีบปัดว่าไม่ใช่แฟน ดีกว่า"* (แทน `冷嘲热讽，毫不客气` ของบท 2-7) |
 
 ## ที่มา
 
@@ -103,3 +103,10 @@ DIALOGUE, IN THIS ORDER
 - เทค 2 ยิง 2026-10-25 — run `a71959b3-859f-4858-a10a-b961454d5f78` · Seedance 2.5 · references · 16:9 · 720p · 9 วิ · เรฟ 7 + @Video1 + @Audio1–2 · generate_audio true · user สั่ง "ยิง"
 - เทค 2 เสร็จ — 9.06 วิ · 63.1 พอยต์ · asset `79999bb7-a41f-4894-ac73-de3bbe16805c` · contact `EP02/frames/SB02-39_V2_contact.png` · ท้ายคลิป `EP02/frames/SB02-39_V2_tail.png` · จุดตัด 4.25 · ผลดู: เรฟวิดีโอผ่านการลงทะเบียน ✓ · ช็อต 1 ตาม @Video1 แจ็คเดินจากประตูหมุนมาซ้ายเฟรม หันขวา อลิซเบลอขอบขวา พูด "มาแล้ว ที่รัก" ~2.0–3.0 วิ ✓ · ช็อต 2 OTS ไหล่แจ็คซ้าย อลิซ MCU ขวา ฉากหลังถนน+เสากั้นเบลอโบเก้ ✓ ไม่มีวิน ✓ · อลิซพูด 4.2–8.5 ยิ้มมุมปากปิดปากช่วงต้น ✓ · 8.7–9.0 อลิซเริ่มก้าวไปทางซ้ายผ่านแจ็ค ✓ (ตัดต่อเข้าคัทถัดไปได้) · รอ user ดู
 - user 2026-10-26 ส่งเฟรมช็อต 2 เทค 2 *"นอกจากจะ ดุแล้ว วิธีขยับปากก็แปลกๆ ฉีกปากกว่าผิดปกติ และ จมูกโด่งเป็นฝรั่งเลย"* → วิเคราะห์: ปากฉีก = ช็อต 2 สั่ง *"A small, mocking closed-lip smile at the corner of her mouth"* ทับช่วงพูด (สั่งอวัยวะ · A1 เดิมไม่มีคำว่า mouth เลยหลุด → เติมแล้ว) · หน้าดุ = *coldly* ที่เราเติมเองใน SCENE + `毫不客气` · จมูกโด่ง = MCU 85mm หน้าเฉียง แดดข้างแรง ไฮไลต์สันจมูก (เรฟหน้าจมูกปกติ) · user ชี้ *"Aliz’s smiles stay small and closed-lip อันนี้หมายถึงเฉพาะตอนที่อลิซยิ้ม … เป็นคาร์แรคเตอร์ ไม่ใช่ เอาไปสั่งทุกประโยค"* → เสนอเขียนใหม่ *Whenever Aliz smiles, her smile is small and closed-lip.* · รอ user เคาะรายการแก้
+- **เทค 3 (เตรียม) 2026-10-26** — แก้ช็อต 2 ตามที่ user เคาะ · เรฟ เสียง @Video1 ช็อต 1 คงเดิม
+  - GLOBAL: `Aliz's smiles stay small and closed-lip.` → `Whenever Aliz smiles, it is a closed-lip smile.` · user *"หมายถึงเฉพาะตอนที่อลิซยิ้ม จะไม่ยิ้มกว้าง เห็นฟัน เป็นคาร์แรคเตอร์ ไม่ใช่ เอาไปสั่งทุกประโยค?"*
+  - GLOBAL: เติม `The light on Aliz's face is soft and even.` (คุณภาพแสง ไม่บอกทิศ) · แก้จมูกโด่ง จากแดดข้างแรงเทค 2 · user *"จมูกโด่งเป็นฝรั่งเลย"*
+  - SCENE: ตัด *shuts him down coldly* (เราเติมเอง ไม่มีที่มา) → อลิซประท้วงเพราะวินได้ยิน กลัววินเข้าใจผิด · เกรงใจแจ็คเพราะติดบุญคุณ · ตามคำ user ในตารางแท็ก · ตัด *because she has said all she wants to say to him* (เราแต่งเอง)
+  - ช็อต 2: แท็ก `冷嘲热讽，毫不客气` → `急忙撇清，又碍于情面` · user *"เสียงโอเค กลางๆ ได้ทั้ง 2 ทาง ใช้แท็กรีบปัดว่าไม่ใช่แฟน ดีกว่า"* · Performance ตัด *stands her ground* (สตอรี่บอร์ด "ไม่ถอยสักก้าว" — ท่า ไม่ใช่อารมณ์ และขัดกับเกรงใจ) และ *mocking smile at the corner of her mouth* (สั่งอวัยวะทับช่วงพูด → ปากฉีก) · ไม่สั่งยิ้มระหว่างพูด
+  - บรรทัดเรฟ ALIZ / JACK เติม `Thai` ตาม `REF_LINES.md` · user *"ใส่ Thai ทั้งสามคน"*
+  - ⚠️ ชื่อวินอยู่ใน SCENE และ Performance ช็อต 2 เป็นเหตุผล (วินได้ยิน) ไม่ได้วางวินในเฟรม · ช็อต 2 ยังล็อก *THE FRAME HOLDS ONLY JACK'S SHOULDER, ALIZ AND THE BLURRED ROAD BEHIND HER.*
