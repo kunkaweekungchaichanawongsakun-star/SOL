@@ -17,12 +17,12 @@
 
 ## ล็อกแล้ว
 
-### ALIZ
+### ALIZ → AOY
 ```
-ALIZ: 26, Thai, pretty, long straight jet-black hair. 100% matches the reference, and @ImageN is the authority for what she is wearing today.
+AOY: 26, Thai, pretty, long straight jet-black hair. 100% matches the reference, and @ImageN is the authority for what she is wearing today.
 ```
 รูปแบบของ EP04-06 · user สั่งให้กลับมาใช้แบบนี้ 2026-09-09 หลังจากผมเปลี่ยนเองตอนขึ้น EP07 โดยไม่มีเหตุผลและไม่ได้บอก · **Thai** เติม 2026-10-26 user *"ใส่ Thai ทั้งสามคน"* (หลัง `SB02-39` เทค 2 อลิซจมูกโด่งเป็นฝรั่ง ชื่อ Aliz ฟังเป็นฝรั่ง)
-**คาแร็กเตอร์ประจำ: ยิ้มไม่เห็นฟัน** (user 2026-10-15) — ไม่อยู่ในบรรทัดเรฟ ใส่ใน PERFORMANCE ทุกบ็อก: `Whenever Aliz smiles, it is a closed-lip smile.` (ดู SKILL.md ขั้น 6 การแสดง)
+**คาแร็กเตอร์ประจำ: ยิ้มไม่เห็นฟัน** (user 2026-10-15) — ไม่อยู่ในบรรทัดเรฟ ใส่ใน PERFORMANCE ทุกบ็อก: `Whenever Aoy smiles, it is a closed-lip smile.` (ดู SKILL.md ขั้น 6 การแสดง)
 
 ### WIN
 ```
@@ -30,9 +30,9 @@ WIN: 45, Thai, thick black swept-back hair with a light scatter of grey at the t
 ```
 **WIN = วิน** — เดิมบรรทัดนี้ชื่อ SING (user ยืนยัน 2026-10-12 *"วิน ชื่อเดิม คือ SING"*) · user สั่ง 2026-10-13 *"เปลี่ยน SING เป็น WIN ให้หมด"* · ในพรอมป์เรียกเขาว่า Win ทุกบรรทัด · **Thai** เติม 2026-10-26 user *"ใส่ Thai ทั้งสามคน"* (หลัง `SB02-39` เทค 2 อลิซจมูกโด่งเป็นฝรั่ง ชื่อ Aliz ฟังเป็นฝรั่ง)
 
-### JACK
+### JACK → JUK
 ```
-JACK: 28, Thai. 100% matches the reference, and @ImageN is the authority for what he is wearing today.
+JUK: 28, Thai. 100% matches the reference, and @ImageN is the authority for what he is wearing today.
 ```
 user เคาะ 2026-09-10 · ส่ง **2 ใบ** — `jack_face_v3` หน้า · `jack_sheet_v3` ชุด (หน้าตรง + หันหลัง) · **Thai** เติม 2026-10-26 user *"ใส่ Thai ทั้งสามคน"* (หลัง `SB02-39` เทค 2 อลิซจมูกโด่งเป็นฝรั่ง ชื่อ Aliz ฟังเป็นฝรั่ง)
 อายุ 28 มาจาก `PROJECT.md` บรรทัด 119 · **ไม่มีคำบรรยายรูปร่างเลย** เพราะไม่มีแหล่งที่มา
@@ -70,6 +70,8 @@ user เคาะ 2026-10-23 (สั่ง "ยิง" SB02-46 หลังเ�
 TIN: Thai, the owner of the project. 100% matches the reference for his face, his body and his clothes, from the front and from behind.
 ```
 user 2026-10-26 *"THIN ก็คือ tin ไง งงอะไร เรฟภาพมีแล้ว"* (หลังเสนอบรรทัดนี้ใน SB02-52) · Mix Stage `Thin` `1b11b860` · ใบเดียวมีหน้า หลัง และ CU · ไม่มีอายุ (ไม่มีที่มา)
+
+**ชื่อในพรอมป์ อลิซ = Aoy · แจ็ค = Juk** — user 2026-10-26 ถาม *"เปลี่ยนชื่อเรียกตอนพร้อมพ์ให้SD จากอลิซเป็น อ้อย ดีมั้ย แจ็ค ก็เปลี่ยนเป็น จุก"* แล้วสั่ง *"เปลี่ยนเป็น Aoy / Juk"* (ชื่อฝรั่งอาจดึงหน้าฝรั่ง · ทดลอง) · ใช้กับบ็อกที่ยิงตั้งแต่ SB02-52 · บ็อกเก่าไม่ย้อนแก้ · บทพูดไทยยังเรียก "พี่แจ็ค" "อลิซ" ตามเสียงจริง
 
 ## รอ user เคาะ
 

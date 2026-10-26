@@ -1,25 +1,25 @@
 GLOBAL STYLE
 Live-action microdrama, 16:9. Real people, real places, natural skin. Seven shots, 28 seconds, at real-time speed.
-All the acting is natural and real, at the size of real life: small, simple and unhurried. Feelings show quietly. Whenever Aliz smiles, it is a closed-lip smile. The room is dark for a rehearsal. The only light is the three spotlights in the ceiling, the big LED screens behind the stage, the small lights along the aisle steps and the lit window of the control room at the back of the room. A thin haze from the fog machine of the launch lies low over the stage and shows the beams of the spotlights, as in @Image10; the rest of the air is clear. The camera moves through the room at one fixed focal length per shot. The only sound is the real sound of the room.
+All the acting is natural and real, at the size of real life: small, simple and unhurried. Feelings show quietly. Whenever Aoy smiles, it is a closed-lip smile. The room is dark for a rehearsal. The only light is the three spotlights in the ceiling, the big LED screens behind the stage, the small lights along the aisle steps and the lit window of the control room at the back of the room. A thin haze from the fog machine of the launch lies low over the stage and shows the beams of the spotlights, as in @Image10; the rest of the air is clear. The camera moves through the room at one fixed focal length per shot. The only sound is the real sound of the room.
 
 LIP SYNC
-Tin speaks in Shot 6. Jack speaks in Shot 7. Each line is lip-synced to the person saying it. The voice files play in order, each exactly once: @Audio1 in Shot 6 and @Audio2 in Shot 7. Shots 1 to 5 have only the sounds of the room. A voice file may end with a stretch of silence that is there only to make the file long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 28 seconds.
+Tin speaks in Shot 6. Juk speaks in Shot 7. Each line is lip-synced to the person saying it. The voice files play in order, each exactly once: @Audio1 in Shot 6 and @Audio2 in Shot 7. Shots 1 to 5 have only the sounds of the room. A voice file may end with a stretch of silence that is there only to make the file long enough; only the spoken words are used, and the acting carries straight on to the next beat. Everything ends within 28 seconds.
 
 BEFORE THIS VIDEO
-All of this has already happened before the first frame. This is the first video of this scene. Earlier this afternoon, in the corridor of the office building, Jack took Aliz's phone and hung up on "ลุง", and the styling team dressed her in the outfit for the launch of the project. Now the big theatre-style meeting room of the project is dark for a rehearsal of the launch. Tin, the owner of the project, the important man Jack said she would go to dinner with tonight, has come to see her in the outfit. He sits alone in the VIP row, and Jack stands beside his chair. Aliz calls Jack "พี่แจ็ค", and Jack calls Tin "เฮีย".
+All of this has already happened before the first frame. This is the first video of this scene. Earlier this afternoon, in the corridor of the office building, Juk took Aoy's phone and hung up on "ลุง", and the styling team dressed her in the outfit for the launch of the project. Now the big theatre-style meeting room of the project is dark for a rehearsal of the launch. Tin, the owner of the project, the important man Juk said she would go to dinner with tonight, has come to see her in the outfit. He sits alone in the VIP row, and Juk stands beside his chair. Aoy calls Juk "พี่แจ็ค", and Juk calls Tin "เฮีย".
 
 SCENE
-Aliz walks out onto the dark stage in the short qipao made for the launch, and stops in the spotlight like an MC. The only person watching her is Tin, alone in the dark VIP row; everything she is wearing is for him to look at. He compares her with the design on his iPad, and behind the iPad he tells Jack that she must take off the black tights, because the tights are missing from the design; he gives the order like it is a small thing, and he enjoys giving it. Jack agrees at once and gets ready to run down to the stage. On the stage Aliz knows she is being watched and keeps doing her job, but the short dress makes her uncomfortable, and she keeps pulling the hem down.
+Aoy walks out onto the dark stage in the short qipao made for the launch, and stops in the spotlight like an MC. The only person watching her is Tin, alone in the dark VIP row; everything she is wearing is for him to look at. He compares her with the design on his iPad, and behind the iPad he tells Juk that she must take off the black tights, because the tights are missing from the design; he gives the order like it is a small thing, and he enjoys giving it. Juk agrees at once and gets ready to run down to the stage. On the stage Aoy knows she is being watched and keeps doing her job, but the short dress makes her uncomfortable, and she keeps pulling the hem down.
 
-ALIZ'S FACE
+AOY'S FACE
 Her skin tone is natural, as in her character references, with her event makeup as in @Image1. Her discomfort shows in her look and in her hands.
 
 ACTIVE REFERENCES
-@Image1 — ALIZ: 26, Thai, pretty, long straight jet-black hair. 100% matches the reference, and @Image3 is the authority for what she is wearing today.
+@Image1 — AOY: 26, Thai, pretty, long straight jet-black hair. 100% matches the reference, and @Image3 is the authority for what she is wearing today.
 @Image2 — HER FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for her face.
 @Image3 — HER FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for her clothes.
 @Image4 — TIN: Thai, the owner of the project. 100% matches the reference for his face, his body and his clothes, from the front and from behind.
-@Image5 — JACK: 28, Thai. 100% matches the reference, and @Image6 is the authority for what he is wearing today.
+@Image5 — JUK: 28, Thai. 100% matches the reference, and @Image6 is the authority for what he is wearing today.
 @Image6 — HIS FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for his clothes. HIS FACE COMES FROM @Image5.
 @Image7 — WARDROBE ASSISTANT: 20s, the styling team's assistant. 100% matches the reference for her face and her clothes.
 @Image8 — MAKEUP ARTIST: 30s, head of the styling team. 100% matches the reference for her face and her clothes.
@@ -27,13 +27,13 @@ ACTIVE REFERENCES
 @Image10 — THE MEETING ROOM SEEN FROM THE STAGE, LOOKING OUT TO THE SEATS. THIS REFERENCE IS THE AUTHORITY FOR THE SEATS, THE VIP ROW, THE SPOTLIGHTS, THE HAZE AND THE CONTROL ROOM WINDOW.
 @Image11 — THE SAME VIEW AS @Image10, WITH TIN SITTING IN THE MIDDLE VIP CHAIR. THIS REFERENCE IS THE AUTHORITY FOR WHERE TIN SITS AND FOR HOW SMALL HE IS FROM THE STAGE.
 @Audio1 — TIN'S VOICE, HIS LINE, IN SHOT 6.
-@Audio2 — JACK'S VOICE, HIS LINE, IN SHOT 7.
-@Image1 and @Image2 carry Aliz's face, and her clothes come from @Image3. @Image4 carries Tin. @Image5 carries Jack's face, and his clothes come from @Image6. @Image7 and @Image8 carry the two women of the styling team. The whole video takes place in the meeting room in @Image9, @Image10 and @Image11.
+@Audio2 — JUK'S VOICE, HIS LINE, IN SHOT 7.
+@Image1 and @Image2 carry Aoy's face, and her clothes come from @Image3. @Image4 carries Tin. @Image5 carries Juk's face, and his clothes come from @Image6. @Image7 and @Image8 carry the two women of the styling team. The whole video takes place in the meeting room in @Image9, @Image10 and @Image11.
 
 WHAT THEY WEAR, AS IN @Image3, @Image4, @Image6, @Image7 AND @Image8
-- Aliz: a short qipao of deep red silk brocade embroidered with cream-gold peonies, with gold piping, a mandarin collar, gold Chinese knot buttons, puffed three-quarter sleeves, the hem at mid-thigh, a slit on the left side with a red tassel. Sheer black tights. Glossy black pointed high heels. A high ponytail with a gold hairpin hung with red beads, red drop earrings. Event makeup.
+- Aoy: a short qipao of deep red silk brocade embroidered with cream-gold peonies, with gold piping, a mandarin collar, gold Chinese knot buttons, puffed three-quarter sleeves, the hem at mid-thigh, a slit on the left side with a red tassel. Sheer black tights. Glossy black pointed high heels. A high ponytail with a gold hairpin hung with red beads, red drop earrings. Event makeup.
 - Tin: a heavy-set man, black hair combed flat, round black sunglasses. A navy three-piece suit, a white shirt, a deep red tie with a gold tie clip, a white pocket square, a gold pin on his lapel. Black leather shoes.
-- Jack: an all-white suit, a dark grey shirt with the collar button open, round gold glasses, white sneakers.
+- Juk: an all-white suit, a dark grey shirt with the collar button open, round gold glasses, white sneakers.
 - The wardrobe assistant: a bob haircut, a black top with a mandarin collar and gold buttons, black trousers, black court shoes, a pincushion on her wrist. She carries an iPad in a black case.
 - The makeup artist: her hair in a low bun, a black top with a mandarin collar and gold buttons, black trousers, a belt holding makeup brushes.
 - THE SCREEN OF THE IPAD ALWAYS FACES TIN. THE CAMERA ONLY EVER SEES THE BLACK BACK OF THE IPAD.
@@ -42,11 +42,11 @@ WHAT THEY WEAR, AS IN @Image3, @Image4, @Image6, @Image7 AND @Image8
 
 WHERE EVERYONE IS, FOR THE WHOLE VIDEO
 - The room, as in @Image9 and @Image10: a theatre-style meeting room. A glossy black stage with one big LED screen in the middle and a tall LED screen on each side. Red-carpeted steps up to the stage at its left and right edges, and an exit door in the dark wall beside the right steps. Empty red seats rising into the dark, small lights along the aisle steps. In the middle of the room, toward the top, the VIP row: five big red leather chairs behind a long wooden table. At the very back, the lit window of the control room.
-- Aliz walks out from in front of the middle LED screen and stops at the front edge of the stage, in the middle of the spotlights.
+- Aoy walks out from in front of the middle LED screen and stops at the front edge of the stage, in the middle of the spotlights.
 - Tin sits in the middle chair of the VIP row, as in @Image11.
-- Jack stands beside Tin's chair, on Tin's right-hand side, the same side as the aisle steps that lead down to the right steps of the stage.
+- Juk stands beside Tin's chair, on Tin's right-hand side, the same side as the aisle steps that lead down to the right steps of the stage.
 - The wardrobe assistant and the makeup artist stand farther off in the dark, at the top of the aisle steps on that same side.
-- Seen from the stage, Aliz's back is close to the camera and Tin is small and far away in the middle of the frame. Seen from the VIP row, Aliz on the stage is in the middle of the frame. Seen from the side, Tin and Jack are on the left of frame facing right, and Aliz is on the right of frame facing left.
+- Seen from the stage, Aoy's back is close to the camera and Tin is small and far away in the middle of the frame. Seen from the VIP row, Aoy on the stage is in the middle of the frame. Seen from the side, Tin and Juk are on the left of frame facing right, and Aoy is on the right of frame facing left.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–8.0 s — HEELS IN THE HAZE
@@ -54,11 +54,11 @@ Picture, in this order:
 - 1. Almost dark. The camera sits right on the floor of the stage, facing out to the seats. Thin haze drifts past the lens, glowing blue-white from the LED screens behind the camera.
 - 2. A glossy black pointed high heel steps down beside the lens, filling almost half the frame, and its heel strikes the glossy black floor. The other foot follows, and her legs in black tights walk away from the camera.
 - 3. The camera rises slowly as it follows her, showing the outfit one part at a time: her calves in black tights, the gold-piped hem and the red tassel swinging with her hips, her two hands gently pulling the hem down as she walks, because the dress is short, the red silk back with its gold flowers and the puffed shoulders, the high ponytail and the gold hairpin with its red beads swinging with her steps.
-- 4. Aliz stops at the front edge of the stage in the middle of the spotlights and stands up straight like an MC. The camera stops at shoulder height behind her and shows the whole room: empty red seats rising into the dark, three beams of light coming down to her, and far away in the middle of the frame one man sitting as a black silhouette in the middle VIP chair.
+- 4. Aoy stops at the front edge of the stage in the middle of the spotlights and stands up straight like an MC. The camera stops at shoulder height behind her and shows the whole room: empty red seats rising into the dark, three beams of light coming down to her, and far away in the middle of the frame one man sitting as a black silhouette in the middle VIP chair.
 Camera: starts ECU, 10 cm above the floor, level with the floor, 24mm lens, one slow crane move that rises and follows her forward, ending as an OTS at 165 cm behind her right shoulder.
 Meaning: the audience sees the outfit one part at a time, like the launch of a new dress, and then the camera rises and shows who she is dressed for. The one man sitting in the room is where everything leads.
-Composition: at the end, Aliz's right shoulder and ponytail are in the foreground at the right edge of frame; Tin, small and in shadow, is in the middle of the frame, right where the lights of the two aisle steps meet; the three beams lead the eye.
-Light: the spotlights shine from the back of the room straight toward the camera, so Aliz is a dark backlit figure with a warm white rim. The LED screens behind the camera light her back blue-white on the red silk. The stage floor reflects her.
+Composition: at the end, Aoy's right shoulder and ponytail are in the foreground at the right edge of frame; Tin, small and in shadow, is in the middle of the frame, right where the lights of the two aisle steps meet; the three beams lead the eye.
+Light: the spotlights shine from the back of the room straight toward the camera, so Aoy is a dark backlit figure with a warm white rim. The LED screens behind the camera light her back blue-white on the red silk. The stage floor reflects her.
 Sound: her heels on the stage floor, echoing through the whole room. The rest of the room is quiet, with the soft hiss of the fog machine.
 
 Shot 2 — 8.0–12.5 s — THE BOSS IN THE SHADOW
@@ -66,10 +66,11 @@ Picture, in this order:
 - 1. Tin sits leaning back in the middle red leather chair of the VIP row, his legs crossed, his hands folded on his belly. The control room window behind him and the beams passing over his head make him a black silhouette, with only a rim of light on his flat hair, the shoulders of his suit and the edge of his round glasses.
 - 2. The camera curves slowly toward his right-hand side. The silhouette gains more and more edge light, until his round black sunglasses, his red tie, his white pocket square and the gold pin catching the light are clear.
 - 3. Tin taps the armrest slowly with one finger. The whole time he faces the stage.
-- 4. As the camera curves, Jack in his white suit comes out of the shadow beside the chair, standing slightly bowed, his hands folded in front of his stomach.
+  - Emotion, from his line in Shot 6: 挑剔命令，带着挑弄.
+- 4. As the camera curves, Juk in his white suit comes out of the shadow beside the chair, standing slightly bowed, his hands folded in front of his stomach.
 Camera: MS, 80 cm high, low angle looking up, 35mm lens, a slow arc of about 60 degrees toward Tin's right-hand side.
 Meaning: the low camera makes his chair a throne. Going from a black shadow to one detail at a time is how the boss is introduced. In this room everyone stands; he is the only one sitting.
-Composition: Tin starts in the middle of the frame, the edge of the long wooden table soft in the foreground at the bottom. The beams come out from behind him like a halo. It ends with Tin on the left third, facing the right of frame; the space on the right is the direction of the stage. Jack stands bowed at the left edge of frame, lower than Tin, his white suit the brightest thing in the frame.
+Composition: Tin starts in the middle of the frame, the edge of the long wooden table soft in the foreground at the bottom. The beams come out from behind him like a halo. It ends with Tin on the left third, facing the right of frame; the space on the right is the direction of the stage. Juk stands bowed at the left edge of frame, lower than Tin, his white suit the brightest thing in the frame.
 Light: the control room light and the spotlights behind him are a strong backlight; Tin's face is almost all in shadow. Light reflected from the far stage touches his face softly.
 Sound: the leather chair creaks softly as he moves. His finger tapping the armrest.
 
@@ -79,6 +80,7 @@ Picture, in this order:
 - 2. Tin takes it in one hand, his attention on the stage. She steps back into the dark.
 - 3. The soft white glow of the screen lights his face from below. He studies the screen, still.
 - 4. Tin slowly lifts his head and looks over the edge of the iPad to the stage, going over her from her face down to her legs. Then he goes back to the screen. He is comparing the design on the screen with the woman on the stage.
+  - Emotion, from his line in Shot 6: 挑剔命令，带着挑弄.
 Camera: MCU, 110 cm high, slightly low angle, 50mm lens, locked-off, on the far side of the iPad.
 Meaning: the camera is behind the iPad, so the audience sees only its back and Tin's face moving between the screen and the stage; the audience understands by itself that he is comparing the design with the real woman.
 Composition: the black back of the iPad soft in the foreground at the bottom edge. Tin on the left third, facing the right of frame; the space on the right is the direction of the stage.
@@ -87,50 +89,50 @@ Sound: the assistant's court shoes coming softly, then going back.
 
 Shot 4 — 17.0–19.0 s — WHAT HE IS LOOKING AT
 Picture, in this order:
-- 1. From beside Tin's chair, looking down to the stage: Aliz stands small in the middle of the spotlights. Behind her the big LED screen shows the Great Wall in mist.
+- 1. From beside Tin's chair, looking down to the stage: Aoy stands small in the middle of the spotlights. Behind her the big LED screen shows the Great Wall in mist.
 Camera: WS, 120 cm high, looking down, 50mm lens, locked-off. The edge of the red leather chair soft in the foreground.
-Composition: Aliz in the middle of the frame, the LED screen soft and bright behind her.
+Composition: Aoy in the middle of the frame, the LED screen soft and bright behind her.
 
 Shot 5 — 19.0–21.0 s — SHE KNOWS
 Picture, in this order:
-- 1. Closer, through a long lens: Aliz wears the professional smile of an MC, but with both hands she pulls the hem of the dress down again. For a moment she checks her own legs, then she straightens up and puts the smile back on.
+- 1. Closer, through a long lens: Aoy wears the professional smile of an MC, but with both hands she pulls the hem of the dress down again. For a moment she checks her own legs, then she straightens up and puts the smile back on.
 - 2. She knows she is being watched, and she keeps doing her job.
 Camera: cowboy shot, 140 cm high, eye level, 135mm lens, locked-off, looking straight at her from the direction of the seats.
 Meaning: the long lens is the look of someone staring from far away.
-Composition: Aliz in the middle of the frame, the LED screen soft and bright behind her. Her face and her hands on the hem in the same frame.
+Composition: Aoy in the middle of the frame, the LED screen soft and bright behind her. Her face and her hands on the hem in the same frame.
 Light: the warm white spotlights from above in front light her face; her skin warm and natural. The LED screen behind her gives a blue-white rim around her hair and shoulders. The red silk shines along the gold flowers.
 
 Shot 6 — 21.0–25.0 s — BEHIND THE IPAD
 Picture, in this order:
-- 1. Tin lifts the iPad up in front of the lower half of his face, its back toward the stage, its screen toward himself and Jack.
-- 2. Jack bends down and brings his ear close.
-- 3. Behind the iPad Tin says @Audio1 to Jack. While he speaks, his dark glasses stay turned to the stage.
+- 1. Tin lifts the iPad up in front of the lower half of his face, its back toward the stage, its screen toward himself and Juk.
+- 2. Juk bends down and brings his ear close.
+- 3. Behind the iPad Tin says @Audio1 to Juk. While he speaks, his dark glasses stay turned to the stage.
   - Tin: "ถุงน่องนั่นไม่มีในแบบนะ ให้น้องเขาถอดออก"
   - Emotion from the script: 挑剔命令，带着挑弄.
   - Performance: he gives the order like it is a small thing, and he enjoys giving it.
-- 4. Jack nods quickly, taking the order.
-Camera: MS two-shot, 120 cm high, eye level, 200mm lens, locked-off, looking up from the direction of the stage to the VIP row, like Aliz's eyes.
-Meaning: the very long lens from the stage shows what Aliz sees: two men talking behind an iPad, and the words stay between the two of them.
-Composition: Tin in the middle of the frame, the iPad over the lower half of his face. Jack bowed on the left of frame. The beams and the control room light behind them soft points of light.
+- 4. Juk nods quickly, taking the order.
+Camera: MS two-shot, 120 cm high, eye level, 200mm lens, locked-off, looking up from the direction of the stage to the VIP row, like Aoy's eyes.
+Meaning: the very long lens from the stage shows what Aoy sees: two men talking behind an iPad, and the words stay between the two of them.
+Composition: Tin in the middle of the frame, the iPad over the lower half of his face. Juk bowed on the left of frame. The beams and the control room light behind them soft points of light.
 Light: backlight on the edges of both their heads. Tin's face above the iPad dark; only his glasses gleam.
 
 Shot 7 — 25.0–28.0 s — YES, BOSS
 Picture, in this order:
-- 1. Jack straightens up, turns to Tin and says @Audio2 to him, smiling, bowing his head, his hands folded in front of his stomach.
-  - Jack: "ได้ครับเฮีย"
+- 1. Juk straightens up, turns to Tin and says @Audio2 to him, smiling, bowing his head, his hands folded in front of his stomach.
+  - Juk: "ได้ครับเฮีย"
   - Emotion from the script: 唯唯诺诺.
   - Performance: he agrees at once.
-- 2. Jack turns toward the stage, straightens his jacket with one tug, takes a breath and leans forward, ready to run, until the end of the video.
-Camera: MCU, 150 cm high, eye level, 50mm lens, locked-off, on Jack's face at an angle.
-Composition: Jack on the left third, facing right toward Tin; Tin's shoulder soft at the right edge of frame. When he turns toward the stage, he looks out past the right of frame.
+- 2. Juk turns toward the stage, straightens his jacket with one tug, takes a breath and leans forward, ready to run, until the end of the video.
+Camera: MCU, 150 cm high, eye level, 50mm lens, locked-off, on Juk's face at an angle.
+Composition: Juk on the left third, facing right toward Tin; Tin's shoulder soft at the right edge of frame. When he turns toward the stage, he looks out past the right of frame.
 Light: his white suit catches the light reflected from the stage, brighter than everything around him.
 
 THE LAST FRAME
-Tin sits in the middle chair of the VIP row holding the iPad. Jack stands beside the chair on Tin's right-hand side, turned toward the stage, leaning forward, ready to run. Aliz stands in the middle of the spotlights at the front edge of the stage.
+Tin sits in the middle chair of the VIP row holding the iPad. Juk stands beside the chair on Tin's right-hand side, turned toward the stage, leaning forward, ready to run. Aoy stands in the middle of the spotlights at the front edge of the stage.
 
 DIALOGUE, IN THIS ORDER
 1. Shot 6, @Audio1, TIN: "ถุงน่องนั่นไม่มีในแบบนะ ให้น้องเขาถอดออก"
-2. Shot 7, @Audio2, JACK: "ได้ครับเฮีย"
+2. Shot 7, @Audio2, JUK: "ได้ครับเฮีย"
 
 ---
 
@@ -138,7 +140,7 @@ DIALOGUE, IN THIS ORDER
 
 | แท็ก | แปลไทย | ที่มา |
 |---|---|---|
-| `挑剔命令，带着挑弄` | จู้จี้สั่งการ แฝงเจตนาแทะโลม | user 2026-10-26 สตอรี่บอร์ดคลิป 1 ช็อต 5 *"อารมณ์ตามบท: 挑剔命令，带着挑弄"* · บท 2-10 |
+| `挑剔命令，带着挑弄` | จู้จี้สั่งการ แฝงเจตนาแทะโลม | user 2026-10-26 สตอรี่บอร์ดคลิป 1 ช็อต 5 *"อารมณ์ตามบท: 挑剔命令，带着挑弄"* · บท 2-10 · ช็อต 2–3 ใช้แท็กเดียวกัน user *"ก็ให้มันแสดงไปกับ บทของมันสิ"* |
 | `唯唯诺诺` | รับคำอย่างนอบน้อม | user ช็อต 6 *"อารมณ์ตามบท: 唯唯诺诺"* · บท 2-10 |
 
 ## เสื้อผ้าที่ user สั่งให้เอ่ย
@@ -170,3 +172,5 @@ DIALOGUE, IN THIS ORDER
 - ⚠️ user แนบ "อลิซกี่เพ้าตัว" กับ "อลิซกี่เพ้าด้านหลัง" แยกกัน แต่ใน Mix Stage มีรูปเดียวที่มีทั้งหน้าและหลัง (`Aliz NEW C2 X FS` de7e4e99 · หน้าถมฟ้า) → ใช้ใบเดียวเป็น @Image3 *FROM THE FRONT AND FROM BEHIND*
 - ลำดับเรฟ: 647d4b67 (xAliz CU) · c87d5782 (xAliz CU 3Q) · de7e4e99 (Aliz C2 X FS หน้า+หลัง) · 1b11b860 (Thin) · 1ca9b355 (Jack face เทา) · 12b0b77a (Jack sheet เทา · สูทขาว) · 873cb52b (ST 02 ผู้ช่วยแต่งตัว) · 7ff7594f (ST 01 หัวหน้าทีมแต่งตัว) · 3189752b (M 01) · f82b9bf2 (M 02) · 2d874784 (M 02 มีทิน) · @Audio1 494492f5 (C2-10 clip01 1 Tin 3.45 วิ) · @Audio2 ab2b5ef5 (C2-10 clip01 2 Jack 2.50 วิ)
 - user 2026-10-26 *"THIN ก็คือ tin ไง งงอะไร เรฟภาพมีแล้ว"* → ลงบรรทัด TIN ใน REF_LINES หมวดล็อกแล้ว · A16 ผ่าน
+- user 2026-10-26 *"ก็ให้มันแสดงไปกับ บทของมันสิ"* (ทินช็อต 2–3 รู้สึกอะไร) → ช็อต 2 บีต 3 และช็อต 3 บีต 4 เติม *Emotion, from his line in Shot 6: 挑剔命令，带着挑弄.*
+- user 2026-10-26 *"เปลี่ยนเป็น Aoy / Juk"* → ในตัวพรอมป์ Aliz → Aoy · ALIZ → AOY · Jack → Juk · JACK → JUK ทุกจุด (บทพูดไทย "พี่แจ็ค" คงเดิมตามเสียง) · BEFORE THIS VIDEO *Aoy calls Juk "พี่แจ็ค", and Juk calls Tin "เฮีย"* · REF_LINES เปลี่ยนบรรทัดล็อก ALIZ → AOY · JACK → JUK
