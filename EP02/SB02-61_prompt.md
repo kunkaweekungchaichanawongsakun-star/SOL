@@ -29,17 +29,17 @@ WHAT SHE WEARS, AS IN @Image3
 WHERE EVERYONE IS
 - The stage, as in @Image4: a glossy black stage with one big LED screen in the middle and a tall LED screen on each side, three spotlights coming down from the ceiling.
 - Aoy stands at the front edge of the stage, in the middle of the spotlights, the big LED screen behind her.
-- Tin sits far away in the dark VIP row, out of the picture, to Aoy's left.
-- AOY IS ON THE RIGHT OF FRAME, FACING LEFT, TOWARD THE VIP ROW.
+- Tin sits far away in the dark VIP row, straight in front of Aoy, out of the picture.
+- THE CAMERA IS ON AOY'S LEFT SIDE, A LITTLE IN FRONT OF HER. AOY FACES STRAIGHT AHEAD TO TIN IN THE VIP ROW, SO IN THE PICTURE SHE IS ON THE RIGHT OF FRAME, FACING LEFT, IN A THREE-QUARTER VIEW.
 
 SHOT-BY-SHOT
 Shot 1 — 0.0–6.0 s — THE NEW OUTFIT
 Picture, in this order:
 - 1. From high above the stage, looking straight down: the top of Aoy's head with her high ponytail and gold hairpin, her shoulders in red silk, the glossy black floor around her in the spotlight.
-- 2. The camera cranes down in one smooth move, swinging round in front of her as it comes down, and ends low, looking up at her at MS.
-- 3. As the camera comes down, Aoy holds herself tall, trying to look elegant like an MC, because the boss is watching from the VIP row, and she looks to the left toward him.
+- 2. The camera cranes down in one smooth move, swinging round to her left side as it comes down, and ends low beside her, a little in front, looking up at her at MS.
+- 3. As the camera comes down, Aoy holds herself tall, trying to look elegant like an MC, because the boss is watching from the VIP row, and she looks straight ahead at him.
 - 4. She cannot stop worrying about how short the dress is: her hands keep pulling the hem down at her sides and pressing the slit closed, small quick moves she tries to hide, and then she straightens up again.
-Camera: starts as a top shot straight down from 6 m above the stage, 24mm lens, one continuous crane move down and round to the front, ending at MS, 100 cm high, a low angle looking up at her.
+Camera: starts as a top shot straight down from 6 m above the stage, 24mm lens, one continuous crane move down and round to Aoy's left side, ending at MS, 100 cm high, a little in front of her, a low angle looking up at her.
 Meaning: the first look at her face in the new outfit. From above she looks small in the spotlight; as the camera comes down to a low angle she tries to look tall and elegant, while her hands give her away.
 Composition: at the end, Aoy on the right of frame, facing left, at MS, her hands at the hem at the bottom edge of the frame. The big LED screen bright behind her, the spotlights above.
 Light: the warm white spotlights from above light her face and shoulders; her skin warm and natural. The LED screen behind her gives a soft rim around her hair and shoulders. The red silk shines along the gold flowers.
@@ -66,3 +66,4 @@ user 2026-10-27 *"เพิ่มคัทใน SB02-52_V1 เป็นช็�
 - ⚠️ เรฟจอ `bg.jpg` อยู่ใน G: เครื่อง user → รอ user อัปขึ้น Mix Stage · @Image5 ยังว่าง
 - ⚠️ รอ user ตอบ: เปลี่ยนจอเฉพาะคัทนี้ หรือทั้งซีน (SB02-52–56 จอเป็นกำแพงเมืองจีนทุกคลิป)
 - A1 *lifts her chin* / *chin up* → *holds herself tall* / *standing tall*
+- user 2026-10-27 *"อลิซมองไปทางซ้าย … หมายถึง ไลน์กล้องอยู่ซ้ายของอลิซ แต่นางมองตรงไปที่ทิน"* → กล้องจบที่ด้านซ้ายของอลิซ เยื้องหน้า · อลิซมองตรงไปที่ทิน ไม่หันหัว · ในภาพจึงอยู่ขวาเฟรมหันซ้าย 3/4 · ตัด *she looks to the left toward him* → *she looks straight ahead at him*
