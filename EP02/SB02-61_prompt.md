@@ -18,7 +18,7 @@ ACTIVE REFERENCES
 @Image1 — AOY: 26, Thai, pretty, long straight jet-black hair. 100% matches the reference, and @Image3 is the authority for what she is wearing today.
 @Image2 — HER FACE FROM A THREE-QUARTER ANGLE. 100% matches the reference for her face.
 @Image3 — HER FULL BODY, FROM THE FRONT AND FROM BEHIND. 100% matches the reference for her clothes.
-@Image4 — THE MEETING ROOM SEEN FROM THE VIP ROW, LOOKING DOWN TO THE STAGE. THIS REFERENCE IS THE AUTHORITY FOR THE STAGE, THE LED SCREENS AND THE SPOTLIGHTS.
+@Image4 — THE MEETING ROOM SEEN FROM THE VIP ROW, LOOKING DOWN TO THE STAGE. THIS REFERENCE IS THE AUTHORITY FOR THE STAGE, THE SHAPE OF THE LED SCREENS AND THE SPOTLIGHTS. WHAT THE SCREENS SHOW COMES FROM @Image5.
 @Image5 — THE PICTURE ON THE BIG LED SCREEN BEHIND AOY. THIS REFERENCE IS THE AUTHORITY FOR WHAT THE LED SCREENS SHOW.
 @Image1 and @Image2 carry Aoy's face, and her clothes come from @Image3. The stage is the stage in @Image4. The LED screens show @Image5.
 
@@ -67,3 +67,6 @@ user 2026-10-27 *"เพิ่มคัทใน SB02-52_V1 เป็นช็�
 - ⚠️ รอ user ตอบ: เปลี่ยนจอเฉพาะคัทนี้ หรือทั้งซีน (SB02-52–56 จอเป็นกำแพงเมืองจีนทุกคลิป)
 - A1 *lifts her chin* / *chin up* → *holds herself tall* / *standing tall*
 - user 2026-10-27 *"อลิซมองไปทางซ้าย … หมายถึง ไลน์กล้องอยู่ซ้ายของอลิซ แต่นางมองตรงไปที่ทิน"* → กล้องจบที่ด้านซ้ายของอลิซ เยื้องหน้า · อลิซมองตรงไปที่ทิน ไม่หันหัว · ในภาพจึงอยู่ขวาเฟรมหันซ้าย 3/4 · ตัด *she looks to the left toward him* → *she looks straight ahead at him*
+- bg: user อัป `stage bg` `dd3b0d5d` (1376×768) · เปิดดูแล้ว: กำแพงเมืองจีนบนสันเขาในหมอก โทนซีเปียอุ่นแบบภาพวาด มุมมองจากบนทางเดินกำแพง · @Image4 (M-01) ยังมีภาพกำแพงเดิมบนจอ → แก้บรรทัด @Image4 ให้ถือแค่ทรงของจอ ภาพบนจอมาจาก @Image5
+- user 2026-10-27 *"เปลี่ยนทั้งซีน แต่รอยืนยันอีกที"* → ทำ SB02-61 ก่อน · คลิป 1–5 รอยืนยัน
+- เปิดบ็อก `1eb07984` · ผูกเรฟ 647d4b67 · c87d5782 · de7e4e99 · 3189752b · dd3b0d5d · roles valid · พรอมป์อัปขึ้น Fortal แล้ว
